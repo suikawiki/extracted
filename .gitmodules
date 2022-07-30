@@ -1,0 +1,27 @@
+[submodule "bin/modules/web-markup"]
+	path = bin/modules/web-markup
+	url = https://github.com/manakai/perl-web-markup
+[submodule "bin/modules/web-encodings"]
+	path = bin/modules/web-encodings
+	url = https://github.com/manakai/perl-web-encodings
+[submodule "bin/modules/web-url"]
+	path = bin/modules/web-url
+	url = https://github.com/manakai/perl-web-url
+[submodule "bin/modules/web-dom"]
+	path = bin/modules/web-dom
+	url = https://github.com/manakai/perl-web-dom
+[submodule "bin/modules/json-ps"]
+	path = bin/modules/json-ps
+	url = https://github.com/manakai/perl-json-ps
+[submodule "bin/modules/web-css"]
+	path = bin/modules/web-css
+	url = https://github.com/manakai/perl-web-css
+[submodule "bin/modules/promise"]
+	path = bin/modules/promise
+	url = https://github.com/manakai/perl-promise
+[submodule "bin/modules/promised-command"]
+	path = bin/modules/promised-command
+	url = https://github.com/pawjy/perl-promised-command
+[submodule "bin/modules/streams"]
+	path = bin/modules/streams
+	url = https://github.com/manakai/perl-streams

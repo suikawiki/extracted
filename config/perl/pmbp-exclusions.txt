@@ -1,0 +1,10 @@
+
+- "../../bin/modules/web-markup" build tests tests-json
+- "../../bin/modules/web-encodings" build tests
+- "../../bin/modules/web-url" build tests
+- "../../bin/modules/web-dom" build tests
+- "../../bin/modules/json-ps" build tests
+- "../../bin/modules/promise" build tests
+- "../../bin/modules/promised-command" build tests
+- "../../bin/modules/promise.2" build tests
+- "../../bin/modules/streams" build tests
