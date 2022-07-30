@@ -1,0 +1,92 @@
+[
+   {
+      "キャッチコピー" : [
+         {
+            "text" : "マウスプロモーションの不発弾",
+            "xml" : "マウスプロモーションの不発弾"
+         }
+      ],
+      "ニックネーム" : [
+         {
+            "text" : "くわちゃん",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>くわちゃん\u003C/anchor>"
+         },
+         {
+            "text" : "タガメ師匠",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タガメ師匠\u003C/anchor>"
+         },
+         {
+            "text" : "くわばらさん",
+            "xml" : "くわばらさん"
+         }
+      ],
+      "性別" : [
+         {
+            "text" : "女性",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>女性\u003C/anchor>"
+         }
+      ],
+      "所属事務所" : [
+         {
+            "text" : "マウスプロモーション",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マウスプロモーション\u003C/anchor>"
+         }
+      ],
+      "氏名" : [
+         {
+            "text" : "桑原 由気",
+            "xml" : "桑原 由気"
+         }
+      ],
+      "読み仮名" : [
+         {
+            "text" : "くわはら ゆうき",
+            "xml" : "くわはら ゆうき"
+         }
+      ]
+   },
+   {
+      "ニックネーム" : [
+         {
+            "text" : "らりちゃん",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>らりちゃん\u003C/anchor>"
+         }
+      ],
+      "出身地" : [
+         {
+            "text" : "日本国愛知県",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本国\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>愛知県\u003C/anchor>"
+         }
+      ],
+      "性別" : [
+         {
+            "text" : "女性",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>女性\u003C/anchor>"
+         }
+      ],
+      "所属事務所" : [
+         {
+            "text" : "アイムエンタープライズ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アイムエンタープライズ\u003C/anchor>"
+         }
+      ],
+      "氏名" : [
+         {
+            "text" : "武田 羅梨沙 多胡",
+            "xml" : "武田 羅梨沙 多胡"
+         }
+      ],
+      "誕生日" : [
+         {
+            "text" : "9月30日--09-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>9月30日\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>--09-30\u003C/attrvalue>\u003C/time>"
+         }
+      ],
+      "読み仮名" : [
+         {
+            "text" : "たけだ らりさ たご",
+            "xml" : "たけだ らりさ たご"
+         }
+      ]
+   }
+]
