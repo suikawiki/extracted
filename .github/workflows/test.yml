@@ -25,6 +25,24 @@
             }
          ]
       },
+      "deploy_github_master" : {
+         "if" : "${{ github.ref == 'refs/heads/master' }}",
+         "needs" : [
+            "test"
+         ],
+         "permissions" : {
+            "contents" : "write"
+         },
+         "runs-on" : "ubuntu-latest",
+         "steps" : [
+            {
+               "env" : {
+                  "GITHUB_TOKEN" : "${{ secrets.GITHUB_TOKEN }}"
+               },
+               "run" : "curl -f -s -S --request POST --header \u0022Authorization:token $GITHUB_TOKEN\u0022 --header \u0022Content-Type:application/json\u0022 --data-binary \u0022{\u005C\u0022ref\u005C\u0022:\u005C\u0022master\u005C\u0022}\u0022 \u0022https://api.github.com/repos/suikawiki/fonts/actions/workflows/test/dispatches\u0022"
+            }
+         ]
+      },
       "deploy_github_staging" : {
          "if" : "${{ github.ref == 'refs/heads/staging' }}",
          "needs" : [
