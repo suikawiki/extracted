@@ -1,0 +1,16 @@
+[
+   {
+      "あいうえお" : [
+         {
+            "text" : "かきくけこ さしすせそ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>かきくけこ\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>さしすせそ\u003C/anchor>"
+         }
+      ],
+      "種別" : [
+         {
+            "text" : "abc",
+            "xml" : "abc"
+         }
+      ]
+   }
+]

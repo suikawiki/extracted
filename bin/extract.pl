@@ -10,7 +10,6 @@ use JSON::PS;
 my $RootPath = path (__FILE__)->parent->parent;
 my $SWDataPath = $RootPath->child ('local/data');
 my $OutPath = $RootPath->child ('data/extracted');
-$OutPath->mkpath;
 
 my $FileList = {};
 {
@@ -109,6 +108,8 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
   }
 }
 
+system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E";
+$OutPath->mkpath;
 for my $type (sort { $a cmp $b } keys %$AllData) {
   my $name = encode_punycode $type;
   $name =~ s/([^0-9A-Za-z-])/sprintf '_%02X', ord $1/ge;
@@ -116,6 +117,7 @@ for my $type (sort { $a cmp $b } keys %$AllData) {
   my $path = $OutPath->child ($name);
 
   $path->spew (perl2json_bytes_for_record $AllData->{$type});
+  system "cd \Q$RootPath\E && git add \Q@{[$path->relative ($RootPath)]}\E";
 }
 
 print STDERR "\rDone \n";
