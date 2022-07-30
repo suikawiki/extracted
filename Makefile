@@ -58,7 +58,11 @@ extract: bin/extract.pl local/files.txt
 
 ## ------ Build ------
 
-test:
+test: test-main test-deps
+
+test-deps: deps
+
+test-main:
 	$(PERL) -c bin/extract.pl
 
 ## License: Public Domain.
