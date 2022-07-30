@@ -30,12 +30,10 @@
    },
    "name" : "hook",
    "on" : {
-      "repository_dispatch" : [
-         {
-            "types" : [
-               "needupdate"
-            ]
-         }
-      ]
+      "repository_dispatch" : {
+         "types" : [
+            "needupdate"
+         ]
+      }
    }
 }
