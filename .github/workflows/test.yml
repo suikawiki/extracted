@@ -1,5 +1,23 @@
 {
    "jobs" : {
+      "deploy_github_master" : {
+         "if" : "${{ github.ref == 'refs/heads/master' }}",
+         "needs" : [
+            "test"
+         ],
+         "permissions" : {
+            "contents" : "write"
+         },
+         "runs-on" : "ubuntu-latest",
+         "steps" : [
+            {
+               "env" : {
+                  "GH_ACCESS_TOKEN" : "${{ secrets.GH_ACCESS_TOKEN }}"
+               },
+               "run" : "curl -f -s -S --request POST --header \u0022Authorization:token $GH_ACCESS_TOKEN\u0022 --header \u0022Content-Type:application/json\u0022 --data-binary \u0022{\u005C\u0022event_type\u005C\u0022:\u005C\u0022needupdate\u005C\u0022}\u0022 \u0022https://api.github.com/repos/suikawiki/fonts/dispatches\u0022"
+            }
+         ]
+      },
       "deploy_github_nightly" : {
          "if" : "${{ github.ref == 'refs/heads/nightly' }}",
          "needs" : [
@@ -22,24 +40,6 @@
                   "BWALL_TOKEN" : "${{ secrets.BWALL_TOKEN }}"
                },
                "run" : "curl -f https://$BWALL_TOKEN:@$BWALL_HOST/ping/merger.${GITHUB_REF/refs\u005C/heads\u005C//}/${GITHUB_REPOSITORY/\u005C//%2F} -X POST"
-            }
-         ]
-      },
-      "deploy_github_master" : {
-         "if" : "${{ github.ref == 'refs/heads/master' }}",
-         "needs" : [
-            "test"
-         ],
-         "permissions" : {
-            "contents" : "write"
-         },
-         "runs-on" : "ubuntu-latest",
-         "steps" : [
-            {
-               "env" : {
-                  "GITHUB_TOKEN" : "${{ secrets.GH_ACCESS_TOKEN }}"
-               },
-               "run" : "curl -f -s -S --request POST --header \u0022Authorization:token $GITHUB_TOKEN\u0022 --header \u0022Content-Type:application/json\u0022 --data-binary \u0022{\u005C\u0022event_type\u005C\u0022:\u005C\u0022upstreamchange\u005C\u0022}\u0022 \u0022https://api.github.com/repos/suikawiki/fonts/dispatches\u0022"
             }
          ]
       },
