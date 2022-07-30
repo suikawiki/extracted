@@ -1,27 +1,40 @@
 [submodule "bin/modules/web-markup"]
 	path = bin/modules/web-markup
 	url = https://github.com/manakai/perl-web-markup
+	track = master
 [submodule "bin/modules/web-encodings"]
 	path = bin/modules/web-encodings
 	url = https://github.com/manakai/perl-web-encodings
+	track = master
 [submodule "bin/modules/web-url"]
 	path = bin/modules/web-url
 	url = https://github.com/manakai/perl-web-url
+	track = master
 [submodule "bin/modules/web-dom"]
 	path = bin/modules/web-dom
 	url = https://github.com/manakai/perl-web-dom
+	track = master
 [submodule "bin/modules/json-ps"]
 	path = bin/modules/json-ps
 	url = https://github.com/manakai/perl-json-ps
+	track = master
 [submodule "bin/modules/web-css"]
 	path = bin/modules/web-css
 	url = https://github.com/manakai/perl-web-css
+	track = master
 [submodule "bin/modules/promise"]
 	path = bin/modules/promise
 	url = https://github.com/manakai/perl-promise
+	track = master
 [submodule "bin/modules/promised-command"]
 	path = bin/modules/promised-command
 	url = https://github.com/pawjy/perl-promised-command
+	track = master
 [submodule "bin/modules/streams"]
 	path = bin/modules/streams
 	url = https://github.com/manakai/perl-streams
+	track = master
+[submodule "bin/modules/swml-parser"]
+	path = bin/modules/swml-parser
+	url = https://github.com/suikawiki/perl-swml-parser
+	track = master

@@ -36,8 +36,25 @@ pmbp-install: pmbp-upgrade
 
 ## ------ Build ------
 
-data: deps data-main
+data: deps local-swdata data-main
 
-data-main:
+data-main: extract
+
+local-swdata: local-swdata-repo local-swdata-grep
+
+local-swdata-repo:
+	$(GIT) clone --depth 1 https://github.com/suikawiki/suikawiki-data local/data || \
+	(cd local/data && $(GIT) fetch --depth 1 origin master && $(GIT) checkout origin/master)
+
+local-swdata-grep:
+	cd local/data && $(GIT) grep '^\[FIG' ids/ | grep 'data' > ../../local/files.txt
+
+extract: bin/extract.pl local/files.txt
+	$(PERL) bin/extract.pl
+
+## ------ Build ------
+
+test:
+	$(PERL) -c bin/extract.pl
 
 ## License: Public Domain.
