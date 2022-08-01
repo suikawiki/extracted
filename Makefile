@@ -6,7 +6,9 @@ all: data
 
 clean:
 
-updatenightly: 
+updatenightly: updatenightly-0 updatebyhook
+
+updatenightly-0:
 	$(CURL) -s -S -L https://gist.githubusercontent.com/wakaba/34a71d3137a52abb562d/raw/gistfile1.txt | sh
 	$(GIT) add bin/modules
 	perl local/bin/pmbp.pl --update
