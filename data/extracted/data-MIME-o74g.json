@@ -104,6 +104,26 @@
       ]
    },
    {
+      "CTE" : [
+         {
+            "text" : "8bit",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>8bit\u003C/code>"
+         }
+      ],
+      "MIME型" : [
+         {
+            "text" : "application/jwk\u002Bjson",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>application/jwk\u002Bjson\u003C/code>\u003C/dfn>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "JWK",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JWK\u003C/anchor>"
+         }
+      ]
+   },
+   {
       "MIME型" : [
          {
             "text" : "font/opentype",
@@ -208,6 +228,26 @@
          {
             "text" : "application/zstd",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/zstd\u003C/code>"
+         }
+      ]
+   },
+   {
+      "CTE" : [
+         {
+            "text" : "8bit",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>8bit\u003C/code>"
+         }
+      ],
+      "MIME型" : [
+         {
+            "text" : "application/jwk-set\u002Bjson",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>application/jwk-set\u002Bjson\u003C/code>\u003C/dfn>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "JWK",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JWK\u003C/anchor>"
          }
       ]
    }
