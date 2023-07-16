@@ -1,0 +1,50 @@
+[
+   {
+      "key" : [
+         {
+            "text" : "mj:実装したUCS",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:実装したUCS\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "key" : [
+         {
+            "text" : "mj:対応するUCS",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:対応するUCS\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "key" : [
+         {
+            "text" : "mj:JIS包摂規準・UCS統合規則",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:JIS包摂規準・UCS統合規則\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "key" : [
+         {
+            "text" : "mj:X0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:X0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "key" : [
+         {
+            "text" : "mj:住基ネット統一文字コード",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:住基ネット統一文字コード\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "key" : [
+         {
+            "text" : "mj:入管正字コード",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:入管正字コード\u003C/code>\u003C/dfn>"
+         }
+      ]
+   }
+]
