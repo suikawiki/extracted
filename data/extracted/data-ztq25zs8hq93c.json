@@ -1,17 +1,71 @@
 [
    {
+      "desc" : [
+         {
+            "text" : "文字情報基盤の変体仮名編の 音価1 または IPAmj明朝が実装する濁点・半濁点付き変体仮名 >>126 に相当する現行標準平仮名。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor>編の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>音価1\u003C/code>\u000Aまたは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor>が実装する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>濁点\u003C/anchor>・\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>半濁点\u003C/anchor>付き\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022126\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;126\u003C/anchor-internal>\u003C/src>\u000Aに相当する現行標準\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平仮名\u003C/anchor>。"
+         }
+      ],
       "key" : [
          {
-            "text" : "mj:実装したUCS",
-            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:実装したUCS\u003C/code>\u003C/dfn>"
+            "text" : "mj:音価1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:音価1\u003C/code>\u003C/dfn>"
          }
       ]
    },
    {
+      "desc" : [
+         {
+            "text" : "文字情報基盤の変体仮名編の 音価2。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor>編の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>音価2\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:音価2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:音価2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "文字情報基盤の変体仮名編の 音価3。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor>編の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>音価3\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:音価3",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:音価3\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「対応するUCS」、 MJ文字情報一覧表 変体仮名編の「UCS符号位置」「UCS」、 IPAmj明朝 非漢字の「対応するUCS」「対応UCS」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「対応するUCS」、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor>編の「UCS符号位置」「UCS」、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「対応するUCS」「対応UCS」。"
+         }
+      ],
       "key" : [
          {
             "text" : "mj:対応するUCS",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:対応するUCS\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「実装したUCS」、 IPAmj明朝 非漢字の「UCS実装」および「合成列」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「実装したUCS」、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「UCS実装」および「合成列」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:実装したUCS",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:実装したUCS\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -24,10 +78,30 @@
       ]
    },
    {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「X0213」 (「X0213 包摂区分」が「0」のもの)、 IPAmj明朝 非漢字の「JIS X 0213」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「X0213」 (「X0213 包摂区分」が「0」のもの)、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「JIS X 0213」。"
+         }
+      ],
       "key" : [
          {
             "text" : "mj:X0213",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:X0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「X0213」 (「X0213 包摂区分」が「2」のもの)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「X0213」 (「X0213 包摂区分」が「2」のもの)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:X0213:2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:X0213:2\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -44,6 +118,404 @@
          {
             "text" : "mj:入管正字コード",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:入管正字コード\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「戸籍統一文字番号」、 MJ文字情報一覧表 変体仮名編の「戸籍統一文字番号」、 IPAmj明朝 非漢字の「戸籍統一文字番号(参考)」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「戸籍統一文字番号」、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor>編の「戸籍統一文字番号」、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「戸籍統一文字番号(参考)」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:戸籍統一文字番号",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:戸籍統一文字番号\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "datanote" : [
+         {
+            "text" : "mj:戸籍統一文字番号 と重複するものは省略した。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mj:戸籍統一文字番号\u003C/code> と重複するものは省略した。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「登記統一文字番号(参考)」、 IPAmj明朝 非漢字の「登記統一文字番号(参考)」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「登記統一文字番号(参考)」、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「登記統一文字番号(参考)」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:登記統一文字番号",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:登記統一文字番号\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「備考」において戸籍統一文字で字形・字義が同一と説明されているもの。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「備考」において\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>で字形・字義が同一と説明されているもの。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:戸籍統一文字:同一",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:戸籍統一文字:同一\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「備考」において「新しいMJ文字図形名」として参照されているもの。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「備考」において「新しいMJ文字図形名」として参照されているもの。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:新しいMJ文字図形名",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:新しいMJ文字図形名\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップの :JIS包摂規準・UCS統合規則 欄または登記統一文字縮退マップの JIS包摂・UCS統合 へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:JIS包摂規準・UCS統合規則\u003C/code>\u000A欄または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>JIS包摂・UCS統合\u003C/code>\u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:JIS包摂規準・UCS統合規則",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:JIS包摂規準・UCS統合規則\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省告示582号別表第四 (表: 一、順位: 第1順位) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省告示582号別表第四\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>一\u003C/code>、\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>順位\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>第1順位\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省告示582号別表第四:一:第1順位",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省告示582号別表第四:一:第1順位\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省告示582号別表第四 (表: 二、順位: 第1順位) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省告示582号別表第四\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>二\u003C/code>、\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>順位\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>第1順位\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省告示582号別表第四:二:第1順位",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省告示582号別表第四:二:第1順位\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省告示582号別表第四 (表: 一、順位: 第2順位) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省告示582号別表第四\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>一\u003C/code>、\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>順位\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>第2順位\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省告示582号別表第四:一:第2順位",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省告示582号別表第四:一:第2順位\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省告示582号別表第四 (表: 二、順位: 第2順位) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省告示582号別表第四\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>二\u003C/code>、\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>順位\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>第2順位\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省告示582号別表第四:二:第2順位",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省告示582号別表第四:二:第2順位\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省戸籍法関連通達・通知 (種別: 民一2842号通達別表 誤字俗字・正字一覧表) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省戸籍法関連通達・通知\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>種別\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>民一2842号通達別表 誤字俗字・正字一覧表\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省戸籍法関連通達・通知:民一2842号通達別表 誤字俗字・正字一覧表",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省戸籍法関連通達・通知:民一2842号通達別表 誤字俗字・正字一覧表\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省戸籍法関連通達・通知 (種別: 民二5202号通知別表 正字・俗字等対照表) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省戸籍法関連通達・通知\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>種別\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>民二5202号通知別表 正字・俗字等対照表\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省戸籍法関連通達・通知:民二5202号通知別表 正字・俗字等対照表",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省戸籍法関連通達・通知:民二5202号通知別表 正字・俗字等対照表\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省戸籍法関連通達・通知 (種別: 戸籍統一文字情報 親字・正字, ホップ数: 1) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省戸籍法関連通達・通知\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>種別\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>戸籍統一文字情報 親字・正字\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ホップ数\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省戸籍法関連通達・通知 (種別: 戸籍統一文字情報 親字・正字, ホップ数: 2) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省戸籍法関連通達・通知\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>種別\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>戸籍統一文字情報 親字・正字\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ホップ数\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省戸籍法関連通達・通知 (種別: 戸籍統一文字情報 親字・正字, ホップ数: 3) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省戸籍法関連通達・通知\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>種別\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>戸籍統一文字情報 親字・正字\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ホップ数\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>3\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:3",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:3\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省戸籍法関連通達・通知 (種別: 戸籍統一文字情報 親字・正字, ホップ数: 4) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省戸籍法関連通達・通知\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>種別\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>戸籍統一文字情報 親字・正字\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ホップ数\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>4\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 法務省戸籍法関連通達・通知 (種別: 戸籍統一文字情報 親字・正字, ホップ数: 5) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>法務省戸籍法関連通達・通知\u003C/code>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>種別\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>戸籍統一文字情報 親字・正字\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ホップ数\u003C/code>: \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>5\u003C/code>) \u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:5",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:法務省戸籍法関連通達・通知:戸籍統一文字情報 親字・正字:5\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 辞書類等による関連字 へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>辞書類等による関連字\u003C/code>\u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:辞書類等による関連字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:辞書類等による関連字\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップまたは登記統一文字縮退マップの 読み・字形による類推 へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップ\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>読み・字形による類推\u003C/code>\u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:読み・字形による類推",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:読み・字形による類推\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ縮退マップから一意な選択または登記統一文字縮退マップから一意な選択によって選択された文字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ縮退マップから一意な選択\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップから一意な選択\u003C/anchor>によって選択された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:縮退マップから一意な選択",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:縮退マップから一意な選択\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IPAmj明朝 非漢字の「備考」欄に「HalfWidth」として注記されたグリフ名から当該グリフ名へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「備考」欄に「HalfWidth」として注記された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>から当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:HalfWidth",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:HalfWidth\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IPAmj明朝 非漢字の「備考」欄に「FullWidth」として注記されたグリフ名から当該グリフ名へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「備考」欄に「FullWidth」として注記された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>から当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:FullWidth",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:FullWidth\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IPAmj明朝 非漢字の「備考」欄に「Narrow」として注記されたグリフ名から当該グリフ名へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「備考」欄に「Narrow」として注記された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>から当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:Narrow",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:Narrow\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IPAmj明朝 非漢字の「備考」欄に「Wide」として注記されたグリフ名から当該グリフ名へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「備考」欄に「Wide」として注記された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>から当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:Wide",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:Wide\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IPAmj明朝 非漢字の「備考」欄に「斜線入り」として注記されたグリフ名から当該グリフ名へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>の「備考」欄に「斜線入り」として注記された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>から当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ名\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:斜線入り",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:斜線入り\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "登記統一文字縮退マップの 非漢字 へ。 戸籍統一文字共通部分を含む。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>非漢字\u003C/code>\u000Aへ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>共通部分を含む。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:非漢字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:非漢字\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "国税庁JIS縮退マップの 「変換元の文字」から「コード変換」欄への変換。 「面区点コード」から「面区点コード」へ、および 「Unicode」から「Unicode」へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国税庁\u003C/anchor>\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>JIS縮退マップ\u003C/cite>の\u000A「変換元の文字」から「コード変換」欄への変換。\u000A「面区点コード」から「面区点コード」へ、および\u000A「Unicode」から「Unicode」へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "nta:JIS縮退マップ:コード変換",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>nta:JIS縮退マップ:コード変換\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "国税庁JIS縮退マップの 「変換元の文字」から「文字列変換」欄への変換。 「面区点コード」から「面区点コード」の連結へ、および 「Unicode」から「Unicode」の連結へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国税庁\u003C/anchor>\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>JIS縮退マップ\u003C/cite>の\u000A「変換元の文字」から「文字列変換」欄への変換。\u000A「面区点コード」から「面区点コード」の連結へ、および\u000A「Unicode」から「Unicode」の連結へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "nta:JIS縮退マップ:文字列変換",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>nta:JIS縮退マップ:文字列変換\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "国税庁JIS縮退マップの「備考」欄に「類似字形」と記述された符号位置から 「変換元の文字」の「Unicode」への関係。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国税庁\u003C/anchor>\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>JIS縮退マップ\u003C/cite>の「備考」欄に「類似字形」と記述された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor>から\u000A「変換元の文字」の「Unicode」への関係。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "nta:JIS縮退マップ:類似字形",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>nta:JIS縮退マップ:類似字形\u003C/code>\u003C/dfn>"
          }
       ]
    }
