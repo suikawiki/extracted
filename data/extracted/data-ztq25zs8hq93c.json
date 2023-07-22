@@ -2,6 +2,272 @@
    {
       "desc" : [
          {
+            "text" : "hd2ucs.txt の UCS 符号位置 (無印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hd2ucs.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor> (無印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hd2ucs.txt の UCS 符号位置 ([U] 印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hd2ucs.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>[U]\u003C/code> 印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2ucs:U",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2ucs:U\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hd2ucs.txt の UCS 符号位置 (異体字選択子付き)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hd2ucs.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>異体字選択子\u003C/anchor>付き)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2ucs:ivs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2ucs:ivs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hd2ucs.txt の別グリフの参照 (= 印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hd2ucs.txt\u003C/code> の別\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>の参照 (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>=\u003C/code> 印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2ucs:=",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2ucs:=\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hd2ucs.txt の別グリフの参照 (~ 印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hd2ucs.txt\u003C/code> の別\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>の参照 (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>~\u003C/code> 印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2ucs:~",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2ucs:~\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2juki.txt の住基ネット統一文字。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2juki.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>住基ネット統一文字\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2juki",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2juki\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2juki.txt の住基ネット統一文字 (* 印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2juki.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>住基ネット統一文字\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>*\u003C/code> 印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2juki:*",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2juki:*\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2juki.txt の住基ネット統一文字 (# 印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2juki.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>住基ネット統一文字\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>#\u003C/code> 印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2juki:#",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2juki:#\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2koseki.txt の戸籍統一文字。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2koseki.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2koseki",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2koseki\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2koseki.txt の戸籍統一文字 (* 印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2koseki.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>*\u003C/code> 印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2koseki:*",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2koseki:*\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2koseki.txt の戸籍統一文字 (# 印)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2koseki.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>#\u003C/code> 印)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2koseki:#",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2koseki:#\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2koseki.txt の戸籍統一文字 (括弧付き)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2koseki.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor> (括弧付き)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2koseki:()",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2koseki:()\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2cid.txt の Adobe-Japan1 CID。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2cid.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Adobe-Japan1\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CID\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2cid",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2cid\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2cid.txt の Adobe-Japan1 CID (注釈「subtle」)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2cid.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Adobe-Japan1\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CID\u003C/anchor>\u000A(注釈「subtle」)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2cid:subtle",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2cid:subtle\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hducs2cid.txt の注釈の Adobe-Japan1 CID。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hducs2cid.txt\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Adobe-Japan1\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CID\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hd2cid:related",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hd2cid:related\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "hanyo-ids.txt の IDS。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hanyo-ids.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:hducs2ivs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:hducs2ivs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IVD に登録された IVS から平成明朝のグリフへ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor> に登録された \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "ivd:Hanyo-Denshi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ivd:Hanyo-Denshi\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "グリフからそのグリフが実装することを意図した文字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>からその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>実装\u003C/anchor>することを意図した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:implements",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:implements\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "グリフからそのグリフが実装することを意図した住基ネット統一文字に対応する Unicode 符号位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>からその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>実装\u003C/anchor>することを意図した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>住基ネット統一文字\u003C/anchor>に対応する\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:implements:juki",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:implements:juki\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "文字情報基盤の変体仮名編の 音価1 または IPAmj明朝が実装する濁点・半濁点付き変体仮名 >>126 に相当する現行標準平仮名。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor>編の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>音価1\u003C/code>\u000Aまたは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IPAmj明朝\u003C/anchor>が実装する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>濁点\u003C/anchor>・\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>半濁点\u003C/anchor>付き\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>変体仮名\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022126\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;126\u003C/anchor-internal>\u003C/src>\u000Aに相当する現行標準\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平仮名\u003C/anchor>。"
          }
@@ -38,6 +304,40 @@
          {
             "text" : "mj:音価3",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:音価3\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IVD に登録された IVS からMJ文字図形へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor> に登録された \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字図形\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "ivd:Moji_Joho",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ivd:Moji_Joho\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "datanote" : [
+         {
+            "text" : "1to1:ivd:Hanyo-Denshi/ivd:Moji_Joho のみ表示。 Hanyo-Denshi または Moji_Joho の一方でのみ利用されていることを示す。",
+            "xml" : "\u000A\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>1to1:ivd:Hanyo-Denshi/ivd:Moji_Joho\u003C/code>\u003C/dfn>\u000Aのみ表示。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Hanyo-Denshi\u003C/code> または \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Moji_Joho\u003C/code>\u000Aの一方でのみ利用されていることを示す。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ivd:Hanyo-Denshi または ivd:Moji_Joho。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ivd:Hanyo-Denshi\u003C/code> または \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ivd:Moji_Joho\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "ivd:Hanyo-Denshi/ivd:Moji_Joho",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ivd:Hanyo-Denshi/ivd:Moji_Joho\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -466,6 +766,20 @@
    {
       "desc" : [
          {
+            "text" : "IVD に登録された IVS から Adobe-Japan1 CID へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor> に登録された \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Adobe-Japan1\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CID\u003C/anchor> へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "ivd:Adobe-Japan1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ivd:Adobe-Japan1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "登記統一文字縮退マップの 非漢字 へ。 戸籍統一文字共通部分を含む。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>非漢字\u003C/code>\u000Aへ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>共通部分を含む。"
          }
@@ -516,6 +830,34 @@
          {
             "text" : "nta:JIS縮退マップ:類似字形",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>nta:JIS縮退マップ:類似字形\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "漢字データベースプロジェクトのデータファイルに基づきIDSへ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漢字データベースプロジェクト\u003C/anchor>のデータファイルに基づき\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:ids",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:ids\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "IVD に登録された IVS から MA または MB の Big5 符号へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor> に登録された \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> から \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>MA\u003C/code> または \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MB\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Big5\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "ivd:MSARG",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ivd:MSARG\u003C/code>\u003C/dfn>"
          }
       ]
    }
