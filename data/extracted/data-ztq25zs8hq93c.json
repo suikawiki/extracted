@@ -464,6 +464,20 @@
    {
       "desc" : [
          {
+            "text" : "縦書きグリフからそのグリフが実装することを意図した文字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>縦書きグリフ\u003C/anchor>からその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>実装\u003C/anchor>することを意図した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:implements:vertical",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:implements:vertical\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "USourceData.txt の「General comments」欄に z-variant と書かれたUnicode符号点。",
             "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>USourceData.txt\u003C/code> の「General comments」欄に z-variant\u000Aと書かれた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode符号点\u003C/anchor>。"
          }
@@ -514,6 +528,146 @@
          {
             "text" : "unihan:kTraditionalVariant",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kTraditionalVariant\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書1表1 の区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書1表1 の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208-1997:附属書1:表1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208-1997:附属書1:表1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書1表2 の区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書1表2 の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208-1997:附属書1:表2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208-1997:附属書1:表2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書2表1 の区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書2表1 の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208-1997:附属書2:表1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208-1997:附属書2:表1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書2表2 の区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書2表2 の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208-1997:附属書2:表2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208-1997:附属書2:表2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7 1.1 a) 「83入替え」の前段の区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7 1.1 a) 「83入替え」の前段の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208-1997:附属書7:83入替え:入替え",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208-1997:附属書7:83入替え:入替え\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7 1.1 a) 「83入替え」の後段の区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7 1.1 a) 「83入替え」の後段の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208-1997:附属書7:83入替え:追加入替え",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208-1997:附属書7:83入替え:追加入替え\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 附属書7 2.1 a) の面区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 附属書7 2.1 a) の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:附属書7:2.1 a)",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:附属書7:2.1 a)\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 附属書7 2.1 b) の面区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 附属書7 2.1 b) の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:附属書7:2.1 b)",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:附属書7:2.1 b)\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2004 附属書7 2.1 d) の面区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> 附属書7 2.1 d) の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:附属書7:2.1 d)",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:附属書7:2.1 d)\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 附属書7 2.2 の面区点位置と区点位置の組。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 附属書7 2.2 の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>と\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>の組。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:附属書7:2.2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:附属書7:2.2\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -732,6 +886,20 @@
          {
             "text" : "mj:新しいMJ文字図形名",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:新しいMJ文字図形名\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「大漢和」。 (大漢和辞典)",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「大漢和」。\u000A(\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>大漢和辞典\u003C/cite>)"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:大漢和",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:大漢和\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1228,6 +1396,76 @@
    {
       "desc" : [
          {
+            "text" : "OpenType 機能フォント機能 vert (または相当)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenType\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>機能\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>フォント機能\u003C/title>\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>vert\u003C/code> (または相当)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opentype:vert",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opentype:vert\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "OpenType 機能フォント機能 hkna (または相当)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenType\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>機能\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>フォント機能\u003C/title>\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hkna\u003C/code> (または相当)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opentype:hkna",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opentype:hkna\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "OpenType 機能フォント機能 vkna (または相当)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenType\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>機能\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>フォント機能\u003C/title>\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>vkna\u003C/code> (または相当)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opentype:vkna",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opentype:vkna\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "OpenType 機能フォント機能 vrtr (または相当)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenType\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>機能\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>フォント機能\u003C/title>\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>vrtr\u003C/code> (または相当)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opentype:vrtr",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opentype:vrtr\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "OpenType 機能フォント機能 vrt2 (または相当)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenType\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>機能\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>フォント機能\u003C/title>\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>vrt2\u003C/code> (または相当)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opentype:vrt2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opentype:vrt2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "登記統一文字縮退マップの 非漢字 へ。 戸籍統一文字共通部分を含む。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>非漢字\u003C/code>\u000Aへ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>共通部分を含む。"
          }
@@ -1474,6 +1712,20 @@
          {
             "text" : "cjkvi:gb2ucs:K:#:5",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:K:#:5\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "daikanwa-ucs.txt の UCS 符号位置。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>daikanwa-ucs.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:daikanwa-ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:daikanwa-ucs\u003C/code>\u003C/dfn>"
          }
       ]
    },
