@@ -1472,8 +1472,8 @@
       ],
       "key" : [
          {
-            "text" : "gw:平成23年12月26日法務省告示第582号別表第一",
-            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>gw:平成23年12月26日法務省告示第582号別表第一\u003C/code>\u003C/dfn>"
+            "text" : "glyphwiki:平成23年12月26日法務省告示第582号別表第一",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:平成23年12月26日法務省告示第582号別表第一\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1486,8 +1486,8 @@
       ],
       "key" : [
          {
-            "text" : "gw:異体字:入管正字:外字",
-            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>gw:異体字:入管正字:外字\u003C/code>\u003C/dfn>"
+            "text" : "glyphwiki:異体字:入管正字:外字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:異体字:入管正字:外字\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1500,8 +1500,8 @@
       ],
       "key" : [
          {
-            "text" : "gw:異体字:入管正字:外字:第1順位",
-            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>gw:異体字:入管正字:外字:第1順位\u003C/code>\u003C/dfn>"
+            "text" : "glyphwiki:異体字:入管正字:外字:第1順位",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:異体字:入管正字:外字:第1順位\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1514,8 +1514,8 @@
       ],
       "key" : [
          {
-            "text" : "gw:異体字:入管正字:外字:第2順位",
-            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>gw:異体字:入管正字:外字:第2順位\u003C/code>\u003C/dfn>"
+            "text" : "glyphwiki:異体字:入管正字:外字:第2順位",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:異体字:入管正字:外字:第2順位\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1572,6 +1572,62 @@
          {
             "text" : "nta:JIS縮退マップ:類似字形",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>nta:JIS縮退マップ:類似字形\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "GlyphWiki のグリフの版。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>の版。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "glyphwiki:revision",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:revision\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "GlyphWiki における関連字。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite> における\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>関連字\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "glyphwiki:related",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:related\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "GlyphWiki においてエイリアスとて参照されているグリフ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite> において\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>エイリアス\u003C/anchor>とて参照されている\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "glyphwiki:alias",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:alias\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "GlyphWiki のグリフデータ中で参照されているグリフ (glyph:alias に当たるものを除く)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>データ中で参照されている\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>glyph:alias\u003C/code> に当たるものを除く)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "glyphwiki:contains",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:contains\u003C/code>\u003C/dfn>"
          }
       ]
    },
