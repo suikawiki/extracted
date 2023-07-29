@@ -434,6 +434,170 @@
       ]
    },
    {
+      "datanote" : [
+         {
+            "text" : "多対一関係中の同一字の関係を除く。",
+            "xml" : "\u000A多対一関係中の同一字の関係を除く。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "日本語版 Wikisource より テンプレート:新旧字体変換用辞書 のうち、 旧字体対照常用漢字表。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本語\u003C/anchor>版\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Wikisource\u003C/cite>\u000Aより\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>テンプレート:新旧字体変換用辞書\u003C/csection>\u000Aのうち、\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>旧字体対照常用漢字表\u003C/csection>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wikisource:ja:新旧字体変換用辞書:旧字体対照常用漢字表",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wikisource:ja:新旧字体変換用辞書:旧字体対照常用漢字表\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "datanote" : [
+         {
+            "text" : "多対一関係中の同一字の関係を除く。",
+            "xml" : "\u000A多対一関係中の同一字の関係を除く。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "日本語版 Wikisource より テンプレート:新旧字体変換用辞書 のうち、 上記以外の互換漢字など。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本語\u003C/anchor>版\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Wikisource\u003C/cite>\u000Aより\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>テンプレート:新旧字体変換用辞書\u003C/csection>\u000Aのうち、\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>上記以外の互換漢字など\u003C/csection>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wikisource:ja:新旧字体変換用辞書:上記以外の互換漢字など",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wikisource:ja:新旧字体変換用辞書:上記以外の互換漢字など\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "datanote" : [
+         {
+            "text" : "多対一関係中の同一字の関係を除く。",
+            "xml" : "\u000A多対一関係中の同一字の関係を除く。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "日本語版 Wikisource より テンプレート:新旧字体変換用辞書 のうち、 その他の漢字。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本語\u003C/anchor>版\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Wikisource\u003C/cite>\u000Aより\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>テンプレート:新旧字体変換用辞書\u003C/csection>\u000Aのうち、\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>その他の漢字\u003C/csection>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wikisource:ja:新旧字体変換用辞書:その他の漢字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wikisource:ja:新旧字体変換用辞書:その他の漢字\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "https://github.com/geolonia/normalize-japanese-addresses/ の 「JIS 第2水準 => 第1水準 及び 旧字体 => 新字体」。",
+            "xml" : "\u000A\u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/geolonia/normalize-japanese-addresses/\u0022>https://github.com/geolonia/normalize-japanese-addresses/\u003C/anchor-external>\u000Aの\u000A「JIS 第2水準 =&gt; 第1水準 及び 旧字体 =&gt; 新字体」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "geolonia:oldnew",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>geolonia:oldnew\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "kVariants.txt (種別 wrong!)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kVariants.txt\u003C/code> (種別 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wrong!\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "kVariants:wrong!",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>kVariants:wrong!\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "kVariants.txt (種別 sem)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kVariants.txt\u003C/code> (種別 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sem\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "kVariants:sem",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>kVariants:sem\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "kVariants.txt (種別 =)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kVariants.txt\u003C/code> (種別 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>=\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "kVariants:=",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>kVariants:=\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "kVariants.txt (種別 old)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kVariants.txt\u003C/code> (種別 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>old\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "kVariants:old",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>kVariants:old\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "kVariants.txt (種別 simp)。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kVariants.txt\u003C/code> (種別 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>simp\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "kVariants:simp",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>kVariants:simp\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "datanote" : [
+         {
+            "text" : "第1欄から第2欄、第1欄から第3欄、第1欄から第4欄 (同値のものを除く)。",
+            "xml" : "\u000A第1欄から第2欄、第1欄から第3欄、第1欄から第4欄 (同値のものを除く)。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "人間文化研究機構異体漢字対応テーブル https://www.bridge.nihu.jp/researchdata/file/20221125_ITOBYb。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>人間文化研究機構\u003C/anchor>\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>異体漢字対応テーブル\u003C/cite>\u000A\u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.bridge.nihu.jp/researchdata/file/20221125_ITOBYb\u0022>https://www.bridge.nihu.jp/researchdata/file/20221125_ITOBYb\u003C/anchor-external>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "nihuINT:variant",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>nihuINT:variant\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
       "desc" : [
          {
             "text" : "グリフからそのグリフが実装することを意図した文字へ。",
