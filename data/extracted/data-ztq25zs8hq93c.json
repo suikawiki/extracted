@@ -600,6 +600,20 @@
    {
       "desc" : [
          {
+            "text" : "文字からその文字を意図したグリフへ。 文字が属する文字集合の包摂規準に適合することを意図しているか否かは問わない。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>からその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>を意図した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>へ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>が属する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字集合\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>包摂規準\u003C/anchor>に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>適合\u003C/anchor>することを意図しているか否かは問わない。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:glyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "グリフからそのグリフが実装することを意図した文字へ。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>からその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>実装\u003C/anchor>することを意図した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
          }
@@ -1064,6 +1078,104 @@
          {
             "text" : "mj:大漢和",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:大漢和\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Unihan kIRG_VSource (V0, VN)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V0\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>VN\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kIRG_VSource",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_VSource\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Unihan kIRG_VSource (V1)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V1\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kIRG_VSource:1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_VSource:1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Unihan kIRG_VSource (V2)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V2\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kIRG_VSource:2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_VSource:2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Unihan kIRG_VSource (V3)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V3\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kIRG_VSource:3",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_VSource:3\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Unihan kIRG_VSource (V4)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V4\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kIRG_VSource:4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_VSource:4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "漢字データベースプロジェクト cjkvi-data/nom_qn.txt より注釈の V04 符号からIDSへ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漢字データベースプロジェクト\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/nom_qn.txt\u003C/code>\u000Aより注釈の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V04\u003C/code> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:ids:V4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:ids:V4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "漢字データベースプロジェクト cjkvi-data/nom_qn.txt の文字より注釈の符号 (出典V) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漢字データベースプロジェクト\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/nom_qn.txt\u003C/code>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>より注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>出典V\u003C/anchor>) へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:nom_qn:#",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:nom_qn:#\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1630,6 +1742,34 @@
    {
       "desc" : [
          {
+            "text" : "通常の文字から小書き文字へ。",
+            "xml" : "\u000A通常の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>小書き文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:small",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:small\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "JIS X 8903-1984 附属書1から附属書2へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 8903-1984\u003C/anchor> 附属書1から附属書2へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisz8903:annex2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisz8903:annex2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "GlyphWiki グループ:平成23年12月26日法務省告示第582号別表第一 により入管正字から住基ネット統一文字または戸籍統一文字へ。",
             "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite>\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>グループ:平成23年12月26日法務省告示第582号別表第一\u003C/csection>\u000Aにより\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>入管正字\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>住基ネット統一文字\u003C/anchor>または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>へ。"
          }
@@ -1826,8 +1966,8 @@
    {
       "desc" : [
          {
-            "text" : "cjkvi-data/gb2ucs.txt の G2。",
-            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G2\u003C/code>。"
+            "text" : "cjkvi-data/gb2ucs.txt の G2 から文字へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G2\u003C/code> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
          }
       ],
       "key" : [
@@ -1840,8 +1980,22 @@
    {
       "desc" : [
          {
-            "text" : "cjkvi-data/gb2ucs.txt の G4。",
-            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G4\u003C/code>。"
+            "text" : "cjkvi-data/gb2ucs.txt の G2 から IDS へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G2\u003C/code> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor> へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:gb2ucs:2:ids",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:2:ids\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "cjkvi-data/gb2ucs.txt の G4 から文字へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G4\u003C/code> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
          }
       ],
       "key" : [
@@ -1854,8 +2008,22 @@
    {
       "desc" : [
          {
-            "text" : "cjkvi-data/gb2ucs.txt の GK。",
-            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GK\u003C/code>。"
+            "text" : "cjkvi-data/gb2ucs.txt の G4 からIDSへ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G4\u003C/code> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:gb2ucs:4:ids",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:4:ids\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "cjkvi-data/gb2ucs.txt の GK から文字へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GK\u003C/code> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
          }
       ],
       "key" : [
@@ -1868,14 +2036,42 @@
    {
       "desc" : [
          {
-            "text" : "cjkvi-data/gb2ucs.txt の G2 の注釈。",
-            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G2\u003C/code> の注釈。"
+            "text" : "cjkvi-data/gb2ucs.txt の GK から文字へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GK\u003C/code> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:gb2ucs:K:ids",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:K:ids\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "cjkvi-data/gb2ucs.txt の G2 から注釈の文字へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G2\u003C/code> から注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
          }
       ],
       "key" : [
          {
             "text" : "cjkvi:gb2ucs:2:#",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:2:#\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "cjkvi-data/gb2ucs.txt の G2 から注釈のIDSへ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G2\u003C/code> から注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:gb2ucs:2:ids:#",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:2:ids:#\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1910,14 +2106,28 @@
    {
       "desc" : [
          {
-            "text" : "cjkvi-data/gb2ucs.txt の G4 の注釈。",
-            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G4\u003C/code> の注釈。"
+            "text" : "cjkvi-data/gb2ucs.txt の G4 の注釈の文字へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G4\u003C/code> の注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
          }
       ],
       "key" : [
          {
             "text" : "cjkvi:gb2ucs:4:#",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:4:#\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "cjkvi-data/gb2ucs.txt の G4 の注釈のIDSへ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>G4\u003C/code> の注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:gb2ucs:4:ids:#",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:4:ids:#\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1952,14 +2162,28 @@
    {
       "desc" : [
          {
-            "text" : "cjkvi-data/gb2ucs.txt の GK の注釈。",
-            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GK\u003C/code> の注釈。"
+            "text" : "cjkvi-data/gb2ucs.txt の GK から注釈の文字へ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GK\u003C/code> から注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
          }
       ],
       "key" : [
          {
             "text" : "cjkvi:gb2ucs:K:#",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:K:#\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "cjkvi-data/gb2ucs.txt の GK から注釈のIDSへ。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/gb2ucs.txt\u003C/code> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GK\u003C/code> から注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:gb2ucs:K:ids:#",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:gb2ucs:K:ids:#\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -2016,6 +2240,34 @@
          {
             "text" : "mj:daikanwa-ucs",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:daikanwa-ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "UK 出典番号から UK 提案用フォントの PUA 符号へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UK\u003C/anchor> 出典番号から\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UK\u003C/anchor> 提案用フォントの \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PUA\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "uk:font-code-point",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>uk:font-code-point\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "UK 出典番号から UK 提案中に記載された SJ/T 11239-2001 文字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UK\u003C/anchor> 出典番号から\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UK\u003C/anchor> 提案中に記載された \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SJ/T 11239-2001\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "uk:gb8",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>uk:gb8\u003C/code>\u003C/dfn>"
          }
       ]
    },
