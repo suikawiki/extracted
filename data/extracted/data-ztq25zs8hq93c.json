@@ -1168,14 +1168,28 @@
    {
       "desc" : [
          {
-            "text" : "漢字データベースプロジェクト cjkvi-data/nom_qn.txt の文字より注釈の符号 (出典V) へ。",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漢字データベースプロジェクト\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/nom_qn.txt\u003C/code>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>より注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>出典V\u003C/anchor>) へ。"
+            "text" : "漢字データベースプロジェクト cjkvi-data/nom_qn.txt の文字より注釈の符号 (V\u002B) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漢字データベースプロジェクト\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/nom_qn.txt\u003C/code>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>より注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V\u002B\u003C/code>) へ。"
          }
       ],
       "key" : [
          {
             "text" : "cjkvi:nom_qn:#",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:nom_qn:#\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "漢字データベースプロジェクト cjkvi-data/nom_qn.txt の文字より注釈の符号 (V04) へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漢字データベースプロジェクト\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/nom_qn.txt\u003C/code>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>より注釈の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V04\u003C/code>) へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cjkvi:nom_qn:#:V4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cjkvi:nom_qn:#:V4\u003C/code>\u003C/dfn>"
          }
       ]
    },
