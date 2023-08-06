@@ -408,6 +408,48 @@
    {
       "desc" : [
          {
+            "text" : "Mule-UCS の UCS 対応。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mule-UCS\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> 対応。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:reldata",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:reldata\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Mule-UCS の UCS 対応 (ISCII)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mule-UCS\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> 対応 (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISCII\u003C/anchor>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:reldata:iscii",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:reldata:iscii\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Mule-UCS の UCS 対応 (注釈状態)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mule-UCS\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> 対応 (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈\u003C/anchor>状態)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:reldata:;",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:reldata:;\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "Unihan 出典G (GK)。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>出典G\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GK\u003C/code>)。"
          }
@@ -430,6 +472,34 @@
          {
             "text" : "unihan:kIRG_GSource:7",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_GSource:7\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Unihan kIRG_KSource。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_KSource\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kIRG_KSource",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_KSource\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "Unicode 3.0 Unihan kIRG_KSource。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode 3.0\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_KSource\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan3.0:kIRG_KSource",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan3.0:kIRG_KSource\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -636,6 +706,20 @@
          {
             "text" : "manakai:implements:juki",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:implements:juki\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "グリフからそのグリフが実装することを意図した GB 18030 ビット組合せに対応する Unicode 符号位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>からその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>実装\u003C/anchor>することを意図した \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>GB 18030\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ビット組合せ\u003C/anchor>に対応する\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:implements:gb18030",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:implements:gb18030\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1840,6 +1924,20 @@
    {
       "desc" : [
          {
+            "text" : "旧第14字面から第3字面への移動。",
+            "xml" : "\u000A旧第14字面から第3字面への移動。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "cns11643:moved",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>cns11643:moved\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "登記統一文字縮退マップの 非漢字 へ。 戸籍統一文字共通部分を含む。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>登記統一文字縮退マップ\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>非漢字\u003C/code>\u000Aへ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>共通部分を含む。"
          }
@@ -2246,6 +2344,20 @@
    {
       "desc" : [
          {
+            "text" : "GlyphWiki グループ:UCSで符号化されたCDP外字 の対応先。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite>\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>グループ:UCSで符号化されたCDP外字\u003C/csection>\u000Aの対応先。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "glyphwiki:UCSで符号化されたCDP外字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:UCSで符号化されたCDP外字\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
             "text" : "daikanwa-ucs.txt の UCS 符号位置。",
             "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>daikanwa-ucs.txt\u003C/code> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor>。"
          }
@@ -2296,6 +2408,258 @@
          {
             "text" : "unihan:kIRG_GSource:S",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_GSource:S\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 ccl-decode-cgreek。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ccl-decode-cgreek\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:ccl-decode-cgreek",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:ccl-decode-cgreek\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 ccl-decode-cgreek。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ccl-decode-cgreek\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:ccl-decode-cgreek",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:ccl-decode-cgreek\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 cgreek-to-tex-table。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cgreek-to-tex-table\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:cgreek-to-tex-table",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:cgreek-to-tex-table\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 cgreek-latin1-to-tex-table。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cgreek-latin1-to-tex-table\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:cgreek-latin1-to-tex-table",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:cgreek-latin1-to-tex-table\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 cgreek-simple-table。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cgreek-simple-table\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:cgreek-simple-table",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:cgreek-simple-table\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 quail cgreek。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>quail\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cgreek\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:quail:cgreek",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:quail:cgreek\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 quail cgreek (注釈状態)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>quail\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cgreek\u003C/code> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈\u003C/anchor>状態)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:quail:cgreek:;",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:quail:cgreek:;\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 quail greek-ibycus4。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>quail\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>greek-ibycus4\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:quail:greek-ibycus4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:quail:greek-ibycus4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek20 quail latin-1-latex。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek20\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>quail\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>latin-1-latex\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:quail:latin-1-latex",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:quail:latin-1-latex\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 greek-wingreek-to-unicode-table。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>greek-wingreek-to-unicode-table\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:greek-wingreek-to-unicode-table",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:greek-wingreek-to-unicode-table\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin greek-mizuochi。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>greek-mizuochi\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:greek-mizuochi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:greek-mizuochi\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin greek-ibycus4。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>greek-ibycus4\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:greek-ibycus4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:greek-ibycus4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin greek-ibycus4 (注釈状態)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>greek-ibycus4\u003C/code> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈\u003C/anchor>状態)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:greek-ibycus4:;",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:greek-ibycus4:;\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin greek-babel-elot1000。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>greek-babel-elot1000\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:greek-babel-elot1000",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:greek-babel-elot1000\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin greek-babel-elot1000 (注釈状態)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>greek-babel-elot1000\u003C/code> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈\u003C/anchor>状態)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:greek-babel-elot1000:;",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:greek-babel-elot1000:;\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin latin-latex2e。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>latin-latex2e\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:latin-latex2e",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:latin-latex2e\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin russian-jcuken-unicode。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>russian-jcuken-unicode\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:russian-jcuken-unicode",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:russian-jcuken-unicode\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "desc" : [
+         {
+            "text" : "CGreek23 robin russian-jcuken-unicode-dos。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CGreek23\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>robin\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>russian-jcuken-unicode-dos\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "emacs:robin:russian-jcuken-unicode-dos",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>emacs:robin:russian-jcuken-unicode-dos\u003C/code>\u003C/dfn>"
          }
       ]
    },
