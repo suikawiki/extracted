@@ -2,7 +2,8 @@
   "github": {
     "pmbp": "latest",
     "merger": true,
-    "needupdate": ["suikawiki/fonts"],
+    "# needupdate": ["suikawiki/fonts"],
+    "autobuild": true,
     "gaa": true,
     "updatebyhook": true
   }
