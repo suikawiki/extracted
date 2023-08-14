@@ -8,7 +8,7 @@
          "runs-on" : "ubuntu-latest",
          "steps" : [
             {
-               "uses" : "actions/checkout@v3",
+               "uses" : "actions/checkout@v2",
                "with" : {
                   "fetch-depth" : 0,
                   "ref" : "master",
@@ -43,7 +43,7 @@
          "runs-on" : "ubuntu-latest",
          "steps" : [
             {
-               "uses" : "actions/checkout@v3",
+               "uses" : "actions/checkout@v2",
                "with" : {
                   "fetch-depth" : 0,
                   "ref" : "master",
@@ -79,7 +79,7 @@
          "runs-on" : "ubuntu-latest",
          "steps" : [
             {
-               "uses" : "actions/checkout@v3"
+               "uses" : "actions/checkout@v2"
             },
             {
                "run" : "mkdir -p $CIRCLE_ARTIFACTS"
