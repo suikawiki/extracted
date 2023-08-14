@@ -79,10 +79,7 @@
          "runs-on" : "ubuntu-latest",
          "steps" : [
             {
-               "uses" : "actions/checkout@v2",
-               "with" : {
-                  "ssh-key" : "${{ secrets.GH_GIT_KEY }}"
-               }
+               "uses" : "actions/checkout@v2"
             },
             {
                "run" : "mkdir -p $CIRCLE_ARTIFACTS"
