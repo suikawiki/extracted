@@ -17,8 +17,8 @@ my $FileList = {};
 {
   my $path = $RootPath->child ('local/files.txt');
   for (split /\n/, $path->slurp) {
-    if (m{^(ids/[0-9]+/[0-9]+\.txt):}) {
-      $FileList->{$1} = 1;
+    if (m{^(ids/([0-9]+)/([0-9]+)\.txt):}) {
+      $FileList->{$1} = $2 * 1000 + $3;
     }
   }
 }
@@ -79,6 +79,7 @@ sub to_text ($) {
 for my $file_name (sort { $a cmp $b } keys %$FileList) {
   print STDERR "\r$file_name ...";
   my $path = $SWDataPath->child ($file_name);
+  my $page_id = $FileList->{$file_name};
   my $parser = SWML::Parser->new;
   $parser->onerror (sub { });
   my $doc = new Web::DOM::Document;
@@ -104,6 +105,7 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
         $type = to_text $el;
       }
     }
+    $props->{_}->[0]->{page_id} = $page_id;
     
     $type = substr $type, 0, 63;
     push @{$AllData->{$type} ||= []}, $props;
@@ -139,6 +141,7 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
       $props->{items} = $items;
       my $othertypes = [grep { $_ ne $type } keys %$itemtypes];
       $props->{itemtypes}->{$_} = 1 for @$othertypes;
+      $props->{_}->[0]->{page_id} = $page_id;
       push @{$AllData->{$type} ||= []}, $props;
     }
   }
