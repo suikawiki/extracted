@@ -7,6 +7,8 @@ use Web::DOM::Document;
 use Web::DomainName::Punycode;
 use JSON::PS;
 
+my $NO_GIT = $ENV{NO_GIT};
+
 my $RootPath = path (__FILE__)->parent->parent;
 my $SWDataPath = $RootPath->child ('local/data');
 my $OutPath = $RootPath->child ('data/extracted');
@@ -106,7 +108,7 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
     $type = substr $type, 0, 63;
     push @{$AllData->{$type} ||= []}, $props;
   }
-  
+
   for my $data_el (@{$doc->query_selector_all ('sw-items')}) {
     my $itemtypes = {};
     my $items = [];
@@ -119,18 +121,16 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
           }
         }
       } elsif ($ln eq 'sw-itemtypes') {
-        for (@{$el->children}) {
-          if ($_->local_name eq 'anchor') {
-            my $at;
-            for (@{$_->children}) {
-              if ($_->local_name eq 'title') {
-                $at = $_->text_content;
-                last;
-              }
+        for (@{$el->query_selector_all ('anchor')}) {
+          my $at;
+          for (@{$_->children}) {
+            if ($_->local_name eq 'title') {
+              $at = $_->text_content;
+              last;
             }
-            $at //= $_->text_content;
-            $itemtypes->{$at} = 1;
           }
+          $at //= $_->text_content;
+          $itemtypes->{$at} = 1;
         }
       }
     }
@@ -144,7 +144,8 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
   }
 }
 
-system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E";
+system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E"
+    unless $NO_GIT;
 $OutPath->mkpath;
 for my $type (sort { $a cmp $b } keys %$AllData) {
   my $name = encode_punycode $type;
@@ -153,7 +154,8 @@ for my $type (sort { $a cmp $b } keys %$AllData) {
   my $path = $OutPath->child ($name);
 
   $path->spew (perl2json_bytes_for_record $AllData->{$type});
-  system "cd \Q$RootPath\E && git add \Q@{[$path->relative ($RootPath)]}\E";
+  system "cd \Q$RootPath\E && git add \Q@{[$path->relative ($RootPath)]}\E"
+      unless $NO_GIT;
 }
 
 print STDERR "\rDone \n";
