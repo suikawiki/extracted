@@ -6,6 +6,11 @@
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>font/collection\u003C/code>\u003C/dfn>"
          }
       ],
+      "_" : [
+         {
+            "page_id" : 20408
+         }
+      ],
       "拡張子" : [
          {
             "text" : ".otc, .ttc",
@@ -26,6 +31,11 @@
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/jose\u003C/code>"
          }
       ],
+      "_" : [
+         {
+            "page_id" : 21651
+         }
+      ],
       "説明" : [
          {
             "text" : "JOSE 簡潔直列化",
@@ -38,6 +48,11 @@
          {
             "text" : "application/jose\u002Bjson",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/jose\u002Bjson\u003C/code>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 21651
          }
       ],
       "説明" : [
@@ -54,6 +69,11 @@
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/x-btron-tadtext\u003C/code>"
          }
       ],
+      "_" : [
+         {
+            "page_id" : 24257
+         }
+      ],
       "説明" : [
          {
             "text" : "TAD文章",
@@ -66,6 +86,11 @@
          {
             "text" : "application/x-btron-tadfig",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/x-btron-tadfig\u003C/code>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 24257
          }
       ],
       "説明" : [
@@ -82,6 +107,11 @@
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/x-btron-bpack\u003C/code>"
          }
       ],
+      "_" : [
+         {
+            "page_id" : 24257
+         }
+      ],
       "説明" : [
          {
             "text" : "TAD書庫",
@@ -94,6 +124,11 @@
          {
             "text" : "application/x-btron-pacf",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/x-btron-pacf\u003C/code>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 24257
          }
       ],
       "説明" : [
@@ -116,6 +151,11 @@
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>application/jwk\u002Bjson\u003C/code>\u003C/dfn>"
          }
       ],
+      "_" : [
+         {
+            "page_id" : 24363
+         }
+      ],
       "説明" : [
          {
             "text" : "JWK",
@@ -128,6 +168,11 @@
          {
             "text" : "font/opentype",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>font/opentype\u003C/code>\u003C/dfn>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 32948
          }
       ],
       "拡張子" : [
@@ -150,6 +195,11 @@
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>font/otf\u003C/code>\u003C/dfn>"
          }
       ],
+      "_" : [
+         {
+            "page_id" : 32948
+         }
+      ],
       "拡張子" : [
          {
             "text" : ".otf",
@@ -168,6 +218,11 @@
          {
             "text" : "application/x-truetype-font",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>application/x-truetype-font\u003C/code>\u003C/dfn>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 32948
          }
       ],
       "拡張子" : [
@@ -190,6 +245,11 @@
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>x-font/ttf\u003C/code>\u003C/dfn>"
          }
       ],
+      "_" : [
+         {
+            "page_id" : 32948
+         }
+      ],
       "拡張子" : [
          {
             "text" : ".ttf",
@@ -208,6 +268,11 @@
          {
             "text" : "font/ttf",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>font/ttf\u003C/code>\u003C/dfn>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 32948
          }
       ],
       "拡張子" : [
@@ -229,6 +294,11 @@
             "text" : "application/zstd",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/zstd\u003C/code>"
          }
+      ],
+      "_" : [
+         {
+            "page_id" : 34533
+         }
       ]
    },
    {
@@ -242,6 +312,11 @@
          {
             "text" : "application/jwk-set\u002Bjson",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>application/jwk-set\u002Bjson\u003C/code>\u003C/dfn>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 36631
          }
       ],
       "説明" : [

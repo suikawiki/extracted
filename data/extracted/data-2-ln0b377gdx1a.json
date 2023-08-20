@@ -1,0 +1,35 @@
+[
+   {
+      "_" : [
+         {
+            "page_id" : 43457
+         }
+      ],
+      "items" : [
+         {
+            "xml" : "foo"
+         },
+         {
+            "xml" : "bar \u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022name\u0022>名前\u003C/data> \u003Cn xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 itemprop=\u0022value number\u0022>12345\u003C/n>"
+         },
+         {
+            "xml" : "\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00221\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[1]\u003C/anchor-end> \u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022label\u0022>baz\u003C/data>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[2]\u003C/anchor-end> \u003Cdata itemprop=\u0022foo\u0022>FOO\u003C/data>\u003C/li>\u003Cli>\u003Cf xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 itemprop=\u0022foo\u0022>foo2\u003C/f>\u003C/li>\u003Cli>foo3\u003C/li>\u003Cli>foo4,,\u003C/li>\u003Cli>\u003Cabbr itemprop=\u0022foo\u0022>foo5\u003C/abbr>\u003C/li>\u003C/ul>"
+         },
+         {
+            "xml" : ""
+         },
+         {
+            "xml" : "??? \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022code\u0022>Hello, world!\u003C/code>"
+         },
+         {
+            "xml" : "\u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022foo\u0022>abc\u003C/data>, \u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022bar\u0022>bar\u003Csw-value xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>def\u003C/sw-value>\u003C/data>, \u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022baz\u0022>aaa\u003Csw-value xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>bbb\u003C/sw-value>\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>ccc\u003C/attrvalue>\u003C/data>, x"
+         },
+         {
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022code\u0022>aa\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>bb\u003C/title>\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>cc\u003C/attrvalue>\u003C/code>,"
+         }
+      ],
+      "itemtypes" : {
+         "項目型1" : 1
+      }
+   }
+]
