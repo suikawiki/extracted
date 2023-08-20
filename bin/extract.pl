@@ -134,10 +134,10 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
         }
       }
     }
-    for my $type (@{$itemtypes}) {
+    for my $type (keys %{$itemtypes}) {
       my $props = {};
       $props->{items} = $items;
-      my $othertypes = [grep { $_ ne $type } @$itemtypes];
+      my $othertypes = [grep { $_ ne $type } keys %$itemtypes];
       $props->{itemtypes}->{$_} = 1 for @$othertypes;
       push @{$AllData->{$type} ||= []}, $props;
     }
