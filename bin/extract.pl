@@ -106,6 +106,42 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
     $type = substr $type, 0, 63;
     push @{$AllData->{$type} ||= []}, $props;
   }
+  
+  for my $data_el (@{$doc->query_selector_all ('sw-items')}) {
+    my $itemtypes = {};
+    my $items = [];
+    for my $el (@{$data_el->children}) {
+      my $ln = $el->local_name;
+      if ($ln eq 'ul') {
+        for my $li (@{$el->children}) {
+          if ($li->local_name eq 'li') {
+            push @$items, {xml => $li->inner_html};
+          }
+        }
+      } elsif ($ln eq 'sw-itemtypes') {
+        for (@{$el->children}) {
+          if ($_->local_name eq 'anchor') {
+            my $at;
+            for (@{$_->children}) {
+              if ($_->local_name eq 'title') {
+                $at = $_->text_content;
+                last;
+              }
+            }
+            $at //= $_->text_content;
+            $itemtypes->{$at} = 1;
+          }
+        }
+      }
+    }
+    for my $type (@{$itemtypes}) {
+      my $props = {};
+      $props->{items} = $items;
+      my $othertypes = [grep { $_ ne $type } @$itemtypes];
+      $props->{itemtypes}->{$_} = 1 for @$othertypes;
+      push @{$AllData->{$type} ||= []}, $props;
+    }
+  }
 }
 
 system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E";

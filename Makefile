@@ -52,6 +52,7 @@ local-swdata-repo:
 
 local-swdata-grep:
 	cd local/data && $(GIT) grep '^\[FIG' ids/ | grep 'data' > ../../local/files.txt
+	cd local/data && $(GIT) grep '^\[ITEMS' ids/ >> ../../local/files.txt
 
 extract: bin/extract.pl local/files.txt
 	$(PERL) bin/extract.pl
