@@ -88,6 +88,8 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
   for my $data_el (@{$doc->query_selector_all ('figure.data')}) {
     my $type = '';
     my $props = {};
+    $props->{_}->[0]->{page_id} = $page_id;
+    
     for my $el (@{$data_el->children}) {
       if ($el->local_name eq 'dl') {
         my $label;
@@ -105,7 +107,6 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
         $type = to_text $el;
       }
     }
-    $props->{_}->[0]->{page_id} = $page_id;
     
     $type = substr $type, 0, 63;
     push @{$AllData->{$type} ||= []}, $props;
