@@ -236,5 +236,42 @@
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Z\u003C/anchor>"
          }
       ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44527
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "※",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>※\u003C/anchor>"
+         },
+         {
+            "text" : "*",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>*\u003C/anchor>"
+         },
+         {
+            "text" : "八十八",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>八十八\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "米",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>米\u003C/anchor>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "美",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>美\u003C/anchor>"
+         },
+         {
+            "text" : "🇺🇸",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇺🇸\u003C/anchor>"
+         }
+      ]
    }
 ]
