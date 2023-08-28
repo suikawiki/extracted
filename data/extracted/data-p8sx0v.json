@@ -156,6 +156,48 @@
    {
       "_" : [
          {
+            "page_id" : 30675
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "と",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>と\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "歩",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>歩\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 30675
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "卜",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>卜\u003C/code>"
+         },
+         {
+            "text" : "┣",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>┣\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ト",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ト\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 31394
          }
       ],
@@ -288,6 +330,43 @@
    {
       "_" : [
          {
+            "page_id" : 38626
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "荼",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>荼\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "茶",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>茶\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "🍵",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>🍵\u003C/code>"
+         },
+         {
+            "text" : "🧉",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>🧉\u003C/code>"
+         },
+         {
+            "text" : "🟤",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>🟤\u003C/code>"
+         },
+         {
+            "text" : "🟫",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>🟫\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 39399
          }
       ],
@@ -363,6 +442,93 @@
          {
             "text" : "ソ",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ソ\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44551
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "Φ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Φ\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ⱷ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ⱷ\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44554
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "陽",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>陽\u003C/code>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "曰",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>曰\u003C/code>"
+         },
+         {
+            "text" : "目",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>目\u003C/code>"
+         },
+         {
+            "text" : "θ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>θ\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "日",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>日\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "☀",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>☀\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44555
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "脂",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>脂\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "油",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>油\u003C/anchor>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "🛢",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🛢\u003C/anchor>"
+         },
+         {
+            "text" : "⛽",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⛽\u003C/anchor>"
          }
       ]
    }
