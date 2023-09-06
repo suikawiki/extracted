@@ -696,6 +696,25 @@
    {
       "_" : [
          {
+            "page_id" : 44408
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "敵",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>敵\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "仇",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>仇\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 44527
          }
       ],
