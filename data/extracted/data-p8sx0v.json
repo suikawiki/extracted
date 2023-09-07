@@ -368,6 +368,25 @@
    {
       "_" : [
          {
+            "page_id" : 26668
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "」",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>」\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "𖾢",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>𖾢\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 27607
          }
       ],
