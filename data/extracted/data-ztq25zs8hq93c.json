@@ -1517,6 +1517,63 @@
             "page_id" : 27587
          }
       ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体の「実装したMoji_JohoコレクションIVS」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体の「実装したMoji_JohoコレクションIVS」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:実装したMoji_JohoコレクションIVS",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:実装したMoji_JohoコレクションIVS\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体 (Ver.005.01) の「実装したMoji_JohoコレクションIVS」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体 (Ver.005.01) の「実装したMoji_JohoコレクションIVS」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj00501:実装したMoji_JohoコレクションIVS",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj00501:実装したMoji_JohoコレクションIVS\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体 (Ver.005.01) の「対応するHanyo-DenshiコレクションIVS」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体 (Ver.005.01) の「対応するHanyo-DenshiコレクションIVS」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj00501:対応するHanyo-DenshiコレクションIVS",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj00501:対応するHanyo-DenshiコレクションIVS\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
       "key" : [
          {
             "text" : "mj:JIS包摂規準・UCS統合規則",
@@ -1686,6 +1743,101 @@
          {
             "text" : "mj:大漢和",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:大漢和\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体 (Ver.001.01) の「大漢和」。 (大漢和辞典)",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体 (Ver.001.01) の「大漢和」。\u000A(\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>大漢和辞典\u003C/cite>)"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj00101:大漢和",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj00101:大漢和\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表本体 (Ver.001.01) の「大漢和」 (# 付きの値)。 (大漢和辞典)",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor>本体 (Ver.001.01) の「大漢和」 (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>#\u003C/code> 付きの値)。\u000A(\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>大漢和辞典\u003C/cite>)"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj00101:大漢和",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj00101:大漢和\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表 Ver.001.01 の「平成明朝」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor> Ver.001.01 の「平成明朝」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj00101:平成明朝",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj00101:平成明朝\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字情報一覧表 Ver.005.01 の「平成明朝」。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字情報一覧表\u003C/anchor> Ver.005.01 の「平成明朝」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj00501:平成明朝",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj00501:平成明朝\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "MJ文字図形の版。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字図形\u003C/anchor>の版。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:version",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:version\u003C/code>\u003C/dfn>"
          }
       ]
    },
