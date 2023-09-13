@@ -438,6 +438,12 @@
             "page_id" : 30675
          }
       ],
+      "字形類似" : [
+         {
+            "text" : "ヒ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ヒ\u003C/code>"
+         }
+      ],
       "文字" : [
          {
             "text" : "と",
@@ -647,6 +653,63 @@
          {
             "text" : "ね",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ね\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37687
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𠀀",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>𠀀\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "ㄛ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ㄛ\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37687
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𠀀󠄁",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>𠀀󠄁\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "ㄜ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ㄜ\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37687
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𠀀󠄂",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>𠀀󠄂\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "ㄮ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ㄮ\u003C/code>"
          }
       ]
    },
