@@ -339,6 +339,35 @@
    {
       "_" : [
          {
+            "page_id" : 2384
+         }
+      ],
+      "回転類似" : [
+         {
+            "text" : "×",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>×\u003C/code>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "十",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>十\u003C/code>"
+         },
+         {
+            "text" : "†",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>†\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "\u002B",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u002B\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 24965
          }
       ],
