@@ -826,6 +826,25 @@
    {
       "_" : [
          {
+            "page_id" : 39424
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "改",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>改\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "新",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>新\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 43606
          }
       ],
