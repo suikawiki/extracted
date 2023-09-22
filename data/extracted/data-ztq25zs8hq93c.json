@@ -1185,6 +1185,31 @@
    {
       "_" : [
          {
+            "page_id" : 24866
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "GlyphWiki による >>107。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite> による \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022107\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;107\u003C/anchor-internal>\u003C/src>。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "CJK統合漢字案で統合されたもの。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>案で\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>統合\u003C/anchor>されたもの。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "glyphwiki:unified",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:unified\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 25669
          }
       ],
