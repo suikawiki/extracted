@@ -21,6 +21,44 @@
    {
       "_" : [
          {
+            "page_id" : 658
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "PDF の文字データ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PDF\u003C/anchor> の文字データ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "pdf:char",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>pdf:char\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1101
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "GlyphWiki のデータに基づき戸籍統一文字へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GlyphWiki\u003C/cite> のデータに基づき\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戸籍統一文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "glyphwiki:koseki",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>glyphwiki:koseki\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 10064
          }
       ],
@@ -699,6 +737,295 @@
          {
             "text" : "unihan:kIRG_GSource:7",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_GSource:7\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表のいわゆる康煕字典体。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>いわゆる康煕字典体\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jouyou:いわゆる康熙字典体",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jouyou:いわゆる康熙字典体\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表の許容字体。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>許容字体\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jouyou:許容字体",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jouyou:許容字体\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Adobe-Japan1 から平成22年常用漢字表へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Adobe-Japan1\u003C/anchor> から平成22年\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "adobe:joyo",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>adobe:joyo\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kJoyoKanji。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kJoyoKanji\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kJoyoKanji",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kJoyoKanji\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成22年経済産業省委託事業報告書 >>15 および JIS X 0213:2012 附属書12 に基づく。 常用漢字表新規追加漢字のみ。",
+            "xml" : "\u000A平成22年\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>経済産業省\u003C/anchor>委託事業報告書 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;15\u003C/anchor-internal>\u003C/src> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2012\u003C/anchor> 附属書12\u000Aに基づく。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>新規追加漢字のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表から JIS X 0213 面区点位置へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jish22:jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jish22:jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成22年経済産業省委託事業報告書 >>15 および JIS X 0208:2012 附属書12 に基づく。 常用漢字表新規追加漢字のうち他に該当しないもののみ。",
+            "xml" : "\u000A平成22年\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>経済産業省\u003C/anchor>委託事業報告書 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;15\u003C/anchor-internal>\u003C/src> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:2012\u003C/anchor> 附属書12\u000Aに基づく。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>新規追加漢字のうち他に該当しないもののみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表から JIS X 0208 区点位置へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jish22:jisx0208",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jish22:jisx0208\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成22年経済産業省委託事業報告書 >>15 および JIS X 0208:2012 附属書12 に基づく。",
+            "xml" : "\u000A平成22年\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>経済産業省\u003C/anchor>委託事業報告書 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;15\u003C/anchor-internal>\u003C/src> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:2012\u003C/anchor> 附属書12\u000Aに基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表から許容字体の JIS X 0208 区点位置へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>から許容字体の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jish22:jisx0208:許容字体",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jish22:jisx0208:許容字体\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成22年経済産業省委託事業報告書 >>15 および JIS X 0208:2012 附属書12 に基づく。",
+            "xml" : "\u000A平成22年\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>経済産業省\u003C/anchor>委託事業報告書 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;15\u003C/anchor-internal>\u003C/src> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:2012\u003C/anchor> 附属書12\u000Aに基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表から異体の関係にある同字の JIS X 0208 区点位置へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>から異体の関係にある同字の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jish22:jisx0208:異体の関係にある同字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jish22:jisx0208:異体の関係にある同字\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成22年経済産業省委託事業報告書 >>15 および JIS X 0208:2012 附属書12 に基づく。",
+            "xml" : "\u000A平成22年\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>経済産業省\u003C/anchor>委託事業報告書 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;15\u003C/anchor-internal>\u003C/src> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:2012\u003C/anchor> 附属書12\u000Aに基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表から JIS X 0208 区点位置 (字体が異なり、通用字体でも異体の関係にある同字でもないもの) へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字体\u003C/anchor>が異なり、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>通用字体\u003C/anchor>でも異体の関係にある同字でもないもの)\u000Aへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jish22:jisx0208:other",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jish22:jisx0208:other\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成22年経済産業省委託事業報告書 >>15 および JIS X 0213:2012 附属書12 に基づく。 常用漢字表新規追加漢字のみ。",
+            "xml" : "\u000A平成22年\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>経済産業省\u003C/anchor>委託事業報告書 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;15\u003C/anchor-internal>\u003C/src> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2012\u003C/anchor> 附属書12\u000Aに基づく。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>新規追加漢字のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表から JIS X 0213 に基づくUCS符号位置へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213\u003C/anchor> に基づく\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jish22:ucs:jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jish22:ucs:jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成22年経済産業省委託事業報告書 >>15 および JIS X 0208:2012 附属書12 に基づく。 常用漢字表新規追加漢字のみ。",
+            "xml" : "\u000A平成22年\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>経済産業省\u003C/anchor>委託事業報告書 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;15\u003C/anchor-internal>\u003C/src> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:2012\u003C/anchor> 附属書12\u000Aに基づく。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>新規追加漢字のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "常用漢字表から JIS X 0208 に基づくUCS符号位置へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208\u003C/anchor> に基づく\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jish22:ucs:jisx0208",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jish22:ucs:jisx0208\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:2012 附属書12注により JIS X 0208 区点位置から常用漢字表に対応する JIS X 0213 面区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:2012\u003C/anchor> 附属書12注により\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>から\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>常用漢字表\u003C/cite>に対応する\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:2012:annex12:JIS X 0213常用漢字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:2012:annex12:JIS X 0213常用漢字\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2133
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2012 附属書12注により異体の関係にある同字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2012\u003C/anchor> 附属書12注により異体の関係にある同字へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2012:annex12:異体の関係にある同字",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2012:annex12:異体の関係にある同字\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -1394,6 +1721,626 @@
          {
             "text" : "jisx0213:附属書7:2.2",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:附属書7:2.2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表の簡易慣用字体から印刷標準字体へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>簡易慣用字体\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>印刷標準字体\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "hyougai:印刷標準字体",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>hyougai:印刷標準字体\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表の印刷標準字体から簡易慣用字体へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>印刷標準字体\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>簡易慣用字体\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "hyougai:簡易慣用字体",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>hyougai:簡易慣用字体\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表の印刷標準字体から個別デザイン差字形へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>印刷標準字体\u003C/anchor>から個別デザイン差字形へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "hyougai:個別デザイン差字形",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>hyougai:個別デザイン差字形\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (1) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (1) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(1):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(1):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (2) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (2) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(2):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(2):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (3) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (3) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(3):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(3):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (4) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (4) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(4):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(4):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (5) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (5) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(5):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(5):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (6) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (6) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(6):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(6):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (7) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (7) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(7):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(7):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (8) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (8) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(8):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(8):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0213:2000 面区点位置 (分類 (9) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>\u000A(分類 (9) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(9):jisx0213",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(9):jisx0213\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (1) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (1) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(1):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(1):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (2) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (2) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(2):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(2):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (3) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (3) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(3):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(3):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (4) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (4) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(4):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(4):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (5) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (5) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(5):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(5):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (6) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (6) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(6):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(6):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (7) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (7) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(7):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(7):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (8) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (8) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(8):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(8):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する UCS符号位置 (分類 (9) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS符号位置\u003C/anchor>\u000A(分類 (9) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(9):ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(9):ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表に対応する JIS X 0212 区点位置。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>に対応する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:jisx0212",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:jisx0212\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表との「対応が紛らわしい符号位置」 (分類 (2) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>との「対応が紛らわしい符号位置」\u000A(分類 (2) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(2):confusing",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(2):confusing\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25670
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "平成14年実施 JIS 公開レビュー資料および平成13年度経済産業省委託事業報告書 >>19, >>43, >>42 の記述に基づく。",
+            "xml" : "\u000A平成14年実施 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS\u003C/anchor> 公開レビュー資料および平成13年度経済産業省委託事業報告書 \u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src> の記述に基づく。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "表外漢字字体表との「対応が紛らわしい符号位置」 (分類 (7) 関連)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>表外漢字字体表\u003C/cite>との「対応が紛らわしい符号位置」\u000A(分類 (7) 関連)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jcsh13:(7):confusing",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jcsh13:(7):confusing\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2004附属書6 (JIS X 0213:2000 改正1 33.) 「表外漢字UCS互換」文字から印刷標準字体へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor>附属書6 (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 改正1 33.) \u000A「表外漢字UCS互換」文字から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>印刷標準字体\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2004:33:hyougai",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2004:33:hyougai\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2004附属書6 (JIS X 0213:2000 改正1 33.) 「表外漢字UCS互換」文字からその関連字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor>附属書6 (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 改正1 33.) \u000A「表外漢字UCS互換」文字からその関連字へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2004:33:related",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2004:33:related\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -2762,6 +3709,63 @@
    {
       "_" : [
          {
+            "page_id" : 34947
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "AJ1 から印刷標準字体へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>AJ1\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>印刷標準字体\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "adobe:nlc",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>adobe:nlc\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34947
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "AJ1 からK-JISへ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>AJ1\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>K-JIS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "adobe:kjis",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>adobe:kjis\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34947
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "AJ1 からIBM拡張漢字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>AJ1\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IBM拡張漢字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "adobe:ibm",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>adobe:ibm\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 37323
          }
       ],
@@ -2927,6 +3931,25 @@
          {
             "text" : "jisz8903:annex2",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisz8903:annex2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38085
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "提示された字形。",
+            "xml" : "\u000A提示された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:hasglyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:hasglyph\u003C/code>\u003C/dfn>"
          }
       ]
    },
