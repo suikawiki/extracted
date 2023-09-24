@@ -454,6 +454,25 @@
    {
       "_" : [
          {
+            "page_id" : 29489
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "臼",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>臼\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "白",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>白\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3198
          }
       ],
@@ -1173,6 +1192,50 @@
          {
             "text" : "死",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>死\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44604
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "了",
+            "xml" : "了"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "終",
+            "xml" : "終"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5336
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "受",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>受\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "愛",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>愛\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "♡",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>♡\u003C/code>"
          }
       ]
    }
