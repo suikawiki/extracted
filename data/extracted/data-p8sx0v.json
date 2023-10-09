@@ -1072,6 +1072,31 @@
    {
       "_" : [
          {
+            "page_id" : 38627
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "蟲",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>蟲\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "虫",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>虫\u003C/anchor>"
+         }
+      ],
+      "旧字体" : [
+         {
+            "text" : "蟲",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>蟲\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 39399
          }
       ],
@@ -1574,6 +1599,25 @@
          {
             "text" : "若",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>若\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44631
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "女子",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>女子\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "好",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>好\u003C/anchor>"
          }
       ]
    },
