@@ -329,6 +329,132 @@
    {
       "_" : [
          {
+            "page_id" : 1763
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>関連資料, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>, 目視による。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1990 / JIS X 0212:1990 例示字形の平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1990\u003C/anchor> / \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1990:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1990:glyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>関連資料, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>, 目視による。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1990 / JIS X 0212:1990 の ISO-IR 例示字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1990\u003C/anchor> / \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO-IR\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1990:ir:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1990:ir:glyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1990 / JIS X 0212:1990 例示字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1990\u003C/anchor> / \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1990:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1990:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1990 / JIS X 0212:1990 例示字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1990\u003C/anchor> / \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1990:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1990:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1990 / JIS X 0212:1990 の ISO-IR 例示字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1990\u003C/anchor> / \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO-IR\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1990:ir:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1990:ir:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1990 / JIS X 0212:1990 の ISO-IR 例示字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1990\u003C/anchor> / \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO-IR\u003C/anchor> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1990:ir:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1990:ir:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 10064
          }
       ],
@@ -1914,6 +2040,44 @@
    {
       "_" : [
          {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "同じ書体かつ当該書体の構造上同等と考えられる字形。 図形として同一であるとは限らない。",
+            "xml" : "\u000A同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>かつ当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>の構造上同等と考えられる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。\u000A図形として同一であるとは限らない。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:equivglyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:equivglyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "字形の構造上おおむね同じと考えられるもの。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>の構造上おおむね同じと考えられるもの。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:similarglyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:similarglyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 25669
          }
       ],
@@ -2689,6 +2853,94 @@
             "page_id" : 25671
          }
       ],
+      "datanote" : [
+         {
+            "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>関連資料, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>, 目視による。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 例示字形の平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:glyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>関連資料, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>, 目視による。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 最終案の例示字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 最終案の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:fdis:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:fdis:glyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 最終案の例示字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 最終案の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:fdis:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:fdis:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 最終案の例示字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 最終案の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:fdis:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:fdis:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
       "desc" : [
          {
             "text" : "JIS X 0213:2004附属書6 (JIS X 0213:2000 改正1 33.) 「表外漢字UCS互換」文字から印刷標準字体へ。",
@@ -2718,6 +2970,31 @@
          {
             "text" : "jisx0213:2004:33:related",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2004:33:related\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>関連資料, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>, 目視による。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2004 例示字形の平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2004:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2004:glyph\u003C/code>\u003C/dfn>"
          }
       ]
    },
