@@ -332,6 +332,747 @@
             "page_id" : 1763
          }
       ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 例示字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1978:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1978:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 第1刷正誤票「誤」と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> 第1刷正誤票「誤」と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1978:pr1cor:wrong:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1978:pr1cor:wrong:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 第1刷正誤票「正」と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> 第1刷正誤票「正」と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1978:pr1cor:correct:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1978:pr1cor:correct:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 第2-4刷正誤票「誤」と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> 第2-4刷正誤票「誤」と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1978:pr2-4cor:wrong:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1978:pr2-4cor:wrong:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 第2-4刷正誤票「正」と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> 第2-4刷正誤票「正」と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1978:pr2-4cor:correct:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1978:pr2-4cor:correct:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 第2-4刷正誤票「誤」 (索引関連) と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> 第2-4刷正誤票「誤」 (索引関連) と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1978:pr2-4cor:index:wrong:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1978:pr2-4cor:index:wrong:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 第2-4刷正誤票「正」 (索引関連) と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> 第2-4刷正誤票「正」 (索引関連) と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1978:pr2-4cor:index:correct:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1978:pr2-4cor:index:correct:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "増補改訂JIS漢字字典本 JIS X 0208:1997 「78誤」字形と同等の字形。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>増補改訂JIS漢字字典\u003C/cite>本 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78誤」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78:wrong:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78:wrong:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78誤」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78誤」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:jisdictaug:78:wrong:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:jisdictaug:78:wrong:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78-83」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78-83」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78-83",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78-83\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78-83」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78-83」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78-83:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78-83:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「-78/4」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「-78/4」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:-78/4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:-78/4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「-78/4」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「-78/4」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:-78/4:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:-78/4:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「-78/4X」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「-78/4X」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:-78/4X",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:-78/4X\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78/1」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78/1」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78/1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78/1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78/1」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78/1」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78/1:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78/1:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78/2-」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78/2-」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78/2-",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78/2-\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78/4-」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78/4-」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78/4-",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78/4-\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78/4-」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78/4-」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78/4-:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78/4-:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78/4正」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78/4正」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78/4:correct:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78/4:correct:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「78/5」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「78/5」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:78/5:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:78/5:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格原案字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格原案字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:draft:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:draft:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第1刷字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第1刷字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第1刷字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第1刷字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr1:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr1:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第1刷表1字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第1刷表1字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr1:table1:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr1:table1:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第1刷附属書1字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第1刷附属書1字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr1:annex1:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr1:annex1:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第2-4刷字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第2-4刷字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr2-4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr2-4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第4刷正誤票「誤」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第4刷正誤票「誤」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr4cor:wrong",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr4cor:wrong\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第4刷正誤票「正」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第4刷正誤票「正」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr4cor:correct",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr4cor:correct\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第5刷字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第5刷字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr5",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr5\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第5刷字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第5刷字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr5:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr5:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 附属書7第1次規格第7刷以降字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 附属書7第1次規格第7刷以降字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:annex7:ed1:pr7-",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:annex7:ed1:pr7-\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1983 例示字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1983\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1983:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1983:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1983第1刷例示字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1983\u003C/anchor>第1刷\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1983:pr1:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1983:pr1:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1983第3刷例示字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1983\u003C/anchor>第3刷\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1983:pr3:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1983:pr3:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「83」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「83」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:83",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:83\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1997 「83」字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> 「83」字形と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0208:1997:83:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0208:1997:83:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
       "datanote" : [
          {
             "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
@@ -2078,6 +2819,82 @@
    {
       "_" : [
          {
+            "page_id" : 25666
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 9051 の字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 9051\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx9051:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx9051:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25666
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 9051 の字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 9051\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx9051:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx9051:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25666
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 9052 の字形と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 9052\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx9052:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx9052:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25666
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 9052 の字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 9052\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx9052:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx9052:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 25669
          }
       ],
@@ -2878,6 +3695,44 @@
             "page_id" : 25671
          }
       ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 正誤票「誤」字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 正誤票「誤」字形と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:cor:wrong:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:cor:wrong:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 正誤票「正」字形の平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 正誤票「正」字形の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:cor:correct",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:cor:correct\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
       "datanote" : [
          {
             "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
@@ -2932,6 +3787,44 @@
          {
             "text" : "jisx0213:fdis:glyph:similar",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:fdis:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 最終案の正誤票「誤」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 最終案の正誤票「誤」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:fdis:cor:wrong",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:fdis:cor:wrong\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 最終案の正誤票「正」字形またはそれに類似した平成明朝グリフ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 最終案の正誤票「正」字形またはそれに類似した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:fdis:cor:correct",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:fdis:cor:correct\u003C/code>\u003C/dfn>"
          }
       ]
    },
