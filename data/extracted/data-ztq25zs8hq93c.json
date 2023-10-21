@@ -1073,6 +1073,44 @@
             "page_id" : 1763
          }
       ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 から JIS X 0208:1983 への移動。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1983\u003C/anchor> への移動。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1983:moved",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1983:moved\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 から JIS X 0208:1983 への字形変更を伴う移動。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1983\u003C/anchor> への\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>変更を伴う移動。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1983:movechanged",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1983:movechanged\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1763
+         }
+      ],
       "datanote" : [
          {
             "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
@@ -2895,6 +2933,208 @@
    {
       "_" : [
          {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0212:1990 から JIS X 0213:2000 のほぼ同じ例示字体の面区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> のほぼ同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2000:moved",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2000:moved\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0212:1990 から JIS X 0213:2000 の例示字体の異なるものの対応関係にある新規追加面区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>の異なるものの対応関係にある新規追加\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2000:movechanged",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2000:movechanged\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "JIS X 0213:2000 索引による。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 索引による。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0212:1990 から JIS X 0213:2000 の面区点位置へ。 当該面区点位置に最も近い JIS X 0208:1990 および JIS X 0212:1990 の区点位置が他にある場合。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。\u000A当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>に最も近い\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1990\u003C/anchor> および \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>が他にある場合。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2000:merged",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2000:merged\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0212:1990 から JIS X 0213:2000 の面区点位置へ。 JIS X 0213:2000 では対応関係があるとはされず、 文字情報基盤では MJ文字図形を介して対応関係にあるもの。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> では対応関係があるとはされず、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>では \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字図形\u003C/anchor>を介して対応関係にあるもの。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2000:variantadded",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2000:variantadded\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0212:1990 から JIS X 0213:2004 のほぼ同じ例示字体の面区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> のほぼ同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2004:moved",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2004:moved\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0212:1990 から JIS X 0213:2004 の例示字体の異なるものの対応関係にある新規追加面区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>の異なるものの対応関係にある新規追加\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2004:movechanged",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2004:movechanged\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 からほぼ同じ例示字体の JIS X 0212:1990 の区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> からほぼ同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:1990:forkedjis1978",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:1990:forkedjis1978\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 からほぼ同じ例示字体の JIS X 0213:2000 の新規追加面区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> からほぼ同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u000Aの新規追加\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2000:forkedjis1978",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2000:forkedjis1978\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0208:1978 からほぼ同じ例示字体の JIS X 0213:2004 の新規追加面区点位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1978\u003C/anchor> からほぼ同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> \u000Aの新規追加\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jis:2004:forkedjis1978",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jis:2004:forkedjis1978\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25667
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "非漢字のみ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0212:1990 から Unicode へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0212:1990\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0212:ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0212:ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 25669
          }
       ],
@@ -3672,6 +3912,182 @@
       ],
       "datanote" : [
          {
+            "text" : "非漢字および正誤票や JIS X 0213:2004 に関係する面区点位置のみ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非漢字\u003C/anchor>および\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>正誤票\u003C/anchor>や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> に関係する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 から UCS へ。 括弧付きUCSを除く。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> へ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>括弧付きUCS\u003C/anchor>を除く。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 から UCS へ。 代替名称による。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> へ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>代替名称\u003C/anchor>による。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:fullwidth:ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:fullwidth:ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 から括弧付きUCSへ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>括弧付きUCS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:ucs:()",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:ucs:()\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "正誤票に関係する面区点位置のみ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>正誤票\u003C/anchor>に関係する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 附属書11 により UCS へ。 括弧付きUCSを除く。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 附属書11 により \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> へ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>括弧付きUCS\u003C/anchor>を除く。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:annex11",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:annex11\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "正誤票に関係する面区点位置のみ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>正誤票\u003C/anchor>に関係する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面区点位置\u003C/anchor>のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 附属書11 により括弧付きUCSへ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 附属書11 により\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>括弧付きUCS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000:annex11:()",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000:annex11:()\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 正誤票により UCS へ。 括弧付きUCSを除く。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 正誤票により \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> へ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>括弧付きUCS\u003C/anchor>を除く。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000cor:ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000cor:ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 正誤票により括弧付きUCSへ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> 正誤票により\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>括弧付きUCS\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2000cor:ucs:()",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2000cor:ucs:()\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "改正部分のみ。",
+            "xml" : "\u000A改正部分のみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2004 により UCS へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> により \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UCS\u003C/anchor> へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "jisx0213:2004:ucs",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>jisx0213:2004:ucs\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25671
+         }
+      ],
+      "datanote" : [
+         {
             "text" : "汎用電子関連資料, IVD, 文字情報基盤, 目視による。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>関連資料, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVD\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor>, 目視による。"
          }
@@ -4046,6 +4462,63 @@
          {
             "text" : "ivd:Hanyo-Denshi/ivd:Moji_Joho",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ivd:Hanyo-Denshi/ivd:Moji_Joho\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ほぼ同等の例示字形を持つ汎用電子 IVS (文字情報基盤 IVS と共有されていないもの。) から文字情報基盤 IVS へ。",
+            "xml" : "\u000Aほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>を持つ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor>\u000Aと共有されていないもの。) から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字情報基盤\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:moved",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:moved\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "IVS を共有しほぼ同等の例示字形を持つ汎用電子の平成明朝グリフからMJ文字図形へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> を共有しほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>を持つ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字図形\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:shared:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:shared:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 27587
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "IVS を共有し例示字形に違いがある汎用電子の平成明朝グリフからMJ文字図形へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IVS\u003C/anchor> を共有し\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字形\u003C/anchor>に違いがある\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>汎用電子\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MJ文字図形\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "mj:shared:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:shared:similar\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -5174,6 +5647,25 @@
          {
             "text" : "manakai:dotless",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:dotless\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 32807
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 Annex P で specific position of a full ideograph を表す CJK統合漢字とされる符号位置から、 same structure without a preferred positional preference の CJK統合漢字の符号位置へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> Annex P で\u000Aspecific position of a full ideograph\u000Aを表す\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>とされる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor>から、\u000Asame structure without a preferred positional preference\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号位置\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:annexp:withoutposition",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:annexp:withoutposition\u003C/code>\u003C/dfn>"
          }
       ]
    },
