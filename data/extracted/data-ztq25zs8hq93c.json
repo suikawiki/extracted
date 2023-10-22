@@ -239,6 +239,44 @@
       ],
       "desc" : [
          {
+            "text" : "Unihan kJinmeiyoKanji のあるUnicode符号点から人名用漢字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kJinmeiyoKanji\u003C/code> のある\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode符号点\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>人名用漢字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kJinmeiyoKanji",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kJinmeiyoKanji\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1619
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kJinmeiyoKanji の standard form へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kJinmeiyoKanji\u003C/code> の standard form へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kJinmeiyoKanji:standard",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kJinmeiyoKanji:standard\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1619
+         }
+      ],
+      "desc" : [
+         {
             "text" : "2004-09-27人名用漢字の「同一字種」。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-09-27\u003C/time>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>人名用漢字\u003C/anchor>の「同一字種」。"
          }
@@ -1494,6 +1532,120 @@
          {
             "text" : "ucd:ligature of",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ucd:ligature of\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 5.2 CJK統合漢字のU字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 5.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode5.2:u:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode5.2:u:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 6.1 CJK統合漢字のU字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.1\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.1:u:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.1:u:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 6.2 CJK統合漢字のU字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.2:u:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.2:u:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 CJK統合漢字のU字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode15:u:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode15:u:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.1 CJK統合漢字のU字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.1\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode15.1:u:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode15.1:u:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 (西暦2023年2023時点) CJK統合漢字のU字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> (\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>西暦2023年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2023\u003C/attrvalue>\u003C/time>時点)\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2023:u:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2023:u:glyph:equiv\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -2851,6 +3003,449 @@
          {
             "text" : "manakai:similarglyph",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:similarglyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "JIS X 0213:2004 の反映のための変更があったもののみ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> の反映のための変更があったもののみ。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "CJK統合漢字のJ字形の平成明朝グリフ。 JIS X 0213:2004 反映後のもの。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成明朝\u003C/anchor>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>グリフ\u003C/anchor>。 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2004\u003C/anchor> 反映後のもの。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode:j:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode:j:glyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646-1:1993 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646-1:1993\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:1993:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:1993:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646-1:1993 CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646-1:1993\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:1993:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:1993:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646-1:2000 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646-1:2000\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2000:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2000:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646-1:2000 CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646-1:2000\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2000:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2000:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 (西暦2003年2003時点) CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> (\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>西暦2003年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2003\u003C/attrvalue>\u003C/time>時点)\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2003:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2003:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 (西暦2003年2003時点) CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> (\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>西暦2003年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2003\u003C/attrvalue>\u003C/time>時点)\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2003:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2003:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 (西暦2008年2008時点) CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> (\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>西暦2008年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2008\u003C/attrvalue>\u003C/time>時点)\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2008:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2008:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 (西暦2010年2010時点) CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> (\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>西暦2010年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2010\u003C/attrvalue>\u003C/time>時点)\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2010:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2010:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646:2020 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646:2020\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2020:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2020:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 (西暦2023年2023時点) CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> (\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>西暦2023年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2023\u003C/attrvalue>\u003C/time>時点)\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2023:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2023:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "ISO/IEC 10646 (西暦2023年2023時点) CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10646\u003C/anchor> (\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>西暦2023年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2023\u003C/attrvalue>\u003C/time>時点)\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "iso10646:2023:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>iso10646:2023:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 5.2 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 5.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode5.2:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode5.2:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 5.2 CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 5.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode5.2:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode5.2:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 6.1 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.1\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.1:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.1:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 6.1 CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.1\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.1:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.1:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 6.2 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.2:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.2:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 6.2 CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.2:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.2:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 13.0 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 13.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode13:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode13:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode15:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode15:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode15:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode15:j:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.1 CJK統合漢字のJ字形とほぼ同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.1\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode15.1:j:glyph:equiv",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode15.1:j:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25609
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.1 CJK統合漢字のJ字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.1\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>J字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode15.1:j:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode15.1:j:glyph:similar\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -5031,6 +5626,126 @@
       ],
       "desc" : [
          {
+            "text" : "Unicode 15.0 Unihan kIRG_VSource (V0, VN)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V0\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>VN\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kIRG_VSource",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kIRG_VSource\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3741
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 Unihan kIRG_VSource (V1)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V1\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kIRG_VSource:1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kIRG_VSource:1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3741
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 Unihan kIRG_VSource (V2)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V2\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kIRG_VSource:2",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kIRG_VSource:2\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3741
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 Unihan kIRG_VSource (V3)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V3\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kIRG_VSource:3",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kIRG_VSource:3\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3741
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 Unihan kIRG_VSource (V4)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V4\u003C/code>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kIRG_VSource:4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kIRG_VSource:4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3741
+         }
+      ],
+      "datanote" : [
+         {
+            "text" : "現行文字集合 (>>89) への補正後。",
+            "xml" : "\u000A現行文字集合 (\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002289\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;89\u003C/anchor-internal>) への補正後。"
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 3.0 Unihan kIRG_VSource 0。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode 3.0\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_VSource\u003C/code> 0。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan3.0:kIRG_VSource:0",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan3.0:kIRG_VSource:0\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3741
+         }
+      ],
+      "desc" : [
+         {
             "text" : "漢字データベースプロジェクト cjkvi-data/nom_qn.txt より注釈の V04 符号からIDSへ。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漢字データベースプロジェクト\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cjkvi-data/nom_qn.txt\u003C/code>\u000Aより注釈の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>V04\u003C/code> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>符号\u003C/anchor>から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDS\u003C/anchor>へ。"
          }
@@ -6077,6 +6792,44 @@
    {
       "_" : [
          {
+            "page_id" : 37751
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kIRG_KPSource。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_KPSource\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kIRG_KPSource",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kIRG_KPSource\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37751
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 15.0 Unihan kIRG_KPSource。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRG_KPSource\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kIRG_KPSource",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kIRG_KPSource\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 38085
          }
       ],
@@ -6090,6 +6843,25 @@
          {
             "text" : "manakai:hasglyph",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:hasglyph\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38085
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 14.0 字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 14.0 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode14:glyph",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode14:glyph\u003C/code>\u003C/dfn>"
          }
       ]
    },
@@ -6793,6 +7565,101 @@
          {
             "text" : "mj:ids:contains",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>mj:ids:contains\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43123
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kMorohashi (Unicode 3.0)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kMorohashi\u003C/code>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode 3.0\u003C/anchor>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan3.0:kMorohashi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan3.0:kMorohashi\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43123
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kAlternateMorohashi (Unicode 3.0)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kAlternateMorohashi\u003C/code>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode 3.0\u003C/anchor>)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan3.0:kAlternateMorohashi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan3.0:kAlternateMorohashi\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43123
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kMorohashi (Unicode 15.0)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kMorohashi\u003C/code>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kMorohashi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kMorohashi\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43123
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kIRGDaiKanwaZiten (Unicode 15.0)。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kIRGDaiKanwaZiten\u003C/code>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 15.0)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan15:kIRGDaiKanwaZiten",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan15:kIRGDaiKanwaZiten\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43123
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unihan kMorohashi。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unihan\u003C/anchor> \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kMorohashi\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unihan:kMorohashi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unihan:kMorohashi\u003C/code>\u003C/dfn>"
          }
       ]
    },
