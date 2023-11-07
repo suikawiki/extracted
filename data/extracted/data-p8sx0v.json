@@ -1045,6 +1045,45 @@
    {
       "_" : [
          {
+            "page_id" : 32844
+         }
+      ],
+      "四半回転類似" : [
+         {
+            "text" : "‖",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>‖\u003C/anchor>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "〓",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〓\u003C/anchor>"
+         },
+         {
+            "text" : "ニ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ニ\u003C/anchor>"
+         },
+         {
+            "text" : "二",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>二\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "=",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>=\u003C/anchor>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "-",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>-\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 33519
          }
       ],
@@ -1848,6 +1887,48 @@
          {
             "text" : "血",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>血\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44714
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "キ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>キ\u003C/anchor>"
+         },
+         {
+            "text" : "さ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>さ\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "き",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>き\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44714
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "≠",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>≠\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "キ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>キ\u003C/anchor>"
          }
       ]
    },
