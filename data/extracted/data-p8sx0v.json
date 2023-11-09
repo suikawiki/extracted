@@ -730,6 +730,25 @@
    {
       "_" : [
          {
+            "page_id" : 28636
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "1日",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>1日\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "旧",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>旧\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 29489
          }
       ],
