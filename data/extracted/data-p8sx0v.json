@@ -1768,6 +1768,10 @@
          {
             "text" : "ほ",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ほ\u003C/anchor>"
+         },
+         {
+            "text" : "しよ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>しよ\u003C/anchor>"
          }
       ],
       "文字" : [
