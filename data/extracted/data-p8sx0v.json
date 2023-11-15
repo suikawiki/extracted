@@ -1250,6 +1250,31 @@
       ]
    },
    {
+      "IDS" : [
+         {
+            "text" : "⿰十十",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>⿰十十\u003C/code>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 38429
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "卄󠄁",
+            "xml" : "\u003Csw-l xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>卄󠄁\u003C/sw-l>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "𠥼",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𠥼\u003C/anchor>"
+         }
+      ]
+   },
+   {
       "_" : [
          {
             "page_id" : 38626
