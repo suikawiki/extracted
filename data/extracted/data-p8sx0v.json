@@ -1221,8 +1221,8 @@
       ],
       "文字" : [
          {
-            "text" : "㇯]",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>㇯]\u003C/code>"
+            "text" : "㇯",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>㇯\u003C/code>"
          }
       ]
    },
@@ -1639,6 +1639,10 @@
          {
             "text" : "陽",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>陽\u003C/code>"
+         },
+         {
+            "text" : "火",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>火\u003C/code>"
          }
       ],
       "字形類似" : [
@@ -1653,6 +1657,10 @@
          {
             "text" : "θ",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>θ\u003C/code>"
+         },
+         {
+            "text" : "⊖",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>⊖\u003C/code>"
          }
       ],
       "文字" : [
