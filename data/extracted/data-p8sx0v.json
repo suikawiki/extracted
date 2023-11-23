@@ -1068,6 +1068,25 @@
    {
       "_" : [
          {
+            "page_id" : 31879
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ハム",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ハム\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "公",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>公\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 32672
          }
       ],
