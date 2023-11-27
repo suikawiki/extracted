@@ -2243,6 +2243,33 @@
    {
       "_" : [
          {
+            "page_id" : 44872
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "頚",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>頚\u003C/anchor>"
+         },
+         {
+            "text" : "馘",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>馘\u003C/anchor>"
+         },
+         {
+            "text" : "馘首",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>馘首\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "首",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>首\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
