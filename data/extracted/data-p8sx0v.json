@@ -2270,6 +2270,29 @@
    {
       "_" : [
          {
+            "page_id" : 44875
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "賜",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>賜\u003C/anchor>"
+         },
+         {
+            "text" : "玉",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>玉\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "給",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>給\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
