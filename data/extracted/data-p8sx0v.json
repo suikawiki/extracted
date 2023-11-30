@@ -2293,6 +2293,39 @@
    {
       "_" : [
          {
+            "page_id" : 44890
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "侍",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>侍\u003C/anchor>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "十一",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>十一\u003C/sw-v>"
+         },
+         {
+            "text" : "土",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>土\u003C/anchor>"
+         },
+         {
+            "text" : "±",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>±\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "士",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>士\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
