@@ -2995,6 +2995,367 @@
       ],
       "desc" : [
          {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:HKVariants",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:HKVariants\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:JPShinjitaiCharacters",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:JPShinjitaiCharacters\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:JPVariants",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:JPVariants\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:STCharacters",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:STCharacters\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:TSCharacters",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:TSCharacters\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:TWVariants",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:TWVariants\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:st_multi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:st_multi\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:ts_multi",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:ts_multi\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "OpenCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "opencc:variant",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>opencc:variant\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:CNTradVariants",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:CNTradVariants\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:CNTradVariantsRev",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:CNTradVariantsRev\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:HKVariants",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:HKVariants\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:HKVariantsRev",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:HKVariantsRev\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:JPVariants",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:JPVariants\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:JPVariantsRev",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:JPVariantsRev\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:TWVariants",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:TWVariants\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "StarCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>StarCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "starcc:TWVariantsRev",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>starcc:TWVariantsRev\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "GujiCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>GujiCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "gujicc:SGCharacters",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>gujicc:SGCharacters\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "GujiCC",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>GujiCC\u003C/anchor>"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "gujicc:GSCharacters",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>gujicc:GSCharacters\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
             "text" : "同じ書体かつ当該書体の構造上同等と考えられる字形。 図形として同一であるとは限らない。",
             "xml" : "\u000A同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>かつ当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>の構造上同等と考えられる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。\u000A図形として同一であるとは限らない。"
          }

@@ -1504,6 +1504,31 @@
    {
       "_" : [
          {
+            "page_id" : 38678
+         }
+      ],
+      "代替表現" : [
+         {
+            "text" : "々",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>々\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "〻",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〻\u003C/anchor>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "二",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>二\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 39399
          }
       ],
