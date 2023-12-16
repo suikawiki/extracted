@@ -805,6 +805,29 @@
    {
       "_" : [
          {
+            "page_id" : 29055
+         }
+      ],
+      "代替表現" : [
+         {
+            "text" : "\u0022",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&quot;\u003C/anchor>"
+         },
+         {
+            "text" : "”",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>”\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "゙",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>゙\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3198
          }
       ],
