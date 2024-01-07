@@ -2549,6 +2549,21 @@
    {
       "_" : [
          {
+            "page_id" : 35329
+         }
+      ],
+      "items" : [
+         {
+            "xml" : "\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002258\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[58]\u003C/anchor-end> \u000A\u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022label\u0022>\u003Ccite>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>山形県史\u003C/anchor> 資料編五\u003C/cite> \u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>梅本坊文書\u003C/csection> 六号 \u003Ccite>別当所犬房丸僧職坊地補任状案\u003C/cite>\u003C/data>,\u000A\u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022text\u0022>延徳元年辛巳十二月廿七日\u003C/data>\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002237\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;37\u003C/anchor-internal>\u003C/src>"
+         },
+         {
+            "xml" : "\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002260\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[60]\u003C/anchor-end> \u000A\u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022label\u0022>\u003Ccite>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>山形県史\u003C/anchor> 資料編五\u003C/cite> \u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>梅本坊文書\u003C/csection> 七号 \u003Ccite>大江真木遠江守広主・大輔元主連署副状\u003C/cite>\u003C/data>,\u000A\u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022text\u0022>延徳二秊\u003Clines xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 class=\u0022smaller\u0022>\u003Cline>壬\u003C/line>\u003Cline>午\u003C/line>\u003C/lines>正月廿日\u003C/data>\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002237\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;37\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 36139
          }
       ],
