@@ -2551,6 +2551,68 @@
    {
       "_" : [
          {
+            "page_id" : 45168
+         }
+      ],
+      "四半回転類似" : [
+         {
+            "text" : "い",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>い\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "乙",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>乙\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "こ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>こ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "3四半回転類似" : [
+         {
+            "text" : "冂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>冂\u003C/sw-ch>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 45168
+         }
+      ],
+      "四半回転類似" : [
+         {
+            "text" : "凵",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>凵\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ユ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ユ\u003C/sw-ch>"
+         }
+      ],
+      "左右反転類似" : [
+         {
+            "text" : "匚",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>匚\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "コ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>コ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
