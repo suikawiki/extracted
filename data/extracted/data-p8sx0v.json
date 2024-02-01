@@ -147,23 +147,27 @@
       "字形類似" : [
          {
             "text" : "O",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>O\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>O\u003C/sw-ch>"
          },
          {
             "text" : "2",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "Q",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Q\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Q\u003C/sw-ch>"
          }
       ],
       "関連" : [
          {
             "text" : "9",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>9\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>9\u003C/sw-ch>"
+         },
+         {
+            "text" : "級",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>級\u003C/sw-ch>"
          }
       ]
    },
@@ -1229,7 +1233,46 @@
       "文字" : [
          {
             "text" : "2",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 32672
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "三",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>三\u003C/sw-ch>"
+         },
+         {
+            "text" : "一",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一\u003C/sw-ch>"
+         },
+         {
+            "text" : "一一",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一一\u003C/sw-v>"
+         },
+         {
+            "text" : "ニ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ニ\u003C/sw-ch>"
+         },
+         {
+            "text" : "乙",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>乙\u003C/sw-ch>"
+         },
+         {
+            "text" : "こ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>こ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "二",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>二\u003C/sw-ch>"
          }
       ]
    },
@@ -1542,6 +1585,29 @@
          {
             "text" : "ヒ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヒ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37909
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "由",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>由\u003C/sw-ch>"
+         },
+         {
+            "text" : "甲",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>甲\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "田",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>田\u003C/sw-ch>"
          }
       ]
    },
@@ -2729,6 +2795,44 @@
    {
       "_" : [
          {
+            "page_id" : 45175
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "紬",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>紬\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "細",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>細\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45176
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "末",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>末\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "未",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>未\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
@@ -2760,17 +2864,36 @@
       "字形類似" : [
          {
             "text" : "P",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>P\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>P\u003C/sw-ch>"
          },
          {
             "text" : "尺",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>尺\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>尺\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "R",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>R\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>R\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6297
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "v",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>v\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "r",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>r\u003C/sw-ch>"
          }
       ]
    },
