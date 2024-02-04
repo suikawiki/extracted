@@ -2833,6 +2833,228 @@
    {
       "_" : [
          {
+            "page_id" : 45178
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "弥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弥\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "𣃥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𣃥\u003C/sw-ch>"
+         },
+         {
+            "text" : "彌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>彌\u003C/sw-ch>"
+         },
+         {
+            "text" : "瓕",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>瓕\u003C/sw-ch>"
+         },
+         {
+            "text" : "瀰",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>瀰\u003C/sw-ch>"
+         },
+         {
+            "text" : "镾",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>镾\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45178
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𭥇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𭥇\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "彌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>彌\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45178
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𣃥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𣃥\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "彌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>彌\u003C/sw-ch>"
+         },
+         {
+            "text" : "弥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弥\u003C/sw-ch>"
+         },
+         {
+            "text" : "㫆",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㫆\u003C/sw-ch>"
+         },
+         {
+            "text" : "旀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>旀\u003C/sw-ch>"
+         },
+         {
+            "text" : "㢱",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㢱\u003C/sw-ch>"
+         },
+         {
+            "text" : "厼",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>厼\u003C/sw-ch>"
+         },
+         {
+            "text" : "𭥇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𭥇\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45178
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "㫆",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㫆\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "彌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>彌\u003C/sw-ch>"
+         },
+         {
+            "text" : "弥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弥\u003C/sw-ch>"
+         },
+         {
+            "text" : "𣃥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𣃥\u003C/sw-ch>"
+         },
+         {
+            "text" : "旀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>旀\u003C/sw-ch>"
+         },
+         {
+            "text" : "㢱",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㢱\u003C/sw-ch>"
+         },
+         {
+            "text" : "厼",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>厼\u003C/sw-ch>"
+         },
+         {
+            "text" : "𭥇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𭥇\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45178
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "旀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>旀\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "彌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>彌\u003C/sw-ch>"
+         },
+         {
+            "text" : "弥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弥\u003C/sw-ch>"
+         },
+         {
+            "text" : "㫆",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㫆\u003C/sw-ch>"
+         },
+         {
+            "text" : "𣃥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𣃥\u003C/sw-ch>"
+         },
+         {
+            "text" : "㢱",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㢱\u003C/sw-ch>"
+         },
+         {
+            "text" : "厼",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>厼\u003C/sw-ch>"
+         },
+         {
+            "text" : "𭥇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𭥇\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45178
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "㢱",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㢱\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "彌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>彌\u003C/sw-ch>"
+         },
+         {
+            "text" : "弥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弥\u003C/sw-ch>"
+         },
+         {
+            "text" : "㫆",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㫆\u003C/sw-ch>"
+         },
+         {
+            "text" : "𣃥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𣃥\u003C/sw-ch>"
+         },
+         {
+            "text" : "厼",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>厼\u003C/sw-ch>"
+         },
+         {
+            "text" : "𭥇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𭥇\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
