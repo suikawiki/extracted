@@ -3055,6 +3055,37 @@
    {
       "_" : [
          {
+            "page_id" : 45183
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "𠃊",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𠃊\u003C/sw-ch>"
+         },
+         {
+            "text" : "乚",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>乚\u003C/sw-ch>"
+         },
+         {
+            "text" : "レ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レ\u003C/sw-ch>"
+         },
+         {
+            "text" : "し",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>し\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "L",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>L\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
