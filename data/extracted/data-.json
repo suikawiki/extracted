@@ -2,6 +2,29 @@
    {
       "_" : [
          {
+            "page_id" : 45199
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "翅",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>翅\u003C/sw-ch>"
+         },
+         {
+            "text" : "羽根",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>羽根\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "羽",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>羽\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 6939
          }
       ],
