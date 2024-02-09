@@ -1389,6 +1389,35 @@
    {
       "_" : [
          {
+            "page_id" : 34781
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "主",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>主\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "王",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>王\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "玉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>玉\u003C/sw-ch>"
+         },
+         {
+            "text" : "皇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>皇\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 34918
          }
       ],
