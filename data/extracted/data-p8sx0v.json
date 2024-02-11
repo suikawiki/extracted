@@ -2485,13 +2485,17 @@
       "字形類似" : [
          {
             "text" : "≠",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>≠\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>≠\u003C/sw-ch>"
+         },
+         {
+            "text" : "チ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>チ\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "キ",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>キ\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>キ\u003C/sw-ch>"
          }
       ]
    },
