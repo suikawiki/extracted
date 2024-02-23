@@ -840,6 +840,37 @@
    {
       "_" : [
          {
+            "page_id" : 25832
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "B",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>B\u003C/sw-ch>"
+         },
+         {
+            "text" : "8",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>8\u003C/sw-ch>"
+         },
+         {
+            "text" : "阝",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>阝\u003C/sw-ch>"
+         },
+         {
+            "text" : "👂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>👂\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "β",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>β\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 26397
          }
       ],
@@ -1571,19 +1602,42 @@
       "半回転類似" : [
          {
             "text" : "9",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>9\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>9\u003C/sw-ch>"
          }
       ],
       "字形類似" : [
          {
             "text" : "b",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>b\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>b\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "6",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>6\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>6\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34918
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "元",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>元\u003C/sw-ch>"
+         },
+         {
+            "text" : "大",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>大\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "六",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>六\u003C/sw-ch>"
          }
       ]
    },
@@ -1693,6 +1747,37 @@
          {
             "text" : "ね",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ね\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37329
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "太",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>太\u003C/sw-ch>"
+         },
+         {
+            "text" : "犬",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>犬\u003C/sw-ch>"
+         },
+         {
+            "text" : "元",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>元\u003C/sw-ch>"
+         },
+         {
+            "text" : "六",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>六\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "大",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>大\u003C/sw-ch>"
          }
       ]
    },
@@ -2905,6 +2990,10 @@
          {
             "text" : "l3",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>l3\u003C/sw-ch>"
+         },
+         {
+            "text" : "阝",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>阝\u003C/sw-ch>"
          }
       ],
       "文字" : [
