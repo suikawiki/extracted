@@ -1600,6 +1600,25 @@
       ],
       "desc" : [
          {
+            "text" : "Unicode 6.1 CJK統合漢字のU字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.1\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.1:u:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.1:u:glyph:similar\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
             "text" : "Unicode 6.2 CJK統合漢字のU字形とほぼ同等の字形。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>とほぼ同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
          }
@@ -1608,6 +1627,25 @@
          {
             "text" : "unicode6.2:u:glyph:equiv",
             "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.2:u:glyph:equiv\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14310
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "Unicode 6.2 CJK統合漢字のU字形と十分よく似た字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> 6.2\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CJK統合漢字\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U字形\u003C/anchor>と十分よく似た\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "unicode6.2:u:glyph:similar",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>unicode6.2:u:glyph:similar\u003C/code>\u003C/dfn>"
          }
       ]
    },
