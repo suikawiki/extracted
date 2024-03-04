@@ -753,6 +753,33 @@
    {
       "_" : [
          {
+            "page_id" : 21402
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "↑",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>↑\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "上",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>上\u003C/sw-ch>"
+         },
+         {
+            "text" : "→",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>→\u003C/sw-ch>"
+         },
+         {
+            "text" : "^",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>^\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 21924
          }
       ],
@@ -1278,6 +1305,65 @@
    {
       "_" : [
          {
+            "page_id" : 30114
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "空",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>空\u003C/sw-ch>"
+         },
+         {
+            "text" : "雨",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>雨\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "矢",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>矢\u003C/sw-ch>"
+         },
+         {
+            "text" : "失",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>失\u003C/sw-ch>"
+         },
+         {
+            "text" : "夭",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夭\u003C/sw-ch>"
+         },
+         {
+            "text" : "大",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>大\u003C/sw-ch>"
+         },
+         {
+            "text" : "一大",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一大\u003C/sw-v>"
+         },
+         {
+            "text" : "文",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "天",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>天\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "日",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日\u003C/sw-ch>"
+         },
+         {
+            "text" : "年",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>年\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 30675
          }
       ],
@@ -1285,6 +1371,10 @@
          {
             "text" : "ヒ",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ヒ\u003C/code>"
+         },
+         {
+            "text" : "亡",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亡\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -3699,6 +3789,37 @@
          {
             "text" : "損",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>損\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "3四半回転類似" : [
+         {
+            "text" : "3",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>3\u003C/sw-ch>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 45308
+         }
+      ],
+      "半回転類似" : [
+         {
+            "text" : "m",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>m\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "w",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>w\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ω",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ω\u003C/sw-ch>"
          }
       ]
    },
