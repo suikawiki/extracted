@@ -3826,6 +3826,99 @@
    {
       "_" : [
          {
+            "page_id" : 45313
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "烏",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>烏\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "鳥",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>鳥\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "3四半回転類似" : [
+         {
+            "text" : "の",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>の\u003C/sw-ch>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 45314
+         }
+      ],
+      "半回転類似" : [
+         {
+            "text" : "6",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>6\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "q",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>q\u003C/sw-ch>"
+         },
+         {
+            "text" : "○",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>○\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "9",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>9\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "九",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>九\u003C/sw-ch>"
+         },
+         {
+            "text" : "ix",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ix\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45314
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "丸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>丸\u003C/sw-ch>"
+         },
+         {
+            "text" : "几",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>几\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "九",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>九\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "久",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>久\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
