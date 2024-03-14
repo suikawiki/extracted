@@ -4012,6 +4012,39 @@
    {
       "_" : [
          {
+            "page_id" : 45344
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "睛",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>睛\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "晴",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>晴\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "☀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>☀\u003C/sw-ch>"
+         },
+         {
+            "text" : "☼",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>☼\u003C/sw-ch>"
+         },
+         {
+            "text" : "🌤",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🌤\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
