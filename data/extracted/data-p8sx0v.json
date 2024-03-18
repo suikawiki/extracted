@@ -4045,6 +4045,25 @@
    {
       "_" : [
          {
+            "page_id" : 45363
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "学",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>学\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "字",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
