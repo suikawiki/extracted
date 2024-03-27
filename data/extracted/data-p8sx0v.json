@@ -1541,13 +1541,13 @@
       "代替表記" : [
          {
             "text" : "囗",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>囗\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>囗\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "□",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>□\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>□\u003C/sw-ch>"
          }
       ],
       "異体字" : [
@@ -1567,27 +1567,27 @@
       "関連" : [
          {
             "text" : "○",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>○\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>○\u003C/sw-ch>"
          },
          {
             "text" : "×",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>×\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>×\u003C/sw-ch>"
          },
          {
             "text" : "△",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>△\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>△\u003C/sw-ch>"
          },
          {
             "text" : "〓",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〓\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〓\u003C/sw-ch>"
          },
          {
             "text" : "*",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>*\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>*\u003C/sw-ch>"
          },
          {
             "text" : "〼",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〼\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〼\u003C/sw-ch>"
          }
       ]
    },
