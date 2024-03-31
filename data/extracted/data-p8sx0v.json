@@ -1328,6 +1328,47 @@
    {
       "_" : [
          {
+            "page_id" : 3909
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "知",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>知\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "和",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>和\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "倭",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>倭\u003C/sw-ch>"
+         },
+         {
+            "text" : "日",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日\u003C/sw-ch>"
+         },
+         {
+            "text" : "🇯🇵",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇯🇵\u003C/sw-ch>"
+         },
+         {
+            "text" : "\u002B",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u002B\u003C/sw-ch>"
+         },
+         {
+            "text" : "∪",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>∪\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3956
          }
       ],
