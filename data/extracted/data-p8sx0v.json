@@ -4329,6 +4329,63 @@
    {
       "_" : [
          {
+            "page_id" : 45433
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "迷",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>迷\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "名",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45434
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "開",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "閉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>閉\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5222
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "問",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>問\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "間",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>間\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5336
          }
       ],
