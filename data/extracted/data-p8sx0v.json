@@ -923,6 +923,25 @@
       ],
       "字形類似" : [
          {
+            "text" : "之",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>之\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "え",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>え\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 22867
+         }
+      ],
+      "字形類似" : [
+         {
             "text" : "工",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>工\u003C/sw-ch>"
          },
