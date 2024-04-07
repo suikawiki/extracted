@@ -2444,12 +2444,22 @@
          {
             "text" : "甲",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>甲\u003C/sw-ch>"
+         },
+         {
+            "text" : "日",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "田",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>田\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "畑",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>畑\u003C/sw-ch>"
          }
       ]
    },
@@ -4537,6 +4547,31 @@
          {
             "text" : "閉",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>閉\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45449
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "一白",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一白\u003C/sw-v>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "百",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>百\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "100",
+            "xml" : "\u003Cn xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>100\u003C/n>"
          }
       ]
    },
