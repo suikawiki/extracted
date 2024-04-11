@@ -1358,6 +1358,25 @@
    {
       "_" : [
          {
+            "page_id" : 29913
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "",
+            "xml" : "\u003Creplace xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 by=\u0022swc639\u0022>\u003C/replace>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "🪜",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🪜\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3198
          }
       ],
