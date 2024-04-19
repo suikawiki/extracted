@@ -4805,6 +4805,52 @@
    {
       "_" : [
          {
+            "page_id" : 45480
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ɦ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ɦ\u003C/sw-ch>"
+         },
+         {
+            "text" : "h̑",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>h̑\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "fi",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>fi\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45481
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "塊",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>塊\u003C/sw-ch>"
+         },
+         {
+            "text" : "魄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>魄\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "魂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>魂\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
