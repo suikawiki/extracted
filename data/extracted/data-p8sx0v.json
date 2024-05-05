@@ -1073,6 +1073,37 @@
    {
       "_" : [
          {
+            "page_id" : 21912
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "𣺖",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𣺖\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𫞙",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𫞙\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : ":touki01050710",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:touki01050710\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "漭",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>漭\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 21924
          }
       ],
