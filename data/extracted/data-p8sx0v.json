@@ -3353,8 +3353,16 @@
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>☆\u003C/sw-ch>"
          },
          {
+            "text" : "★",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>★\u003C/sw-ch>"
+         },
+         {
             "text" : "星",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>星\u003C/sw-ch>"
+         },
+         {
+            "text" : "尻",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>尻\u003C/sw-ch>"
          }
       ]
    },
@@ -5618,6 +5626,31 @@
          {
             "text" : "7",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>7\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45556
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "宍",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>宍\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "完",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>完\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "宍",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>宍\u003C/sw-ch>"
          }
       ]
    },
