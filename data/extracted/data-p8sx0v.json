@@ -5757,6 +5757,29 @@
    {
       "_" : [
          {
+            "page_id" : 45613
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "式",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>式\u003C/sw-ch>"
+         },
+         {
+            "text" : "弐",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弐\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "武",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>武\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
