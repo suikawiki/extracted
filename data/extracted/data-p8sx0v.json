@@ -5780,6 +5780,111 @@
    {
       "_" : [
          {
+            "page_id" : 45616
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "周",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>周\u003C/sw-ch>"
+         },
+         {
+            "text" : "輪姦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>輪姦\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "回",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>回\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "廻",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>廻\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45617
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "演",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>演\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "殺",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>殺\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45618
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "為",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>為\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "成",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>成\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45619
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "炎",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>炎\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "涅槃",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>涅槃\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45620
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "華厳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>華厳\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "花ム",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>花ム\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
