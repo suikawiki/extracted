@@ -2618,6 +2618,25 @@
    {
       "_" : [
          {
+            "page_id" : 33684
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ㄱ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ㄱ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "L",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>L\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 34078
          }
       ],
@@ -2842,6 +2861,14 @@
          {
             "text" : "六",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>六\u003C/sw-ch>"
+         },
+         {
+            "text" : "丈",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>丈\u003C/sw-ch>"
+         },
+         {
+            "text" : "夫",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夫\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -5898,6 +5925,25 @@
          {
             "text" : "花ム",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>花ム\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45648
+         }
+      ],
+      "半回転類似" : [
+         {
+            "text" : "軟",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>軟\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "硬",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>硬\u003C/sw-ch>"
          }
       ]
    },
