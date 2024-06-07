@@ -3171,6 +3171,49 @@
    {
       "_" : [
          {
+            "page_id" : 38252
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "0̸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>0̸\u003C/sw-ch>"
+         },
+         {
+            "text" : "Ø",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ø\u003C/sw-ch>"
+         },
+         {
+            "text" : "0̷",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>0̷\u003C/sw-ch>"
+         },
+         {
+            "text" : "Φ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Φ\u003C/sw-ch>"
+         },
+         {
+            "text" : "🄍",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🄍\u003C/sw-ch>"
+         },
+         {
+            "text" : "⌀︀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⌀︀\u003C/sw-ch>"
+         },
+         {
+            "text" : "⌀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⌀\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "∅",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>∅\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 38265
          }
       ],
@@ -6185,6 +6228,115 @@
          {
             "text" : "¯",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>¯\u003C/sw-ch>"
+         },
+         {
+            "text" : "⃠",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022> ⃠\u003C/sw-ch>"
+         },
+         {
+            "text" : "非",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>非\u003C/sw-ch>"
+         },
+         {
+            "text" : "否",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>否\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45681
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "🛇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🛇\u003C/sw-ch>"
+         },
+         {
+            "text" : "🚫",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🚫\u003C/sw-ch>"
+         },
+         {
+            "text" : "0̸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>0̸\u003C/sw-ch>"
+         },
+         {
+            "text" : "∅",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>∅\u003C/sw-ch>"
+         },
+         {
+            "text" : "⦰",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⦰\u003C/sw-ch>"
+         },
+         {
+            "text" : "⍉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⍉\u003C/sw-ch>"
+         },
+         {
+            "text" : "Φ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Φ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "⃠",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022> ⃠\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45682
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "0⃓",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>0⃓\u003C/sw-ch>"
+         },
+         {
+            "text" : "⊖",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⊖\u003C/sw-ch>"
+         },
+         {
+            "text" : "⦵",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⦵\u003C/sw-ch>"
+         },
+         {
+            "text" : "日",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "Θ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Θ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45682
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "8",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>8\u003C/sw-ch>"
+         },
+         {
+            "text" : "💊",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>💊\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "θ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>θ\u003C/sw-ch>"
          }
       ]
    },
