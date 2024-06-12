@@ -672,6 +672,25 @@
    {
       "_" : [
          {
+            "page_id" : 15429
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "🇩🇪",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇩🇪\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "独",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>独\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 15950
          }
       ],
