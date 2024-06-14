@@ -3603,19 +3603,33 @@
       "字形類似" : [
          {
             "text" : "2",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2\u003C/sw-ch>"
          }
       ],
       "左右反転類似" : [
          {
             "text" : "S",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>S\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>S\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "Z",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Z\u003C/anchor>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Z\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "露",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>露\u003C/sw-ch>"
+         },
+         {
+            "text" : "ロ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ロ\u003C/sw-ch>"
+         },
+         {
+            "text" : "🇷🇺",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇷🇺\u003C/sw-ch>"
          }
       ]
    },
@@ -4497,6 +4511,25 @@
          {
             "text" : "ホ",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ホ\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44787
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "朮",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>朮\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ボ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ボ\u003C/sw-ch>"
          }
       ]
    },
