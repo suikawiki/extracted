@@ -1977,6 +1977,24 @@
             "text" : "口",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>口\u003C/sw-ch>"
          }
+      ],
+      "関連" : [
+         {
+            "text" : "ω",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ω\u003C/sw-ch>"
+         },
+         {
+            "text" : "ヮ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヮ\u003C/sw-ch>"
+         },
+         {
+            "text" : "👄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>👄\u003C/sw-ch>"
+         },
+         {
+            "text" : "🤐",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🤐\u003C/sw-ch>"
+         }
       ]
    },
    {
@@ -3498,6 +3516,25 @@
          {
             "text" : "惟",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>惟\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38644
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "9",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>9\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "4",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>4\u003C/sw-ch>"
          }
       ]
    },
