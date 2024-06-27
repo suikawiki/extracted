@@ -2031,6 +2031,25 @@
    {
       "_" : [
          {
+            "page_id" : 29769
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : ":UTC-0337",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:UTC-0337\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ユ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ユ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 29913
          }
       ],
@@ -2823,6 +2842,25 @@
          {
             "text" : "さ",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>さ\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 33519
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : ":UTC-03396",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:UTC-03396\u003C/code>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "サ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>サ\u003C/sw-ch>"
          }
       ]
    },
@@ -6330,6 +6368,10 @@
          {
             "text" : "演",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>演\u003C/sw-ch>"
+         },
+         {
+            "text" : "遣",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>遣\u003C/sw-ch>"
          }
       ],
       "文字" : [
