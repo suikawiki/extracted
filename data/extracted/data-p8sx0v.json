@@ -287,6 +287,25 @@
    {
       "_" : [
          {
+            "page_id" : 14382
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "李",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>李\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "季",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>季\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 14403
          }
       ],
