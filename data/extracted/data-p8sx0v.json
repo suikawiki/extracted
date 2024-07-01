@@ -6811,6 +6811,33 @@
    {
       "_" : [
          {
+            "page_id" : 45747
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ア一",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ア一\u003C/sw-v>"
+         },
+         {
+            "text" : "卫",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>卫\u003C/sw-ch>"
+         },
+         {
+            "text" : "𠀄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𠀄\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ヱ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヱ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
