@@ -1478,6 +1478,25 @@
    {
       "_" : [
          {
+            "page_id" : 24941
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ĸ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ĸ\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "Kʼ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Kʼ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 24965
          }
       ],
@@ -2403,6 +2422,29 @@
          {
             "text" : "年",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>年\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 30232
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "^",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>^\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "↑",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>↑\u003C/sw-ch>"
+         },
+         {
+            "text" : "**",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>**\u003C/code>"
          }
       ]
    },
@@ -3975,6 +4017,18 @@
          {
             "text" : "尻",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>尻\u003C/sw-ch>"
+         },
+         {
+            "text" : "・",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>・\u003C/sw-ch>"
+         },
+         {
+            "text" : "•",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>•\u003C/sw-ch>"
+         },
+         {
+            "text" : "×",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>×\u003C/sw-ch>"
          }
       ]
    },
