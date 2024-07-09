@@ -4735,6 +4735,12 @@
             "page_id" : 44754
          }
       ],
+      "上下反転類似" : [
+         {
+            "text" : "^",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>^\u003C/sw-ch>"
+         }
+      ],
       "半回転類似" : [
          {
             "text" : "^",
@@ -4785,6 +4791,14 @@
          {
             "text" : "5",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>5\u003C/code>"
+         },
+         {
+            "text" : "越",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>越\u003C/sw-ch>"
+         },
+         {
+            "text" : "🇻🇳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇻🇳\u003C/sw-ch>"
          }
       ]
    },
