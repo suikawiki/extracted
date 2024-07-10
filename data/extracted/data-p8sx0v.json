@@ -1071,6 +1071,25 @@
    {
       "_" : [
          {
+            "page_id" : 19804
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "小",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>小\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "川",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>川\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 2384
          }
       ],
