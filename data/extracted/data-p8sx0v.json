@@ -6423,6 +6423,14 @@
          {
             "text" : "占",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>占\u003C/sw-ch>"
+         },
+         {
+            "text" : "吉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>吉\u003C/sw-ch>"
+         },
+         {
+            "text" : "十口",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>十口\u003C/sw-v>"
          }
       ],
       "文字" : [
@@ -7010,6 +7018,31 @@
          {
             "text" : "ヱ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヱ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45795
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "雄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>雄\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "男",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>男\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "♂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>♂\u003C/sw-ch>"
          }
       ]
    },
