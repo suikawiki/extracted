@@ -7341,6 +7341,60 @@
    {
       "_" : [
          {
+            "page_id" : 6086
+         }
+      ],
+      "四半回転類似" : [
+         {
+            "text" : "Z",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Z\u003C/sw-ch>"
+         }
+      ],
+      "左右反転類似" : [
+         {
+            "text" : "И",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>И\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "N",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>N\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6086
+         }
+      ],
+      "半回転類似" : [
+         {
+            "text" : "u",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>u\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "∩",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>∩\u003C/sw-ch>"
+         },
+         {
+            "text" : "ん",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ん\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "n",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>n\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 7524
          }
       ],
