@@ -1866,6 +1866,12 @@
             "page_id" : 28242
          }
       ],
+      "字形類似" : [
+         {
+            "text" : "弓",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弓\u003C/sw-ch>"
+         }
+      ],
       "文字" : [
          {
             "text" : "方",
@@ -5051,6 +5057,10 @@
          {
             "text" : "♭",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>♭\u003C/sw-ch>"
+         },
+         {
+            "text" : "ℓ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ℓ\u003C/sw-ch>"
          }
       ],
       "左右反転類似" : [
@@ -7076,6 +7086,25 @@
          {
             "text" : "思",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>思\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45818
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𥝱",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𥝱\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "秭",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>秭\u003C/sw-ch>"
          }
       ]
    },
