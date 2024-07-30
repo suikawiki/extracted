@@ -3247,12 +3247,22 @@
          {
             "text" : "b",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>b\u003C/sw-ch>"
+         },
+         {
+            "text" : "8",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>8\u003C/sw-ch>"
          }
       ],
       "文字" : [
          {
             "text" : "6",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>6\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "六",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>六\u003C/sw-ch>"
          }
       ]
    },
@@ -4307,6 +4317,14 @@
          {
             "text" : "t",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>t\u003C/sw-ch>"
+         },
+         {
+            "text" : "ナ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ナ\u003C/sw-ch>"
+         },
+         {
+            "text" : "×",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>×\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -7588,6 +7606,10 @@
          {
             "text" : "尺",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>尺\u003C/sw-ch>"
+         },
+         {
+            "text" : "A",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>A\u003C/sw-ch>"
          }
       ],
       "文字" : [
