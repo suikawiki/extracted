@@ -9,7 +9,7 @@ Path::Class~0.37
 Path::Tiny~0.146
 Scalar::Util~1.64
 Socket~2.038
-Term::Table~0.018
+Term::Table~0.020
 Test::Class~0.52
 Test::Differences~0.71
 Test::More~1.302200
