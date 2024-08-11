@@ -1,0 +1,40 @@
+[
+   {
+      "_" : [
+         {
+            "page_id" : 2610
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "html",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "HTML文書の根要素として使われます。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML文書\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>根要素\u003C/anchor>として使われます。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2610
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "html",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "innerHTML IDL属性などから呼び出される素片構文解析の実行時に内部的に根要素として使われます。 仕様書のアルゴリズムの定義上の存在で、 一般利用者も著者のスクリプトも直接観測する方法はありません。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>innerHTML\u003C/code> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IDL属性\u003C/anchor>などから呼び出される\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>素片構文解析\u003C/anchor>の実行時に内部的に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>根要素\u003C/anchor>として使われます。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>仕様書\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アルゴリズム\u003C/anchor>の定義上の存在で、\u000A一般\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>利用者\u003C/anchor>も\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>著者\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スクリプト\u003C/anchor>も直接観測する方法はありません。"
+         }
+      ]
+   }
+]
