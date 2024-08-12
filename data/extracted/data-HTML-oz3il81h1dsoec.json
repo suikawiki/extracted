@@ -2,6 +2,127 @@
    {
       "_" : [
          {
+            "page_id" : 245
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Re: status. Re: X11 BROWSER for WWW, Tim Berners-Lee, Tue, 29 Oct 91 10:03:11 GMT\u002B01001991-10-29T10:03:11\u002B01:00, 2003-08-04T15:50:19.000Z, 2024-08-12T07:23:31.540Z https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: status. Re: X11 BROWSER for WWW\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 29 Oct 91 10:03:11 GMT\u002B0100\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1991-10-29T10:03:11\u002B01:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:19.000Z\u003C/time>, \u003Ctime>2024-08-12T07:23:31.540Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1991-10-29",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-10-29\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "h1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>"
+         },
+         {
+            "text" : "h2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>"
+         },
+         {
+            "text" : "h3",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>"
+         },
+         {
+            "text" : "h4",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h4\u003C/code>"
+         },
+         {
+            "text" : "h5",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h5\u003C/code>"
+         },
+         {
+            "text" : "h6",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h6\u003C/code>"
+         },
+         {
+            "text" : "section",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code>"
+         },
+         {
+            "text" : "h",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1991-10-29の Tim Berners-Lee の電子メールには、 h1 等が AAP DTD に由来すること、 要素名の付番ではなく section の入れ子と付番のない h で表現する方が良いと考えていたことが記されている。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-10-29\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>には、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code> 等が \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>AAP DTD\u003C/anchor> \u000Aに由来すること、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>付番\u003C/anchor>ではなく\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>入れ子\u003C/anchor>と\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>付番\u003C/anchor>のない \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h\u003C/code>\u000Aで表現する方が良いと考えていたことが記されている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 684
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Re: status. Re: X11 BROWSER for WWW, Tim Berners-Lee, Tue, 29 Oct 91 10:03:11 GMT\u002B01001991-10-29T10:03:11\u002B01:00, 2003-08-04T15:50:19.000Z, 2024-08-12T07:23:31.540Z https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: status. Re: X11 BROWSER for WWW\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 29 Oct 91 10:03:11 GMT\u002B0100\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1991-10-29T10:03:11\u002B01:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:19.000Z\u003C/time>, \u003Ctime>2024-08-12T07:23:31.540Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1991-10-29",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-10-29\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "hp1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hp1\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1991-10-29の Tim Berners-Lee の電子メールに highlight のための HP1 etc への言及があるが、 未使用だったという。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-10-29\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>に\u000Ahighlight \u000Aのための\u000AHP1 etc\u000Aへの言及があるが、\u000A未使用だったという。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14256
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Re: status. Re: X11 BROWSER for WWW, Tim Berners-Lee, Tue, 29 Oct 91 10:03:11 GMT\u002B01001991-10-29T10:03:11\u002B01:00, 2003-08-04T15:50:19.000Z, 2024-08-12T07:23:31.540Z https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: status. Re: X11 BROWSER for WWW\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 29 Oct 91 10:03:11 GMT\u002B0100\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1991-10-29T10:03:11\u002B01:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:19.000Z\u003C/time>, \u003Ctime>2024-08-12T07:23:31.540Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1991-10-29",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-10-29\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1991-10-29の Tim Berners-Lee の電子メールに base address tag への言及があるが、 構想だけで未使用だった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-10-29\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>に\u000Abase address tag\u000Aへの言及があるが、\u000A構想だけで未使用だった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 2610
          }
       ],
