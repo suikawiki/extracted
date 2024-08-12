@@ -2,6 +2,31 @@
    {
       "_" : [
          {
+            "page_id" : 143
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-01",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-01\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-01付の HTML DTD が現存 DTD における初出。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-01\u003C/time>付の HTML DTD\u000Aが現存 DTD における初出。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 245
          }
       ],
@@ -106,6 +131,72 @@
          {
             "text" : "1992-01-09の電子メール所収の現存最古の HTML 仕様書に h1, h2, h3 h4, h5, h6 が含まれている。 Several levels (at least six) とあり、 更に拡張することも想定されていたようだ。 これらは AAP DTD から派生した CERN SGML guide に由来すると説明されている。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-01-09\u003C/time>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>所収の現存最古の HTML 仕様書に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h4\u003C/code>, \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h5\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h6\u003C/code>\u000Aが含まれている。 Several levels (at least six) とあり、\u000A更に拡張することも想定されていたようだ。\u000Aこれらは \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>AAP DTD\u003C/anchor> から派生した \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CERN SGML guide\u003C/anchor>\u000Aに由来すると説明されている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 321
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-04-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "form",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "select",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>"
+         },
+         {
+            "text" : "option",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>"
+         },
+         {
+            "text" : "textarea",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-04-07に HTML DTD に追加されました。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>に HTML DTD に追加されました。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 405
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-11-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "hr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hr\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-11-30付の HTML DTD が現存 DTD における初出。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-30\u003C/time>付の HTML DTD\u000Aが現存 DTD における初出。"
          }
       ]
    },
@@ -257,6 +348,41 @@
    {
       "_" : [
          {
+            "page_id" : 737
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "[28] HTML todo list, Dan Connolly, Mon, 11 Jan 93 22:36:43 CST1993-01-11T22:36:43-06:00, 1995-08-08T03:09:23.000Z, 2024-08-12T12:45:30.898Z https://ksi.cpsc.ucalgary.ca/archives/WWW-TALK/www-talk-1993q1.messages/39.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002228\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[28]\u003C/anchor-end> \u000A\u003Ccite>HTML todo list\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Mon, 11 Jan 93 22:36:43 CST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-01-11T22:36:43-06:00\u003C/attrvalue>\u003C/time>, \u000A\u003Ctime>1995-08-08T03:09:23.000Z\u003C/time>, \u003Ctime>2024-08-12T12:45:30.898Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://ksi.cpsc.ucalgary.ca/archives/WWW-TALK/www-talk-1993q1.messages/39.html\u0022>https://ksi.cpsc.ucalgary.ca/archives/WWW-TALK/www-talk-1993q1.messages/39.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-12-03",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-03\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "header",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>header\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-12-03付の Dan Connolly HTML DTD は、 head を含めている。 head の初出と思われる。 このときまで Tim Berners-Lee は header と呼んでいたが、なぜ head に変えたのかは説明がない。 1993-01-11付の Dan Connolly の電子メールによると CERN は header で実装していたようだが、 head への修正を求められている。 >>28",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-03\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000AHTML DTD\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>\u000Aを含めている。 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code> の初出と思われる。\u000Aこのときまで\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>header\u003C/code> \u000Aと呼んでいたが、なぜ \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>\u000Aに変えたのかは説明がない。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-11\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>によると\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CERN\u003C/anchor>\u000Aは \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>header\u003C/code>\u000Aで実装していたようだが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>\u000Aへの修正を求められている。 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002228\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;28\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1356
          }
       ],
@@ -282,6 +408,60 @@
          {
             "text" : "1992-12-02付の Tim Berners-Lee のウェブページに現在の link 要素の構想が記されている。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページに現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>link\u003C/code>\u000A要素の構想が記されている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1356
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-01-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "link",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>link\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-01-06付の HTML DTD が現存 DTD における初出。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>付の HTML DTD\u000Aが現存 DTD における初出。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1798
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-07-15",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-07-15\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-07-15付の Dan Connolly の HTML DTD には body が含まれている。 body の初出と思われる。 前月の DTD までは section だったが、最外のみ body に改められ、入れ子で使うことはできなくなった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-07-15\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの HTML DTD \u000Aには\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aが含まれている。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aの初出と思われる。\u000A前月の DTD までは \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code> \u000Aだったが、最外のみ \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aに改められ、入れ子で使うことはできなくなった。"
+         },
+         {
+            "text" : "body の導入の理由は混合内容を避けるためと説明されている。 当時の HTML は現在の html, head, body がなく、 head や body の内容をそのまま書くだけの単純なものだった。 しかし title などを文書の先頭に1回だけ書くという制約を付けつつ、 本文の要素や文字列は自由に書けるという条件を SGML DTD では記述できなかった。そこで body を導入し開始タグと終了タグを省略可能とすることで、 これまで通りの文書の書き方を認めつつ SGML DTD で記述できるようにしたのである。 要素名は何でも良かったのであり、もうしばらく試行錯誤が続く。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aの導入の理由は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>混合内容\u003C/anchor>を避けるためと説明されている。\u000A当時の HTML は現在の \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aがなく、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code> \u000Aの内容をそのまま書くだけの単純なものだった。\u000Aしかし\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code> などを文書の先頭に1回だけ書くという制約を付けつつ、\u000A本文の要素や文字列は自由に書けるという条件を\u000ASGML DTD\u000Aでは記述できなかった。そこで \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aを導入し\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終了タグ\u003C/anchor>を省略可能とすることで、\u000Aこれまで通りの文書の書き方を認めつつ\u000ASGML DTD\u000Aで記述できるようにしたのである。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>は何でも良かったのであり、もうしばらく試行錯誤が続く。"
          }
       ]
    },
@@ -323,12 +503,37 @@
       ],
       "説明" : [
          {
-            "text" : "1992-11-19の Dan Connolly の電子メールによると、 DTD 起草にあたり文書の「body」の大部分を含める document 要素を新設した。 混合内容を避けるためと説明している。 代案として document ではなく body と名付け、現在の head に当たる heading を導入することも提案した。 >>45",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-11-19\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>によると、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A起草にあたり文書の「body」の大部分を含める\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>document\u003C/code>\u000A要素を新設した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>混合内容\u003C/anchor>を避けるためと説明している。\u000A代案として \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>document\u003C/code> ではなく \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code> \u000Aと名付け、現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code> に当たる \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>heading\u003C/code>\u000Aを導入することも提案した。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002245\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;45\u003C/anchor-internal>\u003C/src>"
+            "text" : "1992-11-19の Dan Connolly の電子メールは、 DTD 起草にあたり文書の「body」の大部分を含める document 要素を新設することとし、 代案として document ではなく body と名付け、現在の head に当たる heading を導入することも提案した。 >>45",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-11-19\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>は、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A起草にあたり文書の「body」の大部分を含める\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>document\u003C/code>\u000A要素を新設することとし、\u000A代案として \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>document\u003C/code> ではなく \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code> \u000Aと名付け、現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code> に当たる \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>heading\u003C/code>\u000Aを導入することも提案した。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002245\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;45\u003C/anchor-internal>\u003C/src>"
          },
          {
             "text" : "対する同じ日の Tim Berners-Lee の返信は、後者案を良しとした。 >>46 また、このとき編集されたと思われるウェブページでは、 後者案をもとに Header と Body と書いている。 (ただし Header は見出しであり、要素名は明らかでない。) >>44",
             "xml" : "\u000A対する同じ日の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aの返信は、後者案を良しとした。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002246\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;46\u003C/anchor-internal>\u003C/src>\u000Aまた、このとき編集されたと思われるウェブページでは、\u000A後者案をもとに Header と \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Body\u003C/code> と書いている。\u000A(ただし Header は見出しであり、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>は明らかでない。)\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002244\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;44\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 10792
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-04-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fig",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-04-07に HTML DTD に追加されました。 現在の figure に相当すると思われます。 しかしこのとき限りに終わり、以後の DTD には出現しません。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>に HTML DTD に追加されました。\u000A現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figure\u003C/code> \u000Aに相当すると思われます。\u000Aしかしこのとき限りに終わり、以後の DTD には出現しません。"
          }
       ]
    },
@@ -424,8 +629,64 @@
       ],
       "説明" : [
          {
-            "text" : "1992-12-02付の Tim Berners-Lee のウェブページに savedas 要素の構想が記されている。 メールされたときなど元の文脈を離れても相対URLを解決できるためのものと説明されている。 要素名は後の Internet Explorer の \u003C!-- saved from url --> 構文を思い起こさせる。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>savedas\u003C/code>\u000A要素の構想が記されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メール\u003C/anchor>されたときなど元の文脈を離れても\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>相対URL\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>解決\u003C/anchor>できるためのものと説明されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>は後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor> の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;!-- saved from url --&gt;\u003C/code>\u000A構文を思い起こさせる。"
+            "text" : "1992-12-02付の Tim Berners-Lee のウェブページに savedas 要素の構想が記されている。 メールされたときなど元の文脈を離れても相対URLを解決できるためのものと説明されている。 要素名は後の Internet Explorer の \u003C!-- saved from url --> 構文を思い起こさせる。 この要素名は実装されることなく、現在の base 要素となる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>savedas\u003C/code>\u000A要素の構想が記されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メール\u003C/anchor>されたときなど元の文脈を離れても\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>相対URL\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>解決\u003C/anchor>できるためのものと説明されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>は後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor> の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;!-- saved from url --&gt;\u003C/code>\u000A構文を思い起こさせる。\u000Aこの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>は実装されることなく、現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>\u000A要素となる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14256
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Hypertext Markup Language, Tim Berners-Lee, March 19931993-03, https://suika.suikawiki.org/www/2005/pre-id/html-spec-199303.pdf",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Hypertext Markup Language\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>March 1993\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-03\u003C/attrvalue>\u003C/time>, \u000A\u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://suika.suikawiki.org/www/2005/pre-id/html-spec-199303.pdf\u0022>https://suika.suikawiki.org/www/2005/pre-id/html-spec-199303.pdf\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-03-10",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-03-10\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-03-10版と思われる HTML 仕様書案に base の規定と DTD 定義があり、 現行要素名の最古である。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-03-10\u003C/time>版と思われる\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 仕様書案に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>\u000Aの規定と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> 定義があり、\u000A現行\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>の最古である。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14256
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007-04-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-04-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2007-04-30の Ian Hickson の IRC での発言によると、 Google 検索エンジンの収集したデータ中、5%のサイトが base を使っていました。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-04-30\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor> の IRC での発言によると、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google\u003C/anchor> 検索エンジンの収集したデータ中、5%のサイトが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code> \u000Aを使っていました。"
          }
       ]
    },
@@ -468,6 +729,62 @@
       ],
       "出典" : [
          {
+            "text" : "MIME as a hypertext architecture, Dan Connolly, Sat, 06 Jun 92 00:53:20 CDT1992-06-06T00:53:20-06:00, 2003-08-04T15:50:20.000Z, 2024-08-12T11:45:34.131Z https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>MIME as a hypertext architecture\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Sat, 06 Jun 92 00:53:20 CDT\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1992-06-06T00:53:20-06:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:20.000Z\u003C/time>, \u003Ctime>2024-08-12T11:45:34.131Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-06-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-06\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "html",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-06-06付の Dan Connolly の電子メールは、 HTML を SGML と MIME を活用して再構成することを具体的に提案したもので、 現存最古の HTML DTD が含まれている。 この DTD には html が含まれている。 html の初出と思われる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-06\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>は、\u000AHTML \u000Aを\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MIME\u003C/anchor>\u000Aを活用して再構成することを具体的に提案したもので、\u000A現存最古の HTML DTD が含まれている。\u000Aこの DTD には\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aが含まれている。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aの初出と思われる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2610
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-06-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "web-node",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>web-node\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-06-24付の Dan Connolly の HTML DTD は根要素を web-node としている。 前後の版は html としており、 迷いがあったようだ。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの HTML DTD\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>根要素\u003C/anchor>を\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>web-node\u003C/code>\u000Aとしている。\u000A前後の版は\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aとしており、\u000A迷いがあったようだ。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2610
+         }
+      ],
+      "出典" : [
+         {
             "text" : "HTML DTD issues, Dan Connolly, Thu, 19 Nov 92 04:37:23 CST1992-11-19T04:37:23-06:00, 2003-08-04T15:50:21.000Z, 2024-08-12T08:33:49.120Z https://lists.w3.org/Archives/Public/www-talk/1992NovDec/0068.html",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML DTD issues\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Thu, 19 Nov 92 04:37:23 CST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1992-11-19T04:37:23-06:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:21.000Z\u003C/time>, \u003Ctime>2024-08-12T08:33:49.120Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1992NovDec/0068.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1992NovDec/0068.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
@@ -486,8 +803,8 @@
       ],
       "説明" : [
          {
-            "text" : "1992-11-19の Dan Connolly の電子メールによると、 DTD 起草にあたり文書全体の要素として html を新設した。 開始タグと終了タグを省略可能とし従前の利用の形態を維持できるようにしている。 html の追加は SGML 仕様の要件を満たすことだけが目的だった。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-11-19\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>によると、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A起草にあたり\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>全体の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>として\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aを新設した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終了タグ\u003C/anchor>を省略可能とし従前の利用の形態を維持できるようにしている。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code> の追加は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> 仕様の要件を満たすことだけが目的だった。"
+            "text" : "1992-11-19の Dan Connolly の電子メールは、 DTD 起草にあたり文書全体の要素として html を新設したことを説明している。 html の追加は SGML 仕様の要件を満たすことだけが目的だった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-11-19\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>は、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A起草にあたり\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>全体の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>として\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aを新設したことを説明している。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code> の追加は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> 仕様の要件を満たすことだけが目的だった。"
          }
       ]
    },
@@ -561,6 +878,347 @@
          {
             "text" : "対する同じ日の Tim Berners-Lee の返信は、 有用そうなら復活させてもいいとしている。 ul と違う ol の意味を理解しつつも積極的に必要と感じていなかったようだ。 Line Mode Browser では ol は ul と同様にレンダリングされていたようで、 この実装方法が良いとしている。 >>26",
             "xml" : "\u000A対する同じ日の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aの返信は、\u000A有用そうなら復活させてもいいとしている。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code> と違う \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code> \u000Aの意味を理解しつつも積極的に必要と感じていなかったようだ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Line Mode Browser\u003C/anchor> では \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code> は \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>\u000Aと同様に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリング\u003C/anchor>されていたようで、\u000Aこの実装方法が良いとしている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002226\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;26\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2703
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-06-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "image",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-06-24付の Dan Connolly の HTML DTD に image がある。 HTML の SGML 化を模索していた時期で SGML実体を使う方法の提案だった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの HTML DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>\u000Aがある。\u000AHTML の SGML 化を模索していた時期で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML実体\u003C/anchor>を使う方法の提案だった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2084
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-04-01",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-01\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-04-01に HTML DTD に追加されました。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-01\u003C/time>に HTML DTD に追加されました。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2959
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-01-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "tt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tt\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         },
+         {
+            "text" : "i",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>i\u003C/code>"
+         },
+         {
+            "text" : "u",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>u\u003C/code>"
+         },
+         {
+            "text" : "code",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>code\u003C/code>"
+         },
+         {
+            "text" : "samp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>samp\u003C/code>"
+         },
+         {
+            "text" : "kbd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kbd\u003C/code>"
+         },
+         {
+            "text" : "key",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>key\u003C/code>"
+         },
+         {
+            "text" : "var",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>var\u003C/code>"
+         },
+         {
+            "text" : "dfn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dfn\u003C/code>"
+         },
+         {
+            "text" : "cite",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cite\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-01-06付のいわゆる HTML DTD が現存 DTD における初出。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>付のいわゆる HTML DTD\u000Aが現存 DTD における初出。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3148
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-05-17",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "strike",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strike\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-05-17の HTML DTD で追加された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>の HTML DTD で追加された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3154
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-05-17",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "u",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>u\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-05-17の HTML DTD で、 ハイパーリンクの下線と衝突するため広く対応されていないとの理由で、 任意選択の機能に格下げされた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>の HTML DTD で、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ハイパーリンク\u003C/anchor>の下線と衝突するため広く対応されていないとの理由で、\u000A任意選択の機能に格下げされた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3736
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Future plans for HTML, Tim Berners-Lee, 1992-12-02T18:35:56.000Z, 2024-08-12T09:20:27.147Z https://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Future.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Future plans for HTML\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1992-12-02T18:35:56.000Z\u003C/time>, \u003Ctime>2024-08-12T09:20:27.147Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Future.html\u0022>https://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Future.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-12-02",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-12-02付の Tim Berners-Lee のウェブページには、 xmp や listing と違ってタグを含められる、 新しい書式付け済み (formatted) で固定幅の要素の構想があります。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページには、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmp\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>listing\u003C/code>\u000Aと違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>を含められる、\u000A新しい書式付け済み (formatted) で固定幅の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の構想があります。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4717
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "MIME as a hypertext architecture, Dan Connolly, Sat, 06 Jun 92 00:53:20 CDT1992-06-06T00:53:20-06:00, 2003-08-04T15:50:20.000Z, 2024-08-12T11:45:34.131Z https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>MIME as a hypertext architecture\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Sat, 06 Jun 92 00:53:20 CDT\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1992-06-06T00:53:20-06:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:20.000Z\u003C/time>, \u003Ctime>2024-08-12T11:45:34.131Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-06-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-06\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "address",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-06-06付の Dan Connolly の電子メールは、 HTML を SGML と MIME を活用して再構成することを具体的に提案したもので、 現存最古の HTML DTD が含まれている。 この DTD には address が含まれている。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-06\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>は、\u000AHTML \u000Aを\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MIME\u003C/anchor>\u000Aを活用して再構成することを具体的に提案したもので、\u000A現存最古の HTML DTD が含まれている。\u000Aこの DTD には\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code>\u000Aが含まれている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45893
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-01-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "headers",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>headers\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-01-06付の HTML DTD が現存 DTD における初出。 1993-11-30付の HTML DTD では既に削除されている。 また、削除前も仕様書本文では説明されていない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>付の HTML DTD\u000Aが現存 DTD における初出。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-30\u003C/time>付の HTML DTD では既に削除されている。\u000Aまた、削除前も仕様書本文では説明されていない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45894
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-04-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "go",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>go\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-04-14に HTML DTD に追加されました。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-14\u003C/time>に HTML DTD に追加されました。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5108
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "MIME as a hypertext architecture, Dan Connolly, Sat, 06 Jun 92 00:53:20 CDT1992-06-06T00:53:20-06:00, 2003-08-04T15:50:20.000Z, 2024-08-12T11:45:34.131Z https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>MIME as a hypertext architecture\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Sat, 06 Jun 92 00:53:20 CDT\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1992-06-06T00:53:20-06:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:20.000Z\u003C/time>, \u003Ctime>2024-08-12T11:45:34.131Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-06-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-06\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "section",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-06-06付の Dan Connolly の電子メールは、 HTML を SGML と MIME を活用して再構成することを具体的に提案したもので、 現存最古の HTML DTD が含まれている。 この DTD には section が含まれている。 この時点ではまだ body がなく、 最外 section が現在の body のように使われる。 しかしこの翌月の DTD では section は使われなくなり、 body が導入されることになる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-06\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>は、\u000AHTML \u000Aを\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MIME\u003C/anchor>\u000Aを活用して再構成することを具体的に提案したもので、\u000A現存最古の HTML DTD が含まれている。\u000Aこの DTD には\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code>\u000Aが含まれている。\u000Aこの時点ではまだ\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aがなく、\u000A最外\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code>\u000Aが現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>\u000Aのように使われる。\u000Aしかしこの翌月の DTD では \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code> は使われなくなり、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code> が導入されることになる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5373
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-05-17",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "key",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>key\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-05-17の HTML DTD で、 広く対応されていないとの理由で、 任意選択の機能に格下げされた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>の HTML DTD で、\u000A広く対応されていないとの理由で、\u000A任意選択の機能に格下げされた。"
          }
       ]
    }
