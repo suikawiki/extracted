@@ -170,8 +170,8 @@
       ],
       "説明" : [
          {
-            "text" : "1994-04-07に HTML DTD に追加されました。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>に HTML DTD に追加されました。"
+            "text" : "1994-04-07に HTML DTD に追加された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>に HTML DTD に追加された。"
          }
       ]
    },
@@ -532,8 +532,8 @@
       ],
       "説明" : [
          {
-            "text" : "1994-04-07に HTML DTD に追加されました。 現在の figure に相当すると思われます。 しかしこのとき限りに終わり、以後の DTD には出現しません。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>に HTML DTD に追加されました。\u000A現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figure\u003C/code> \u000Aに相当すると思われます。\u000Aしかしこのとき限りに終わり、以後の DTD には出現しません。"
+            "text" : "1994-04-07に HTML DTD に追加された。 現在の figure に相当すると思われる。 しかしこのとき限りに終わり、以後の DTD には出現しない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>に HTML DTD に追加された。\u000A現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figure\u003C/code> \u000Aに相当すると思われる。\u000Aしかしこのとき限りに終わり、以後の DTD には出現しない。"
          }
       ]
    },
@@ -716,8 +716,33 @@
       ],
       "説明" : [
          {
-            "text" : "1992-12-02付の Tim Berners-Lee のウェブページに date 要素の構想が記されている。 文書の作成、編集、失効の日時を表すためのものだった。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>date\u003C/code>\u000A要素の構想が記されている。\u000A文書の作成、編集、失効の日時を表すためのものだった。"
+            "text" : "1992-12-02付の Tim Berners-Lee のウェブページに date 要素の構想がある。 文書の作成、編集、失効の日時を表すためのものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>date\u003C/code>\u000A要素の構想がある。\u000A文書の作成、編集、失効の日時を表すためのものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2275
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-02-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-02-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "blockquote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-02-04付の HTML DTD が現存最古。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-02-04\u003C/time>付の HTML DTD が現存最古。"
          }
       ]
    },
@@ -901,8 +926,8 @@
       ],
       "説明" : [
          {
-            "text" : "1992-06-24付の Dan Connolly の HTML DTD に image がある。 HTML の SGML 化を模索していた時期で SGML実体を使う方法の提案だった。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの HTML DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>\u000Aがある。\u000AHTML の SGML 化を模索していた時期で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML実体\u003C/anchor>を使う方法の提案だった。"
+            "text" : "1992-06-24付の Dan Connolly の HTML DTD に image がある。 HTML の SGML 化を模索していた時期のもので、 SGML実体を使う方法の提案だった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの HTML DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>\u000Aがある。\u000AHTML の SGML 化を模索していた時期のもので、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML実体\u003C/anchor>を使う方法の提案だった。"
          }
       ]
    },
@@ -999,8 +1024,8 @@
       ],
       "説明" : [
          {
-            "text" : "1993-01-06付のいわゆる HTML DTD が現存 DTD における初出。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>付のいわゆる HTML DTD\u000Aが現存 DTD における初出。"
+            "text" : "1993-01-06付の HTML DTD が現存 DTD における初出。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>付の HTML DTD\u000Aが現存 DTD における初出。"
          }
       ]
    },
@@ -1080,8 +1105,8 @@
       ],
       "説明" : [
          {
-            "text" : "1992-12-02付の Tim Berners-Lee のウェブページには、 xmp や listing と違ってタグを含められる、 新しい書式付け済み (formatted) で固定幅の要素の構想があります。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページには、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmp\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>listing\u003C/code>\u000Aと違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>を含められる、\u000A新しい書式付け済み (formatted) で固定幅の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の構想があります。"
+            "text" : "1992-12-02付の Tim Berners-Lee のウェブページに、 xmp や listing と違ってタグを含められる、 新しい書式付け済み (formatted) で固定幅の要素の構想がある。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmp\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>listing\u003C/code>\u000Aと違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>を含められる、\u000A新しい書式付け済み (formatted) で固定幅の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の構想がある。"
          }
       ]
    },
