@@ -32,6 +32,37 @@
       ],
       "出典" : [
          {
+            "text" : "Notes from WWWWW, Tony Sanders, Tue, 10 Aug 1993 16:56:28 -05001993-08-10T16:56:28-05:00, 2024-08-13T07:58:56.000Z http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Notes from WWWWW\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tony Sanders\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 10 Aug 1993 16:56:28 -0500\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-08-10T16:56:28-05:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T07:58:56.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-30まで開催されていた WWWWW で img と属性の追加が合意された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>まで開催されていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WWWWW\u003C/anchor>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>\u000Aと属性の追加が合意された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 143
+         }
+      ],
+      "出典" : [
+         {
             "text" : "[23] WWW-Talk Apr-Jun 1993: Re: HTML DTD, Dave Raggett, Wed, 19 May 93 14:50:37 BST1993-05-19T14:50:37\u002B00:00, 2024-08-13T02:50:16.000Z http://1997.webhistory.org/www.lists/www-talk.1993q2/0354.html",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[23]\u003C/anchor-end> \u000A\u003Ccite>WWW-Talk Apr-Jun 1993: Re: HTML DTD\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed, 19 May 93 14:50:37 BST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-05-19T14:50:37\u002B00:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T02:50:16.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q2/0354.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q2/0354.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
@@ -203,6 +234,37 @@
          {
             "text" : "1994-04-07に HTML DTD に追加された。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>に HTML DTD に追加された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 405
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Notes from WWWWW, Tony Sanders, Tue, 10 Aug 1993 16:56:28 -05001993-08-10T16:56:28-05:00, 2024-08-13T07:58:56.000Z http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Notes from WWWWW\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tony Sanders\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 10 Aug 1993 16:56:28 -0500\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-08-10T16:56:28-05:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T07:58:56.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "hr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hr\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-30まで開催されていた WWWWW で hr の追加が合意された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>まで開催されていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WWWWW\u003C/anchor>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hr\u003C/code>\u000Aの追加が合意された。"
          }
       ]
    },
@@ -501,7 +563,329 @@
    {
       "_" : [
          {
+            "page_id" : 1005
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "[41] Re: Searching]] Jim Whitescarver, Thu, 24 Dec 92 11:41:55 est1992-12-24T11:41:55-05:00, 2024-08-13T06:51:14.000Z http://1997.webhistory.org/www.lists/www-talk.1993q1/0005.html[42] INPUT tag (was: Searching), Jim Whitescarver, Sat, 16 Jan 93 13:26:25 est1993-01-16T13:26:25-05:00, 2024-08-13T06:54:03.000Z http://1997.webhistory.org/www.lists/www-talk.1993q1/0079.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002241\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[41]\u003C/anchor-end> \u000A\u003Ccite>Re: Searching\u003C/cite>]]\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Jim Whitescarver\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Thu, 24 Dec 92 11:41:55 est\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1992-12-24T11:41:55-05:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T06:51:14.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q1/0005.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q1/0005.html\u003C/anchor-external>\u003C/li>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[42]\u003C/anchor-end> \u000A\u003Ccite>INPUT tag (was: Searching)\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Jim Whitescarver\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Sat, 16 Jan 93 13:26:25 est\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-01-16T13:26:25-05:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T06:54:03.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q1/0079.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q1/0079.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1992-12-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "var",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>var\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1992-12-24、 Jim Whitescarver は電子メールで、 Web 以前のシステムの経験をもとに input を実装する意向を示した。 >>41 1993-01-16に転送した電子メールでは input, var の具体的な仕様も説明している。 >>42 現在の input とは若干の違いがあるが、その最古の提案である。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-24\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Jim Whitescarver\u003C/anchor>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>で、\u000AWeb 以前のシステムの経験をもとに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aを実装する意向を示した。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002241\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;41\u003C/anchor-internal>\u003C/src>\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-16\u003C/time>に転送した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>では\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>var\u003C/code>\u000Aの具体的な仕様も説明している。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002242\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;42\u003C/anchor-internal>\u003C/src>\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code> とは若干の違いがあるが、その最古の提案である。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1005
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Re: INPUT tag (was: Searching), Dan Connolly, Tue, 19 Jan 93 00:37:01 CST1993-01-19T00:37:01-06:00, 2024-08-13T07:09:51.000Z http://1997.webhistory.org/www.lists/www-talk.1993q1/0083.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: INPUT tag (was: Searching)\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 19 Jan 93 00:37:01 CST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-01-19T00:37:01-06:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T07:09:51.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q1/0083.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q1/0083.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-01-19",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-19\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "queryform",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>queryform\u003C/code>"
+         },
+         {
+            "text" : "recall",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>recall\u003C/code>"
+         },
+         {
+            "text" : "if",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>if\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-01-19、 Dan Connolly は Jim Whitescarver への返信でフォーム機能案を示した。 input はより現行のものに近づいた。 queryform は recall, if などを使った照会文の雛形を head 内で記述するもので、 XForms の model に近い。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-19\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Jim Whitescarver\u003C/anchor>\u000Aへの返信でフォーム機能案を示した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aはより現行のものに近づいた。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>queryform\u003C/code> \u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>recall\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>if\u003C/code>\u000Aなどを使った照会文の雛形を \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>\u000A内で記述するもので、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XForms\u003C/anchor>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>model\u003C/code>\u000Aに近い。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1005
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "QueryForms and Input tag, Dave Raggett, Tue, 19 Jan 93 15:59:34 GMT1993-01-19T15:59:34\u002B00:00, 2024-08-13T07:15:54.000Z http://1997.webhistory.org/www.lists/www-talk.1993q1/0085.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>QueryForms and Input tag\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 19 Jan 93 15:59:34 GMT\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-01-19T15:59:34\u002B00:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T07:15:54.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q1/0085.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q1/0085.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-01-19",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-19\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "select",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>"
+         },
+         {
+            "text" : "choice",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>choice\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-01-19、 Dave Raggett は Dan Connolly への返信でフォームコントロールの要件を整理し、 input, select, choice の案を提示した。 choice は現在の option に当たる。 select の初出。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-19\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aへの返信でフォームコントロールの要件を整理し、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>choice\u003C/code>\u000Aの案を提示した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>choice\u003C/code> は現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code> に当たる。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code> の初出。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1005
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd, Dave Raggett, Wed, 2 Jun 93 13:01:14 BST1993-06-02T13:01:14\u002B00:00, 2024-08-13T08:49:24.000Z http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed, 2 Jun 93 13:01:14 BST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-06-02T13:01:14\u002B00:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T08:49:24.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-06-02",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-06-02\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "select",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-06-02の Dave Raggett の電子メールによると、 直近の議論に基づき input, select が HTML\u002B DTD に追加された。 当時の版は現存せず、 choice なのか option なのか、 form はあったのかは不明。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-06-02\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>によると、\u000A直近の議論に基づき\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>\u000Aが HTML\u002B DTD に追加された。\u000A当時の版は現存せず、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>choice\u003C/code> なのか \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code> なのか、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code> はあったのかは不明。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1005
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "form",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD には form, mh, input がある。 form, input は現行仕様に近いが、違いもある。 mh は提出時のメールヘッダーを指定するもので、現在の mailto: URL の subject 引数に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aには\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mh\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aがある。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aは現行仕様に近いが、違いもある。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mh\u003C/code>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>提出\u003C/anchor>時の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メールヘッダー\u003C/anchor>を指定するもので、現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mailto:\u003C/code>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>URL\u003C/anchor> の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>subject\u003C/code> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>引数\u003C/anchor>に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1005
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Submitting input-form data to server, Pei Y. Wei, Sat, 4 Sep 93 19:31:48 -07001993-09-04T19:31:48-07:00, 2024-08-13T08:07:20.000Z http://1997.webhistory.org/www.lists/www-talk.1993q3/0810.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Submitting input-form data to server\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Pei Y. Wei\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Sat, 4 Sep 93 19:31:48 -0700\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-09-04T19:31:48-07:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T08:07:20.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q3/0810.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q3/0810.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "form",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-30まで開催されていた WWWWW で入力フォーム機能も議論された。 その詳細は伝わらないが、 form, input はほぼ現在の形で合意されたようだ。 ViolaWWW がこれを直ちに実装した。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>まで開催されていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WWWWW\u003C/anchor>\u000Aで入力フォーム機能も議論された。\u000Aその詳細は伝わらないが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aはほぼ現在の形で合意されたようだ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ViolaWWW\u003C/anchor>\u000Aがこれを直ちに実装した。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1005
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "form",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>"
+         },
+         {
+            "text" : "mh",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mh\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "textarea",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>"
+         },
+         {
+            "text" : "select",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>"
+         },
+         {
+            "text" : "option",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に form, mh, input, textarea, select, option, がある。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mh\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>,\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1005
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Mosaic for X version 2.0 Fill-Out Form Support, 1994-04-06T20:36:29.000Z, 2024-08-13T08:31:19.113Z https://www.w3.org/MarkUp/html-test/ncsa/forms-overview.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Mosaic for X version 2.0 Fill-Out Form Support\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1994-04-06T20:36:29.000Z\u003C/time>, \u000A\u003Ctime>2024-08-13T08:31:19.113Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/MarkUp/html-test/ncsa/forms-overview.html\u0022>https://www.w3.org/MarkUp/html-test/ncsa/forms-overview.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-11-10",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-10\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "form",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "select",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>"
+         },
+         {
+            "text" : "option",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>"
+         },
+         {
+            "text" : "textarea",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>"
+         },
+         {
+            "text" : "isindex",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isindex\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-11-10頃公開された NCSA Mosaic 2.0 は現行仕様と同じ form, input, select, option, textarea を実装していた。実際にはこれより前の prerelease 版から実装されていた。 isindex は form をエミュレートする形で再実装された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-10\u003C/time>頃公開された\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NCSA Mosaic 2.0\u003C/anchor>\u000Aは現行仕様と同じ\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>\u000Aを実装していた。実際にはこれより前の prerelease 版から実装されていた。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isindex\u003C/code>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>\u000Aをエミュレートする形で再実装された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1591
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "[182] HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd, Dave Raggett, Wed, 2 Jun 93 13:01:14 BST1993-06-02T13:01:14\u002B00:00, 2024-08-13T08:49:24.000Z http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022182\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[182]\u003C/anchor-end> \u000A\u003Ccite>HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed, 2 Jun 93 13:01:14 BST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-06-02T13:01:14\u002B00:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T08:49:24.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -518,8 +902,8 @@
       ],
       "説明" : [
          {
-            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に embed がある。 後の embed とは違って内容を持ち、 任意の8ビットデータを含めれられるとされていた。 数式や単純な図の記述に使う想定だった。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code> \u000Aがある。\u000A後の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code> とは違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>を持ち、\u000A任意の8ビットデータを含めれられるとされていた。\u000A数式や単純な図の記述に使う想定だった。"
+            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に embed がある。 後の embed とは違って内容を持ち、 任意の8ビットデータを含めれられるとされていた。 数式や単純な図の記述に使う想定だった。 これに先立つ1993-06-02の Dave Raggett の電子メールによると、 直近の議論に基づき embed が HTML\u002B DTD に追加されたものである。 >>182 figdata という名前で提案されていた。 当時の版は現存しないが、 1993-07-13版に近い定義だったと思われる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code> \u000Aがある。\u000A後の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code> とは違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>を持ち、\u000A任意の8ビットデータを含めれられるとされていた。\u000A数式や単純な図の記述に使う想定だった。\u000Aこれに先立つ\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-06-02\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>によると、\u000A直近の議論に基づき\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aが HTML\u002B DTD に追加されたものである。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022182\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;182\u003C/anchor-internal>\u003C/src>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figdata\u003C/code> という名前で提案されていた。\u000A当時の版は現存しないが、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>版に近い定義だったと思われる。"
          }
       ]
    },
@@ -811,6 +1195,56 @@
    {
       "_" : [
          {
+            "page_id" : 14648
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "changed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>changed\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に changed がある。 変更箇所を表すためのものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>changed\u003C/code> \u000Aがある。\u000A変更箇所を表すためのものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14648
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "changed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>changed\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様にある。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様にある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 19181
          }
       ],
@@ -834,8 +1268,8 @@
       ],
       "説明" : [
          {
-            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に panel があり、 通常の文章の流れとは別に配置される浮動パネル (floating panel) と説明されている。 これに先立つ1993-05-19、 Dave Raggett は、 文章や画像を表示するポップアップ窓の要望に対して、 雜誌のイラスト、背景説明、広告のような浮動パネル機能を検討していたと応えている。 >>23",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panel\u003C/code> \u000Aがあり、\u000A通常の文章の流れとは別に配置される浮動パネル (floating panel)\u000Aと説明されている。\u000Aこれに先立つ\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-05-19\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aは、\u000A文章や画像を表示するポップアップ窓の要望に対して、\u000A雜誌のイラスト、背景説明、広告のような浮動パネル機能を検討していたと応えている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;23\u003C/anchor-internal>\u003C/src>"
+            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に panel があり、 通常の文章の流れとは別に配置される浮動パネル (floating panel) と説明されている。 これに先立つ1993-05-19、 Dave Raggett は、 文章や画像を表示するポップアップ窓の要望に対して、 雜誌のイラスト、背景説明、広告のような浮動パネル機能を検討していたと応えている。 >>23 後に footnote, margin によって置き換えられた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panel\u003C/code> \u000Aがあり、\u000A通常の文章の流れとは別に配置される浮動パネル (floating panel)\u000Aと説明されている。\u000Aこれに先立つ\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-05-19\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aは、\u000A文章や画像を表示するポップアップ窓の要望に対して、\u000A雜誌のイラスト、背景説明、広告のような浮動パネル機能を検討していたと応えている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;23\u003C/anchor-internal>\u003C/src>\u000A後に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>footnote\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>margin\u003C/code> によって置き換えられた。"
          }
       ]
    },
@@ -931,6 +1365,91 @@
          {
             "text" : "1993-02-04付の HTML DTD が現存最古。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-02-04\u003C/time>付の HTML DTD が現存最古。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2524
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "tab",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tab\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に tab がある。 lit や tab でタブ位置の指定に使うものだった。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tab\u003C/code> がある。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lit\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tab\u003C/code> で\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タブ位置\u003C/anchor>の指定に使うものだった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2524
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Lynx Users Guide v2.7.1\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1997-08-08T17:18:12.000Z\u003C/time>, \u003Ctime>2024-08-13T10:10:58.636Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://leb.net/blinux/blynx/Lynx_users_guide.html\u0022>http://leb.net/blinux/blynx/Lynx_users_guide.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "tab",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tab\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-04の Lynx 2.7.1 は既に tab を実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Lynx\u003C/anchor> 2.7.1 は既に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tab\u003C/code>\u000Aを実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2555
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "quote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>quote\u003C/code>"
+         },
+         {
+            "text" : "blockquote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に quote, blockquote がある。 いずれも現在の blockquote に相当するが、 blockquote は後方互換性のためとされた。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>quote\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code> がある。\u000Aいずれも現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code> に相当するが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code> は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>後方互換性\u003C/anchor>のためとされた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
          }
       ]
    },
@@ -1062,6 +1581,31 @@
    {
       "_" : [
          {
+            "page_id" : 2615
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "added",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>added\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に added がある。 draft-raggett-www-html-00 現在の ins に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>added\u003C/code> がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ins\u003C/code> に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 2069
          }
       ],
@@ -1122,6 +1666,78 @@
    {
       "_" : [
          {
+            "page_id" : 2768
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "caption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>"
+         },
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         },
+         {
+            "text" : "th",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>"
+         },
+         {
+            "text" : "td",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に table, caption, tr, th, td がある。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2084
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Notes from WWWWW, Tony Sanders, Tue, 10 Aug 1993 16:56:28 -05001993-08-10T16:56:28-05:00, 2024-08-13T07:58:56.000Z http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Notes from WWWWW\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tony Sanders\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 10 Aug 1993 16:56:28 -0500\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-08-10T16:56:28-05:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T07:58:56.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-30まで開催されていた WWWWW で br の追加が合意された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>まで開催されていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WWWWW\u003C/anchor>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>\u000Aの追加が合意された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 2084
          }
       ],
@@ -1139,8 +1755,8 @@
       ],
       "説明" : [
          {
-            "text" : "1994-04-01に HTML DTD に追加されました。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-01\u003C/time>に HTML DTD に追加されました。"
+            "text" : "1994-04-01に HTML DTD に追加された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-01\u003C/time>に HTML DTD に追加された。"
          }
       ]
    },
@@ -1220,7 +1836,161 @@
    {
       "_" : [
          {
+            "page_id" : 2959
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "i",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>i\u003C/code>"
+         },
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         },
+         {
+            "text" : "u",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>u\u003C/code>"
+         },
+         {
+            "text" : "s",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>s\u003C/code>"
+         },
+         {
+            "text" : "sup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sup\u003C/code>"
+         },
+         {
+            "text" : "sub",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sub\u003C/code>"
+         },
+         {
+            "text" : "tt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tt\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "q",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>"
+         },
+         {
+            "text" : "cite",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cite\u003C/code>"
+         },
+         {
+            "text" : "person",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>person\u003C/code>"
+         },
+         {
+            "text" : "acronym",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>acronym\u003C/code>"
+         },
+         {
+            "text" : "abbrev",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbrev\u003C/code>"
+         },
+         {
+            "text" : "cmd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cmd\u003C/code>"
+         },
+         {
+            "text" : "arg",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>arg\u003C/code>"
+         },
+         {
+            "text" : "kbd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kbd\u003C/code>"
+         },
+         {
+            "text" : "var",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>var\u003C/code>"
+         },
+         {
+            "text" : "dfn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dfn\u003C/code>"
+         },
+         {
+            "text" : "code",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>code\u003C/code>"
+         },
+         {
+            "text" : "samp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>samp\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様にある。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様にある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 20861
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Re: Keeping HTML Simple & Format negotiation between Browser & Server, Pei Y. Wei], Fri, 28 May 93 17:10:03 -07001993-05-28T17:10:03-07:00, 2024-08-13T09:01:01.000Z http://1997.webhistory.org/www.lists/www-talk.1993q2/0411.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: Keeping HTML Simple &amp; Format negotiation between Browser &amp; Server\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Pei Y. Wei\u003C/anchor>],\u000A\u003Ctime itemprop=\u0022published\u0022>Fri, 28 May 93 17:10:03 -0700\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-05-28T17:10:03-07:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T09:01:01.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q2/0411.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q2/0411.html\u003C/anchor-external>\u003C/data>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-05-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-05-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "figure",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figure\u003C/code>"
+         },
+         {
+            "text" : "figcap",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figcap\u003C/code>"
+         },
+         {
+            "text" : "figdata",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figdata\u003C/code>"
+         },
+         {
+            "text" : "figa",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figa\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-05-28、 Pei Y. Wei は電子メールで img より高機能な図機能 figure, figcap, figdata, figa を提案した。 外部画像データの参照の他に figdata を使って TeX による記述もできる。 後の HTML\u002B で figure は fig、 figcap は fig の内容、 figdata は embed、 figa はそのまま採用されている。 なお figa は a とする案もあり、後の HTML\u002B で採用され、 更には HTML4 に引き継がれることになる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-05-28\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Pei Y. Wei\u003C/anchor>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>\u000Aより高機能な図機能\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figure\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figcap\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figdata\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figa\u003C/code>\u000Aを提案した。\u000A外部画像データの参照の他に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figdata\u003C/code>\u000Aを使って \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TeX\u003C/anchor> による記述もできる。\u000A後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figure\u003C/code>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figcap\u003C/code>\u000Aは \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figdata\u003C/code>\u000Aは \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figa\u003C/code>\u000Aはそのまま採用されている。\u000Aなお\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figa\u003C/code>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>\u000Aとする案もあり、後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> で採用され、\u000A更には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML4\u003C/anchor> に引き継がれることになる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 20861
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "[23] HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd, Dave Raggett, Wed, 2 Jun 93 13:01:14 BST1993-06-02T13:01:14\u002B00:00, 2024-08-13T08:49:24.000Z http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[23]\u003C/anchor-end> \u000A\u003Ccite>HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed, 2 Jun 93 13:01:14 BST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-06-02T13:01:14\u002B00:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T08:49:24.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -1239,6 +2009,66 @@
          {
             "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に fig がある。 同じ DTD にある img に相当する機能に加え、 図題、クライアント側画像写像などの追加機能が備わっている。 img と違って内容を持つ。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code> \u000Aがある。\u000A同じ DTD にある \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code> に相当する機能に加え、\u000A図題、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>クライアント側画像写像\u003C/anchor>などの追加機能が備わっている。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code> と違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>を持つ。"
+         },
+         {
+            "text" : "これに先立つ1993-06-02の Dave Raggett の電子メールによると、 直近の議論に基づき Pei Y. Wei の提案をほぼ踏襲した fig が HTML\u002B DTD に追加された。 >>23 当時の版は現存しないが、 1993-07-13版とほぼ同じと推測される。",
+            "xml" : "\u000Aこれに先立つ\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-06-02\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>によると、\u000A直近の議論に基づき\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Pei Y. Wei\u003C/anchor>\u000Aの提案をほぼ踏襲した\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>\u000Aが HTML\u002B DTD に追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;23\u003C/anchor-internal>\u003C/src>\u000A当時の版は現存しないが、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>版とほぼ同じと推測される。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 20861
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fig",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に fig がある。 文字相当の img, image と違って段落相当で、 caption で図題を記述できるとされていた。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code> がある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>相当の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>\u000Aと違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>段落\u003C/anchor>相当で、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>\u000Aで図題を記述できるとされていた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 20861
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Lynx Users Guide v2.7.1\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1997-08-08T17:18:12.000Z\u003C/time>, \u003Ctime>2024-08-13T10:10:58.636Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://leb.net/blinux/blynx/Lynx_users_guide.html\u0022>http://leb.net/blinux/blynx/Lynx_users_guide.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fig",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-04の Lynx 2.7.1 は既に HTML 3.0 fig を実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Lynx\u003C/anchor> 2.7.1 は既に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>\u000Aを実装していた。"
          }
       ]
    },
@@ -1376,6 +2206,66 @@
    {
       "_" : [
          {
+            "page_id" : 3236
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Lynx Users Guide v2.7.1\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1997-08-08T17:18:12.000Z\u003C/time>, \u003Ctime>2024-08-13T10:10:58.636Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://leb.net/blinux/blynx/Lynx_users_guide.html\u0022>http://leb.net/blinux/blynx/Lynx_users_guide.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "banner",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>banner\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-04の Lynx 2.7.1 は既に banner を実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Lynx\u003C/anchor> 2.7.1 は既に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>banner\u003C/code>\u000Aを実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3715
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "lit",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lit\u003C/code>"
+         },
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に pre の他に lit がある。 空白や改行を保持して表示するが、 可変幅フォントを使うのが lit、 固定幅フォントを使うのが pre と分けられていた。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code> の他に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lit\u003C/code> がある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>空白\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>改行\u003C/anchor>を保持して表示するが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>可変幅フォント\u003C/anchor>を使うのが \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lit\u003C/code>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>固定幅フォント\u003C/anchor>を使うのが \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code> \u000Aと分けられていた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3736
          }
       ],
@@ -1401,6 +2291,31 @@
          {
             "text" : "1992-12-02付の Tim Berners-Lee のウェブページに、 xmp や listing と違ってタグを含められる、 新しい書式付け済み (formatted) で固定幅の要素の構想がある。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-02\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aのウェブページに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmp\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>listing\u003C/code>\u000Aと違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>を含められる、\u000A新しい書式付け済み (formatted) で固定幅の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の構想がある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3826
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "removed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>removed\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に removed がある。 draft-raggett-www-html-00 現在の del に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>removed\u003C/code> がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>del\u003C/code> に当たる。"
          }
       ]
    },
@@ -1438,6 +2353,31 @@
    {
       "_" : [
          {
+            "page_id" : 4695
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "htmlplus",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlplus\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に htmlplus がある。 文書要素に使われているが、特に説明はない。 この版には html はない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlplus\u003C/code> \u000Aがある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書要素\u003C/anchor>に使われているが、特に説明はない。\u000Aこの版には \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aはない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 4717
          }
       ],
@@ -1469,6 +2409,35 @@
    {
       "_" : [
          {
+            "page_id" : 4717
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "address",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code>"
+         },
+         {
+            "text" : "byline",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>byline\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に address, byline がある。 どちらも現在の address に相当するが、 address は後方互換性のためとされた。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>byline\u003C/code> がある。\u000Aどちらも現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code> に相当するが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code> は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>後方互換性\u003C/anchor>のためとされた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 4773
          }
       ],
@@ -1488,6 +2457,31 @@
          {
             "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に figd がある。現在の alt 属性に相当する。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figd\u003C/code> \u000Aがある。現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alt\u003C/code> 属性に相当する。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4892
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "l",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>l\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に br の他に l がある。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code> の他に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>l\u003C/code> がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
          }
       ]
    },
@@ -1600,6 +2594,70 @@
    {
       "_" : [
          {
+            "page_id" : 5108
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "group",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>group\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に group がある。 章節等階層的グループを表すと説明されている。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>group\u003C/code> \u000Aがある。\u000A章節等階層的グループを表すと説明されている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5119
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Lynx Users Guide v2.7.1\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1997-08-08T17:18:12.000Z\u003C/time>, \u003Ctime>2024-08-13T10:10:58.636Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://leb.net/blinux/blynx/Lynx_users_guide.html\u0022>http://leb.net/blinux/blynx/Lynx_users_guide.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "frameset",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frameset\u003C/code>"
+         },
+         {
+            "text" : "frame",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frame\u003C/code>"
+         },
+         {
+            "text" : "noframes",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noframes\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-04の Lynx 2.7.1 は既に frameset, frame, noframes を実装していた。 フレームへのリンクを表示するとともに、 noframes をレンダリングする形だった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Lynx\u003C/anchor> 2.7.1 は既に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frameset\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frame\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noframes\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フレーム\u003C/anchor>への\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>リンク\u003C/anchor>を表示するとともに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noframes\u003C/code>\u000Aを\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリング\u003C/anchor>する形だった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5373
          }
       ],
@@ -1650,6 +2708,211 @@
          {
             "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に sp があり、 unbreakable space と説明されている。 NBSP (文字参照 &nbsp;) に相当すると思われる。 これに先立つ1993-05-19、 Dave Raggett は pre 外の non-breakable space の要望を受け付けている。 >>23",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD\u000Aに \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sp\u003C/code> \u000Aがあり、\u000Aunbreakable space \u000Aと説明されている。 \u003Csw-cn xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NBSP\u003C/sw-cn> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字参照\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&amp;nbsp;\u003C/code>) に相当すると思われる。\u000Aこれに先立つ\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-05-19\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aは \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>\u000A外の non-breakable space\u000Aの要望を受け付けている。 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;23\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5642
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Notes from WWWWW, Tony Sanders, Tue, 10 Aug 1993 16:56:28 -05001993-08-10T16:56:28-05:00, 2024-08-13T07:58:56.000Z http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Notes from WWWWW\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tony Sanders\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 10 Aug 1993 16:56:28 -0500\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-08-10T16:56:28-05:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T07:58:56.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q3/0461.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "sp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sp\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-30まで開催されていた WWWWW で文字参照 &nbsp の追加が合意された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>まで開催されていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WWWWW\u003C/anchor>\u000Aで\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字参照\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&amp;nbsp\u003C/code>\u000Aの追加が合意された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6190
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "note",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に note がある。 注意事項を示すものだった。 draft-raggett-www-html-00 現在の aside に近い。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code> がある。\u000A注意事項を示すものだった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>aside\u003C/code> に近い。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6190
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Lynx Users Guide v2.7.1\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1997-08-08T17:18:12.000Z\u003C/time>, \u003Ctime>2024-08-13T10:10:58.636Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://leb.net/blinux/blynx/Lynx_users_guide.html\u0022>http://leb.net/blinux/blynx/Lynx_users_guide.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "note",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-04の Lynx 2.7.1 は既に note を実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Lynx\u003C/anchor> 2.7.1 は既に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>\u000Aを実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6359
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "render",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>render\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に render がある。 draft-raggett-www-html-00 非標準の要素の表示スタイルを指定するものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>render\u003C/code> がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>\u000A非標準の要素の表示スタイルを指定するものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6359
+         }
+      ],
+      "仕様" : [
+         {
+            "text" : "Keybindings for html-helper-mode version 1.34, Nelson Minar, Wed Feb 1 14:16:33 19951995-02-01T14:16:33, 2014-10-20T06:25:49.000Z, 2024-08-13T09:47:57.766Z http://www.fifi.org/doc/html-helper-mode/keybindings.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Keybindings for html-helper-mode version 1.34\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Nelson Minar\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed Feb 1 14:16:33 1995\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1995-02-01T14:16:33\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2014-10-20T06:25:49.000Z\u003C/time>, \u003Ctime>2024-08-13T09:47:57.766Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.fifi.org/doc/html-helper-mode/keybindings.html\u0022>http://www.fifi.org/doc/html-helper-mode/keybindings.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-02-01",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-01\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "render",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>render\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-02-01時点で入力機能を実装していた編集ソフトウェアがある。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-01\u003C/time>時点で入力機能を実装していた編集ソフトウェアがある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6820
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Lynx Users Guide v2.7.1\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1997-08-08T17:18:12.000Z\u003C/time>, \u003Ctime>2024-08-13T10:10:58.636Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://leb.net/blinux/blynx/Lynx_users_guide.html\u0022>http://leb.net/blinux/blynx/Lynx_users_guide.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "bq",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bq\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-04の Lynx 2.7.1 は既に bq を blockquote 同様に実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Lynx\u003C/anchor> 2.7.1 は既に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bq\u003C/code>\u000Aを\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code>\u000A同様に実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 7348
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd, Dave Raggett, Wed, 2 Jun 93 13:01:14 BST1993-06-02T13:01:14\u002B00:00, 2024-08-13T08:49:24.000Z http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML\u002B DTD in ftp://info.cern.ch/pub/www/dev/htmlplus.dtd\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed, 2 Jun 93 13:01:14 BST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-06-02T13:01:14\u002B00:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T08:49:24.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-06-02",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-06-02\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-06-02の Dave Raggett の電子メールによると、 直近の議論に基づき dl を拡張した表機能が HTML\u002B DTD に追加された。 当時の版は現存せず詳細は不明。 その後 tbl 要素を使う方法が提案されることになる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-06-02\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>によると、\u000A直近の議論に基づき\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>\u000Aを拡張した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>表\u003C/anchor>機能が HTML\u002B DTD に追加された。\u000A当時の版は現存せず詳細は不明。\u000Aその後 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tbl\u003C/code>\u000A要素を使う方法が提案されることになる。"
          }
       ]
    },
@@ -1748,6 +3011,122 @@
          {
             "text" : "Webブラウザーが対応するまでの対処と称して HTML\u002B 表 (tbl, tt, th, td, tr) を pre に変換するソフトウェアが公開されている。 公開日は不明だが、現在の配布Webサーバー上では1995-04-24付となっている。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>が対応するまでの対処と称して \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>表\u003C/anchor>\u000A(\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tbl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tt\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>)\u000Aを \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code> に変換するソフトウェアが公開されている。\u000A公開日は不明だが、現在の配布Webサーバー上では\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-04-24\u003C/time>付となっている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 7348
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Re: WWWWW Notes, Dave_Raggett, Tue, 17 Aug 93 10:55:10 BST1993-08-17T10:55:10\u002B00:00, 2024-08-13T09:13:28.000Z http://1997.webhistory.org/www.lists/www-talk.1993q3/0692.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: WWWWW Notes\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave_Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 17 Aug 93 10:55:10 BST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-08-17T10:55:10\u002B00:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-13T09:13:28.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q3/0692.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q3/0692.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-07-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "tbl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tbl\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-07-30まで開催されていた WWWWW で tb は不要と判断された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-30\u003C/time>まで開催されていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WWWWW\u003C/anchor>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tb\u003C/code>\u000Aは不要と判断された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 7975
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "abstract",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abstract\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に abstract がある。 文書の概要を示すものだった。 draft-raggett-www-html-00",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abstract\u003C/code> がある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>概要\u003C/anchor>を示すものだった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 9589
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Lynx Users Guide v2.7.1\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>1997-08-08T17:18:12.000Z\u003C/time>, \u003Ctime>2024-08-13T10:10:58.636Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://leb.net/blinux/blynx/Lynx_users_guide.html\u0022>http://leb.net/blinux/blynx/Lynx_users_guide.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-04の Lynx 2.7.1 は既に fn を実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-04\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Lynx\u003C/anchor> 2.7.1 は既に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>\u000Aを実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 9910
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-10-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "footnote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>footnote\u003C/code>"
+         },
+         {
+            "text" : "margin",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>margin\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-10-28付の HTML\u002B 仕様に footnote, margin がある。 draft-raggett-www-html-00 脚注や余白に置く傍注を表す。 ポップアップ窓が開くハイパーテキストボタンのような形も実装できるとされていた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>footnote\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>margin\u003C/code> がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>脚注\u003C/anchor>や余白に置く\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>傍注\u003C/anchor>を表す。\u000Aポップアップ窓が開くハイパーテキストボタンのような形も実装できるとされていた。"
          }
       ]
    }
