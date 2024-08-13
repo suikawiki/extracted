@@ -925,8 +925,8 @@
       ],
       "説明" : [
          {
-            "text" : "1993-11-10頃公開された NCSA Mosaic 2.0 は現行仕様と同じ form, input, select, option, textarea を実装していた。実際にはこれより前の prerelease 版から実装されていた。 isindex は form をエミュレートする形で再実装された。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-10\u003C/time>頃公開された\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NCSA Mosaic 2.0\u003C/anchor>\u000Aは現行仕様と同じ\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>\u000Aを実装していた。実際にはこれより前の prerelease 版から実装されていた。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isindex\u003C/code>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>\u000Aをエミュレートする形で再実装された。"
+            "text" : "1993-11-10頃公開された NCSA Mosaic 2.0 は現行仕様と同じ form, input, select, option, textarea を実装していた。これより前の prerelease 版から実装されていた。 isindex は form をエミュレートする形で再実装された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-10\u003C/time>頃公開された\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NCSA Mosaic 2.0\u003C/anchor>\u000Aは現行仕様と同じ\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>\u000Aを実装していた。これより前の prerelease 版から実装されていた。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isindex\u003C/code>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>\u000Aをエミュレートする形で再実装された。"
          }
       ]
    },
@@ -1084,6 +1084,39 @@
          {
             "text" : "1995-03-01付 HTML 3.0 DTD に mark がある。 HTML3.0-19950301 HTML\u002B の changed からの改称だが、 変更箇所に限らず注釈の適用対象など汎用的に使えるとされた。 注釈によると1995-02-09に追加された。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-01\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mark\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950301\u003C/src>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>changed\u003C/code>\u000Aからの改称だが、\u000A変更箇所に限らず注釈の適用対象など汎用的に使えるとされた。\u000A注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-09\u003C/time>に追加された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 12163
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "mark",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mark\u003C/code>"
+         },
+         {
+            "text" : "range",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>range\u003C/code>"
+         },
+         {
+            "text" : "spot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>spot\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD に range, spot がある。 注釈によると1995-03-13に SGML Open からの助言により mark が削除された。 1995-03-21に新たに range, spot が追加された。 HTML3.0-19950324 HTML 3.0 仕様本文によると、 range は検索結果や注釈の対象などの範囲を表し、 spot はその端点を表す。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>range\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>spot\u003C/code>\u000Aがある。\u000A注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-13\u003C/time>に\u000ASGML Open\u000Aからの助言により\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mark\u003C/code>\u000Aが削除された。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-21\u003C/time>に新たに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>range\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>spot\u003C/code>\u000Aが追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor>\u000A仕様本文によると、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>range\u003C/code>\u000Aは検索結果や注釈の対象などの範囲を表し、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>spot\u003C/code>\u000Aはその端点を表す。"
          }
       ]
    },
@@ -2068,6 +2101,43 @@
       ],
       "要素名" : [
          {
+            "text" : "over",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>over\u003C/code>"
+         },
+         {
+            "text" : "atop",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>atop\u003C/code>"
+         },
+         {
+            "text" : "left",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>left\u003C/code>"
+         },
+         {
+            "text" : "right",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>right\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-01付 HTML 3.0 DTD に over, atop, left, right がある。 HTML3.0-19950301",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-01\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>over\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>atop\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>left\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>right\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950301\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2806
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-01",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-01\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
             "text" : "term",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>term\u003C/code>"
          },
@@ -2084,6 +2154,158 @@
          {
             "text" : "1995-03-01付 HTML 3.0 DTD の注釈によると term は1995-02-09に追加された。 明記されていないが radix, radicand もこのとき追加されたと思われる。 HTML3.0-19950301",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-01\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aの注釈によると\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>term\u003C/code>\u000Aは\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-09\u003C/time>に追加された。\u000A明記されていないが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radix\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radicand\u003C/code>\u000Aもこのとき追加されたと思われる。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950301\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2806
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-05",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-05\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "term",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>term\u003C/code>"
+         },
+         {
+            "text" : "vec",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>vec\u003C/code>"
+         },
+         {
+            "text" : "bar",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bar\u003C/code>"
+         },
+         {
+            "text" : "dot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dot\u003C/code>"
+         },
+         {
+            "text" : "ddot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ddot\u003C/code>"
+         },
+         {
+            "text" : "hat",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hat\u003C/code>"
+         },
+         {
+            "text" : "tilde",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tilde\u003C/code>"
+         },
+         {
+            "text" : "t",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>t\u003C/code>"
+         },
+         {
+            "text" : "bt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bt\u003C/code>"
+         },
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD の注釈によると1995-03-05に term が廃止され vec, bar, dot, ddot, hat, tilde, t, bt が追加された。 b も使えるとされた。 HTML3.0-19950324",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aの注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-05\u003C/time>に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>term\u003C/code>\u000Aが廃止され\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>vec\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bar\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dot\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ddot\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hat\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tilde\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>t\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bt\u003C/code> が追加された。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code> も使えるとされた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2806
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "choose",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>choose\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD の注釈によると1995-03-13に choose が追加された。 HTML3.0-19950324",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aの注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-13\u003C/time>に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>choose\u003C/code> が追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2806
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "radix",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radix\u003C/code>"
+         },
+         {
+            "text" : "radicand",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radicand\u003C/code>"
+         },
+         {
+            "text" : "of",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>of\u003C/code>"
+         },
+         {
+            "text" : "sqrt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sqrt\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD の注釈によると1995-03-06に radix, radicand に替えて of が追加された。 また、 sqrt が追加された。 HTML3.0-19950324",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aの注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-06\u003C/time>に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radix\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radicand\u003C/code>\u000Aに替えて\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>of\u003C/code> が追加された。\u000Aまた、 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sqrt\u003C/code> が追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2806
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "arow",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>arow\u003C/code>"
+         },
+         {
+            "text" : "row",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>row\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD では arow が row に変わっている。 注釈によると1995-03-13の変更と思われる。 HTML3.0-19950324",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aでは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>arow\u003C/code>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>row\u003C/code>\u000Aに変わっている。\u000A注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-13\u003C/time>の変更と思われる。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>"
          }
       ]
    },
@@ -2726,6 +2948,31 @@
             "page_id" : 3236
          }
       ],
+      "日付" : [
+         {
+            "text" : "1995-03-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "banner",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>banner\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD に banner がある。 注釈によると1995-03-21に div から分離される形で追加された。 HTML3.0-19950324",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>banner\u003C/code>\u000Aがある。\u000A注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-21\u003C/time>に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>\u000Aから分離される形で追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3236
+         }
+      ],
       "出典" : [
          {
             "text" : "Lynx Users Guide v2.7.1, 1997-08-08T17:18:12.000Z, 2024-08-13T10:10:58.636Z http://leb.net/blinux/blynx/Lynx_users_guide.html",
@@ -3180,6 +3427,35 @@
    {
       "_" : [
          {
+            "page_id" : 45900
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "bodytext",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bodytext\u003C/code>"
+         },
+         {
+            "text" : "figtext",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figtext\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD で bodytext, figtext が追加された。 混合内容の技術的問題のためのダミーの要素と注釈がある。 HTML3.0-19950324 bodytext は body, bq, blockquote で、 figtext は fig で使われる。 歴史を紐解けば body 自体も同じ問題のために導入されたものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bodytext\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figtext\u003C/code>\u000Aが追加された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>混合内容\u003C/anchor>の技術的問題のためのダミーの要素と注釈がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bodytext\u003C/code> は \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bq\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code> で、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figtext\u003C/code> は \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code> で使われる。\u000A歴史を紐解けば \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code> 自体も同じ問題のために導入されたものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5108
          }
       ],
@@ -3471,7 +3747,7 @@
             "page_id" : 6359
          }
       ],
-      "仕様" : [
+      "出典" : [
          {
             "text" : "Keybindings for html-helper-mode version 1.34, Nelson Minar, Wed Feb 1 14:16:33 19951995-02-01T14:16:33, 2014-10-20T06:25:49.000Z, 2024-08-13T09:47:57.766Z http://www.fifi.org/doc/html-helper-mode/keybindings.html",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Keybindings for html-helper-mode version 1.34\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Nelson Minar\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed Feb 1 14:16:33 1995\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1995-02-01T14:16:33\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2014-10-20T06:25:49.000Z\u003C/time>, \u003Ctime>2024-08-13T09:47:57.766Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.fifi.org/doc/html-helper-mode/keybindings.html\u0022>http://www.fifi.org/doc/html-helper-mode/keybindings.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
@@ -3808,6 +4084,31 @@
          {
             "text" : "1995-03-01付 HTML 3.0 DTD の注釈によると、 1995-02-22に fn は削除されて note に統合された。 HTML3.0-19950301",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-01\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aの注釈によると、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-22\u003C/time>に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>\u000Aは削除されて\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>\u000Aに統合された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950301\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 9589
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-24",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995-03-24付 HTML 3.0 DTD に fn がある。 注釈によると1995-03-21に div から分離される形で追加された。 HTML3.0-19950324",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-24\u003C/time>付 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor> DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>\u000Aがある。\u000A注釈によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-21\u003C/time>に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>\u000Aから分離される形で追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950324\u003C/src>"
          }
       ]
    },
