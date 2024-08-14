@@ -174,8 +174,12 @@
       ],
       "説明" : [
          {
-            "text" : "2000頃の XHTML 2.0 仕様案 (現存しない) では、 代替文の alt が要素化されていた。 なおこの当時の名前空間URIは模索中だったらしく HTML名前空間だったり新規URLだったりで一定しない。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000\u003C/time>頃の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 2.0\u003C/anchor> 仕様案 (現存しない) では、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>代替文\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alt\u003C/code> \u000Aが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>化されていた。\u000Aなおこの当時の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間URI\u003C/anchor>は模索中だったらしく\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>だったり新規\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>URL\u003C/anchor>だったりで一定しない。"
+            "text" : "2000頃の XHTML 2.0 仕様案では、 代替文の alt が要素化されていた。 この当時の名前空間URIは模索中だったらしく HTML名前空間だったり新規URLだったりで一定しない。 なお、この時期の仕様案は当時非公表で、 平成時代の後半に入った頃に CVS リポジトリーで公開されたが、 現存しない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000\u003C/time>頃の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 2.0\u003C/anchor> 仕様案では、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>代替文\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alt\u003C/code> \u000Aが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>化されていた。\u000Aこの当時の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間URI\u003C/anchor>は模索中だったらしく\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>だったり新規\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>URL\u003C/anchor>だったりで一定しない。\u000Aなお、この時期の仕様案は当時非公表で、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>の後半に入った頃に CVS リポジトリーで公開されたが、\u000A現存しない。"
+         },
+         {
+            "text" : "その後2002-08に公表された XHTML 2.0 の最初の W3C Working Draft (作業原案) では img が object に統合されたため alt も存在していなかった。",
+            "xml" : "\u000Aその後\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-08\u003C/time>に公表された\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 2.0\u003C/anchor>\u000Aの最初の W3C Working Draft (作業原案) \u000Aでは \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>\u000Aに統合されたため \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alt\u003C/code>\u000Aも存在していなかった。"
          }
       ]
    },
