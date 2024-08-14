@@ -119,6 +119,45 @@
       ],
       "出典" : [
          {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "h1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>"
+         },
+         {
+            "text" : "h2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>"
+         },
+         {
+            "text" : "h3",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで h1, h2, h3 が使われています。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>\u000Aが使われています。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 245
+         }
+      ],
+      "出典" : [
+         {
             "text" : "Re: status. Re: X11 BROWSER for WWW, Tim Berners-Lee, Tue, 29 Oct 91 10:03:11 GMT\u002B01001991-10-29T10:03:11\u002B01:00, 2003-08-04T15:50:19.000Z, 2024-08-12T07:23:31.540Z https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: status. Re: X11 BROWSER for WWW\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 29 Oct 91 10:03:11 GMT\u002B0100\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1991-10-29T10:03:11\u002B01:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:19.000Z\u003C/time>, \u003Ctime>2024-08-12T07:23:31.540Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
@@ -315,6 +354,68 @@
          {
             "text" : "1993-11-30付の HTML DTD が現存 DTD における初出。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-30\u003C/time>付の HTML DTD\u000Aが現存 DTD における初出。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 61
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで a が使われています。 name 属性による終点アンカーと href 属性による始点アンカーの両方があります。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>\u000Aが使われています。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> 属性による\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終点アンカー\u003C/anchor>と\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>href\u003C/code> 属性による\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>始点アンカー\u003C/anchor>の両方があります。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 684
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "hp2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hp2\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで hp2 が使われています。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hp2\u003C/code>\u000Aが使われています。"
          }
       ]
    },
@@ -1065,6 +1166,37 @@
    {
       "_" : [
          {
+            "page_id" : 10933
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで title が使われています。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>\u000Aが使われています。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 12163
          }
       ],
@@ -1452,6 +1584,68 @@
          {
             "text" : "2016頃、 パネル(群)を記述する panelset, panel, paneltitle が提案されていた。ここでいうパネルとはタブ、アコーディオン等の UI 概念を抽象化したものとされていた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2016\u003C/time>頃、\u000Aパネル(群)を記述する\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panelset\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panel\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>paneltitle\u003C/code>\u000Aが提案されていた。ここでいうパネルとは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タブ\u003C/anchor>、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アコーディオン\u003C/anchor>等の UI\u000A概念を抽象化したものとされていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2115
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "xmp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmp\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで xmp が使われています。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmp\u003C/code>\u000Aが使われています。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2214
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "listing",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>listing\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで listing が使われています。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>listing\u003C/code>\u000Aが使われています。"
          }
       ]
    },
@@ -1863,6 +2057,37 @@
          {
             "text" : "1993-10-28付の HTML\u002B 仕様に table, caption, tr, th, td がある。 draft-raggett-www-html-00",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2077
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで p が使われています。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>\u000Aが使われています。"
          }
       ]
    },
@@ -3271,6 +3496,57 @@
          {
             "text" : "1993-10-28付の HTML\u002B 仕様に br の他に l がある。 draft-raggett-www-html-00",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code> の他に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>l\u003C/code> がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4913
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML 1991",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1990-12-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1990-12-07付の HTML ファイルで ul, ol, li, dl, dt, dd が使われています。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>\u000Aが使われています。"
          }
       ]
    },
