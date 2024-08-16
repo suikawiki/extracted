@@ -513,6 +513,72 @@
    {
       "_" : [
          {
+            "page_id" : 548
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "blink",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>blink\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "blink",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blink\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "正確な時期は不明だが Netscape Navigator が初期から実装していた。 Internet Explorer が未対応で両ブラウザーの非互換性の代表事例として有名だが、 Internet Explorer も表示効果がないだけで要素として認識はしていたらしい。 点滅効果が不快だと評判は悪かった一方で、 多くのウェブサイトで実用されていた。 編集ソフトウェア等も対応したものが多かった。 文字を点滅させる要素と説明されることが多いが、 Macintosh 版 Netscape Navigator では背景が点滅したという。",
+            "xml" : "\u000A正確な時期は不明だが\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite>\u000Aが初期から実装していた。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000Aが未対応で両ブラウザーの非互換性の代表事例として有名だが、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000Aも表示効果がないだけで\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>として認識はしていたらしい。\u000A点滅効果が不快だと評判は悪かった一方で、\u000A多くのウェブサイトで実用されていた。\u000A編集ソフトウェア等も対応したものが多かった。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>を点滅させる要素と説明されることが多いが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Macintosh\u003C/anchor> 版 \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite>\u000Aでは背景が点滅したという。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 548
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "blink",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>blink\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "blink",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blink\u003C/code>"
+         },
+         {
+            "text" : "marquee",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>marquee\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Netscape Navigator 独自拡張の代表 blink と Internet Explorer 独自拡張の代表 marquee はしばしばセットで紹介された。 両ブラウザーに対応させる苦肉の策として、 両方のタグで囲んで何らかの視覚的変化を発生させる使われ方もよく見られた。 HTML 3.2 ではどちらも標準化しないという政治的取引があったといわれる。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite>\u000A独自拡張の代表\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blink\u003C/code>\u000Aと\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000A独自拡張の代表\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>marquee\u003C/code>\u000Aはしばしばセットで紹介された。\u000A両ブラウザーに対応させる苦肉の策として、\u000A両方のタグで囲んで何らかの視覚的変化を発生させる使われ方もよく見られた。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 3.2\u003C/cite>\u000Aではどちらも標準化しないという政治的取引があったといわれる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 61
          }
       ],
@@ -825,6 +891,37 @@
    {
       "_" : [
          {
+            "page_id" : 920
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "JavaScript Guide, Netscape Communications Corporation, 1996, 2024-08-16T09:39:22.000Z, 2001-02-08T10:43:18.327Z https://web.archive.org/web/20010208103254/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/getstart.htm#996824",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>JavaScript Guide\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1996\u003C/time>,\u000A\u003Ctime>2024-08-16T09:39:22.000Z\u003C/time>, \u003Ctime>2001-02-08T10:43:18.327Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20010208103254/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/getstart.htm#996824\u0022>https://web.archive.org/web/20010208103254/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/getstart.htm#996824\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "noscript",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noscript\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996に公開された Netscape Navigator 3.0 が noscript を実装した。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 3.0\u003C/cite> \u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noscript\u003C/code>\u000Aを実装した。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 999
          }
       ],
@@ -914,8 +1011,8 @@
       ],
       "説明" : [
          {
-            "text" : "1995に公開された Netscape Navigator 1 が font, basefont を実装した。まもなく出版される HTML 2.0 への拡張として Netscape Communications Corporation が提案していると説明にあり、 RFC 1866 RFC 1866 が出版された1995-11より前には公開されていた。 現行仕様とほぼ同じ。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite> 1\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>font\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>basefont\u003C/code>\u000Aを実装した。まもなく出版される \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 2.0\u003C/cite>\u000Aへの拡張として\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u000Aが提案していると説明にあり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RFC 1866\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC 1866\u003C/src>\u000Aが出版された\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-11\u003C/time>より前には公開されていた。\u000A現行仕様とほぼ同じ。"
+            "text" : "1995に公開された Netscape Navigator 1 が font, basefont を実装した。 1994-10-14時点で既に実装・公開済みだったと推測される。 SuikaWiki:center 現行仕様とほぼ同じ。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite> 1\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>font\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>basefont\u003C/code>\u000Aを実装した。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-10-14\u003C/time>時点で既に実装・公開済みだったと推測される。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SuikaWiki:\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>center\u003C/anchor>\u003C/src>\u000A現行仕様とほぼ同じ。"
          }
       ]
    },
@@ -1496,7 +1593,7 @@
       "説明" : [
          {
             "text" : "Netscape Communications Corporation は HTML 3.0 の新機能として embed を提案した。 1995後半に Netscape Navigator 2.0 で実装された。 厳密なタイミングは不明だが、 1995-11-22時点では既に技術情報が公開されている。 NPAPI プラグインや OLE 対応アプリケーションの文書を埋め込み表示するものだった。",
-            "xml" : "\u000ANetscape Communications Corporation\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor>\u000Aの新機能として\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aを提案した。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>後半に\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite> 2.0\u000Aで実装された。\u000A厳密なタイミングは不明だが、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-11-22\u003C/time>時点では既に技術情報が公開されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NPAPI\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラグイン\u003C/anchor>や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OLE\u003C/anchor> \u000A対応\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリケーション\u003C/anchor>の文書を埋め込み表示するものだった。"
+            "xml" : "\u000ANetscape Communications Corporation\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor>\u000Aの新機能として\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aを提案した。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>後半に\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 2.0\u003C/cite>\u000Aで実装された。\u000A厳密なタイミングは不明だが、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-11-22\u003C/time>時点では既に技術情報が公開されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NPAPI\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラグイン\u003C/anchor>や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OLE\u003C/anchor> \u000A対応\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリケーション\u003C/anchor>の文書を埋め込み表示するものだった。"
          }
       ]
    },
@@ -1821,6 +1918,37 @@
          {
             "text" : "1997-10-14の ISO-HTML 仕様案に iso-html がある。 文書要素として使われた。 html はなかった。 1997-03-27の DTD 案でも同様だった。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-10-14\u003C/time>の \u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ISO-HTML\u003C/cite> 仕様案に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iso-html\u003C/code>\u000Aがある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書要素\u003C/anchor>として使われた。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aはなかった。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-03-27\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> 案でも同様だった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 10657
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Dynamic HTML in Communicator, Netscape Communications Corporation, 1997, 2024-08-16T08:59:04.000Z, 2000-12-06T02:28:20.660Z https://web.archive.org/web/20001206020200/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers32.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Dynamic HTML in Communicator\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1997\u003C/time>,\u000A\u003Ctime>2024-08-16T08:59:04.000Z\u003C/time>, \u003Ctime>2000-12-06T02:28:20.660Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20001206020200/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers32.htm\u0022>https://web.archive.org/web/20001206020200/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers32.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "ilayer",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ilayer\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997頃 Netscape Navigator 4.0 が ilayer を実装した。 要素の位置などを内容属性で指定できた。 JavaScript からの操作対象にもなった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>頃\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 4.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ilayer\u003C/code>\u000Aを実装した。\u000A要素の位置などを内容属性で指定できた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> からの操作対象にもなった。"
          }
       ]
    },
@@ -2415,6 +2543,37 @@
    {
       "_" : [
          {
+            "page_id" : 16211
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Dynamic HTML in Communicator, Netscape Communications Corporation, 1997, 2024-08-16T08:59:04.000Z, 2000-12-06T02:28:20.660Z https://web.archive.org/web/20001206020200/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers32.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Dynamic HTML in Communicator\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1997\u003C/time>,\u000A\u003Ctime>2024-08-16T08:59:04.000Z\u003C/time>, \u003Ctime>2000-12-06T02:28:20.660Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20001206020200/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers32.htm\u0022>https://web.archive.org/web/20001206020200/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers32.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "nolayer",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nolayer\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997頃 Netscape Navigator 4.0 が nolayer を実装した。 layer 未対応のWebブラウザー用のフォールバック内容とされた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>頃\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 4.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nolayer\u003C/code>\u000Aを実装した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>layer\u003C/code>\u000A未対応の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>用の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フォールバック内容\u003C/anchor>とされた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 19181
          }
       ],
@@ -2686,8 +2845,8 @@
       ],
       "説明" : [
          {
-            "text" : "1995に公開された Netscape Navigator 1 が nobr, wbr を実装した。まもなく出版される HTML 2.0 への拡張として Netscape Communications Corporation が提案していると説明にあり、 RFC 1866 RFC 1866 が出版された1995-11より前には公開されていた。 現行仕様とほぼ同じ。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite> 1\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nobr\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wbr\u003C/code>\u000Aを実装した。まもなく出版される \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 2.0\u003C/cite>\u000Aへの拡張として\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u000Aが提案していると説明にあり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RFC 1866\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC 1866\u003C/src>\u000Aが出版された\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-11\u003C/time>より前には公開されていた。\u000A現行仕様とほぼ同じ。"
+            "text" : "1995に公開された Netscape Navigator 1 が nobr, wbr を実装した。まもなく出版される HTML 2.0 への拡張として Netscape Communications Corporation が提案していると説明にあり、 RFC 1866 RFC 1866 が出版された1995-11より前には公開されていた。 1994-10-14時点で既に実装・公開済みだったと推測される。 SuikaWiki:center 現行仕様とほぼ同じ。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 1\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nobr\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wbr\u003C/code>\u000Aを実装した。まもなく出版される \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 2.0\u003C/cite>\u000Aへの拡張として\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u000Aが提案していると説明にあり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RFC 1866\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC 1866\u003C/src>\u000Aが出版された\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-11\u003C/time>より前には公開されていた。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-10-14\u003C/time>時点で既に実装・公開済みだったと推測される。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SuikaWiki:\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>center\u003C/anchor>\u003C/src>\u000A現行仕様とほぼ同じ。"
          }
       ]
    },
@@ -4425,6 +4584,37 @@
    {
       "_" : [
          {
+            "page_id" : 20782
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "noembed",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>noembed\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "noembed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noembed\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995後半頃に Netscape Navigator 2.0 が embed を実装したが、同時に noembed も実装した。 現在の HTML Standard でも noembed は表示されないと定められ、 構文解析器にも特別な挙動が残る。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>後半頃に\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 2.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aを実装したが、同時に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noembed\u003C/code>\u000Aも実装した。\u000A現在の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML Standard\u003C/cite>\u000Aでも\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noembed\u003C/code>\u000Aは表示されないと定められ、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析器\u003C/anchor>にも特別な挙動が残る。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 20861
          }
       ],
@@ -4769,8 +4959,8 @@
       ],
       "説明" : [
          {
-            "text" : "1995に公開された Netscape Navigator 1 が center を実装した。まもなく出版される HTML 2.0 への拡張として Netscape Communications Corporation が提案していると説明にあり、 RFC 1866 RFC 1866 が出版された1995-11より前には公開されていた。 現行仕様とほぼ同じ。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite> 1\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>\u000Aを実装した。まもなく出版される \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 2.0\u003C/cite>\u000Aへの拡張として\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u000Aが提案していると説明にあり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RFC 1866\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC 1866\u003C/src>\u000Aが出版された\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-11\u003C/time>より前には公開されていた。\u000A現行仕様とほぼ同じ。"
+            "text" : "1995に公開された Netscape Navigator 1 が center を実装していた。 1994-10-14時点で既に実装・公開済みだったと推測される。 SuikaWiki:center 現行仕様とほぼ同じ。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite> 1\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>\u000Aを実装していた。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-10-14\u003C/time>時点で既に実装・公開済みだったと推測される。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SuikaWiki:\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>center\u003C/anchor>\u003C/src>\u000A現行仕様とほぼ同じ。"
          }
       ]
    },
@@ -6495,6 +6685,31 @@
    {
       "_" : [
          {
+            "page_id" : 5688
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2009",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "listener",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>listener\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2009の XHTML 2.0 ED で XML Events 2 の要素が HTML名前空間で利用できるとされた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009\u003C/time>の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ED\u003C/anchor>\u000Aで\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XML Events 2\u003C/cite>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>が\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>で利用できるとされた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5748
          }
       ],
@@ -6580,6 +6795,37 @@
          {
             "text" : "1995-12-20の HTML3 リンクと埋込みモデル仕様案 (後の HTML4 仕様の一部) は、 credit を将来拡張案として示している。 fig と組み合わせる。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-12-20\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML3\u003C/anchor> リンクと埋込みモデル仕様案 (後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML4\u003C/anchor> 仕様の一部)\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>credit\u003C/code>\u000Aを将来拡張案として示している。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code> と組み合わせる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5972
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Dynamic HTML in Communicator, Netscape Communications Corporation, 1997, 2024-08-16T08:34:31.000Z, 2000-12-06T01:30:12.060Z https://web.archive.org/web/20001206012700/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers31.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Dynamic HTML in Communicator\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1997\u003C/time>,\u000A\u003Ctime>2024-08-16T08:34:31.000Z\u003C/time>, \u003Ctime>2000-12-06T01:30:12.060Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20001206012700/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers31.htm\u0022>https://web.archive.org/web/20001206012700/http://developer.netscape.com/docs/manuals/communicator/dynhtml/layers31.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "layer",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>layer\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997頃 Netscape Navigator 4.0 が layer を実装した。 要素の位置や背景などを内容属性で指定できた。 JavaScript からの操作対象にもなった。 KHTML や WebKit は構文解析や利用者エージェントスタイルシートで部分対応していた。 HTML5 の利用者エージェントスタイルシートにもあったが、 2009-02-11に削除された。 当時は一部のウェブサイトで利用されていたが、 勢力を急拡大させていた Internet Explorer が対応しなかったため普及は限定的だった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>頃\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 4.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>layer\u003C/code>\u000Aを実装した。\u000A要素の位置や背景などを内容属性で指定できた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> からの操作対象にもなった。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>KHTML\u003C/cite>\u000Aや\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WebKit\u003C/cite>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>利用者エージェントスタイルシート\u003C/anchor>で部分対応していた。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>利用者エージェントスタイルシート\u003C/anchor>にもあったが、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009-02-11\u003C/time>に削除された。\u000A当時は一部のウェブサイトで利用されていたが、\u000A勢力を急拡大させていた\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000Aが対応しなかったため普及は限定的だった。"
          }
       ]
    },
