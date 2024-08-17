@@ -211,6 +211,31 @@
    {
       "_" : [
          {
+            "page_id" : 214
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "style",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>style\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996頃、 Internet Explorer 3.0 は style と CSS を実装した。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>頃、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 3.0\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>style\u003C/code>\u000Aと\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CSS\u003C/anchor>\u000Aを実装した。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 245
          }
       ],
@@ -1158,6 +1183,37 @@
          {
             "text" : "1995-10頃 Mosaic が実装したという。 Gecko もHTML構文解析器となる以前は構文解析のみ対応していた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-10\u003C/time>頃\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Mosaic\u003C/cite>\u000Aが実装したという。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Gecko\u003C/cite>\u000Aも\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML構文解析器\u003C/anchor>となる以前は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>のみ対応していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1150
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML TADS Sounds and Music, 2011-03-19T01:18:48.000Z, 2024-08-17T12:01:56.804Z https://www.tads.org/t3doc/doc/htmltads/sound.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML TADS Sounds and Music\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2011-03-19T01:18:48.000Z\u003C/time>, \u003Ctime>2024-08-17T12:01:56.804Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.tads.org/t3doc/doc/htmltads/sound.htm\u0022>https://www.tads.org/t3doc/doc/htmltads/sound.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2001",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2001\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "sound",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sound\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "ゲームエンジン TADS では API で HTML 風の文字列]片を指定でき、 標準の HTML を拡張した HTML TADS と称しているが、 sound を実装している。 Mosaic のものとは無関係と思われる。",
+            "xml" : "\u000Aゲームエンジン \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>TADS\u003C/cite> では \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>API\u003C/anchor> で \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字列]片を指定でき、\u000A標準の \u003Canchor>HTML\u003C/anchor> を拡張した \u003Canchor>HTML TADS\u003C/anchor> と称しているが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sound\u003C/code>\u000Aを実装している。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Mosaic\u003C/cite> のものとは無関係と思われる。\u003C/anchor>"
          }
       ]
    },
@@ -2278,6 +2334,45 @@
    {
       "_" : [
          {
+            "page_id" : 10520
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cx-claris-*>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;x-claris-*&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1999",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "x-claris-window",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-claris-window\u003C/code>"
+         },
+         {
+            "text" : "x-claris-tagview",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-claris-tagview\u003C/code>"
+         },
+         {
+            "text" : "x-claris-remotesave",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-claris-remotesave\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "平成時代の前半頃の HTML 編集ソフトウェア Claris Home Page が実装していた。 編集時の状態を記録するものと思われるが、詳しい情報は見当たらない。 かつては多くのWebサイトで利用されており、 現在も多く残されている。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>の前半頃の\u000AHTML 編集ソフトウェア\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Claris Home Page\u003C/cite>\u000Aが実装していた。\u000A編集時の状態を記録するものと思われるが、詳しい情報は見当たらない。\u000Aかつては多くの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>で利用されており、\u000A現在も多く残されている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 10657
          }
       ],
@@ -2964,6 +3059,37 @@
    {
       "_" : [
          {
+            "page_id" : 14390
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Human vs. ISO8601 dates problem solved, Tantek Çelik, 20050126T01002005-01-26T01:00, 2009-09-26T04:23:59.000Z, 2024-08-17T13:12:34.944Z http://tantek.com/log/2005/01.html#d26t0100 abbr design pattern - Microformats Wiki, 16:20, 18 July 2020‎2020-07-18T16:20, 2022-10-08T16:56:50.000Z, 2024-08-17T13:15:00.009Z http://microformats.org/wiki/abbr-design-pattern",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Human vs. ISO8601 dates problem solved\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tantek Çelik\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>20050126T0100\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2005-01-26T01:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2009-09-26T04:23:59.000Z\u003C/time>, \u003Ctime>2024-08-17T13:12:34.944Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://tantek.com/log/2005/01.html#d26t0100\u0022>http://tantek.com/log/2005/01.html#d26t0100\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>abbr design pattern - Microformats Wiki\u003C/cite>,\u000A\u003Ctime itemprop=\u0022published\u0022>16:20, 18 July 2020‎\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2020-07-18T16:20\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2022-10-08T16:56:50.000Z\u003C/time>, \u003Ctime>2024-08-17T13:15:00.009Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://microformats.org/wiki/abbr-design-pattern\u0022>http://microformats.org/wiki/abbr-design-pattern\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2005-01-26T01:00",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2005-01-26T01:00\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "abbr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbr\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2005-01-26、 Tantek Çelik は HTML4 で日時を記述できる要素がない問題について abbr で代用する手法を考案しました。 HTML5 に time が追加されるまで microformats でデザインパターンの1つとして活用されました。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2005-01-26\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tantek Çelik\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML4\u003C/anchor>\u000Aで\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日時\u003C/anchor>を記述できる要素がない問題について\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbr\u003C/code>\u000Aで代用する手法を考案しました。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>time\u003C/code>\u000Aが追加されるまで\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>microformats\u003C/anchor>\u000Aでデザインパターンの1つとして活用されました。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 14643
          }
       ],
@@ -3277,6 +3403,41 @@
    {
       "_" : [
          {
+            "page_id" : 17915
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Ccentre>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;centre&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1999",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "centre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>centre\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "たまに解説等で center を centre と誤るものがあった。",
+            "xml" : "\u000Aたまに解説等で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>\u000Aを\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>centre\u003C/code>\u000Aと誤るものがあった。"
+         },
+         {
+            "text" : "誤記に対応するため Netscape Navigator 4.0 が centre を実装していたとする説があるが、 信憑性は不明。",
+            "xml" : "\u000A誤記に対応するため\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 4.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>centre\u003C/code>\u000Aを実装していたとする説があるが、\u000A信憑性は不明。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 19181
          }
       ],
@@ -3372,6 +3533,68 @@
          {
             "text" : "2016頃、 パネル(群)を記述する panelset, panel, paneltitle が提案されていた。ここでいうパネルとはタブ、アコーディオン等の UI 概念を抽象化したものとされていた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2016\u003C/time>頃、\u000Aパネル(群)を記述する\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panelset\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panel\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>paneltitle\u003C/code>\u000Aが提案されていた。ここでいうパネルとは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タブ\u003C/anchor>、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アコーディオン\u003C/anchor>等の UI\u000A概念を抽象化したものとされていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 19410
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Fine-Grained Transclusion in the Hypertext Markup Language, Andrew Pam, Internet Draft, 2 March 19971997-03-02, 2024-08-17T10:19:44.000Z https://datatracker.ietf.org/doc/html/draft-pam-html-fine-trans-00",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Fine-Grained Transclusion in the Hypertext Markup Language\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Andrew Pam\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2 March 1997\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1997-03-02\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-17T10:19:44.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://datatracker.ietf.org/doc/html/draft-pam-html-fine-trans-00\u0022>https://datatracker.ietf.org/doc/html/draft-pam-html-fine-trans-00\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997-03-02",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-03-02\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "text",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1997-03-02、 Project Xanadu の Andrew Pam は text を提案した。 平文やHTML文書の一部または全部を埋め込むものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-03-02\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Project Xanadu\u003C/anchor>\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Andrew Pam\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text\u003C/code>\u000Aを提案した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平文\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML文書\u003C/anchor>の一部または全部を埋め込むものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 19410
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Terra Informatica Software, Inc., Terra Informatica Software Design, 2010-12-05, 2024-08-17T09:37:55.000Z, 2011-01-01T08:17:50.894Z https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Terra Informatica Software, Inc.\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2010-12-05\u003C/time>,\u000A\u003Ctime>2024-08-17T09:37:55.000Z\u003C/time>, \u003Ctime>2011-01-01T08:17:50.894Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm\u0022>https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2009",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "text",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は2009時点で text を実装していた。 文字入力欄を表すものだったらしい。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text\u003C/code>\u000Aを実装していた。\u000A文字入力欄を表すものだったらしい。"
          }
       ]
    },
@@ -5846,6 +6069,72 @@
    {
       "_" : [
          {
+            "page_id" : 28479
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Capp>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;app&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "app",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>app\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Java 1.0α3 の頃の HotJava が app を実装した。 後の applet に当たる。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Java\u003C/anchor> 1.0α3\u000Aの頃の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HotJava\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>app\u003C/code>\u000Aを実装した。\u000A後の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>applet\u003C/code> に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 28479
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Java Applet element proposal, Terry Allen, Thu, 1 Jun 95 20:02:35 EDT1995-06-02T07:15:33.000Z, 2024-08-17T12:19:54.651Z https://ksi.cpsc.ucalgary.ca/archives/HTML-WG/html-wg-95q2.messages/1119.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Java Applet element proposal\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terry Allen\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Thu, 1 Jun 95 20:02:35 EDT\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1995-06-02T07:15:33.000Z\u003C/attrvalue>\u003C/time>, \u003Ctime>2024-08-17T12:19:54.651Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://ksi.cpsc.ucalgary.ca/archives/HTML-WG/html-wg-95q2.messages/1119.html\u0022>https://ksi.cpsc.ucalgary.ca/archives/HTML-WG/html-wg-95q2.messages/1119.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "applet",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>applet\u003C/code>"
+         },
+         {
+            "text" : "param",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Java 1.0β の HotJava は applet、 param を実装した。 1995-06-01かそれ以前に HTML 仕様への追加を準備していた Sun Microsystems Inc. の Arthur van Hoff のメーリングリストへの投稿によると、 app が SGML DTD で記述できないために構文を改めたものだった。 その後多くの Webブラウザーに実装された。 Javaアプレットを埋め込むもので、 一時はかなり多くのWebサイトで利用されていた。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Java\u003C/anchor> 1.0β\u000Aの\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HotJava\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>applet\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>\u000Aを実装した。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-06-01\u003C/time>かそれ以前に\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000A仕様への追加を準備していた\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Sun Microsystems Inc.\u003C/anchor>\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Arthur van Hoff\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メーリングリスト\u003C/anchor>への投稿によると、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>app\u003C/code>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML DTD\u003C/anchor>\u000Aで記述できないために構文を改めたものだった。\u000Aその後多くの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>に実装された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Javaアプレット\u003C/anchor>を埋め込むもので、\u000A一時はかなり多くの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>で利用されていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3148
          }
       ],
@@ -6226,6 +6515,37 @@
    {
       "_" : [
          {
+            "page_id" : 3368
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Remove \u003Capplet>, zcorpan, 2017-08-21 22:19:30 \u002B09:00, 2024-08-17T12:30:55.000Z https://github.com/whatwg/html/commit/b9b9d60f9451c05f8e8d542e4094f987ae1a5fb8",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>Remove &lt;applet&gt;\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>zcorpan\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>2017-08-21 22:19:30 \u002B09:00\u003C/time>, \u003Ctime>2024-08-17T12:30:55.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/whatwg/html/commit/b9b9d60f9451c05f8e8d542e4094f987ae1a5fb8\u0022>https://github.com/whatwg/html/commit/b9b9d60f9451c05f8e8d542e4094f987ae1a5fb8\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2017-08-21",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2017-08-21\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "applet",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>applet\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2017-08-21、 HTML Standard は applet のJavaアプレット実行に関する規定を削除した。 今は構文解析器やDOMに関する規定が残るのみである。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2017-08-21\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML Standard\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>applet\u003C/code>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Javaアプレット\u003C/anchor>実行に関する規定を削除した。\u000A今は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析器\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DOM\u003C/anchor>に関する規定が残るのみである。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3411
          }
       ],
@@ -6587,6 +6907,31 @@
          {
             "text" : "実際に right が使われた事例もいくつか知られているが、 表示上の効果はなかったはずで、 何を考えて使われたものか謎である。",
             "xml" : "\u000A実際に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>right\u003C/code>\u000Aが使われた事例もいくつか知られているが、\u000A表示上の効果はなかったはずで、\u000A何を考えて使われたものか謎である。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4520
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "object",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996頃、 Internet Explorer 3.0 が object を実装した。 ActiveXコントロールを埋め込むことができた。 Internet Explorer 用の object と Netscape Navigator 用の embed を組み合わせてプラグインを利用する方法が一般的となって広く使われた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>頃、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 3.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>\u000Aを実装した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ActiveXコントロール\u003C/anchor>を埋め込むことができた。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite> 用の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code> と\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite> 用の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aを組み合わせて\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラグイン\u003C/anchor>を利用する方法が一般的となって広く使われた。"
          }
       ]
    },
@@ -7658,6 +8003,37 @@
    {
       "_" : [
          {
+            "page_id" : 45916
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Using Custom Tags in Internet Explorer, Microsoft Corporation, 2024-08-17T03:57:08.000Z, 2000-10-16T03:16:44.897Z https://web.archive.org/web/20001016031202/http://msdn.microsoft.com/workshop/author/dhtml/overview/customTags.asp",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022EN-US\u0022>Using Custom Tags in Internet Explorer\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u003C/data>, \u000A\u003Ctime>2024-08-17T03:57:08.000Z\u003C/time>, \u003Ctime itemprop=\u0022published\u0022>2000-10-16T03:16:44.897Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20001016031202/http://msdn.microsoft.com/workshop/author/dhtml/overview/customTags.asp\u0022>https://web.archive.org/web/20001016031202/http://msdn.microsoft.com/workshop/author/dhtml/overview/customTags.asp\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1999",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "*:*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cvar>*\u003C/var>:\u003Cvar>*\u003C/var>\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1999頃の Internet Explorer 5 はカスタムタグ (custom tags) を実装した。 html に xmlns 属性を指定して接頭辞 (prefix) を宣言することで、 その接頭辞を使った独自の要素が使えるようになる。 また、 DHTML behavior によってその挙動を記述できる。 XML Namespaces 仕様に基づくとされるが、当時の仕様案を HTML 用に改変したもので、現行 XML Namespaces 仕様とは異なる。 現在のカスタム要素に当たるが互換性はない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>頃の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 5\u003C/cite>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>カスタムタグ\u003C/anchor> (custom tags)\u000Aを実装した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmlns\u003C/code>\u000A属性を指定して接頭辞 (prefix) を宣言することで、\u000Aその接頭辞を使った独自の要素が使えるようになる。\u000Aまた、 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DHTML behavior\u003C/anchor> によってその挙動を記述できる。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XML Namespaces\u003C/cite>\u000A仕様に基づくとされるが、当時の仕様案を\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000A用に改変したもので、現行\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XML Namespaces\u003C/cite>\u000A仕様とは異なる。\u000A現在の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>カスタム要素\u003C/anchor>に当たるが互換性はない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45932
          }
       ],
@@ -7714,6 +8090,99 @@
          {
             "text" : "2007-12-15、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は richtext を追加した。 textarea、 htmlarea に代わるものだという。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-15\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>richtext\u003C/code>\u000Aを追加した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>\u000Aに代わるものだという。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45938
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Terra Informatica Software, Inc., Terra Informatica Software Design, 2010-12-05, 2024-08-17T09:37:55.000Z, 2011-01-01T08:17:50.894Z https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Terra Informatica Software, Inc.\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2010-12-05\u003C/time>,\u000A\u003Ctime>2024-08-17T09:37:55.000Z\u003C/time>, \u003Ctime>2011-01-01T08:17:50.894Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm\u0022>https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2010-08-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010-08-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "splitter",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>splitter\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2010-08-07、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は splitter を追加した。 フレームの境界を表すものという。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010-08-07\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>splitter\u003C/code>\u000Aを追加した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フレーム\u003C/anchor>の境界を表すものという。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45940
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML TADS deviations from standard HTML specifications, 2007-06-23T19:42:00.000Z, 2024-08-17T11:45:11.200Z https://www.tads.org/t3doc/doc/htmltads/deviate.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML TADS deviations from standard HTML specifications\u003C/cite>,\u000A\u003Ctime itemprop=\u0022published\u0022>2007-06-23T19:42:00.000Z\u003C/time>, \u003Ctime>2024-08-17T11:45:11.200Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.tads.org/t3doc/doc/htmltads/deviate.htm\u0022>https://www.tads.org/t3doc/doc/htmltads/deviate.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "aboutbox",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>aboutbox\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "ゲームエンジン TADS では API で HTML 風の文字列]片を指定でき、 標準の HTML を拡張した HTML TADS と称しているが、 aboutbox を実装している。 ソフトウェアについての情報ダイアログの内容を表すという。",
+            "xml" : "\u000Aゲームエンジン \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>TADS\u003C/cite> では \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>API\u003C/anchor> で \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字列]片を指定でき、\u000A標準の \u003Canchor>HTML\u003C/anchor> を拡張した \u003Canchor>HTML TADS\u003C/anchor> と称しているが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>aboutbox\u003C/code>\u000Aを実装している。\u000Aソフトウェアについての情報ダイアログの内容を表すという。\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45941
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Word Wrapping and Line Breaking in HTML TADS, 2002-12-13T06:25:50.000Z, 2024-08-17T11:53:47.792Z https://www.tads.org/t3doc/doc/htmltads/linebrk.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Word Wrapping and Line Breaking in HTML TADS\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2002-12-13T06:25:50.000Z\u003C/time>, \u003Ctime>2024-08-17T11:53:47.792Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.tads.org/t3doc/doc/htmltads/linebrk.htm\u0022>https://www.tads.org/t3doc/doc/htmltads/linebrk.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2002",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "wrap",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wrap\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "ゲームエンジン TADS では API で HTML 風の文字列]片を指定でき、 標準の HTML を拡張した HTML TADS と称しているが、 wrap を実装している。 行折返しの方法を指定できる。",
+            "xml" : "\u000Aゲームエンジン \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>TADS\u003C/cite> では \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>API\u003C/anchor> で \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字列]片を指定でき、\u000A標準の \u003Canchor>HTML\u003C/anchor> を拡張した \u003Canchor>HTML TADS\u003C/anchor> と称しているが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wrap\u003C/code>\u000Aを実装している。\u000A行折返しの方法を指定できる。\u003C/anchor>"
          }
       ]
    },
@@ -8728,6 +9197,37 @@
          {
             "text" : "Emacs/W3 は flame を実装していた。イースターエッグのようなものだろう。",
             "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Emacs/W3\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>flame\u003C/code>\u000Aを実装していた。\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>イースターエッグ\u003C/anchor>のようなものだろう。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 8407
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Terra Informatica Software, Inc., Terra Informatica Software Design, 2010-12-05, 2024-08-17T09:37:55.000Z, 2011-01-01T08:17:50.894Z https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Terra Informatica Software, Inc.\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2010-12-05\u003C/time>,\u000A\u003Ctime>2024-08-17T09:37:55.000Z\u003C/time>, \u003Ctime>2011-01-01T08:17:50.894Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm\u0022>https://web.archive.org/web/20110101081723/http://www.terrainformatica.com/htmlayout/logfile.whtm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2008-11-09",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2008-11-09\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "picture",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>picture\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2008-11-09、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は picture を追加した。 img と同等だがブロック水準要素として機能するという。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2008-11-09\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>picture\u003C/code>\u000Aを追加した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>\u000Aと同等だが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ブロック水準要素\u003C/anchor>として機能するという。"
          }
       ]
    },
