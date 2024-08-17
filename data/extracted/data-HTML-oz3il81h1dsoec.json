@@ -1046,6 +1046,31 @@
    {
       "_" : [
          {
+            "page_id" : 895
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "marquee",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>marquee\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996頃の Internet Explorer 2.0 が marquee を実装した。 その後多くの Webブラウザーが実装した。 当初 Netscape Navigator は対応していなかったが、 無視できないほど広く利用され Gecko が実装した。 廃止状態とされながらも今も HTML Standard に規定があり、各Webブラウザーが実装している。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>頃の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 2.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>marquee\u003C/code>\u000Aを実装した。\u000Aその後多くの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>が実装した。\u000A当初\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator\u003C/cite>\u000Aは対応していなかったが、\u000A無視できないほど広く利用され\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Gecko\u003C/cite>\u000Aが実装した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>廃止\u003C/anchor>状態とされながらも今も\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML Standard\u003C/cite>\u000Aに規定があり、各\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>が実装している。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 920
          }
       ],
@@ -1972,6 +1997,37 @@
    {
       "_" : [
          {
+            "page_id" : 1749
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Terra Informatica Software Design, 2008-05-04, 2024-08-17T10:01:03.000Z, 2010-03-25T11:33:36.022Z https://web.archive.org/web/20100325111913/http://www.terrainformatica.com/htmlayout/logfile320.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2008-05-04\u003C/time>,\u000A\u003Ctime>2024-08-17T10:01:03.000Z\u003C/time>, \u003Ctime>2010-03-25T11:33:36.022Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20100325111913/http://www.terrainformatica.com/htmlayout/logfile320.htm\u0022>https://web.archive.org/web/20100325111913/http://www.terrainformatica.com/htmlayout/logfile320.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007-12-21",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-21\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "plaintext",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>plaintext\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2007-12-21、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は plaintext を追加した。 textarea と同等だがブロック水準要素として機能するという。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-21\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>plaintext\u003C/code>\u000Aを追加した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>\u000Aと同等だが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ブロック水準要素\u003C/anchor>として機能するという。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1078
          }
       ],
@@ -2461,8 +2517,8 @@
       ],
       "説明" : [
          {
-            "text" : "Laura Lemay は1994-10-19に Mosaic Netscape 0.9 にない10個の HTML 拡張を列挙したという風刺記事を USENET に投稿した。 wired, roach, kill_sgml, pinhead, secret, hype, peek, poke, yogsothoth と挙げ、最後に blink という落ちだった。",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Laura Lemay\u003C/anchor>\u000Aは\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-10-19\u003C/time>に \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Mosaic Netscape 0.9\u003C/cite>\u000Aにない10個の HTML 拡張を列挙したという風刺記事を \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>USENET\u003C/anchor>\u000Aに投稿した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wired\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>roach\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kill_sgml\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pinhead\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>secret\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hype\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>peek\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>poke\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>yogsothoth\u003C/code>\u000Aと挙げ、最後に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blink\u003C/code>\u000Aという落ちだった。"
+            "text" : "1994-10-19、 Laura Lemay は Mosaic Netscape 0.9 にない10個の HTML 拡張を列挙したという風刺記事を USENET に投稿した。 wired, roach, kill_sgml, pinhead, secret, hype, peek, poke, yogsothoth と挙げ、最後に blink という落ちだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-10-19\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Laura Lemay\u003C/anchor> は\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Mosaic Netscape 0.9\u003C/cite>\u000Aにない10個の HTML 拡張を列挙したという風刺記事を \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>USENET\u003C/anchor>\u000Aに投稿した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wired\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>roach\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kill_sgml\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pinhead\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>secret\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hype\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>peek\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>poke\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>yogsothoth\u003C/code>\u000Aと挙げ、最後に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blink\u003C/code>\u000Aという落ちだった。"
          }
       ]
    },
@@ -3353,6 +3409,57 @@
    {
       "_" : [
          {
+            "page_id" : 2118
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTC Reference, Microsoft Corporation, 2024-08-17T07:32:41.000Z, 2000-11-01T06:11:43.841Z https://web.archive.org/web/20001101060555/http://www.msdn.microsoft.com/workshop/components/htc/reference/htcref.asp",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022EN-US\u0022>HTC Reference\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u003C/data>, \u000A\u003Ctime>2024-08-17T07:32:41.000Z\u003C/time>, \u003Ctime itemprop=\u0022published\u0022>2000-11-01T06:11:43.841Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20001101060555/http://www.msdn.microsoft.com/workshop/components/htc/reference/htcref.asp\u0022>https://web.archive.org/web/20001101060555/http://www.msdn.microsoft.com/workshop/components/htc/reference/htcref.asp\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1999",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "public:attach",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:attach\u003C/code>"
+         },
+         {
+            "text" : "public:component",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:component\u003C/code>"
+         },
+         {
+            "text" : "public:defaults",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:defaults\u003C/code>"
+         },
+         {
+            "text" : "public:event",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:event\u003C/code>"
+         },
+         {
+            "text" : "public:method",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:method\u003C/code>"
+         },
+         {
+            "text" : "public:property",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:property\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1999頃の Internet Explorer 5 は HTML Components (HTC) として public:attach, public:component, public:defaults, public:event, public:method, public:property を実装した。 HTC は再利用可能なコンポーネントを定義するもので、 script を使う以外は通常の HTML文書とかけ離れたファイル形式ではあるが、 公式ドキュメントで HTC はHTML ファイルであると案内されている。 要素名に : が入るが、同じ時期の Internet Explorer で導入された同様の他の機能のような xmlns 属性の指定は求められていない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>頃の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 5\u003C/cite>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML Components\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTC\u003C/anchor>)\u000Aとして\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:attach\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:component\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:defaults\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:event\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:method\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>public:property\u003C/code>\u000Aを実装した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTC\u003C/anchor>\u000Aは再利用可能なコンポーネントを定義するもので、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>\u000Aを使う以外は通常の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML文書\u003C/anchor>とかけ離れたファイル形式ではあるが、\u000A公式ドキュメントで HTC はHTML ファイルであると案内されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:\u003C/code>\u000Aが入るが、同じ時期の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000Aで導入された同様の他の機能のような\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmlns\u003C/code>\u000A属性の指定は求められていない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 2214
          }
       ],
@@ -3926,6 +4033,41 @@
          {
             "text" : "1992-06-24付の Dan Connolly の HTML DTD に image がある。 HTML の SGML 化を模索していた時期のもので、 SGML実体を使う方法の提案だった。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの HTML DTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>\u000Aがある。\u000AHTML の SGML 化を模索していた時期のもので、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML実体\u003C/anchor>を使う方法の提案だった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2743
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HtmLayout markup language, Terra Informatica Software Design, 2003, 2024-08-17T08:32:45.000Z, 2004-12-24T04:06:52.856Z https://web.archive.org/web/20041224034631/http://www.terrainformatica.com/htmlayout.old/htmlex.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HtmLayout markup language\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2003\u003C/time>,\u000A\u003Ctime>2024-08-17T08:32:45.000Z\u003C/time>, \u003Ctime>2004-12-24T04:06:52.856Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20041224034631/http://www.terrainformatica.com/htmlayout.old/htmlex.htm\u0022>https://web.archive.org/web/20041224034631/http://www.terrainformatica.com/htmlayout.old/htmlex.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2003",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2003\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "widget",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>widget\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は、 2003付ドキュメントによると HTML 3.2 を拡張して input、 widget を実装していた。 アプリケーション依存の入力コントロールの配置用で、 input は行内要素、 widget はブロック水準要素として機能した。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2003\u003C/time>付ドキュメントによると\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.2\u003C/anchor>\u000Aを拡張して\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>widget\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリケーション\u003C/anchor>依存の入力コントロールの配置用で、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>行内要素\u003C/anchor>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>widget\u003C/code>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ブロック水準要素\u003C/anchor>として機能した。"
          }
       ]
    },
@@ -5636,6 +5778,68 @@
          {
             "text" : "SGML \u003C!DOCTYPE> 宣言は低品質な解説類でしばしば要素やタグとして紹介された。 Microsoft Corporation も Internet Explorer 3.0 で対応した終了タグのない要素として !DOCTYP を紹介していた。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;!DOCTYPE&gt;\u003C/code>\u000A宣言は低品質な解説類でしばしば要素やタグとして紹介された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aも\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 3.0\u003C/cite>\u000Aで対応した終了タグのない要素として\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!DOCTYP\u003C/code>\u000Aを紹介していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 23231
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTMLayout specific tags, Terra Informatica Software Design, 2003, 2024-08-17T08:56:31.000Z, 2010-11-23T21:50:37.804Z https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTMLayout specific tags\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2003\u003C/time>,\u000A\u003Ctime>2024-08-17T08:56:31.000Z\u003C/time>, \u003Ctime>2010-11-23T21:50:37.804Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm\u0022>https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2010",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "popup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>popup\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は、 2010時点で popup を実装していた。 ツールチップ等のポップアップ表示するものと説明されていた。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>popup\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ツールチップ\u003C/anchor>等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ポップアップ\u003C/anchor>表示するものと説明されていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24158
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML Applications Overview, Microsoft Corporation, 2024-08-17T07:19:47.000Z, 2000-10-19T04:30:00.714Z https://web.archive.org/web/20001019042807/http://msdn.microsoft.com/workshop/author/hta/overview/htaoverview.asp",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022EN-US\u0022>HTML Applications Overview\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u003C/data>, \u000A\u003Ctime>2024-08-17T07:19:47.000Z\u003C/time>, \u003Ctime itemprop=\u0022published\u0022>2000-10-19T04:30:00.714Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20001019042807/http://msdn.microsoft.com/workshop/author/hta/overview/htaoverview.asp\u0022>https://web.archive.org/web/20001019042807/http://msdn.microsoft.com/workshop/author/hta/overview/htaoverview.asp\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1999",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "hta:application",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hta:application\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1999頃の Internet Explorer 5 は HTML Applications (HTA) として hta:application を実装した。 HTA は Web 技術を使った HTMLアプリケーション実行環境であり、 標準的な HTML で記述できない動作オプションを指定するものである。 通常の Webページでは機能しない。 要素名に : が入るが、 同時期の Internet Explorer で導入された同様の他の機能のような xmlns 属性の指定は求められていない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>頃の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 5\u003C/cite>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML Applications\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTA\u003C/anchor>)\u000Aとして\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hta:application\u003C/code>\u000Aを実装した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTA\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor>\u000A技術を使った\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTMLアプリケーション\u003C/anchor>実行環境であり、\u000A標準的な\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aで記述できない動作オプションを指定するものである。\u000A通常の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webページ\u003C/anchor>では機能しない。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:\u003C/code>\u000Aが入るが、\u000A同時期の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000Aで導入された同様の他の機能のような\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmlns\u003C/code>\u000A属性の指定は求められていない。"
          }
       ]
    },
@@ -7454,6 +7658,68 @@
    {
       "_" : [
          {
+            "page_id" : 45932
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTMLayout specific tags, Terra Informatica Software Design, 2003, 2024-08-17T08:56:31.000Z, 2010-11-23T21:50:37.804Z https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTMLayout specific tags\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2003\u003C/time>,\u000A\u003Ctime>2024-08-17T08:56:31.000Z\u003C/time>, \u003Ctime>2010-11-23T21:50:37.804Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm\u0022>https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2006-03-16",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-03-16\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "include",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2003-06-16、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は include を追加した。 他の文書を取り込みするものと説明されていた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2003-06-16\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>\u000Aを追加した。\u000A他の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>を取り込みするものと説明されていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45937
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Terra Informatica Software Design, 2008-05-04, 2024-08-17T10:01:03.000Z, 2010-03-25T11:33:36.022Z https://web.archive.org/web/20100325111913/http://www.terrainformatica.com/htmlayout/logfile320.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2008-05-04\u003C/time>,\u000A\u003Ctime>2024-08-17T10:01:03.000Z\u003C/time>, \u003Ctime>2010-03-25T11:33:36.022Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20100325111913/http://www.terrainformatica.com/htmlayout/logfile320.htm\u0022>https://web.archive.org/web/20100325111913/http://www.terrainformatica.com/htmlayout/logfile320.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007-12-15",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-15\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "richtext",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>richtext\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2007-12-15、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は richtext を追加した。 textarea、 htmlarea に代わるものだという。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-15\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>richtext\u003C/code>\u000Aを追加した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>\u000Aに代わるものだという。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5108
          }
       ],
@@ -8765,6 +9031,68 @@
          {
             "text" : "Emacs/W3 は少なくても構文解析において fn を実装していた。",
             "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Emacs/W3\u003C/cite>\u000Aは少なくても\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>において\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>\u000Aを実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 9740
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Internet Explorer 5 Beta, Microsoft Corporation, November 3, 19981998-11-03, 2024-08-17T08:03:15.000Z, 1999-02-24T18:38:42.182Z http://web.archive.org/web/19990224183841/http://www.microsoft.com/windows/ie/ie5/overview.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022EN-US\u0022>Internet Explorer 5 Beta\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>November 3, 1998\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1998-11-03\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-17T08:03:15.000Z\u003C/time>, \u003Ctime>1999-02-24T18:38:42.182Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://web.archive.org/web/19990224183841/http://www.microsoft.com/windows/ie/ie5/overview.htm\u0022>http://web.archive.org/web/19990224183841/http://www.microsoft.com/windows/ie/ie5/overview.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1998-06-11",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1998-06-11\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "htmlarea",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1998-06-11 の Internet Explorer 5.0 Developer Preview Release は htmlarea を追加したが、その後の版ですぐに削除された。 1998-11-03付の Microsoft Corporation の告知文に記述がある他、 いくつかの解説サイト等の言及があるものの、 情報はほとんど現存しない。 現在の contenteditable 属性に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1998-06-11\u003C/time>\u000Aの\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer  5.0 Developer Preview Release\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>\u000Aを追加したが、その後の版ですぐに削除された。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1998-11-03\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aの告知文に記述がある他、\u000Aいくつかの解説サイト等の言及があるものの、\u000A情報はほとんど現存しない。\u000A現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>contenteditable\u003C/code>\u000A属性に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 9740
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Terra Informatica Software Design, 2006-10-05, 2024-08-17T09:48:21.000Z, 2011-02-21T02:56:18.909Z https://web.archive.org/web/20110221025439/http://www.terrainformatica.com/htmlayout/logfile310.htm",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2006-10-05\u003C/time>,\u000A\u003Ctime>2024-08-17T09:48:21.000Z\u003C/time>, \u003Ctime>2011-02-21T02:56:18.909Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20110221025439/http://www.terrainformatica.com/htmlayout/logfile310.htm\u0022>https://web.archive.org/web/20110221025439/http://www.terrainformatica.com/htmlayout/logfile310.htm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2005-10-22",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2005-10-22\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "htmlarea",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2005-10-22、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は htmlarea を追加した。 Internet Explorer 版とは無関係と思われる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2005-10-22\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>\u000Aを追加した。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000A版とは無関係と思われる。"
          }
       ]
    },
