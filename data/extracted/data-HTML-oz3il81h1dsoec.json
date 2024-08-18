@@ -416,6 +416,121 @@
    {
       "_" : [
          {
+            "page_id" : 245
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "hn",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>hn\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1999",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "h7",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Mosaic やその派生 (IBM WebExplorer や初期の Internet Explorer など) は h7 を実装していた。 Microsoft Corporation のドキュメントにも h7 に言及したものがあった。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Mosaic\u003C/cite>\u000Aやその派生 (\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>IBM WebExplorer\u003C/cite> や初期の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite> など)\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aのドキュメントにも\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>\u000Aに言及したものがあった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 245
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Semantic Frenzy » XHTML Deluxe, Mirko Prugovecki, Sep 20. 20062006-09-20, 2024-08-18T01:10:11.000Z, 2006-12-01T05:30:57.103Z https://web.archive.org/web/20061201052610/http://www.prugo.de/blog/xhtml-deluxe/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Semantic Frenzy » XHTML Deluxe\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mirko Prugovecki\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022published\u0022>Sep 20. 2006\u003Csw-value xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2006-09-20\u003C/sw-value>\u003C/data>,\u000A\u003Ctime>2024-08-18T01:10:11.000Z\u003C/time>, \u003Ctime>2006-12-01T05:30:57.103Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20061201052610/http://www.prugo.de/blog/xhtml-deluxe/\u0022>https://web.archive.org/web/20061201052610/http://www.prugo.de/blog/xhtml-deluxe/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2006-09-20",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-09-20\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "h7",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>"
+         },
+         {
+            "text" : "h8",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h8\u003C/code>"
+         },
+         {
+            "text" : "h9",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h9\u003C/code>"
+         },
+         {
+            "text" : "h10",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h10\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2006-09-20、 Mirko Prugovecki は XHTML 1.0 Strict を拡張した XHTML Deluxe 1.0 を提案したが、 h7、 h8、 h9、 h10 が追加されている。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-09-20\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mirko Prugovecki\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 1.0 Strict\u003C/anchor>\u000Aを拡張した\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML Deluxe 1.0\u003C/cite>\u000Aを提案したが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h8\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h9\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h10\u003C/code>\u000Aが追加されている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 245
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "hn",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>hn\u003C/anchor>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "h0",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h0\u003C/code>"
+         },
+         {
+            "text" : "h7",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>"
+         },
+         {
+            "text" : "h8",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h8\u003C/code>"
+         },
+         {
+            "text" : "h9",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h9\u003C/code>"
+         },
+         {
+            "text" : "h10",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h10\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "解説等で h0、 h7、 h8、 h9、 h10 が紹介されることがあった。 h7、 h8 の実用例や h9 を生成できるソフトウェアの事例が確認されている。 HTML 以外の SGML 応用では h0 が規定されたものもある。",
+            "xml" : "\u000A解説等で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h0\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h8\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h9\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h10\u003C/code>\u000Aが紹介されることがあった。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h8\u003C/code>\u000Aの実用例や\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h9\u003C/code>\u000Aを生成できるソフトウェアの事例が確認されている。\u000AHTML 以外の SGML 応用では\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h0\u003C/code>\u000Aが規定されたものもある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 321
          }
       ],
@@ -1446,8 +1561,8 @@
       ],
       "説明" : [
          {
-            "text" : "Emacs/W3 は少なくても構文解析において lang を実装していた。",
-            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Emacs/W3\u003C/cite>\u000Aは少なくても\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>において\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lang\u003C/code>\u000Aを実装していた。"
+            "text" : "Emacs/W3 は少なくても構文解析において lang を実装していた。 また、当時の文書で稀に利用されている。 直接の関係はないが、 後に WebVTT が言語指定のため lang を追加した。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Emacs/W3\u003C/cite>\u000Aは少なくても\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>において\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lang\u003C/code>\u000Aを実装していた。\u000Aまた、当時の文書で稀に利用されている。\u000A直接の関係はないが、\u000A後に\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebVTT\u003C/anchor> \u000Aが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>言語\u003C/anchor>指定のため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lang\u003C/code>\u000Aを追加した。"
          }
       ]
    },
@@ -7329,6 +7444,84 @@
    {
       "_" : [
          {
+            "page_id" : 4080
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Centity>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;entity&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-03-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-03-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "entity",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entity\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-03-04付の Microsoft Corporation の Mark Buckley による DTD for Internet Explorer 2.0 HTML に entity がある。1996-02-26版からの変更点に記載がないので、 その時点では既にあったことになる。 1995-12時点の HTML 2.0 DTD に基づくというが、 HTML 2.0 にないので独自の追加分ということになる。 同時期の他社の DTD にも見られない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-03-04\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mark Buckley\u003C/anchor>\u000Aによる\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>DTD for Internet Explorer 2.0 HTML\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entity\u003C/code>\u000Aがある。\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-02-26\u003C/time>版からの変更点に記載がないので、\u000Aその時点では既にあったことになる。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-12\u003C/time>時点の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 2.0\u003C/anchor> DTD \u000Aに基づくというが、 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 2.0\u003C/anchor> にないので独自の追加分ということになる。\u000A同時期の他社の DTD にも見られない。"
+         },
+         {
+            "text" : "どのような機能があったのか、そもそも実装されていたのかもはっきりせず、 ほとんど情報がない。 なお、 Internet Explorer 3.0 の独自機能として紹介されることがあるが、 後に公開された Internet Explorer 3.0 版 DTD に該当部分が引き継がれたことによると思われる。",
+            "xml" : "\u000Aどのような機能があったのか、そもそも実装されていたのかもはっきりせず、\u000Aほとんど情報がない。\u000Aなお、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 3.0\u003C/cite>\u000Aの独自機能として紹介されることがあるが、\u000A後に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 3.0\u003C/cite>\u000A版 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> に該当部分が引き継がれたことによると思われる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4080
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "The HTML Professional DTD, Peter Flynn, 1 January 19971997-01-01, 2024-08-18T03:11:56.000Z, 1997-05-12T01:13:03.515Z https://web.archive.org/web/19970512004934/http://www.ucc.ie/html/dtds/htmlpro.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>The HTML Professional DTD\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Peter Flynn\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1 January 1997\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1997-01-01\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-18T03:11:56.000Z\u003C/time>, \u003Ctime>1997-05-12T01:13:03.515Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/19970512004934/http://www.ucc.ie/html/dtds/htmlpro.html\u0022>https://web.archive.org/web/19970512004934/http://www.ucc.ie/html/dtds/htmlpro.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-11-16",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-11-16\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "entity",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entity\u003C/code>"
+         },
+         {
+            "text" : "comment",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>comment\u003C/code>"
+         },
+         {
+            "text" : "attrib",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>attrib\u003C/code>"
+         },
+         {
+            "text" : "element",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>element\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "DTD \u002B//Silmaril//DTD HTML Pro v0r10 19961116//EN に comment、 entity、 attrib、 element がある。 その説明 The HTML Professional DTD によると、 既存の comment、 entity を流用し attrib、 element を追加して SGML の要素名等の記述に用いることとしたものである。 element はその説明文書自体の記述に使われている。 attrib、 entity も同様に名前を記述すると推測されるが、 comment の用法は定かではない。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u002B//Silmaril//DTD HTML Pro v0r10 19961116//EN\u003C/code>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>comment\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entity\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>attrib\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>element\u003C/code>\u000Aがある。\u000Aその説明\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>The HTML Professional DTD\u003C/cite>\u000Aによると、\u000A既存の \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>comment\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entity\u003C/code>\u000Aを流用し\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>attrib\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>element\u003C/code>\u000Aを追加して\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor>\u000Aの要素名等の記述に用いることとしたものである。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>element\u003C/code>\u000Aはその説明文書自体の記述に使われている。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>attrib\u003C/code>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entity\u003C/code>\u000Aも同様に名前を記述すると推測されるが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>comment\u003C/code>\u000Aの用法は定かではない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 4869
          }
       ],
@@ -8189,6 +8382,68 @@
    {
       "_" : [
          {
+            "page_id" : 45948
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "waloo, 2008-07-17T22:22:26\u002B00:00, 2007-11-22T13:51:04.000Z, 2024-08-18T04:09:50.174Z https://svn.kolekti.org/svn/kolekti/historic/kolekti-0.4/dtd/publication.dtd",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>waloo\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2008-07-17T22:22:26\u002B00:00\u003C/time>,\u000A\u003Ctime>2007-11-22T13:51:04.000Z\u003C/time>, \u003Ctime>2024-08-18T04:09:50.174Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://svn.kolekti.org/svn/kolekti/historic/kolekti-0.4/dtd/publication.dtd\u0022>https://svn.kolekti.org/svn/kolekti/historic/kolekti-0.4/dtd/publication.dtd\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2008-07-17",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2008-07-17\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "pubhtml",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pubhtml\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "技術文書出版システム Kolekti は HTML名前空間の pubhtml を文書要素とする DTD を使っていた。 Subversion の履歴によると2008-07-17に追加されたとある。",
+            "xml" : "\u000A技術文書出版システム\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Kolekti\u003C/cite> \u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pubhtml\u003C/code>\u000Aを\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書要素\u003C/anchor>とする \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000Aを使っていた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Subversion\u003C/anchor>\u000Aの履歴によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2008-07-17\u003C/time>に追加されたとある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45949
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "The HTML Professional DTD, Peter Flynn, 1 January 19971997-01-01, 2024-08-18T03:11:56.000Z, 1997-05-12T01:13:03.515Z https://web.archive.org/web/19970512004934/http://www.ucc.ie/html/dtds/htmlpro.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>The HTML Professional DTD\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Peter Flynn\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1 January 1997\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1997-01-01\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-18T03:11:56.000Z\u003C/time>, \u003Ctime>1997-05-12T01:13:03.515Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/19970512004934/http://www.ucc.ie/html/dtds/htmlpro.html\u0022>https://web.archive.org/web/19970512004934/http://www.ucc.ie/html/dtds/htmlpro.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-11-16",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-11-16\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "xtml",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xtml\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "DTD \u002B//Silmaril//DTD HTML Pro v0r10 19961116//EN に xtml がある。 その説明 The HTML Professional DTD によると、 HTML Pro の独自の追加である。 データベース上で0個以上の HTML文書を1つにするため文書要素として使えるとされた。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u002B//Silmaril//DTD HTML Pro v0r10 19961116//EN\u003C/code>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xtml\u003C/code>\u000Aがある。\u000Aその説明\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>The HTML Professional DTD\u003C/cite>\u000Aによると、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML Pro\u003C/cite>\u000Aの独自の追加である。\u000Aデータベース上で0個以上の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML文書\u003C/anchor>を1つにするため\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書要素\u003C/anchor>として使えるとされた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5108
          }
       ],
@@ -8375,6 +8630,37 @@
          {
             "text" : "2001-07の XHTML 2.0 案で h1 等にかえて h, section が追加された。 名前空間は紆余曲折がありながらも当初案と最終版ではHTML名前空間となっていた。 現在の h1 と section に相当する。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2001-07\u003C/time>の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000A案で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code> \u000A等にかえて\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code>\u000Aが追加された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間\u003C/anchor>は紆余曲折がありながらも当初案と最終版では\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>となっていた。\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code> と \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>section\u003C/code> に相当する。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5253
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cnoimg>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;noimg&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2004-04-18",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-04-18\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "noimg",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noimg\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "かつて解説か何かで noimg を見かけたとする2004-04-18時点の不確実情報がある。 それとは無関係だろうが、 noimg があればと仮定や願望を述べたものなどはいくつかある。",
+            "xml" : "\u000Aかつて解説か何かで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noimg\u003C/code>\u000Aを見かけたとする\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-04-18\u003C/time>時点の不確実情報がある。\u000Aそれとは無関係だろうが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noimg\u003C/code>\u000Aがあればと仮定や願望を述べたものなどはいくつかある。"
          }
       ]
    },
@@ -9562,6 +9848,37 @@
          {
             "text" : "1998-06-11 の Internet Explorer 5.0 Developer Preview Release は htmlarea を追加したが、その後の版ですぐに削除された。 1998-11-03付の Microsoft Corporation の告知文に記述がある他、 いくつかの解説サイト等の言及があるものの、 情報はほとんど現存しない。 現在の contenteditable 属性に当たる。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1998-06-11\u003C/time>\u000Aの\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer  5.0 Developer Preview Release\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>\u000Aを追加したが、その後の版ですぐに削除された。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1998-11-03\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aの告知文に記述がある他、\u000Aいくつかの解説サイト等の言及があるものの、\u000A情報はほとんど現存しない。\u000A現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>contenteditable\u003C/code>\u000A属性に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 9740
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Another HTML-lint : Notice, k16, Nov 28, 2011 16:172011-11-28T16:17\u002B09:00, 2024-08-18T01:48:42.000Z http://openlab.ring.gr.jp/k16/htmllint/notice.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>Another HTML-lint : Notice\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>k16\u003C/anchor>\u003C/data>,\u000A\u003Ctime>Nov 28, 2011 16:17\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2011-11-28T16:17\u002B09:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-18T01:48:42.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://openlab.ring.gr.jp/k16/htmllint/notice.html\u0022>http://openlab.ring.gr.jp/k16/htmllint/notice.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1998-07-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1998-07-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "htmlarea",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Another HTML-lint は1998-07-04付で紹介して Internet Explorer 4.0 の機能として実装しているが、 その時点で Microsoft Corporation のドキュメントが Internet Explorer 5.0 用に更新されていたことに起因する誤認と思われる。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Another HTML-lint\u003C/cite>\u000Aは\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1998-07-04\u003C/time>付で紹介して\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 4.0\u003C/cite>\u000Aの機能として実装しているが、\u000Aその時点で \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aのドキュメントが\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 5.0\u003C/cite>\u000A用に更新されていたことに起因する誤認と思われる。"
          }
       ]
    },
