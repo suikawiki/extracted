@@ -1644,12 +1644,16 @@
          {
             "text" : "!--",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!--\u003C/code>"
+         },
+         {
+            "text" : "!",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!\u003C/code>"
          }
       ],
       "説明" : [
          {
-            "text" : "SGML 注釈宣言は低品質な解説類でしばしば要素やタグとして紹介された。 開始タグが \u003C!--、 終了タグが -->、 タグ名が !-- などと説明される。 Microsoft Corporation も開始タグと終了タグが必須の HTML 注釈要素と紹介していた。",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈宣言\u003C/anchor>は低品質な解説類でしばしば要素やタグとして紹介された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>が \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;!--\u003C/code>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終了タグ\u003C/anchor>が \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>--&gt;\u003C/code>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ名\u003C/anchor>が \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!--\u003C/code>\u000Aなどと説明される。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aも開始タグと終了タグが必須の HTML 注釈要素と紹介していた。"
+            "text" : "SGML 注釈宣言は低品質な解説類でしばしば要素やタグとして紹介された。 開始タグが \u003C!-- または \u003C!、 終了タグが --> または >、 タグ名が !-- または ! などと説明される。 Microsoft Corporation も開始タグと終了タグが必須の HTML 注釈要素と紹介していた。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈宣言\u003C/anchor>は低品質な解説類でしばしば要素やタグとして紹介された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>が \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;!--\u003C/code> または \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;!\u003C/code>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終了タグ\u003C/anchor>が \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>--&gt;\u003C/code> または \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&gt;\u003C/code>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ名\u003C/anchor>が \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!--\u003C/code> または \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!\u003C/code>\u000Aなどと説明される。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aも開始タグと終了タグが必須の HTML 注釈要素と紹介していた。"
          }
       ]
    },
@@ -5455,6 +5459,41 @@
          {
             "text" : "1995-08-15の HTML 2.x 仕様案 (後の RFC 2070 RFC 2070) に q がある。 現行仕様と同じ。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-08-15\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 2.x\u003C/anchor> 仕様案 (後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RFC 2070\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC 2070\u003C/src>) に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>\u000Aがある。\u000A現行仕様と同じ。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2890
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cq>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;q&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "q",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "q は前後に引用符を表示する仕様であるが、 Internet Explorer 4.0 は有効な要素として認識するにも関わらず引用符を表示しなかった。 それを前提に作られた文書は引用符をテキストとして含めており、 他のWebブラウザーでは二重に引用符が表示された。 逆に本来仕様や他のWebブラウザー前提の文書は引用符が表示されないことになった。 Internet Explorer がなくなった今も当時作られた文書に爪痕が残る。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>\u000Aは前後に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>引用符\u003C/anchor>を表示する仕様であるが、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer 4.0\u003C/cite>\u000Aは有効な\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>として認識するにも関わらず\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>引用符\u003C/anchor>を表示しなかった。\u000Aそれを前提に作られた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>引用符\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>テキスト\u003C/anchor>として含めており、\u000A他の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>では二重に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>引用符\u003C/anchor>が表示された。\u000A逆に本来仕様や他の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>前提の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>引用符\u003C/anchor>が表示されないことになった。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite> がなくなった今も当時作られた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>に爪痕が残る。"
+         },
+         {
+            "text" : "この混乱やその他の理由のため q の設計は失敗だったと考えられている。 XHTML 2.0 は新たな quote で置き換えようとしたが、開発は迷走して却って混乱している。 HTML5 は q の利用は必須ではないと (他の要素でも言える当たり前のことを) わざわざ明記している。",
+            "xml" : "\u000Aこの混乱やその他の理由のため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>\u000Aの設計は失敗だったと考えられている。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aは新たな\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>quote\u003C/code>\u000Aで置き換えようとしたが、開発は迷走して却って混乱している。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>\u000Aの利用は必須ではないと (他の要素でも言える当たり前のことを) わざわざ明記している。"
          }
       ]
    },
