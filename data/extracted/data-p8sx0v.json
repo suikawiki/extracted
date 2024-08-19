@@ -7578,6 +7578,39 @@
    {
       "_" : [
          {
+            "page_id" : 45954
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "見",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>見\u003C/sw-ch>"
+         },
+         {
+            "text" : "具",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>具\u003C/sw-ch>"
+         },
+         {
+            "text" : "目ハ",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>目ハ\u003C/sw-v>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "貝",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>貝\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "🐚",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🐚\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
