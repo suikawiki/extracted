@@ -6378,6 +6378,31 @@
    {
       "_" : [
          {
+            "page_id" : 27102
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-03-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "text",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995の HTML 3.0 仕様書案に text がある。 しかし DTD にはない。 数式中の文章を表すという。 現在の MathML mtext に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor>\u000A仕様書案に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text\u003C/code>\u000Aがある。\u000Aしかし \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> にはない。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>数式\u003C/anchor>中の文章を表すという。\u000A現在の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MathML\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mtext\u003C/code>\u000Aに当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 28479
          }
       ],
@@ -8805,6 +8830,37 @@
          {
             "text" : "テキストエディター WZ EDITOR の HTML 編集機能「体裁モード」が madebywz を実装していた。 1996-06-16の WZ 2.00D でそれまでの \u003CMadeByWZ> から \u003C!--MadeByWZ--> へと変更された。 >>9 その後の HTMLEX では更に meta 利用のものに変更された。 これらは体裁モードの使用の有無を識別するものだったという。 >>10 これらが含まれるHTML文書は現在も稀に残る。 WZ EDITOR の最初の発売は1995とされ、 体裁モードが当初からのものかは不明だが、 高々1年程度しか最新版ではなかった \u003CMadeByWZ> を使った文書が令和時代でも現役で残っているとは驚かされる。",
             "xml" : "\u000Aテキストエディター\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WZ EDITOR\u003C/cite>\u000Aの\u000AHTML\u000A編集機能「体裁モード」が\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>madebywz\u003C/code>\u000Aを実装していた。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-16\u003C/time>の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WZ 2.00D\u003C/cite> \u000Aでそれまでの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;MadeByWZ&gt;\u003C/code>\u000Aから\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;!--MadeByWZ--&gt;\u003C/code>\u000Aへと変更された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00229\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;9\u003C/anchor-internal>\u003C/src>\u000Aその後の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTMLEX\u003C/cite>\u000Aでは更に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>\u000A利用のものに変更された。\u000Aこれらは体裁モードの使用の有無を識別するものだったという。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002210\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;10\u003C/anchor-internal>\u003C/src>\u000Aこれらが含まれる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML文書\u003C/anchor>は現在も稀に残る。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WZ EDITOR\u003C/cite>\u000Aの最初の発売は\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>とされ、\u000A体裁モードが当初からのものかは不明だが、\u000A高々1年程度しか最新版ではなかった\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;MadeByWZ&gt;\u003C/code>\u000Aを使った文書が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>令和時代\u003C/anchor>でも現役で残っているとは驚かされる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45962
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "XHTML2",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML2\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2009",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "rules",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rules\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "XHTML 2.0 最終版は Internationalization Tag Set (ITS) Version 1.0 から rules を利用できるとしていた。 ただし詳細未決となっていた。 XHTML 2.0 の採用した他仕様の要素はすべて HTML名前空間に取り込む形となっているので、 rules も同様の構想だった可能性がある。 ただし Internationalization Tag Set (ITS) Version 1.0 はそのような利用を認めていない。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000A最終版は\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internationalization Tag Set (ITS) Version 1.0\u003C/cite>\u000Aから\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rules\u003C/code>\u000Aを利用できるとしていた。\u000Aただし詳細未決となっていた。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aの採用した他仕様の要素はすべて\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>に取り込む形となっているので、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rules\u003C/code>\u000Aも同様の構想だった可能性がある。\u000Aただし\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internationalization Tag Set (ITS) Version 1.0\u003C/cite>\u000Aはそのような利用を認めていない。"
          }
       ]
    },

@@ -863,6 +863,33 @@
    {
       "_" : [
          {
+            "page_id" : 16236
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ヶ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヶ\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "が",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>が\u003C/sw-ch>"
+         },
+         {
+            "text" : "か",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>か\u003C/sw-ch>"
+         },
+         {
+            "text" : "こ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>こ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 18565
          }
       ],
@@ -1612,6 +1639,25 @@
          {
             "text" : "エ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>エ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24432
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "比",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>比\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "北",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>北\u003C/sw-ch>"
          }
       ]
    },
@@ -2809,6 +2855,25 @@
          {
             "text" : "ト",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ト\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 31169
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "材",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>材\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "村",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>村\u003C/sw-ch>"
          }
       ]
    },
