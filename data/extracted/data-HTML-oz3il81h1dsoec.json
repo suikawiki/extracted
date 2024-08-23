@@ -6576,6 +6576,267 @@
    {
       "_" : [
          {
+            "page_id" : 29220
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "pos",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pos\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-14付 分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD) の附属書1が定めるD-DTD/J1は、 「HTMLに対して互換性を保ちながら, HTMLに対して日本語出版物の電子化に必要な機能が追加」 されたもので「HTMLビュアを用いて表示すること」が想定されているというが、 pos が追加されている。 明確な規定がないが、 文書中の位置を表すものと思われる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>\u000Aの附属書1が定めるD-DTD/J1は、\u000A「HTMLに対して互換性を保ちながら,\u000AHTMLに対して日本語出版物の電子化に必要な機能が追加」\u000Aされたもので「HTMLビュアを用いて表示すること」が想定されているというが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pos\u003C/code>\u000Aが追加されている。\u000A明確な規定がないが、\u000A文書中の位置を表すものと思われる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29220
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fn-spot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-spot\u003C/code>"
+         },
+         {
+            "text" : "fn-range",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-range\u003C/code>"
+         },
+         {
+            "text" : "fn-text",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-text\u003C/code>"
+         },
+         {
+            "text" : "idx-spot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>idx-spot\u003C/code>"
+         },
+         {
+            "text" : "idx-range",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>idx-range\u003C/code>"
+         },
+         {
+            "text" : "fm-spot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fm-spot\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-14付 分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD) の附属書1が定めるD-DTD/J1は、 「HTMLに対して互換性を保ちながら, HTMLに対して日本語出版物の電子化に必要な機能が追加」 されたもので「HTMLビュアを用いて表示すること」が想定されているというが、 fn-spot, fn-range, fn-text, idx-spot, idx-range が追加されている。 明確な規定がないが、 脚注や索引に関連するものと注釈がある。 また、「D-DTD/J1を用い,さらに幾つかのタグを追加」 した例文に fm-spot がある。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>\u000Aの附属書1が定めるD-DTD/J1は、\u000A「HTMLに対して互換性を保ちながら,\u000AHTMLに対して日本語出版物の電子化に必要な機能が追加」\u000Aされたもので「HTMLビュアを用いて表示すること」が想定されているというが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-spot\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-range\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-text\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>idx-spot\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>idx-range\u003C/code>\u000Aが追加されている。\u000A明確な規定がないが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>脚注\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>索引\u003C/anchor>に関連するものと注釈がある。\u000Aまた、「D-DTD/J1を用い,さらに幾つかのタグを追加」\u000Aした例文に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fm-spot\u003C/code>\u000Aがある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29220
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "ompe.style",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.style\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-14付 分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD) の附属書1が定めるD-DTD/J1は、 「HTMLに対して互換性を保ちながら, HTMLに対して日本語出版物の電子化に必要な機能が追加」 されたもので「HTMLビュアを用いて表示すること」が想定されているというが、 ompe.style が追加されている。 明確な規定がないが、書字方向や段組などと思われる属性がある。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>\u000Aの附属書1が定めるD-DTD/J1は、\u000A「HTMLに対して互換性を保ちながら,\u000AHTMLに対して日本語出版物の電子化に必要な機能が追加」\u000Aされたもので「HTMLビュアを用いて表示すること」が想定されているというが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.style\u003C/code>\u000Aが追加されている。\u000A明確な規定がないが、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書字方向\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>段組\u003C/anchor>などと思われる属性がある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29220
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "ompe",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-14付 分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD) の附属書1が定めるD-DTD/J1は、 「HTMLに対して互換性を保ちながら, HTMLに対して日本語出版物の電子化に必要な機能が追加」 されたもので「HTMLビュアを用いて表示すること」が想定されているというが、 ompe が追加されている。 明確な規定がないが、 html の代わりに文書要素として利用するものとなっている。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>\u000Aの附属書1が定めるD-DTD/J1は、\u000A「HTMLに対して互換性を保ちながら,\u000AHTMLに対して日本語出版物の電子化に必要な機能が追加」\u000Aされたもので「HTMLビュアを用いて表示すること」が想定されているというが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe\u003C/code>\u000Aが追加されている。\u000A明確な規定がないが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aの代わりに\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書要素\u003C/anchor>として利用するものとなっている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29220
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "ompe.abstract",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.abstract\u003C/code>"
+         },
+         {
+            "text" : "ompe.note",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.note\u003C/code>"
+         },
+         {
+            "text" : "ompe.fig",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.fig\u003C/code>"
+         },
+         {
+            "text" : "ompe.table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.table\u003C/code>"
+         },
+         {
+            "text" : "fig",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-14付 分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD) の附属書1が定めるD-DTD/J1は、 「HTMLに対して互換性を保ちながら, HTMLに対して日本語出版物の電子化に必要な機能が追加」 されたもので「HTMLビュアを用いて表示すること」が想定されているというが、 ompe.abstract, ompe.note, ompe.fig, ompe.table, が追加されている。 また、 「D-DTD/J1を用い,さらに幾つかのタグを追加」 した例文に fig がある。 明確な規定がないが、 図表等を表すもののようだ。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>\u000Aの附属書1が定めるD-DTD/J1は、\u000A「HTMLに対して互換性を保ちながら,\u000AHTMLに対して日本語出版物の電子化に必要な機能が追加」\u000Aされたもので「HTMLビュアを用いて表示すること」が想定されているというが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.abstract\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.note\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.fig\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ompe.table\u003C/code>,\u000Aが追加されている。\u000Aまた、\u000A「D-DTD/J1を用い,さらに幾つかのタグを追加」\u000Aした例文に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>\u000Aがある。\u000A明確な規定がないが、\u000A図表等を表すもののようだ。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29220
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "secno",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>secno\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-14付 分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD) の附属書1が定めるD-DTD/J1は、 「HTMLに対して互換性を保ちながら, HTMLに対して日本語出版物の電子化に必要な機能が追加」 されたもので「HTMLビュアを用いて表示すること」が想定されているというが、 「D-DTD/J1を用い,さらに幾つかのタグを追加」 した例文に secno がある。 明確な説明がないが、 見出し中の章節番号に当たる部分を表している。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>\u000Aの附属書1が定めるD-DTD/J1は、\u000A「HTMLに対して互換性を保ちながら,\u000AHTMLに対して日本語出版物の電子化に必要な機能が追加」\u000Aされたもので「HTMLビュアを用いて表示すること」が想定されているというが、\u000A「D-DTD/J1を用い,さらに幾つかのタグを追加」\u000Aした例文に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>secno\u003C/code>\u000Aがある。\u000A明確な説明がないが、\u000A見出し中の章節番号に当たる部分を表している。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29220
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-14",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-14\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "start-ign",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>start-ign\u003C/code>"
+         },
+         {
+            "text" : "end-ign",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>end-ign\u003C/code>"
+         },
+         {
+            "text" : "ign",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ign\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-14付 分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD) の附属書1が定めるD-DTD/J1は、 「HTMLに対して互換性を保ちながら, HTMLに対して日本語出版物の電子化に必要な機能が追加」 されたもので「HTMLビュアを用いて表示すること」が想定されているというが、 「D-DTD/J1を用い,さらに幾つかのタグを追加」 した例文に start-ign, end-ign, ign がある。 明確な説明がないが、 D-DTD/J1 対応ソフトウェアが無視するべき「HTMLビュア」向けの記述を表すように思われる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>\u000Aの附属書1が定めるD-DTD/J1は、\u000A「HTMLに対して互換性を保ちながら,\u000AHTMLに対して日本語出版物の電子化に必要な機能が追加」\u000Aされたもので「HTMLビュアを用いて表示すること」が想定されているというが、\u000A「D-DTD/J1を用い,さらに幾つかのタグを追加」\u000Aした例文に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>start-ign\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>end-ign\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ign\u003C/code>\u000Aがある。\u000A明確な説明がないが、\u000AD-DTD/J1\u000A対応ソフトウェアが無視するべき「HTMLビュア」向けの記述を表すように思われる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3148
          }
       ],
@@ -7304,6 +7565,60 @@
          {
             "text" : "1993-10-28付の HTML\u002B 仕様に removed がある。 draft-raggett-www-html-00 現在の del に当たる。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>removed\u003C/code> がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>del\u003C/code> に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37611
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2000",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "yomi",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>yomi\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2000の JIS TR X 0010:2000 日本語組版のDSSSLライブラリ の 「特定DTDルール群」 に yomi がある。 JISTRX0010-2000 この「特定DTD」は HTML 3.2 と説明されているが、 W3C の HTML 3.2 には無い。 また、 旧版 JIS TR X 0010:1998 にも無かった。 JISTRX0010-1998 現在の rt に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2000\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS TR X 0010:2000\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>日本語組版のDSSSLライブラリ\u003C/cite>\u000Aの\u000A「特定DTDルール群」\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>yomi\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>JISTRX0010-2000\u003C/src>\u000Aこの「特定DTD」は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.2\u003C/anchor>\u000Aと説明されているが、 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> の \u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 3.2\u003C/cite>\u000Aには無い。\u000Aまた、\u000A旧版\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS TR X 0010:1998\u003C/anchor>\u000Aにも無かった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>JISTRX0010-1998\u003C/src>\u000A現在の \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rt\u003C/code>\u000Aに当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37611
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2000",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>"
+         },
+         {
+            "text" : "fn-contents",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-contents\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2000の JIS TR X 0010:2000 日本語組版のDSSSLライブラリ の 「特定DTDルール群」 に fn, fn-contents がある。 JISTRX0010-2000 この「特定DTD」は HTML 3.2 と説明されているが、 W3C の HTML 3.2 には無い。 また、 旧版 JIS TR X 0010:1998 にも無かった。 JISTRX0010-1998 fn は脚注の参照番号、 fn-contents は脚注の内容と説明されている。 HTML 3.0 の fn とも異なる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2000\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS TR X 0010:2000\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>日本語組版のDSSSLライブラリ\u003C/cite>\u000Aの\u000A「特定DTDルール群」\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-contents\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>JISTRX0010-2000\u003C/src>\u000Aこの「特定DTD」は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.2\u003C/anchor>\u000Aと説明されているが、 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> の \u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 3.2\u003C/cite>\u000Aには無い。\u000Aまた、\u000A旧版\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS TR X 0010:1998\u003C/anchor>\u000Aにも無かった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>JISTRX0010-1998\u003C/src>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>\u000Aは脚注の参照番号、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn-contents\u003C/code>\u000Aは脚注の内容と説明されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor>\u000Aの \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>\u000Aとも異なる。"
          }
       ]
    },
