@@ -1,0 +1,153 @@
+[
+   {
+      "_" : [
+         {
+            "page_id" : 46023
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "電子書籍交換フォーマット標準化プロジェクト【調査報告書】, 一般社団法人 日本電子書籍出版社協会, 2011 年 3 月 31 日2011-03-31, 2024-08-24T04:48:38.000Z https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F3525276&contentNo=1",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>\u003Csw-l xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子書籍交換フォーマット標準化プロジェクト\u003Csw-br>\u003C/sw-br>【調査報告書】\u003C/sw-l>\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一般社団法人 日本電子書籍出版社協会\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>\u003Csw-l xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2011 年 3 月 31 日\u003C/sw-l>\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2011-03-31\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-24T04:48:38.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F3525276&amp;contentNo=1\u0022>https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F3525276&amp;contentNo=1\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2011-03-31",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2011-03-31\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "bibliography",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bibliography\u003C/code>"
+         },
+         {
+            "text" : "edition",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>edition\u003C/code>"
+         },
+         {
+            "text" : "creator",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>creator\u003C/code>"
+         },
+         {
+            "text" : "subject",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>subject\u003C/code>"
+         },
+         {
+            "text" : "description",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>description\u003C/code>"
+         },
+         {
+            "text" : "publisher",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>publisher\u003C/code>"
+         },
+         {
+            "text" : "distributor",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>distributor\u003C/code>"
+         },
+         {
+            "text" : "contributor",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>contributor\u003C/code>"
+         },
+         {
+            "text" : "date",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>date\u003C/code>"
+         },
+         {
+            "text" : "identifier",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>identifier\u003C/code>"
+         },
+         {
+            "text" : "source",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>source\u003C/code>"
+         },
+         {
+            "text" : "language",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>language\u003C/code>"
+         },
+         {
+            "text" : "relation",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>relation\u003C/code>"
+         },
+         {
+            "text" : "coverage",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>coverage\u003C/code>"
+         },
+         {
+            "text" : "rights",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rights\u003C/code>"
+         },
+         {
+            "text" : "price",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>price\u003C/code>"
+         },
+         {
+            "text" : "person",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>person\u003C/code>"
+         },
+         {
+            "text" : "organization",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>organization\u003C/code>"
+         },
+         {
+            "text" : "name",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code>"
+         },
+         {
+            "text" : "contact",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>contact\u003C/code>"
+         },
+         {
+            "text" : "comment",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>comment\u003C/code>"
+         },
+         {
+            "text" : "classification",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>classification\u003C/code>"
+         },
+         {
+            "text" : "rating",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rating\u003C/code>"
+         },
+         {
+            "text" : "synopsis",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>synopsis\u003C/code>"
+         },
+         {
+            "text" : "keyword",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>keyword\u003C/code>"
+         },
+         {
+            "text" : "image",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>"
+         },
+         {
+            "text" : "postcode",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>postcode\u003C/code>"
+         },
+         {
+            "text" : "email",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>email\u003C/code>"
+         },
+         {
+            "text" : "telephone",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>telephone\u003C/code>"
+         },
+         {
+            "text" : "fax",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fax\u003C/code>"
+         },
+         {
+            "text" : "website",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>website\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2011-03-31付の日本政府の総務省委託事業の 電子書籍交換フォーマット標準化プロジェクト【調査報告書】 が定める電子書籍交換フォーマット (後の IEC 62448:2013 ESP) には、 書誌情報記述関係の要素が定義されている。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2011-03-31\u003C/time>付の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本政府\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>総務省\u003C/anchor>委託事業の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>電子書籍交換フォーマット標準化プロジェクト【調査報告書】\u003C/cite>\u000Aが定める\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子書籍交換フォーマット\u003C/anchor>\u000A(後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IEC 62448:2013\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ESP\u003C/anchor>)\u000Aには、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書誌情報\u003C/anchor>記述関係の要素が定義されている。"
+         }
+      ]
+   }
+]
