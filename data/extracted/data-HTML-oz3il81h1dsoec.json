@@ -2734,8 +2734,8 @@
       ],
       "説明" : [
          {
-            "text" : "2005-12の Google検索のデータベースを使った調査によると、 要素の利用数第15位が b でした。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2005-12\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google検索\u003C/anchor>のデータベースを使った調査によると、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の利用数第15位が\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>\u000Aでした。"
+            "text" : "2005-12の Google検索のデータベースを使った調査によると、 要素の利用数第15位が b だった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2005-12\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google検索\u003C/anchor>のデータベースを使った調査によると、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の利用数第15位が\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>\u000Aだった。"
          }
       ]
    },
@@ -3632,6 +3632,37 @@
          {
             "text" : "1996頃の Netscape Navigator 3.0 が spacer を実装した。 いくつかのウェブサイトで使われたが、 Internet Explorer は実装しなかったので普及しなかった。 HTML5 は当初構文解析器の規定を含んでいたが、 後に削除された。 今も DOM 関連の規定に痕跡を残している。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>頃の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 3.0\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>spacer\u003C/code>\u000Aを実装した。\u000Aいくつかのウェブサイトで使われたが、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Internet Explorer\u003C/cite>\u000Aは実装しなかったので普及しなかった。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aは当初\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析器\u003C/anchor>の規定を含んでいたが、\u000A後に削除された。\u000A今も \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DOM\u003C/anchor> 関連の規定に痕跡を残している。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 11487
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cemoji>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;emoji&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007-06-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-06-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "emoji",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>emoji\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2007-06-13時点で emoji の利用例が確認されている。 携帯電話の絵文字の未対応環境用での表示のためのライブラリー関係と思われるが詳細不明。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-06-13\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>emoji\u003C/code>\u000Aの利用例が確認されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>携帯電話\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>絵文字\u003C/anchor>の未対応環境用での表示のためのライブラリー関係と思われるが詳細不明。"
          }
       ]
    },
@@ -5046,10 +5077,16 @@
             "page_id" : 2275
          }
       ],
+      "出典" : [
+         {
+            "text" : "[66] Re: The spec evolves..., Dan Connolly, Fri, 04 Dec 92 18:07:49 CST1992-12-04T18:07:49-06:00, 2003-08-04T15:50:21.000Z, 2024-08-27T13:37:24.408Z https://lists.w3.org/Archives/Public/www-talk/1992NovDec/0159.html[69] The Origin of Blockquote, Sean B. Palmer, Mon, 28 Aug 2017 20:56:35 \u002B01002017-08-28T20:56:35\u002B01:00, 2023-07-13T18:30:37.000Z, 2024-08-27T13:39:33.606Z https://lists.w3.org/Archives/Public/www-archive/2017Aug/0006.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002266\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[66]\u003C/anchor-end> \u000A\u003Ccite>Re: The spec evolves...\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Fri, 04 Dec 92 18:07:49 CST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1992-12-04T18:07:49-06:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2003-08-04T15:50:21.000Z\u003C/time>, \u003Ctime>2024-08-27T13:37:24.408Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-talk/1992NovDec/0159.html\u0022>https://lists.w3.org/Archives/Public/www-talk/1992NovDec/0159.html\u003C/anchor-external>\u003C/li>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002269\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[69]\u003C/anchor-end> \u000A\u003Ccite xml:lang=\u0022en\u0022>The Origin of Blockquote\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Sean B. Palmer\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Mon, 28 Aug 2017 20:56:35 \u002B0100\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2017-08-28T20:56:35\u002B01:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2023-07-13T18:30:37.000Z\u003C/time>, \u003Ctime>2024-08-27T13:39:33.606Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-archive/2017Aug/0006.html\u0022>https://lists.w3.org/Archives/Public/www-archive/2017Aug/0006.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
       "日付" : [
          {
-            "text" : "1993-02-04",
-            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-02-04\u003C/time>"
+            "text" : "1993-01-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>"
          }
       ],
       "要素名" : [
@@ -5060,8 +5097,43 @@
       ],
       "説明" : [
          {
-            "text" : "1993-02-04付の HTML DTD が現存最古。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-02-04\u003C/time>付の HTML DTD が現存最古。"
+            "text" : "1993-01-06付の HTML DTD が現存最古の定義。 遡って1992-12-04の Dan Connolly の電子メールでの言及が現存最古の言及である。 >>66 追加の経緯は不明となっていたが、 Sean B. Palmer と Dan Connolly による2017の調査の結果 DocBook からの借用だったことが判明した。 >>69",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-01-06\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> が現存最古の定義。\u000A遡って\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-12-04\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>での言及が現存最古の言及である。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002266\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;66\u003C/anchor-internal>\u003C/src>\u000A追加の経緯は不明となっていたが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Sean B. Palmer\u003C/anchor>\u000Aと\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aによる\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2017\u003C/time>の調査の結果\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DocBook\u003C/anchor>\u000Aからの借用だったことが判明した。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002269\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;69\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2275
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "WWW-Talk Apr-Jun 1993: Does anyone use \u003CBLOCKQUOTE>?, Dave Raggett, Mon, 10 May 93 17:30:42 BST1993-05-10, 2024-08-27T13:01:59.000Z http://1997.webhistory.org/www.lists/www-talk.1993q2/0269.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>WWW-Talk Apr-Jun 1993: Does anyone use &lt;BLOCKQUOTE&gt;?\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Mon, 10 May 93 17:30:42 BST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-05-10\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-27T13:01:59.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q2/0269.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q2/0269.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-05-10",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-05-10\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "blockquote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code>"
+         },
+         {
+            "text" : "quote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>quote\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-05-10、 Dave Raggett は電子メールで blockquote が利用されているかと問うている。 SGML構文解析器には要素名が8文字を超えると扱えないものがあるため、 quote に改名するのはどうかと提案している。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-05-10\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子メール\u003C/anchor>で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code>\u000Aが利用されているかと問うている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML構文解析器\u003C/anchor>には\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>が8文字を超えると扱えないものがあるため、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>quote\u003C/code>\u000Aに改名するのはどうかと提案している。"
          }
       ]
    },
@@ -6911,6 +6983,37 @@
          {
             "text" : "この混乱やその他の理由のため q の設計は失敗だったと考えられている。 XHTML 2.0 は新たな quote で置き換えようとしたが、開発は迷走して却って混乱している。 HTML5 は q の利用は必須ではないと (他の要素でも言える当たり前のことを) わざわざ明記している。",
             "xml" : "\u000Aこの混乱やその他の理由のため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>\u000Aの設計は失敗だったと考えられている。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aは新たな\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>quote\u003C/code>\u000Aで置き換えようとしたが、開発は迷走して却って混乱している。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>\u000Aの利用は必須ではないと (他の要素でも言える当たり前のことを) わざわざ明記している。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2931
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Czeroboard>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;zeroboard&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "zeroboard",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>zeroboard\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "21世紀初頭に大韓民国でよく使われていた掲示板 Webアプリケーション Zeroboard (제로보드) は利用者インターフェイスの一部の非表示化のため (タグの無効化のため) \u003CZeroboard と出力していたという。 ins, del よりも多く使われていたとまでいわれている。",
+            "xml" : "\u000A21世紀初頭に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>大韓民国\u003C/anchor>でよく使われていた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>掲示板\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webアプリケーション\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Zeroboard\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>제로보드\u003C/anchor>)\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>利用者インターフェイス\u003C/anchor>の一部の非表示化のため (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>の無効化のため)\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;Zeroboard\u003C/code>\u000Aと出力していたという。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ins\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>del\u003C/code>\u000Aよりも多く使われていたとまでいわれている。"
          }
       ]
    },
@@ -10762,6 +10865,72 @@
       ],
       "出典" : [
          {
+            "text" : "Re: proposed new tag: IMG, Tony Johnson, Thu, 25 Feb 1993 23:13 PDT1993-02-25T23:13-07:00, 1995-08-08T03:09:46.000Z, 2024-08-27T07:58:22.779Z https://ksi.cpsc.ucalgary.ca/archives/WWW-TALK/www-talk-1993q1.messages/175.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: proposed new tag: IMG\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tony Johnson\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Thu, 25 Feb 1993 23:13 PDT\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-02-25T23:13-07:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>1995-08-08T03:09:46.000Z\u003C/time>, \u003Ctime>2024-08-27T07:58:22.779Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://ksi.cpsc.ucalgary.ca/archives/WWW-TALK/www-talk-1993q1.messages/175.html\u0022>https://ksi.cpsc.ucalgary.ca/archives/WWW-TALK/www-talk-1993q1.messages/175.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-02-25",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-02-25\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "include",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-02-25、 img への対案として MidasWWW が include を実装する計画が示されたが、実行された形跡は確認できない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-02-25\u003C/time>、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>\u000Aへの対案として\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MidasWWW\u003C/anchor>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>\u000Aを実装する計画が示されたが、実行された形跡は確認できない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45932
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Re: proposed new tag: IMG, Tim Berners-Lee, Tue, 2 Mar 1993 23:25:51 \u002B01001993-03-02T23:25:51\u002B01:00, 2024-08-27T08:00:20.000Z http://1997.webhistory.org/www.lists/www-talk.1993q1/0221.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Re: proposed new tag: IMG\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue, 2 Mar 1993 23:25:51 \u002B0100\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-03-02T23:25:51\u002B01:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-27T08:00:20.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://1997.webhistory.org/www.lists/www-talk.1993q1/0221.html\u0022>http://1997.webhistory.org/www.lists/www-talk.1993q1/0221.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-03-02",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-03-02\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "include",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>"
+         },
+         {
+            "text" : "embed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-03-02、 Tim Berners-Lee は img への対案として汎用化して include ないし embed とするのがいいと発言している。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-03-02\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>\u000Aへの対案として汎用化して\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>\u000Aないし\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aとするのがいいと発言している。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45932
+         }
+      ],
+      "出典" : [
+         {
             "text" : "HTMLayout specific tags, Terra Informatica Software Design, 2003, 2024-08-17T08:56:31.000Z, 2010-11-23T21:50:37.804Z https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTMLayout specific tags\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Terra Informatica Software Design\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2003\u003C/time>,\u000A\u003Ctime>2024-08-17T08:56:31.000Z\u003C/time>, \u003Ctime>2010-11-23T21:50:37.804Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm\u0022>https://web.archive.org/web/20101123213344/http://terrainformatica.com/htmlayout/tags.whtm\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
@@ -10811,8 +10980,8 @@
       ],
       "説明" : [
          {
-            "text" : "2020時点の調査によると0.08%の Webページが include を使っていた。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2020\u003C/time>時点の調査によると0.08%の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webページ\u003C/anchor>が\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>\u000Aを使っていた。"
+            "text" : "2020時点の調査によると0.08%の Webページが include を使っていた。 用途は明らかではない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2020\u003C/time>時点の調査によると0.08%の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webページ\u003C/anchor>が\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>\u000Aを使っていた。\u000A用途は明らかではない。"
          }
       ]
    },
