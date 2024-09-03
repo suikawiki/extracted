@@ -1174,10 +1174,20 @@
             "page_id" : 19804
          }
       ],
+      "四半回転類似" : [
+         {
+            "text" : "三",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>三\u003C/sw-ch>"
+         }
+      ],
       "字形類似" : [
          {
             "text" : "小",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>小\u003C/sw-ch>"
+         },
+         {
+            "text" : "III",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>III\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -7795,6 +7805,25 @@
          {
             "text" : "せ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>せ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46076
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "運命",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>運命\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "定",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>定\u003C/sw-ch>"
          }
       ]
    },
