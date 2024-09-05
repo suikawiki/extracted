@@ -25,6 +25,29 @@
    {
       "_" : [
          {
+            "page_id" : 580
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "邦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>邦\u003C/sw-ch>"
+         },
+         {
+            "text" : "クニ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>クニ\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "国",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 745
          }
       ],
@@ -2749,6 +2772,25 @@
    {
       "_" : [
          {
+            "page_id" : 3947
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "他人",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>他人\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "人",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>人\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3956
          }
       ],
@@ -2955,6 +2997,12 @@
       "_" : [
          {
             "page_id" : 31169
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "ムラ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ムラ\u003C/anchor>"
          }
       ],
       "字形類似" : [
