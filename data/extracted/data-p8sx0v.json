@@ -1372,6 +1372,25 @@
    {
       "_" : [
          {
+            "page_id" : 20352
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "鼻",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>鼻\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "も",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>も\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 20570
          }
       ],
@@ -1847,6 +1866,25 @@
          {
             "text" : "5",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>5\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25050
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "眉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>眉\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "へ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>へ\u003C/sw-ch>"
          }
       ]
    },
@@ -2506,12 +2544,35 @@
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヮ\u003C/sw-ch>"
          },
          {
+            "text" : "へ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>へ\u003C/sw-ch>"
+         },
+         {
             "text" : "👄",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>👄\u003C/sw-ch>"
          },
          {
             "text" : "🤐",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🤐\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29069
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "|",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>|\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "︱",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>︱\u003C/sw-ch>"
          }
       ]
    },
@@ -4291,6 +4352,33 @@
          {
             "text" : "4",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>4\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38646
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "歳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>歳\u003C/sw-ch>"
+         },
+         {
+            "text" : "年齢",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>年齢\u003C/sw-ch>"
+         },
+         {
+            "text" : "齢",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>齢\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "年",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>年\u003C/sw-ch>"
          }
       ]
    },
@@ -7872,6 +7960,53 @@
          {
             "text" : "定",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>定\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46087
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "眼",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>眼\u003C/sw-ch>"
+         }
+      ],
+      "四半回転類似" : [
+         {
+            "text" : "罒",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>罒\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "目",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>目\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "👀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>👀\u003C/sw-ch>"
+         },
+         {
+            "text" : "👁️",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>👁️\u003C/sw-ch>"
+         },
+         {
+            "text" : "👁️‍🗨️",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>👁️‍🗨️\u003C/sw-ch>"
+         },
+         {
+            "text" : "3",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>3\u003C/sw-ch>"
+         },
+         {
+            "text" : "の",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>の\u003C/sw-ch>"
          }
       ]
    },
