@@ -11570,6 +11570,45 @@
    {
       "_" : [
          {
+            "page_id" : 21816
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML6 - The Spec That Brings Us a Product Customizer App, Oscar Godson, 2014-12-02, 2021-10-25T17:23:26.000Z, 2024-09-09T09:07:53.130Z http://www.html6spec.com/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML6 - The Spec That Brings Us a Product Customizer App\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Oscar Godson\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2014-12-02\u003C/time>,\u000A\u003Ctime>2021-10-25T17:23:26.000Z\u003C/time>, \u003Ctime>2024-09-09T09:07:53.130Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.html6spec.com/\u0022>http://www.html6spec.com/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2013-01-07",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013-01-07\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "media",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>media\u003C/code>"
+         },
+         {
+            "text" : "status",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>status\u003C/code>"
+         },
+         {
+            "text" : "submit",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>submit\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2013-01-07に W3C HTML WG に送付された HTML6 と称する文書が定義していた。 GitHub の履歴によると2012-01-31から開発されていた。 HTML5 を議論しているグループに何の脈絡もなく、 まったく方向性の違う独自の仕様書をその次の版だと称して提出して如何なる成果が得られると考えていたのか疑問であるが、 冗談の類ではなさそうだが、 かといってその後は2014の最後の更新まで数度の更新を除くと実装や標準化に向けて具体的な行動が取られてもいない。 協力者は数人いたようだ。 なお HTML6 を称する提案は他にもあった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013-01-07\u003C/time>に \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML WG\u003C/anchor>\u000Aに送付された \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML6\u003C/cite>\u000Aと称する文書が定義していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>GitHub\u003C/anchor>\u000Aの履歴によると\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012-01-31\u003C/time>から開発されていた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5\u003C/anchor> \u000Aを議論しているグループに何の脈絡もなく、\u000Aまったく方向性の違う独自の仕様書をその次の版だと称して提出して如何なる成果が得られると考えていたのか疑問であるが、\u000A冗談の類ではなさそうだが、\u000Aかといってその後は\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2014\u003C/time>の最後の更新まで数度の更新を除くと実装や標準化に向けて具体的な行動が取られてもいない。\u000A協力者は数人いたようだ。\u000Aなお \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML6\u003C/cite>\u000Aを称する提案は他にもあった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 22294
          }
       ],
@@ -11626,6 +11665,61 @@
          {
             "text" : "ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は、 2010時点で popup を実装していた。 ツールチップ等のポップアップ表示するものと説明されていた。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>popup\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ツールチップ\u003C/anchor>等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ポップアップ\u003C/anchor>表示するものと説明されていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 23934
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTML6 proposal for single-page apps without Javascript, Bobby Mozumder, Fri, 20 Mar 2015 05:10:17 -04002015-03-20T05:10:17-04:00, 2023-08-26T22:11:26.000Z, 2024-09-09T09:11:52.509Z https://lists.w3.org/Archives/Public/public-whatwg-archive/2015Mar/0071.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>HTML6 proposal for single-page apps without Javascript\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Bobby Mozumder\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>Fri, 20 Mar 2015 05:10:17 -0400\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2015-03-20T05:10:17-04:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2023-08-26T22:11:26.000Z\u003C/time>, \u003Ctime>2024-09-09T09:11:52.509Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/public-whatwg-archive/2015Mar/0071.html\u0022>https://lists.w3.org/Archives/Public/public-whatwg-archive/2015Mar/0071.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2015-03-20",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2015-03-20\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "model",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>model\u003C/code>"
+         },
+         {
+            "text" : "field",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>field\u003C/code>"
+         },
+         {
+            "text" : "fixture",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fixture\u003C/code>"
+         },
+         {
+            "text" : "fixtures",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fixtures\u003C/code>"
+         },
+         {
+            "text" : "rsp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rsp\u003C/code>"
+         },
+         {
+            "text" : "image",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>"
+         },
+         {
+            "text" : "message",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>message\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2015-03-20に WHATWG に送付された HTML6 と称する提案が定義していた。 HTML5 を議論しているグループに何の脈絡もなくその次の版を称する独自の仕様案を提出して如何なる成果が得られると考えていたのか疑問であるが、 冗談の類ではなさそうだが、 かといってその後は2015中の数度の更新を除くと実装や標準化に向けて具体的な行動が取られてもいない。 協力者は数人いたようだ。 なお HTML6 を称する提案は他にもあった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2015-03-20\u003C/time>に \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor>\u000Aに送付された \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML6\u003C/cite>\u000Aと称する提案が定義していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5\u003C/anchor> \u000Aを議論しているグループに何の脈絡もなくその次の版を称する独自の仕様案を提出して如何なる成果が得られると考えていたのか疑問であるが、\u000A冗談の類ではなさそうだが、\u000Aかといってその後は\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2015\u003C/time>中の数度の更新を除くと実装や標準化に向けて具体的な行動が取られてもいない。\u000A協力者は数人いたようだ。\u000Aなお \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML6\u003C/cite>\u000Aを称する提案は他にもあった。"
          }
       ]
    },
