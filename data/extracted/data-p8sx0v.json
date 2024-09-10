@@ -6925,6 +6925,10 @@
          {
             "text" : "g",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>g\u003C/sw-ch>"
+         },
+         {
+            "text" : "z",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Csw-cursive>z\u003C/sw-cursive>\u003C/sw-ch>"
          }
       ],
       "文字" : [
