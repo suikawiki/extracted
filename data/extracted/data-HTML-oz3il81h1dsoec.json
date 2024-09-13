@@ -7182,37 +7182,6 @@
    {
       "_" : [
          {
-            "page_id" : 15771
-         }
-      ],
-      "出典" : [
-         {
-            "text" : "GitHub - WICG/fenced-frame: Proposal for a strong boundary between a page and its embedded content, 2024-09-05, 2024-09-08T08:38:39.000Z https://github.com/WICG/fenced-frame",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - WICG/fenced-frame: Proposal for a strong boundary between a page and its embedded content\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2024-09-05\u003C/time>,\u000A\u003Ctime>2024-09-08T08:38:39.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/WICG/fenced-frame\u0022>https://github.com/WICG/fenced-frame\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
-         }
-      ],
-      "日付" : [
-         {
-            "text" : "2021",
-            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2021\u003C/time>"
-         }
-      ],
-      "要素名" : [
-         {
-            "text" : "fencedframe",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fencedframe\u003C/code>"
-         }
-      ],
-      "説明" : [
-         {
-            "text" : "2021、 Google は fencedframe を提案すると共に Chromium に実装した。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2021\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fencedframe\u003C/code>\u000Aを提案すると共に\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromium\u003C/anchor>\u000Aに実装した。"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
             "page_id" : 15888
          }
       ],
@@ -12074,37 +12043,6 @@
    {
       "_" : [
          {
-            "page_id" : 24864
-         }
-      ],
-      "出典" : [
-         {
-            "text" : "x-ms-webview element | x-ms-webview object (Preliminary), Microsoft, 2024-09-08T08:11:54.000Z, 2013-07-01T20:53:04.086Z https://web.archive.org/web/20130701205242/http://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx What’s new in WebView in Windows 8.1, Microsoft, 2024-09-08T08:12:23.000Z, 2013-07-23T18:14:53.432Z https://web.archive.org/web/20130723181415/http://blogs.windows.com/windows/b/appbuilder/archive/2013/07/17/what-s-new-in-webview-in-windows-8-1.aspx",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-us\u0022>x-ms-webview element | x-ms-webview object (Preliminary)\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor>\u003C/data>,\u000A\u003Ctime>2024-09-08T08:11:54.000Z\u003C/time>, \u003Ctime itemprop=\u0022published\u0022>2013-07-01T20:53:04.086Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20130701205242/http://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx\u0022>https://web.archive.org/web/20130701205242/http://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>What’s new in WebView in Windows 8.1\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor>\u003C/data>,\u000A\u003Ctime>2024-09-08T08:12:23.000Z\u003C/time>, \u003Ctime itemprop=\u0022published\u0022>2013-07-23T18:14:53.432Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20130723181415/http://blogs.windows.com/windows/b/appbuilder/archive/2013/07/17/what-s-new-in-webview-in-windows-8-1.aspx\u0022>https://web.archive.org/web/20130723181415/http://blogs.windows.com/windows/b/appbuilder/archive/2013/07/17/what-s-new-in-webview-in-windows-8-1.aspx\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
-         }
-      ],
-      "日付" : [
-         {
-            "text" : "2013",
-            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013\u003C/time>"
-         }
-      ],
-      "要素名" : [
-         {
-            "text" : "x-ms-webview",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-ms-webview\u003C/code>"
-         }
-      ],
-      "説明" : [
-         {
-            "text" : "Windows 8.1 の WebView (EdgeHTML のアプリケーション組み込み用Webブラウザー機能) は x-ms-webview を実装した。 入れ子の WebView を表すものだった。",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Windows 8.1\u003C/anchor>\u000Aの \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WebView\u003C/code> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>EdgeHTML\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリケーション\u003C/anchor>組み込み用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>機能)\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-ms-webview\u003C/code>\u000Aを実装した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>入れ子\u003C/anchor>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebView\u003C/anchor>\u000Aを表すものだった。"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
             "page_id" : 25113
          }
       ],
@@ -16008,6 +15946,200 @@
       ],
       "出典" : [
          {
+            "text" : "Browser API proposal, Mounir Lamouri, 2012/03/17 3:07:552012-03-17T03:07:55, 2024-09-13T08:47:49.000Z https://groups.google.com/g/mozilla.dev.webapi/c/LFuVuUvqT6Q/m/s9cFkFLhSKMJ 738172 - Switch from \u003Ciframe mozbrowser> to \u003Cwebview> (or whatever), 2022-11-07 05:39 PST2022-11-07T05:39-08:00, 2024-09-13T08:33:48.000Z https://bugzilla.mozilla.org/show_bug.cgi?id=738172",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>Browser API proposal\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mounir Lamouri\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2012/03/17 3:07:55\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2012-03-17T03:07:55\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-13T08:47:49.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://groups.google.com/g/mozilla.dev.webapi/c/LFuVuUvqT6Q/m/s9cFkFLhSKMJ\u0022>https://groups.google.com/g/mozilla.dev.webapi/c/LFuVuUvqT6Q/m/s9cFkFLhSKMJ\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>738172 - Switch from &lt;iframe mozbrowser&gt; to &lt;webview&gt; (or whatever)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2022-11-07 05:39 PST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2022-11-07T05:39-08:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-13T08:33:48.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://bugzilla.mozilla.org/show_bug.cgi?id=738172\u0022>https://bugzilla.mozilla.org/show_bug.cgi?id=738172\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2012-03-17",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012-03-17\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "browser",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browser\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2012-03、 Mozilla は B2G (Firefox OS) でアプリの埋め込みに使っていた iframe (mozbrowser 属性付き) を新設の browser で置き換えることを計画した。 後にこれを知った Google は Chromeアプリの Webブラウザー埋め込み機能を browser として実装した (製品版には至らず)。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012-03\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mozilla\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>B2G\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Firefox OS\u003C/anchor>)\u000Aで\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリ\u003C/anchor>の埋め込みに使っていた\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iframe\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mozbrowser\u003C/code> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>属性\u003C/anchor>付き)\u000Aを新設の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browser\u003C/code>\u000Aで置き換えることを計画した。\u000A後にこれを知った\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromeアプリ\u003C/anchor>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>埋め込み機能を\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browser\u003C/code>\u000Aとして実装した (製品版には至らず)。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34488
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "738172 - Switch from \u003Ciframe mozbrowser> to \u003Cwebview> (or whatever), 2022-11-07 05:39 PST2022-11-07T05:39-08:00, 2024-09-13T08:33:48.000Z https://bugzilla.mozilla.org/show_bug.cgi?id=738172",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>738172 - Switch from &lt;iframe mozbrowser&gt; to &lt;webview&gt; (or whatever)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2022-11-07 05:39 PST\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2022-11-07T05:39-08:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-13T08:33:48.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://bugzilla.mozilla.org/show_bug.cgi?id=738172\u0022>https://bugzilla.mozilla.org/show_bug.cgi?id=738172\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2012-08-02",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012-08-02\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "browser",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browser\u003C/code>"
+         },
+         {
+            "text" : "webview",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2012-08-02、 Google は browser を webview と改称することを提案し、 Mozilla も同意した。 その後 Chromeアプリの実装は webview に改められ、一般に利用可能となった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012-08-02\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browser\u003C/code>\u000Aを\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code>\u000Aと改称することを提案し、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mozilla\u003C/anchor>\u000Aも同意した。\u000Aその後\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromeアプリ\u003C/anchor>の実装は\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code>\u000Aに改められ、一般に利用可能となった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34488
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "electron/lib/renderer/web-view/web-view.js at 6fda4fc45c42ea5cd6ac17303fb11be5db3d10dd · electron/electron · GitHub, 2016-11-08 06:42:36 \u002B09:00, 2024-09-13T14:33:27.000Z https://github.com/electron/electron/blob/6fda4fc45c42ea5cd6ac17303fb11be5db3d10dd/lib/renderer/web-view/web-view.js",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>electron/lib/renderer/web-view/web-view.js at 6fda4fc45c42ea5cd6ac17303fb11be5db3d10dd · electron/electron · GitHub\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2016-11-08 06:42:36 \u002B09:00\u003C/time>,\u000A\u003Ctime>2024-09-13T14:33:27.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/electron/electron/blob/6fda4fc45c42ea5cd6ac17303fb11be5db3d10dd/lib/renderer/web-view/web-view.js\u0022>https://github.com/electron/electron/blob/6fda4fc45c42ea5cd6ac17303fb11be5db3d10dd/lib/renderer/web-view/web-view.js\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2016",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2016\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "browserplugin",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browserplugin\u003C/code>"
+         },
+         {
+            "text" : "webview",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2016時点で Chromium を使ったアプリケーション開発プラットフォーム Electron は webview, browserplugin を実装していた。 内部的にのみ使われる想定と思われる browserplugin が Chromium の webview にほぼ相当し、 webview はそれを使って実装されていた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2016\u003C/time>時点で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromium\u003C/anchor>\u000Aを使った\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリケーション\u003C/anchor>開発\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラットフォーム\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Electron\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browserplugin\u003C/code>\u000Aを実装していた。\u000A内部的にのみ使われる想定と思われる\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>browserplugin\u003C/code>\u000Aが \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromium\u003C/anchor> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code> にほぼ相当し、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code>\u000Aはそれを使って実装されていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34488
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Implement support for \u003Cadview> tag [40965759] - Chromium, May 20, 2020 01:48PM}[2020-05-20T13:48, 2024-09-13T08:15:11.000Z https://issues.chromium.org/issues/40965759",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>Implement support for &lt;adview&gt; tag [40965759] - Chromium\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>May 20, 2020 01:48PM}[2020-05-20T13:48\u003C/time>,\u000A\u003Ctime>2024-09-13T08:15:11.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://issues.chromium.org/issues/40965759\u0022>https://issues.chromium.org/issues/40965759\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2013-03",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013-03\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "adview",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>adview\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2013-03、 Chromium は Chrome を使ったアプリケーションプラットフォームである Chromeアプリ用に adview の実装を開始したが、未完成に終わった。 広告のためにプロセスを分離したフレームを提供するものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013-03\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromium\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chrome\u003C/anchor>\u000Aを使った\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリケーション\u003C/anchor>プラットフォームである\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromeアプリ\u003C/anchor>用に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>adview\u003C/code>\u000Aの実装を開始したが、未完成に終わった。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>広告\u003C/anchor>のために\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プロセス\u003C/anchor>を分離した\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フレーム\u003C/anchor>を提供するものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34488
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "x-ms-webview element | x-ms-webview object (Preliminary), Microsoft, 2024-09-08T08:11:54.000Z, 2013-07-01T20:53:04.086Z https://web.archive.org/web/20130701205242/http://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx What’s new in WebView in Windows 8.1, Microsoft, 2024-09-08T08:12:23.000Z, 2013-07-23T18:14:53.432Z https://web.archive.org/web/20130723181415/http://blogs.windows.com/windows/b/appbuilder/archive/2013/07/17/what-s-new-in-webview-in-windows-8-1.aspx",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-us\u0022>x-ms-webview element | x-ms-webview object (Preliminary)\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor>\u003C/data>,\u000A\u003Ctime>2024-09-08T08:11:54.000Z\u003C/time>, \u003Ctime itemprop=\u0022published\u0022>2013-07-01T20:53:04.086Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20130701205242/http://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx\u0022>https://web.archive.org/web/20130701205242/http://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>What’s new in WebView in Windows 8.1\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor>\u003C/data>,\u000A\u003Ctime>2024-09-08T08:12:23.000Z\u003C/time>, \u003Ctime itemprop=\u0022published\u0022>2013-07-23T18:14:53.432Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20130723181415/http://blogs.windows.com/windows/b/appbuilder/archive/2013/07/17/what-s-new-in-webview-in-windows-8-1.aspx\u0022>https://web.archive.org/web/20130723181415/http://blogs.windows.com/windows/b/appbuilder/archive/2013/07/17/what-s-new-in-webview-in-windows-8-1.aspx\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2013",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "x-ms-webview",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-ms-webview\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Windows 8.1 の WebView (EdgeHTML のアプリケーション組み込み用Webブラウザー機能) は x-ms-webview を実装した。 入れ子の WebView を表すものだった。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Windows 8.1\u003C/anchor>\u000Aの \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WebView\u003C/code> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>EdgeHTML\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アプリケーション\u003C/anchor>組み込み用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>機能)\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-ms-webview\u003C/code>\u000Aを実装した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>入れ子\u003C/anchor>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebView\u003C/anchor>\u000Aを表すものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34488
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Upstream \u003Cappview> [41101890] - Chromium, 2015-05-28, 2024-09-13T13:55:57.000Z https://issues.chromium.org/issues/41101890",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>Upstream &lt;appview&gt; [41101890] - Chromium\u003C/cite>, \u000A\u003Ctime>2015-05-28\u003C/time>,\u000A\u003Ctime>2024-09-13T13:55:57.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://issues.chromium.org/issues/41101890\u0022>https://issues.chromium.org/issues/41101890\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2014-05-06",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2014-05-06\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "appview",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>appview\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2014、 Chromium は appview を実装した。 webview と似ているがChromeアプリを埋め込むためのものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2014\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromium\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>appview\u003C/code>\u000Aを実装した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>webview\u003C/code>\u000Aと似ているが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromeアプリ\u003C/anchor>を埋め込むためのものだった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34488
+         }
+      ],
+      "出典" : [
+         {
             "text" : "GitHub - WICG/portals: A proposal for enabling seamless navigations between sites or pages, 2024-07-23, 2024-09-08T08:32:04.000Z https://github.com/WICG/portals",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - WICG/portals: A proposal for enabling seamless navigations between sites or pages\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2024-07-23\u003C/time>,\u000A\u003Ctime>2024-09-08T08:32:04.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/WICG/portals\u0022>https://github.com/WICG/portals\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
@@ -16028,6 +16160,37 @@
          {
             "text" : "2018、 Google は portal を提案すると共に Chromium に実装した。 後の fencedframe に当たる。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2018\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>portal\u003C/code>\u000Aを提案すると共に\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromium\u003C/anchor>\u000Aに実装した。\u000A後の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fencedframe\u003C/code>\u000Aに当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34488
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "GitHub - WICG/fenced-frame: Proposal for a strong boundary between a page and its embedded content, 2024-09-05, 2024-09-08T08:38:39.000Z https://github.com/WICG/fenced-frame",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - WICG/fenced-frame: Proposal for a strong boundary between a page and its embedded content\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2024-09-05\u003C/time>,\u000A\u003Ctime>2024-09-08T08:38:39.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/WICG/fenced-frame\u0022>https://github.com/WICG/fenced-frame\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2021",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2021\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fencedframe",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fencedframe\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2021、 Google は fencedframe を提案すると共に Chromium に実装した。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2021\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Google\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fencedframe\u003C/code>\u000Aを提案すると共に\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chromium\u003C/anchor>\u000Aに実装した。"
          }
       ]
    },
@@ -18586,6 +18749,37 @@
          {
             "text" : "basefont を fontbase と書いた解説や誤って利用した事案の報告が若干数ある。",
             "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>basefont\u003C/code>\u000Aを\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fontbase\u003C/code>\u000Aと書いた解説や誤って利用した事案の報告が若干数ある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46107
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Ceditor>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;editor&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "editor",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>editor\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2007頃の時点で、編集者名を表すため editor が利用または提案されていたとする情報があるが、出典不明。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007\u003C/time>頃の時点で、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>編集者\u003C/anchor>名を表すため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>editor\u003C/code>\u000Aが利用または提案されていたとする情報があるが、出典不明。"
          }
       ]
    },
