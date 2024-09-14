@@ -694,6 +694,45 @@
    {
       "_" : [
          {
+            "page_id" : 245
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "h",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h\u003C/code>"
+         },
+         {
+            "text" : "hn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hn\u003C/code>"
+         },
+         {
+            "text" : "hx",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hx\u003C/code>"
+         },
+         {
+            "text" : "hy",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hy\u003C/code>"
+         },
+         {
+            "text" : "h#",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h#\u003C/code>"
+         },
+         {
+            "text" : "h?",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h?\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "h1 等を総称して h, hn, hx, hy, h#, h? などと書くことがある。 このままの要素名ではないが、紛らわしい解説等も存在する。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code> 等を総称して\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hn\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hx\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hy\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h#\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h?\u003C/code>\u000Aなどと書くことがある。\u000Aこのままの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>ではないが、紛らわしい解説等も存在する。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 321
          }
       ],
@@ -1549,6 +1588,29 @@
          {
             "text" : "Tim Berners-Lee はこの提案を基本的に良しとしつつも、 論理的な要素の集合は不完全で、 足りないものは「これは太字になるから」 と代用することになってしまうと指摘し、 MIME text/richtext の bold, italic にも興味を示している。 >>14",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u000Aはこの提案を基本的に良しとしつつも、\u000A論理的な要素の集合は不完全で、\u000A足りないものは「これは太字になるから」\u000Aと代用することになってしまうと指摘し、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MIME\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text/richtext\u003C/code>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bold\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>italic\u003C/code>\u000Aにも興味を示している。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002214\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;14\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 684
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "hp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hp\u003C/code>"
+         },
+         {
+            "text" : "hpn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hpn\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "hp1 等を総称して hp, hpn と書くことがある。 このままの要素名ではないが、紛らわしい解説等も存在する。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hp1\u003C/code> 等を総称して\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hp\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hpn\u003C/code>\u000Aと書くことがある。\u000Aこのままの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>ではないが、紛らわしい解説等も存在する。"
          }
       ]
    },
@@ -2682,6 +2744,47 @@
    {
       "_" : [
          {
+            "page_id" : 1196
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "DNML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DNML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "長岡志保愛好会~DNML~, 花梨, 2000-09-21T13:46:05.000Z, 2024-09-14T12:28:15.964Z http://hp.vector.co.jp/authors/VA015183/dnml/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>長岡志保愛好会~DNML~\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>花梨\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2000-09-21T13:46:05.000Z\u003C/time>, \u003Ctime>2024-09-14T12:28:15.964Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://hp.vector.co.jp/authors/VA015183/dnml/\u0022>http://hp.vector.co.jp/authors/VA015183/dnml/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1202
          }
       ],
@@ -3257,6 +3360,39 @@
          {
             "text" : "1994-04-07、 Dan Connolly は HTML の標準化 (後の HTML 2.0) に向けた論点整理の中で HyTime を活用した url, nameloc を使ったハイパーリンクの記述法を候補案の1つとして挙げていた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-04-07\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> の標準化 (後の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 2.0\u003C/cite>) に向けた論点整理の中で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HyTime\u003C/anchor>\u000Aを活用した\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>url\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nameloc\u003C/code>\u000Aを使った\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ハイパーリンク\u003C/anchor>の記述法を候補案の1つとして挙げていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1470
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "松風",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>松風\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "松風",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>松風\u003C/anchor>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "center",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>"
          }
       ]
    },
@@ -3853,6 +3989,41 @@
    {
       "_" : [
          {
+            "page_id" : 1527
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "SMIL",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SMIL\u003C/anchor>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1563
          }
       ],
@@ -4107,6 +4278,37 @@
    {
       "_" : [
          {
+            "page_id" : 1668
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "SVG",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SVG\u003C/anchor>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "style",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>style\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "script",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1067
          }
       ],
@@ -4256,6 +4458,47 @@
          {
             "text" : "2007-12-21、 ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は plaintext を追加した。 textarea と同等だがブロック水準要素として機能するという。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-21\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>plaintext\u003C/code>\u000Aを追加した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>\u000Aと同等だが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ブロック水準要素\u003C/anchor>として機能するという。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1774
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "VoiceXML 1.0",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>VoiceXML 1.0\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Voice eXtensible Markup Language (VoiceXML) version 1.0, VoiceXML Forum, W3C Note, 05 May 20002000-05-05, 2017-10-02T10:22:41.000Z, 2024-09-14T13:52:06.624Z https://www.w3.org/TR/2000/NOTE-voicexml-20000505/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Voice eXtensible Markup Language (VoiceXML) version 1.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>VoiceXML Forum\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C Note\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>05 May 2000\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2000-05-05\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2017-10-02T10:22:41.000Z\u003C/time>, \u003Ctime>2024-09-14T13:52:06.624Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/2000/NOTE-voicexml-20000505/\u0022>https://www.w3.org/TR/2000/NOTE-voicexml-20000505/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "link",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>link\u003C/code>"
+         },
+         {
+            "text" : "object",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>"
+         },
+         {
+            "text" : "param",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>"
+         },
+         {
+            "text" : "script",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>"
          }
       ]
    },
@@ -4574,6 +4817,163 @@
    {
       "_" : [
          {
+            "page_id" : 10519
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "LeXML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>LeXML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Le, Digital Assist, Ltd., 2021 年 9 月 1 日2021-09-01, 2022-01-19T00:42:30.000Z, 2024-04-04T11:21:56.110Z https://www.d-assist.com/LeXML310.pdf",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>\u003Ci>Le\u003C/i>\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Digital Assist, Ltd.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2021 年 9 月 1 日\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2021-09-01\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2022-01-19T00:42:30.000Z\u003C/time>, \u003Ctime>2024-04-04T11:21:56.110Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.d-assist.com/LeXML310.pdf\u0022>https://www.d-assist.com/LeXML310.pdf\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "i",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>i\u003C/code>"
+         },
+         {
+            "text" : "nobr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nobr\u003C/code>"
+         },
+         {
+            "text" : "span",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>span\u003C/code>"
+         },
+         {
+            "text" : "sub",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sub\u003C/code>"
+         },
+         {
+            "text" : "sup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sup\u003C/code>"
+         },
+         {
+            "text" : "u",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>u\u003C/code>"
+         },
+         {
+            "text" : "ruby",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ruby\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "big",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>big\u003C/code>"
+         },
+         {
+            "text" : "small",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>small\u003C/code>"
+         },
+         {
+            "text" : "div",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>"
+         },
+         {
+            "text" : "video",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>video\u003C/code>"
+         },
+         {
+            "text" : "audio",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>audio\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "caption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>"
+         },
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         },
+         {
+            "text" : "th",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>"
+         },
+         {
+            "text" : "td",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>"
+         },
+         {
+            "text" : "abbr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbr\u003C/code>"
+         },
+         {
+            "text" : "rb",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rb\u003C/code>"
+         },
+         {
+            "text" : "rt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rt\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 10520
          }
       ],
@@ -4601,6 +5001,10 @@
          {
             "text" : "x-claris-remotesave",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-claris-remotesave\u003C/code>"
+         },
+         {
+            "text" : "x-sas-remotesave",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>x-sas-remotesave\u003C/code>"
          }
       ],
       "説明" : [
@@ -5121,6 +5525,109 @@
    {
       "_" : [
          {
+            "page_id" : 11302
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "ReSpec Documentation 1.0, Robin Berjon, 2006-03-06T16:34:06.000Z, 2024-09-14T12:56:08.456Z https://dev.w3.org/2006/webapi/ReSpec/docs/publish/ReSpec.xhtml",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>ReSpec Documentation 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Robin Berjon\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2006-03-06T16:34:06.000Z\u003C/time>, \u003Ctime>2024-09-14T12:56:08.456Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://dev.w3.org/2006/webapi/ReSpec/docs/publish/ReSpec.xhtml\u0022>https://dev.w3.org/2006/webapi/ReSpec/docs/publish/ReSpec.xhtml\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "abbr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbr\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "acronym",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>acronym\u003C/code>"
+         },
+         {
+            "text" : "code",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>code\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "thead",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>thead\u003C/code>"
+         },
+         {
+            "text" : "tbody",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tbody\u003C/code>"
+         },
+         {
+            "text" : "tfoot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tfoot\u003C/code>"
+         },
+         {
+            "text" : "caption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>"
+         },
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         },
+         {
+            "text" : "th",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>"
+         },
+         {
+            "text" : "td",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 11452
          }
       ],
@@ -5214,6 +5721,37 @@
    {
       "_" : [
          {
+            "page_id" : 11541
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cabrev>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;abrev&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "abrev",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abrev\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "低品質の解説等で abbrev を abrev と紹介したものがいくつかある。 そのうちのいくつかは内容に類似性があり、 共通の情報源に由来する可能性がある。 HTML 3.0 時代のものゆえ現存数は少ないが、 かつては現在知られている以外にも同様の解説等が存在していた可能性がある。",
+            "xml" : "\u000A低品質の解説等で \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbrev\u003C/code>\u000Aを\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abrev\u003C/code>\u000Aと紹介したものがいくつかある。\u000Aそのうちのいくつかは内容に類似性があり、\u000A共通の情報源に由来する可能性がある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 3.0\u003C/anchor>\u000A時代のものゆえ現存数は少ないが、\u000Aかつては現在知られている以外にも同様の解説等が存在していた可能性がある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 11645
          }
       ],
@@ -5239,6 +5777,49 @@
          {
             "text" : "2007に公開された JavaScript ライブラリー Returnable が returnable を使っていた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007\u003C/time>に公開された \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> ライブラリー\u000AReturnable\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>returnable\u003C/code>\u000Aを使っていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 11847
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTTP: Delta-Encoding Notes, Stephen Williams, 21-June-19961996-06-21, 2024-09-14T03:02:57.000Z, 2002-07-24T00:12:12.347Z https://web.archive.org/web/20020724001151/http://ei.cs.vt.edu/~williams/DIFF/prelim.old.html HTTP: Delta-Encoding Notes, Stephen Williams, 17-January-19971997-01-17, 2024-09-14T02:56:00.000Z, 2000-12-03T06:36:02.024Z https://web.archive.org/web/20001203063600/http://ei.cs.vt.edu/~williams/DIFF/prelim.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTTP: Delta-Encoding Notes\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Stephen Williams\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>21-June-1996\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1996-06-21\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-14T03:02:57.000Z\u003C/time>, \u003Ctime>2002-07-24T00:12:12.347Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20020724001151/http://ei.cs.vt.edu/~williams/DIFF/prelim.old.html\u0022>https://web.archive.org/web/20020724001151/http://ei.cs.vt.edu/~williams/DIFF/prelim.old.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Ccite>HTTP: Delta-Encoding Notes\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Stephen Williams\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>17-January-1997\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1997-01-17\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-14T02:56:00.000Z\u003C/time>, \u003Ctime>2000-12-03T06:36:02.024Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20001203063600/http://ei.cs.vt.edu/~williams/DIFF/prelim.html\u0022>https://web.archive.org/web/20001203063600/http://ei.cs.vt.edu/~williams/DIFF/prelim.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1996-06-21",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-21\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "dynamic",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dynamic\u003C/code>"
+         },
+         {
+            "text" : "template",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>template\u003C/code>"
+         },
+         {
+            "text" : "args",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>args\u003C/code>"
+         },
+         {
+            "text" : "variable",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>variable\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1996-06-21、 HTTPキャッシュの制御のため dynamic, template, args, variable が提案された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-06-21\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTTPキャッシュ\u003C/anchor>の制御のため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dynamic\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>template\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>args\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>variable\u003C/code>\u000Aが提案された。"
          }
       ]
    },
@@ -5680,6 +6261,31 @@
          {
             "text" : "1995-12-13の国際会議発表によると、 Webブラウザー Vosaic は video, audio を実装していた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-12-13\u003C/time>の国際会議発表によると、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Vosaic\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>video\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>audio\u003C/code>\u000Aを実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 13401
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "OOXML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OOXML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Office Open XML File Formats — Fundamentals and Markup Language Reference, Ecma International, October 20162016-10",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Office Open XML File Formats — Fundamentals and Markup Language Reference\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ecma International\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>October 2016\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2016-10\u003C/attrvalue>\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
          }
       ]
    },
@@ -6449,6 +7055,90 @@
          {
             "text" : "2011-11-18、 HTML Standard は time を追加した。 現行仕様である。 旧 time とは違いも多い。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2011-11-18\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML Standard\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>time\u003C/code>\u000Aを追加した。\u000A現行仕様である。\u000A旧 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>time\u003C/code> とは違いも多い。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14426
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "XLIFF 1.2 Representation Guide for HTML, OASIS, Committee Draft, 16 October 20062006-10-16, 2008-01-02T20:12:05.000Z, 2024-09-14T04:00:42.991Z http://docs.oasis-open.org/xliff/v1.2/xliff-profile-html/xliff-profile-html-1.2-cd02.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>XLIFF 1.2 Representation Guide for HTML\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OASIS\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Committee Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>16 October 2006\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2006-10-16\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2008-01-02T20:12:05.000Z\u003C/time>, \u003Ctime>2024-09-14T04:00:42.991Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://docs.oasis-open.org/xliff/v1.2/xliff-profile-html/xliff-profile-html-1.2-cd02.html\u0022>http://docs.oasis-open.org/xliff/v1.2/xliff-profile-html/xliff-profile-html-1.2-cd02.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2006",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "face",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>face\u003C/code>"
+         },
+         {
+            "text" : "symbol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>symbol\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2006の XLIFF 1.2 の仕様書中の HTML と XLIFF の対応関係の規定に face, symbol がある。 RobotHelp と記載がある。 RoboHelp が実装していたものかとも思われるが詳細不明。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006\u003C/time>の \u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XLIFF 1.2\u003C/cite>\u000Aの仕様書中の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XLIFF\u003C/anchor>\u000Aの対応関係の規定に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>face\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>symbol\u003C/code>\u000Aがある。\u000A\u003Casis xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RobotHelp\u003C/asis>\u000Aと記載がある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RoboHelp\u003C/anchor>\u000Aが実装していたものかとも思われるが詳細不明。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 14579
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "ROE XML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ROE XML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "ROE - XiphWiki, 23:28, 12 April 2009‎2009-04-12T23:28, 2023-10-05T19:49:06.000Z, 2024-09-14T09:21:32.585Z https://wiki.xiph.org/index.php?title=ROE&oldid=10172",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>ROE - XiphWiki\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>23:28, 12 April 2009‎\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2009-04-12T23:28\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2023-10-05T19:49:06.000Z\u003C/time>, \u003Ctime>2024-09-14T09:21:32.585Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://wiki.xiph.org/index.php?title=ROE&amp;oldid=10172\u0022>https://wiki.xiph.org/index.php?title=ROE&amp;oldid=10172\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         },
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "link",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>link\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
          }
       ]
    },
@@ -7717,6 +8407,51 @@
    {
       "_" : [
          {
+            "page_id" : 18724
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "ITS",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ITS\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Internationalization Tag Set (ITS) Version 1.0, W3C, Recommendation, 03 April 20072007-04-03, 2018-10-09T13:17:14.000Z, 2024-09-14T13:41:53.043Z https://www.w3.org/TR/2007/REC-its-20070403/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-US\u0022>Internationalization Tag Set (ITS) Version 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Recommendation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>03 April 2007\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2007-04-03\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2018-10-09T13:17:14.000Z\u003C/time>, \u003Ctime>2024-09-14T13:41:53.043Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/2007/REC-its-20070403/\u0022>https://www.w3.org/TR/2007/REC-its-20070403/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "span",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>span\u003C/code>"
+         },
+         {
+            "text" : "ruby",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ruby\u003C/code>"
+         },
+         {
+            "text" : "rbc",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rbc\u003C/code>"
+         },
+         {
+            "text" : "rtc",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rtc\u003C/code>"
+         },
+         {
+            "text" : "rb",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rb\u003C/code>"
+         },
+         {
+            "text" : "rt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rt\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 19181
          }
       ],
@@ -7812,6 +8547,37 @@
          {
             "text" : "2015頃、 パネル(群)を記述する panelset, panel, paneltitle が提案されていた。ここでいうパネルとはタブ、アコーディオン等の UI 概念を抽象化したものとされていた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2015\u003C/time>頃、\u000Aパネル(群)を記述する\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panelset\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>panel\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>paneltitle\u003C/code>\u000Aが提案されていた。ここでいうパネルとは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タブ\u003C/anchor>、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アコーディオン\u003C/anchor>等の UI\u000A概念を抽象化したものとされていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 19213
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cparseerror>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;parseerror&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2013",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "parseerror",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>parseerror\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Chrome で整形式でない XML文書を読み込むと parseerror が挿入される。内容は人間向けのエラーメッセージ。 Gecko でも parseerror が挿入されるが、専用の名前空間に属する。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Chrome\u003C/anchor>\u000Aで\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>整形式\u003C/anchor>でない \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML文書\u003C/anchor>を読み込むと\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>parseerror\u003C/code>\u000Aが挿入される。内容は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>人間\u003C/anchor>向けのエラーメッセージ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Gecko\u003C/anchor>\u000Aでも \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>parseerror\u003C/code>\u000Aが挿入されるが、専用の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間\u003C/anchor>に属する。"
          }
       ]
    },
@@ -7973,6 +8739,57 @@
    {
       "_" : [
          {
+            "page_id" : 19390
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Keybindings for html-helper-mode version 1.34, Nelson Minar, Last modified: Wed Feb 1 14:16:33 19951995-02-01T14:16:33, 2014-10-20T06:25:49.000Z, 2024-09-14T06:24:29.855Z http://www.fifi.org/doc/html-helper-mode/keybindings.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Keybindings for html-helper-mode version 1.34\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Nelson Minar\u003C/anchor>\u003C/data>,\u000ALast modified: \u003Ctime itemprop=\u0022published\u0022>Wed Feb 1 14:16:33 1995\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1995-02-01T14:16:33\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2014-10-20T06:25:49.000Z\u003C/time>, \u003Ctime>2024-09-14T06:24:29.855Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.fifi.org/doc/html-helper-mode/keybindings.html\u0022>http://www.fifi.org/doc/html-helper-mode/keybindings.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1995-02-01",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-01\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "cmd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cmd\u003C/code>"
+         },
+         {
+            "text" : "arg",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>arg\u003C/code>"
+         },
+         {
+            "text" : "abstract",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abstract\u003C/code>"
+         },
+         {
+            "text" : "note",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>"
+         },
+         {
+            "text" : "footnote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>footnote\u003C/code>"
+         },
+         {
+            "text" : "margin",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>margin\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1995時点で編集ソフトウェア html-helper-mode が実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>時点で編集ソフトウェア\u000Ahtml-helper-mode\u000Aが実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 19410
          }
       ],
@@ -8029,6 +8846,35 @@
          {
             "text" : "ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は2009時点で text を実装していた。 文字入力欄を表すものだったらしい。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>text\u003C/code>\u000Aを実装していた。\u000A文字入力欄を表すものだったらしい。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 19625
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1993-11-08",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-08\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "online",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>online\u003C/code>"
+         },
+         {
+            "text" : "printed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>printed\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1993-11-08版 HTML\u002B 仕様案に online, printed がある。 現在の CSS の @media screen, @media print の display の指定に当たる。 HTML\u002B19931108",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-11-08\u003C/time>版 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様案に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>online\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>printed\u003C/code>\u000Aがある。\u000A現在の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CSS\u003C/anchor>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>@media\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>screen\u003C/anchor>\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>@media\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>print\u003C/anchor>\u003C/code>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>display\u003C/code> の指定に当たる。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML\u002B19931108\u003C/src>"
          }
       ]
    },
@@ -8324,6 +9170,79 @@
          {
             "text" : "1995に公開された Netscape Navigator 1 が nobr, wbr を実装した。まもなく出版される HTML 2.0 への拡張として Netscape Communications Corporation が提案していると説明にあり、 RFC 1866 RFC 1866 が出版された1995-11より前には公開されていた。 1994-10-14時点で既に実装・公開済みだったと推測される。 SuikaWiki:center 現行仕様とほぼ同じ。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Netscape Navigator 1\u003C/cite>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nobr\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wbr\u003C/code>\u000Aを実装した。まもなく出版される \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 2.0\u003C/cite>\u000Aへの拡張として\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u000Aが提案していると説明にあり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RFC 1866\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC 1866\u003C/src>\u000Aが出版された\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-11\u003C/time>より前には公開されていた。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-10-14\u003C/time>時点で既に実装・公開済みだったと推測される。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SuikaWiki:\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>center\u003C/anchor>\u003C/src>\u000A現行仕様とほぼ同じ。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2373
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "DTBook",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTBook\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "DAISY ANSI/NISO Z39.86-2002 - The DAISY Consortium, National Information Standards Organization, Approved March 6, 20022002-03-06, 2022-05-09T01:20:04.000Z https://daisy.org/info-help/document-archive/archived-projects/daisy-ansi-niso-z39-86-2002-archived/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-US\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DAISY\u003C/anchor> ANSI/NISO Z39.86-2002 - The DAISY Consortium\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>National Information Standards Organization\u003C/anchor>\u003C/data>,\u000AApproved \u003Ctime itemprop=\u0022published\u0022>March 6, 2002\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2002-03-06\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2022-05-09T01:20:04.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://daisy.org/info-help/document-archive/archived-projects/daisy-ansi-niso-z39-86-2002-archived/\u0022>https://daisy.org/info-help/document-archive/archived-projects/daisy-ansi-niso-z39-86-2002-archived/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "link",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>link\u003C/code>"
+         },
+         {
+            "text" : "style",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>style\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "h1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>"
+         },
+         {
+            "text" : "h2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>"
+         },
+         {
+            "text" : "h3",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>"
+         },
+         {
+            "text" : "h4",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h4\u003C/code>"
+         },
+         {
+            "text" : "h5",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h5\u003C/code>"
+         },
+         {
+            "text" : "h6",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h6\u003C/code>"
          }
       ]
    },
@@ -10682,6 +11601,35 @@
    {
       "_" : [
          {
+            "page_id" : 2900
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "ODF",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ODF\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "OASIS Open Office Specification, OASIS, OASIS Standard, 1 Feb 20072007-02-01, 2006-10-25T15:43:00.000Z, 2024-09-14T14:09:05.362Z http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1-html/OpenDocument-v1.1.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-US\u0022>OASIS Open Office Specification\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OASIS\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OASIS Standard\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>1 Feb 2007\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2007-02-01\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2006-10-25T15:43:00.000Z\u003C/time>, \u003Ctime>2024-09-14T14:09:05.362Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1-html/OpenDocument-v1.1.html\u0022>http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1-html/OpenDocument-v1.1.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "script",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 2931
          }
       ],
@@ -11371,6 +12319,31 @@
    {
       "_" : [
          {
+            "page_id" : 20657
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994-01-11",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-01-11\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "rev",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rev\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994-01-11版 HTML\u002B DTD の時点で rev がある。 検索結果の一致部分を反転表示させるものとされる。 HTML\u002B19940111",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-01-11\u003C/time>版 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> DTD \u000Aの時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rev\u003C/code>\u000Aがある。\u000A検索結果の一致部分を反転表示させるものとされる。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML\u002B19940111\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 20776
          }
       ],
@@ -11864,6 +12837,51 @@
    {
       "_" : [
          {
+            "page_id" : 21944
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "TTML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TTML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Timed Text Markup Language (TTML) 1.0, W3C, Recommendation, 18 November 20102010-11-18, 2018-10-09T13:23:27.000Z, 2024-09-14T14:03:35.190Z https://www.w3.org/TR/2010/REC-ttaf1-dfxp-20101118/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-us\u0022>Timed Text Markup Language (TTML) 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Recommendation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>18 November 2010\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2010-11-18\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2018-10-09T13:23:27.000Z\u003C/time>, \u003Ctime>2024-09-14T14:03:35.190Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/2010/REC-ttaf1-dfxp-20101118/\u0022>https://www.w3.org/TR/2010/REC-ttaf1-dfxp-20101118/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "div",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "span",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>span\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 22294
          }
       ],
@@ -11920,6 +12938,76 @@
          {
             "text" : "ネイティブアプリケーション組込用レンダリングエンジン HtmLayout は、 2010時点で popup を実装していた。 ツールチップ等のポップアップ表示するものと説明されていた。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネイティブアプリケーション\u003C/anchor>組込用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>popup\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ツールチップ\u003C/anchor>等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ポップアップ\u003C/anchor>表示するものと説明されていた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 23234
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "XHTML Events, W3C, Working Draft, 28 August 20002000-08-28, 2018-10-09T13:32:14.000Z, 2024-09-14T06:08:48.857Z https://www.w3.org/TR/2000/WD-xhtml-events-20000828/#section-namespace",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>XHTML Events\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Working Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>28 August 2000\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2000-08-28\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2018-10-09T13:32:14.000Z\u003C/time>, \u003Ctime>2024-09-14T06:08:48.857Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/2000/WD-xhtml-events-20000828/#section-namespace\u0022>https://www.w3.org/TR/2000/WD-xhtml-events-20000828/#section-namespace\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2000-08-28",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000-08-28\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "onevent",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>onevent\u003C/code>"
+         },
+         {
+            "text" : "action",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>action\u003C/code>"
+         },
+         {
+            "text" : "stopevent",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>stopevent\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2000-08-28に公開された XHTML Events 仕様案 (後の XML Events) で onevent, action, stopevent が追加された。 イベントハンドラーを表すものだった。 WML の onevent の影響を受けた可能性があるが互換性はない。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000-08-28\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML Events\u003C/cite>\u000A仕様案 (後の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XML Events\u003C/cite>)\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>onevent\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>action\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>stopevent\u003C/code>\u000Aが追加された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>イベントハンドラー\u003C/anchor>を表すものだった。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WML\u003C/anchor> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>onevent\u003C/code>\u000Aの影響を受けた可能性があるが互換性はない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 23234
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "XHTML Events Module, W3C, Working Draft, 08 June 20012001-06-08, 2018-10-09T13:25:59.000Z, 2024-09-14T06:10:58.926Z https://www.w3.org/TR/2001/WD-xhtml-events-20010608/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>XHTML Events Module\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Working Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>08 June 2001\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2001-06-08\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2018-10-09T13:25:59.000Z\u003C/time>, \u003Ctime>2024-09-14T06:10:58.926Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/2001/WD-xhtml-events-20010608/\u0022>https://www.w3.org/TR/2001/WD-xhtml-events-20010608/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2001-06-08",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2001-06-08\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "do",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>do\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2001-06-08に公開された XHTML Events Module 仕様案 (後の XML Events) で do が追加された。 onevent と組み合わせてイベントハンドラーを表すものだった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2001-06-08\u003C/time>に公開された\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML Events Module\u003C/cite>\u000A仕様案 (後の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XML Events\u003C/cite>)\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>do\u003C/code>\u000Aが追加された。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>onevent\u003C/code>\u000Aと組み合わせて\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>イベントハンドラー\u003C/anchor>を表すものだった。"
          }
       ]
    },
@@ -12310,6 +13398,110 @@
          {
             "text" : "2024時点で MapML が定義している。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>時点で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MapML\u003C/anchor>\u000Aが定義している。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25422
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "DjVu XML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DjVu XML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "DjVuLibre / Djvulibre-git / [b0ff6f] /share/djvu/pubtext/DjVuXML-s.dtd, 2002-03-11 01:27:272002-03-11, 2024-09-14T12:15:06.000Z, 2024-09-14T12:16:33.370Z https://sourceforge.net/p/djvu/djvulibre-git/ci/master/tree/share/djvu/pubtext/DjVuXML-s.dtd",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>DjVuLibre / Djvulibre-git / \u003Cstrong>[\u003C/strong>b0ff6f\u003Cstrong>]\u003C/strong> /share/djvu/pubtext/DjVuXML-s.dtd\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2002-03-11 01:27:27\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2002-03-11\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-14T12:15:06.000Z\u003C/time>, \u003Ctime>2024-09-14T12:16:33.370Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://sourceforge.net/p/djvu/djvulibre-git/ci/master/tree/share/djvu/pubtext/DjVuXML-s.dtd\u0022>https://sourceforge.net/p/djvu/djvulibre-git/ci/master/tree/share/djvu/pubtext/DjVuXML-s.dtd\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "map",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>map\u003C/code>"
+         },
+         {
+            "text" : "area",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>area\u003C/code>"
+         },
+         {
+            "text" : "object",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "param",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25544
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Out of band encoding for HTML (and other SGMLs), Brad Templeton, 2024-09-14T07:55:51.000Z https://www.templetons.com/tech/oob.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Out of band encoding for HTML (and other SGMLs)\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Brad Templeton\u003C/anchor>\u003C/data>,\u000A\u003Ctime>2024-09-14T07:55:51.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.templetons.com/tech/oob.html\u0022>https://www.templetons.com/tech/oob.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2000",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "sig",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sig\u003C/code>"
+         },
+         {
+            "text" : "incd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>incd\u003C/code>"
+         },
+         {
+            "text" : "inc",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>inc\u003C/code>"
+         },
+         {
+            "text" : "page",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>page\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "USENETメッセージを HTML に変換するため sig, inc, incd, page が提案されていた。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>USENETメッセージ\u003C/anchor>を \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aに変換するため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sig\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>inc\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>incd\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>page\u003C/code>\u000Aが提案されていた。"
          }
       ]
    },
@@ -12762,7 +13954,7 @@
       "出典" : [
          {
             "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -12793,7 +13985,7 @@
       "出典" : [
          {
             "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -12844,7 +14036,7 @@
       "出典" : [
          {
             "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -12875,7 +14067,7 @@
       "出典" : [
          {
             "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -12906,7 +14098,7 @@
       "出典" : [
          {
             "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -12953,7 +14145,7 @@
       "出典" : [
          {
             "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -12984,7 +14176,7 @@
       "出典" : [
          {
             "text" : "分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD), 1996-06-14, 2003-09-05T06:11:36.000Z, 2024-08-23T12:40:36.946Z http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>分散形情報共有環境における文書記述用の基準文書型定義 (G-DTD)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1996-06-14\u003C/time>,\u000A\u003Ctime>2003-09-05T06:11:36.000Z\u003C/time>, \u003Ctime>2024-08-23T12:40:36.946Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u0022>http://www.y-adagio.com/public/jttc/g-dtd/ver9607/g-dtd_9607.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -13659,6 +14851,31 @@
          {
             "text" : "2000-10-20の W3C Candidate Recommendation (勧告候補) Modularization of XHTML の DTD で例示として XHTML Skiing Module が追加された。 実用は想定されておらず、抽象モジュール定義のみでスキーマ実装はない。 XHTML Modularization 仕様書のこれ以降の版にもそのまま引き継がれている。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000-10-20\u003C/time>の\u000AW3C Candidate Recommendation (勧告候補)\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Modularization of XHTML\u003C/cite>\u000Aの \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> で例示として\u000AXHTML Skiing Module\u000Aが追加された。\u000A実用は想定されておらず、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>抽象モジュール定義\u003C/anchor>のみで\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スキーマ実装\u003C/anchor>はない。\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML Modularization\u003C/cite>\u000A仕様書のこれ以降の版にもそのまま引き継がれている。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3488
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2006",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "/*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>/*\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "開始タグと対応関係にない不正な終了タグは通常無視されるが、 \u003C/br> と \u003C/p> には特例があり、 開始タグと読み替えられることがある。 HTML5構文解析器で明文化されたが、 古くからWebブラウザーが実装していた挙動である。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と対応関係にない不正な\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終了タグ\u003C/anchor>は通常無視されるが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;/br&gt;\u003C/code> と \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>&lt;/p&gt;\u003C/code> には特例があり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と読み替えられることがある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5構文解析器\u003C/anchor>で明文化されたが、\u000A古くから\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>が実装していた挙動である。"
          }
       ]
    },
@@ -16290,6 +17507,35 @@
    {
       "_" : [
          {
+            "page_id" : 37829
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "朝刊太郎・改(仮称)",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>朝刊太郎・改(仮称)\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "[朝刊太郎改]タグ解説, 2024-03-04T05:39:00.000Z, 2024-09-14T12:11:29.849Z https://www.chokantaro.com/tag/tag.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>[朝刊太郎改]タグ解説\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2024-03-04T05:39:00.000Z\u003C/time>, \u003Ctime>2024-09-14T12:11:29.849Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.chokantaro.com/tag/tag.html\u0022>https://www.chokantaro.com/tag/tag.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 38877
          }
       ],
@@ -16624,6 +17870,155 @@
    {
       "_" : [
          {
+            "page_id" : 4170
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "JIS X 4052",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 4052\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "日本語文書の組版指定交換形式, 日本工業標準調査会, 平成12(2000)年2000",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>日本語文書の組版指定交換形式\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本工業標準調査会\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>平成12(2000)年\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2000\u003C/attrvalue>\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "style",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>style\u003C/code>"
+         },
+         {
+            "text" : "link",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>link\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "div",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>"
+         },
+         {
+            "text" : "h1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>"
+         },
+         {
+            "text" : "h2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>"
+         },
+         {
+            "text" : "h3",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>"
+         },
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         },
+         {
+            "text" : "th",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>"
+         },
+         {
+            "text" : "td",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "ruby",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ruby\u003C/code>"
+         },
+         {
+            "text" : "rbc",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rbc\u003C/code>"
+         },
+         {
+            "text" : "rtc",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rtc\u003C/code>"
+         },
+         {
+            "text" : "rb",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rb\u003C/code>"
+         },
+         {
+            "text" : "rt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>rt\u003C/code>"
+         },
+         {
+            "text" : "sub",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sub\u003C/code>"
+         },
+         {
+            "text" : "sup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sup\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "u",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>u\u003C/code>"
+         },
+         {
+            "text" : "strike",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strike\u003C/code>"
+         },
+         {
+            "text" : "span",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>span\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 4176
          }
       ],
@@ -16744,6 +18139,75 @@
          {
             "text" : "2004-09-23版時点の Web Applications 1.0 で navigation が定義されていた。 現在の nav に当たる。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-09-23\u003C/time>版時点の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>navigation\u003C/code>\u000Aが定義されていた。\u000A現在の \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nav\u003C/code> に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4309
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "hnf",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>hnf\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "hnf の記述方法, 2024-09-14T13:13:40.000Z, 2000-06-08T16:59:36.998Z https://web.archive.org/web/20000608165935/http://www.h14m.org/docs/hnf-j.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>hnf の記述方法\u003C/cite>, \u003Ctime>2024-09-14T13:13:40.000Z\u003C/time>, \u000A\u003Ctime itemprop=\u0022published\u0022>2000-06-08T16:59:36.998Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20000608165935/http://www.h14m.org/docs/hnf-j.html\u0022>https://web.archive.org/web/20000608165935/http://www.h14m.org/docs/hnf-j.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "font",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>font\u003C/code>"
+         },
+         {
+            "text" : "strike",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strike\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
          }
       ]
    },
@@ -16883,6 +18347,31 @@
          {
             "text" : "DTBook",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTBook\u003C/anchor>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4544
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "SRGS",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SRGS\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Speech Recognition Grammar Specification Version 1.0, W3C, Recommendation, 16 March 20042004-03-16, 2018-10-09T13:29:52.000Z, 2024-09-14T13:56:45.231Z https://www.w3.org/TR/2004/REC-speech-grammar-20040316/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>Speech Recognition Grammar Specification Version 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Recommendation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>16 March 2004\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2004-03-16\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2018-10-09T13:29:52.000Z\u003C/time>, \u003Ctime>2024-09-14T13:56:45.231Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/2004/REC-speech-grammar-20040316/\u0022>https://www.w3.org/TR/2004/REC-speech-grammar-20040316/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "要素名" : [
@@ -17727,6 +19216,59 @@
    {
       "_" : [
          {
+            "page_id" : 44471
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "TNF",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TNF\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Tokimi Novel Format Reference Version. 2022.5.29, Tabito Kazeno, 2022/05/292022-05-29, 2022-05-29T14:46:44.000Z, 2024-09-14T10:23:21.941Z https://www.sylphid.jp/~tabito/Tokimi/TNF_Reference.pdf",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Tokimi Novel Format Reference Version. 2022.5.29\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tabito Kazeno\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2022/05/29\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2022-05-29\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2022-05-29T14:46:44.000Z\u003C/time>, \u003Ctime>2024-09-14T10:23:21.941Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.sylphid.jp/~tabito/Tokimi/TNF_Reference.pdf\u0022>https://www.sylphid.jp/~tabito/Tokimi/TNF_Reference.pdf\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "font",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>font\u003C/code>"
+         },
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "strike",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strike\u003C/code>"
+         },
+         {
+            "text" : "center",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>"
+         },
+         {
+            "text" : "!",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45444
          }
       ],
@@ -18515,6 +20057,468 @@
    {
       "_" : [
          {
+            "page_id" : 45944
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "NITF",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NITF\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "News Industry Text Format XML DTD, Date: 1999-01-051999-01-05, 1999-01-05T11:58:02.000Z, 2024-08-18T00:53:02.831Z http://xml.coverpages.org/nitf-x-dtd.txt",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>News Industry Text Format XML DTD\u003C/cite>, \u000ADate:  \u003Ctime itemprop=\u0022published\u0022>1999-01-05\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1999-01-05\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>1999-01-05T11:58:02.000Z\u003C/time>, \u003Ctime>2024-08-18T00:53:02.831Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://xml.coverpages.org/nitf-x-dtd.txt\u0022>http://xml.coverpages.org/nitf-x-dtd.txt\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "banner",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>banner\u003C/code>"
+         },
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         },
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "note",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>"
+         },
+         {
+            "text" : "h1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>"
+         },
+         {
+            "text" : "h2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>"
+         },
+         {
+            "text" : "h3",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>"
+         },
+         {
+            "text" : "h4",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h4\u003C/code>"
+         },
+         {
+            "text" : "h5",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h5\u003C/code>"
+         },
+         {
+            "text" : "h6",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h6\u003C/code>"
+         },
+         {
+            "text" : "h7",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h7\u003C/code>"
+         },
+         {
+            "text" : "h8",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h8\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "hr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hr\u003C/code>"
+         },
+         {
+            "text" : "person",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>person\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "lang",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lang\u003C/code>"
+         },
+         {
+            "text" : "q",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "fig",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fig\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "bq",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bq\u003C/code>"
+         },
+         {
+            "text" : "fn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fn\u003C/code>"
+         },
+         {
+            "text" : "note",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>"
+         },
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
+         },
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "caption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>"
+         },
+         {
+            "text" : "thead",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>thead\u003C/code>"
+         },
+         {
+            "text" : "tbody",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tbody\u003C/code>"
+         },
+         {
+            "text" : "tfoot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tfoot\u003C/code>"
+         },
+         {
+            "text" : "col",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>col\u003C/code>"
+         },
+         {
+            "text" : "colgroup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>colgroup\u003C/code>"
+         },
+         {
+            "text" : "credit",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>credit\u003C/code>"
+         },
+         {
+            "text" : "lh",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>lh\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "sub",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sub\u003C/code>"
+         },
+         {
+            "text" : "sup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sup\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45947
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "ENML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ENML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "evernote-sdk-ios/evernote-sdk-ios/internal/DTDs/enml.dtd at master · Evernote/evernote-sdk-ios · GitHub, 2013-07-05, 2024-09-14T11:58:42.000Z https://github.com/Evernote/evernote-sdk-ios/blob/master/evernote-sdk-ios/internal/DTDs/enml.dtd",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>evernote-sdk-ios/evernote-sdk-ios/internal/DTDs/enml.dtd at master · Evernote/evernote-sdk-ios · GitHub\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2013-07-05\u003C/time>,\u000A\u003Ctime>2024-09-14T11:58:42.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/Evernote/evernote-sdk-ios/blob/master/evernote-sdk-ios/internal/DTDs/enml.dtd\u0022>https://github.com/Evernote/evernote-sdk-ios/blob/master/evernote-sdk-ios/internal/DTDs/enml.dtd\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "div",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "h1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>"
+         },
+         {
+            "text" : "h2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>"
+         },
+         {
+            "text" : "h3",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>"
+         },
+         {
+            "text" : "h4",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h4\u003C/code>"
+         },
+         {
+            "text" : "h5",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h5\u003C/code>"
+         },
+         {
+            "text" : "h6",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h6\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "address",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code>"
+         },
+         {
+            "text" : "hr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hr\u003C/code>"
+         },
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
+         },
+         {
+            "text" : "blockquote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code>"
+         },
+         {
+            "text" : "center",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>"
+         },
+         {
+            "text" : "ins",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ins\u003C/code>"
+         },
+         {
+            "text" : "del",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>del\u003C/code>"
+         },
+         {
+            "text" : "bdo",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bdo\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "span",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>span\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "code",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>code\u003C/code>"
+         },
+         {
+            "text" : "samp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>samp\u003C/code>"
+         },
+         {
+            "text" : "kbd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kbd\u003C/code>"
+         },
+         {
+            "text" : "var",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>var\u003C/code>"
+         },
+         {
+            "text" : "cite",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cite\u003C/code>"
+         },
+         {
+            "text" : "abbr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbr\u003C/code>"
+         },
+         {
+            "text" : "acronym",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>acronym\u003C/code>"
+         },
+         {
+            "text" : "q",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>"
+         },
+         {
+            "text" : "sub",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sub\u003C/code>"
+         },
+         {
+            "text" : "sup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sup\u003C/code>"
+         },
+         {
+            "text" : "tt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tt\u003C/code>"
+         },
+         {
+            "text" : "dfn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dfn\u003C/code>"
+         },
+         {
+            "text" : "i",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>i\u003C/code>"
+         },
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         },
+         {
+            "text" : "big",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>big\u003C/code>"
+         },
+         {
+            "text" : "small",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>small\u003C/code>"
+         },
+         {
+            "text" : "u",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>u\u003C/code>"
+         },
+         {
+            "text" : "s",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>s\u003C/code>"
+         },
+         {
+            "text" : "strike",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strike\u003C/code>"
+         },
+         {
+            "text" : "font",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>font\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "map",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>map\u003C/code>"
+         },
+         {
+            "text" : "area",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>area\u003C/code>"
+         },
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "caption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>"
+         },
+         {
+            "text" : "thead",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>thead\u003C/code>"
+         },
+         {
+            "text" : "tbody",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tbody\u003C/code>"
+         },
+         {
+            "text" : "tfoot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tfoot\u003C/code>"
+         },
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         },
+         {
+            "text" : "th",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>"
+         },
+         {
+            "text" : "td",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>"
+         },
+         {
+            "text" : "colgroup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>colgroup\u003C/code>"
+         },
+         {
+            "text" : "col",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>col\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45948
          }
       ],
@@ -18755,6 +20759,51 @@
    {
       "_" : [
          {
+            "page_id" : 46102
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2007-01-23",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2007-01-23\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "author",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>author\u003C/code>"
+         },
+         {
+            "text" : "editor",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>editor\u003C/code>"
+         },
+         {
+            "text" : "isbn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isbn\u003C/code>"
+         },
+         {
+            "text" : "emph",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>emph\u003C/code>"
+         },
+         {
+            "text" : "opt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>opt\u003C/code>"
+         },
+         {
+            "text" : "pub",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pub\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2007-01-23時点でかつて author, editor, isbn, emph, opt, pub が提案または利用された事例があったと記録されているが、詳細不明。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2007-01-23\u003C/time>時点でかつて \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>author\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>editor\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isbn\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>emph\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>opt\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pub\u003C/code>\u000Aが提案または利用された事例があったと記録されているが、詳細不明。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46107
          }
       ],
@@ -18956,6 +21005,37 @@
    {
       "_" : [
          {
+            "page_id" : 46115
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cenbed>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;enbed&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2000",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "enbed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>enbed\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "低品質な解説等で embed を enbed と紹介したものがたまにある。",
+            "xml" : "\u000A低品質な解説等で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aを\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>enbed\u003C/code>\u000Aと紹介したものがたまにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46012
          }
       ],
@@ -18981,6 +21061,70 @@
          {
             "text" : "2011-03-31付の日本政府の総務省委託事業の 電子書籍交換フォーマット標準化プロジェクト【調査報告書】 が定める電子書籍交換フォーマット (後の IEC 62448:2013 ESP) は XHTML を基にしたといい html を文書要素とするが、 page_break がある。 改頁を表す。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2011-03-31\u003C/time>付の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本政府\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>総務省\u003C/anchor>委託事業の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>電子書籍交換フォーマット標準化プロジェクト【調査報告書】\u003C/cite>\u000Aが定める\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>電子書籍交換フォーマット\u003C/anchor>\u000A(後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IEC 62448:2013\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ESP\u003C/anchor>)\u000Aは\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML\u003C/anchor>\u000Aを基にしたといい \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aを\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書要素\u003C/anchor>とするが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>page_break\u003C/code>\u000Aがある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>改頁\u003C/anchor>を表す。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46120
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "TateJPN TateJPN Online Help, STech, 2000, 2022-08-31T03:44:20.000Z, 2001-05-10T20:19:17.223Z https://web.archive.org/web/20010510201834fw_/http://www.horae.dti.ne.jp/~stech/tatejpn/help_reference.html",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TateJPN\u003C/anchor>\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>TateJPN Online Help\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>STech\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2000\u003C/time>,\u000A\u003Ctime>2022-08-31T03:44:20.000Z\u003C/time>, \u003Ctime>2001-05-10T20:19:17.223Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20010510201834fw_/http://www.horae.dti.ne.jp/~stech/tatejpn/help_reference.html\u0022>https://web.archive.org/web/20010510201834fw_/http://www.horae.dti.ne.jp/~stech/tatejpn/help_reference.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "center",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>"
+         },
+         {
+            "text" : "font",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>font\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46121
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "markup (Unity)",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>markup (Unity)\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Rich Text | Unity UI | 2.0.0, Unity Technologies, 2024-08-28T04:26:00.000Z, 2024-09-14T13:34:34.501Z https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/StyledText.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Rich Text | Unity UI | 2.0.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unity Technologies\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2024-08-28T04:26:00.000Z\u003C/time>, \u003Ctime>2024-09-14T13:34:34.501Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/StyledText.html\u0022>https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/StyledText.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         },
+         {
+            "text" : "i",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>i\u003C/code>"
          }
       ]
    },
@@ -20673,6 +22817,37 @@
    {
       "_" : [
          {
+            "page_id" : 5155
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "The \u003Cmodule> Tag, Douglas Crockford, 2006-10-302006-10-30, 2024-09-14T01:49:26.000Z, 2006-12-16T06:49:43.157Z https://web.archive.org/web/20061216064835/http://www.json.org/module.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>The &lt;module&gt; Tag\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Douglas Crockford\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2006-10-30\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2006-10-30\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-14T01:49:26.000Z\u003C/time>, \u003Ctime>2006-12-16T06:49:43.157Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20061216064835/http://www.json.org/module.html\u0022>https://web.archive.org/web/20061216064835/http://www.json.org/module.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2006-10-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-10-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "module",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>module\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2006-10-30、 Douglas Crockford は module を提案した。 現在の iframe と postMessage メソッドに当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-10-30\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Douglas Crockford\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>module\u003C/code>\u000Aを提案した。\u000A現在の\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iframe\u003C/code>\u000Aと\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>postMessage\u003C/code> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メソッド\u003C/anchor>に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5228
          }
       ],
@@ -20820,6 +22995,119 @@
          {
             "text" : "1995-09-25の HTML 2.1 仕様案 (後の RFC 2070 RFC 2070) で bidi に替えて bdo が追加された。 現行仕様と同じ。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-09-25\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 2.1\u003C/anchor> 仕様案 (後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RFC 2070\u003C/anchor> \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC 2070\u003C/src>) で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bidi\u003C/code>\u000Aに替えて\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bdo\u003C/code>\u000Aが追加された。\u000A現行仕様と同じ。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5496
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "tdf",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>tdf\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "日記ファイルの書き方, 2024-09-14T13:23:44.000Z, tds-master, 2001, 2002-10-01T02:35:29.569Z https://web.archive.org/web/20021001023114/http://tds.dive-in.to/~tom/tds/doc/tdf.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>日記ファイルの書き方\u003C/cite>, \u003Ctime>2024-09-14T13:23:44.000Z\u003C/time>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>tds-master\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2001\u003C/time>,\u000A\u003Ctime>2002-10-01T02:35:29.569Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20021001023114/http://tds.dive-in.to/~tom/tds/doc/tdf.html\u0022>https://web.archive.org/web/20021001023114/http://tds.dive-in.to/~tom/tds/doc/tdf.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "big",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>big\u003C/code>"
+         },
+         {
+            "text" : "small",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>small\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "strike",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strike\u003C/code>"
+         },
+         {
+            "text" : "span",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>span\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "center",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>"
+         },
+         {
+            "text" : "div",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>"
+         },
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         },
+         {
+            "text" : "th",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>"
+         },
+         {
+            "text" : "td",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>"
+         },
+         {
+            "text" : "hr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hr\u003C/code>"
          }
       ]
    },
@@ -21265,6 +23553,370 @@
    {
       "_" : [
          {
+            "page_id" : 5814
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "BML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>BML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "デジタル放送におけるデータ放送符号化方式と伝送方式標準規格, 社団法人電波産業会, 平 成 2 0 年 6 月 6 日2008-06-06 5 . 2 改 定, 2024-09-14T09:43:41.000Z https://web.archive.org/web/20090711025708/http://www.arib.or.jp/english/html/overview/doc/2-STD-B24v5_2-2p3-1.pdf",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>デジタル放送におけるデータ放送符号化方式と伝送方式標準規格\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>社団法人電波産業会\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>平 成 2 0 年 6 月 6 日\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2008-06-06\u003C/attrvalue>\u003C/time> 5 . 2 改 定,\u000A\u003Ctime>2024-09-14T09:43:41.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20090711025708/http://www.arib.or.jp/english/html/overview/doc/2-STD-B24v5_2-2p3-1.pdf\u0022>https://web.archive.org/web/20090711025708/http://www.arib.or.jp/english/html/overview/doc/2-STD-B24v5_2-2p3-1.pdf\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "body",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>body\u003C/code>"
+         },
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "abbr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abbr\u003C/code>"
+         },
+         {
+            "text" : "acronym",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>acronym\u003C/code>"
+         },
+         {
+            "text" : "address",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>address\u003C/code>"
+         },
+         {
+            "text" : "blockquote",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>blockquote\u003C/code>"
+         },
+         {
+            "text" : "pre",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>pre\u003C/code>"
+         },
+         {
+            "text" : "h1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h1\u003C/code>"
+         },
+         {
+            "text" : "h2",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h2\u003C/code>"
+         },
+         {
+            "text" : "h3",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h3\u003C/code>"
+         },
+         {
+            "text" : "h4",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h4\u003C/code>"
+         },
+         {
+            "text" : "h5",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h5\u003C/code>"
+         },
+         {
+            "text" : "h6",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>h6\u003C/code>"
+         },
+         {
+            "text" : "div",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
+         },
+         {
+            "text" : "cite",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cite\u003C/code>"
+         },
+         {
+            "text" : "code",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>code\u003C/code>"
+         },
+         {
+            "text" : "dfn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dfn\u003C/code>"
+         },
+         {
+            "text" : "em",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>em\u003C/code>"
+         },
+         {
+            "text" : "kbd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kbd\u003C/code>"
+         },
+         {
+            "text" : "q",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>q\u003C/code>"
+         },
+         {
+            "text" : "samp",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>samp\u003C/code>"
+         },
+         {
+            "text" : "strong",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>strong\u003C/code>"
+         },
+         {
+            "text" : "var",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>var\u003C/code>"
+         },
+         {
+            "text" : "br",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>br\u003C/code>"
+         },
+         {
+            "text" : "span",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>span\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         },
+         {
+            "text" : "dl",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
+         },
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
+         },
+         {
+            "text" : "ol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
+         },
+         {
+            "text" : "ul",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
+         },
+         {
+            "text" : "li",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
+         },
+         {
+            "text" : "hr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>hr\u003C/code>"
+         },
+         {
+            "text" : "b",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>b\u003C/code>"
+         },
+         {
+            "text" : "big",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>big\u003C/code>"
+         },
+         {
+            "text" : "i",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>i\u003C/code>"
+         },
+         {
+            "text" : "sub",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sub\u003C/code>"
+         },
+         {
+            "text" : "small",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>small\u003C/code>"
+         },
+         {
+            "text" : "sup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sup\u003C/code>"
+         },
+         {
+            "text" : "tt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tt\u003C/code>"
+         },
+         {
+            "text" : "del",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>del\u003C/code>"
+         },
+         {
+            "text" : "ins",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ins\u003C/code>"
+         },
+         {
+            "text" : "bdo",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bdo\u003C/code>"
+         },
+         {
+            "text" : "form",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>form\u003C/code>"
+         },
+         {
+            "text" : "input",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>"
+         },
+         {
+            "text" : "select",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>select\u003C/code>"
+         },
+         {
+            "text" : "option",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>"
+         },
+         {
+            "text" : "textarea",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>"
+         },
+         {
+            "text" : "button",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>button\u003C/code>"
+         },
+         {
+            "text" : "fieldset",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fieldset\u003C/code>"
+         },
+         {
+            "text" : "label",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>"
+         },
+         {
+            "text" : "legend",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>legend\u003C/code>"
+         },
+         {
+            "text" : "optgroup",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>optgroup\u003C/code>"
+         },
+         {
+            "text" : "table",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>table\u003C/code>"
+         },
+         {
+            "text" : "caption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>"
+         },
+         {
+            "text" : "thead",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>thead\u003C/code>"
+         },
+         {
+            "text" : "tbody",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tbody\u003C/code>"
+         },
+         {
+            "text" : "tfoot",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tfoot\u003C/code>"
+         },
+         {
+            "text" : "tr",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         },
+         {
+            "text" : "th",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>th\u003C/code>"
+         },
+         {
+            "text" : "td",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>td\u003C/code>"
+         },
+         {
+            "text" : "img",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>"
+         },
+         {
+            "text" : "area",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>area\u003C/code>"
+         },
+         {
+            "text" : "map",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>map\u003C/code>"
+         },
+         {
+            "text" : "object",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>"
+         },
+         {
+            "text" : "param",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>"
+         },
+         {
+            "text" : "frameset",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frameset\u003C/code>"
+         },
+         {
+            "text" : "frame",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frame\u003C/code>"
+         },
+         {
+            "text" : "noframes",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noframes\u003C/code>"
+         },
+         {
+            "text" : "iframe",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iframe\u003C/code>"
+         },
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "style",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>style\u003C/code>"
+         },
+         {
+            "text" : "script",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>"
+         },
+         {
+            "text" : "noscript",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noscript\u003C/code>"
+         },
+         {
+            "text" : "link",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>link\u003C/code>"
+         },
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5815
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cembeded>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;embeded&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2006",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "embeded",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embeded\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "低品質の解説等で embed が embeded と紹介されることが稀にある。",
+            "xml" : "\u000A低品質の解説等で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embeded\u003C/code>\u000Aと紹介されることが稀にある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5972
          }
       ],
@@ -21321,6 +23973,37 @@
          {
             "text" : "HTML5 は当初利用者エージェントスタイルシートに一部の機能を含んでいたが、 2009-02-11に削除された。",
             "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aは当初\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>利用者エージェントスタイルシート\u003C/anchor>に一部の機能を含んでいたが、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009-02-11\u003C/time>に削除された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 5983
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cmarque>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;marque&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2010",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "marque",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>marque\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "質問や低品質な解説等で marquee が marque と書かれることがしばしばある。",
+            "xml" : "\u000A質問や低品質な解説等で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>marquee\u003C/code>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>marque\u003C/code>\u000Aと書かれることがしばしばある。"
          }
       ]
    },
@@ -21681,6 +24364,37 @@
             "page_id" : 6569
          }
       ],
+      "出典" : [
+         {
+            "text" : "Emacs/W3 2.1p46, 1994-08-01 11:421994-08-01T11:42, 2024-09-11T12:08:47.100Z http://www.nic.funet.fi/index/WWW/emacs/html-mode/w3-2.1p46.tar.gz",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Emacs/W3\u003C/anchor> 2.1p46\u003C/cite>,\u000A\u003Ctime itemprop=\u0022published\u0022>1994-08-01 11:42\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1994-08-01T11:42\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-11T12:08:47.100Z\u003C/time>\u000A\u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.nic.funet.fi/index/WWW/emacs/html-mode/w3-2.1p46.tar.gz\u0022>http://www.nic.funet.fi/index/WWW/emacs/html-mode/w3-2.1p46.tar.gz\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1994",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "div1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div1\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "1994時点の Emacs/W3 が div1 等を実装していた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994\u003C/time>時点の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Emacs/W3\u003C/anchor> が\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div1\u003C/code>\u000A等を実装していた。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 6569
+         }
+      ],
       "日付" : [
          {
             "text" : "1997-03-27",
@@ -21774,6 +24488,29 @@
    {
       "_" : [
          {
+            "page_id" : 6569
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "divn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>divn\u003C/code>"
+         },
+         {
+            "text" : "bn",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bn\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "div1, bn 等を総称して divn, bn と書くことがある。 このままの要素名ではない。",
+            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>div1\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bn\u003C/code> 等を総称して\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>divn\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>bn\u003C/code>\u000Aと書くことがある。\u000Aこのままの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>ではない。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 6642
          }
       ],
@@ -21799,31 +24536,6 @@
          {
             "text" : "2004-09-23版時点の Web Applications 1.0 で calendar が定義されていた。 hCalendar を使って予定をカレンダー表示するものだった。 カレンダー機能はこれ以前から仕様書ソースコード注釈で構想が示されていた。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-09-23\u003C/time>版時点の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>calendar\u003C/code>\u000Aが定義されていた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>hCalendar\u003C/anchor>\u000Aを使って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>予定\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>カレンダー\u003C/anchor>表示するものだった。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>カレンダー\u003C/anchor>機能はこれ以前から仕様書ソースコード注釈で構想が示されていた。"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
-            "page_id" : 6070
-         }
-      ],
-      "日付" : [
-         {
-            "text" : "2014-03-05",
-            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2014-03-05\u003C/time>"
-         }
-      ],
-      "要素名" : [
-         {
-            "text" : "isbn",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isbn\u003C/code>"
-         }
-      ],
-      "説明" : [
-         {
-            "text" : "2014時点でかつて isbn が提案または利用された事例があったと記録されているが、詳細不明。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2014\u003C/time>時点でかつて \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>isbn\u003C/code>\u000Aが提案または利用された事例があったと記録されているが、詳細不明。"
          }
       ]
    },
@@ -22446,6 +25158,47 @@
          {
             "text" : "1993-10-28付の HTML\u002B 仕様に abstract がある。 文書の概要を示すものだった。 draft-raggett-www-html-00",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-10-28\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u002B\u003C/anchor> 仕様に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>abstract\u003C/code> がある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>概要\u003C/anchor>を示すものだった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>draft-raggett-www-html-00\u003C/anchor>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 8116
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "CNML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CNML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Specification of the Continuous Media Markup Language (CMML), Version 1.0, Silvia Pfeiffer, Conrad D. Parker, June 8, 20032003-06-08, 2024-09-14T09:15:34.000Z, 2003-09-12T22:49:16.189Z https://web.archive.org/web/20030912224907/http://www.annodex.net/TR/cmml.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Specification of the Continuous Media Markup Language (CMML), Version 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Silvia Pfeiffer\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Conrad D. Parker\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>June 8, 2003\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2003-06-08\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-14T09:15:34.000Z\u003C/time>, \u003Ctime>2003-09-12T22:49:16.189Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20030912224907/http://www.annodex.net/TR/cmml.html\u0022>https://web.archive.org/web/20030912224907/http://www.annodex.net/TR/cmml.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "head",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>"
+         },
+         {
+            "text" : "title",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>title\u003C/code>"
+         },
+         {
+            "text" : "base",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>base\u003C/code>"
+         },
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
          }
       ]
    },
@@ -23474,6 +26227,37 @@
    {
       "_" : [
          {
+            "page_id" : 9014
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "GitHub - dherman/module-tag: Specs for the module tag, 2014-09-29, 2024-09-14T01:57:59.000Z https://github.com/dherman/module-tag",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - dherman/module-tag: Specs for the module tag\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2014-09-29\u003C/time>,\u000A\u003Ctime>2024-09-14T01:57:59.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/dherman/module-tag\u0022>https://github.com/dherman/module-tag\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2014",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2014\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "module",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>module\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2014、 モジュールスクリプトの記述のため module が提案された。 現在の script (type=module) に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2014\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>モジュールスクリプト\u003C/anchor>の記述のため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>module\u003C/code>\u000Aが提案された。\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>type=module\u003C/code>) に当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 9180
          }
       ],
@@ -23848,6 +26632,35 @@
          {
             "text" : "2007時点で Microsoft Corporation の Webサイトで xmlreader が使われていた。 用途は不明。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007\u003C/time>時点で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft Corporation\u003C/anchor>\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xmlreader\u003C/code>\u000Aが使われていた。\u000A用途は不明。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 9357
+         }
+      ],
+      "借用先" : [
+         {
+            "text" : "SSML",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SSML\u003C/anchor>"
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "Speech Synthesis Markup Language (SSML) Version 1.0, W3C, [DATA(.status[Recommendation]], 7 September 20042004-09-07, 2017-10-02T10:28:58.000Z, 2024-09-14T13:42:56.407Z https://www.w3.org/TR/2004/REC-speech-synthesis-20040907/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>Speech Synthesis Markup Language (SSML) Version 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A[DATA(.status\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[Recommendation\u003C/anchor>]],\u000A\u003Ctime itemprop=\u0022published\u0022>7 September 2004\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2004-09-07\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2017-10-02T10:28:58.000Z\u003C/time>, \u003Ctime>2024-09-14T13:42:56.407Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/2004/REC-speech-synthesis-20040907/\u0022>https://www.w3.org/TR/2004/REC-speech-synthesis-20040907/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
+         },
+         {
+            "text" : "p",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>p\u003C/code>"
          }
       ]
    },
