@@ -2258,6 +2258,52 @@
             "page_id" : 28577
          }
       ],
+      "字形類似" : [
+         {
+            "text" : "〇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〇\u003C/sw-ch>"
+         },
+         {
+            "text" : "0",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>0\u003C/sw-ch>"
+         },
+         {
+            "text" : "O",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>O\u003C/sw-ch>"
+         },
+         {
+            "text" : "o",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>o\u003C/sw-ch>"
+         },
+         {
+            "text" : "ဝ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ဝ\u003C/sw-ch>"
+         },
+         {
+            "text" : "ပ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ပ\u003C/sw-ch>"
+         },
+         {
+            "text" : "င",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>င\u003C/sw-ch>"
+         },
+         {
+            "text" : "ဂ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ဂ\u003C/sw-ch>"
+         },
+         {
+            "text" : "၁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>၁\u003C/sw-ch>"
+         },
+         {
+            "text" : "C",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>C\u003C/sw-ch>"
+         },
+         {
+            "text" : "U",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>U\u003C/sw-ch>"
+         }
+      ],
       "文字" : [
          {
             "text" : "○",
@@ -4788,6 +4834,25 @@
          {
             "text" : "十",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>十\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43557
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "捨",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>捨\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "拾",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>拾\u003C/sw-ch>"
          }
       ]
    },
@@ -7930,6 +7995,25 @@
          {
             "text" : "萩",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>萩\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46129
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "儲",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>儲\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "信者",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>信者\u003C/anchor>"
          }
       ]
    },

@@ -6004,8 +6004,8 @@
       ],
       "注釈" : [
          {
-            "text" : "ЯндексYandex は、 ロシア連邦を中心に旧ソ連諸国等でよく利用されるWeb検索エンジンサービス。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>\u003Cruby xml:lang=\u0022ru\u0022>Яндекс\u003Crt xml:lang=\u0022en\u0022>Yandex\u003C/rt>\u003C/ruby>\u003C/dfn>\u000Aは、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ロシア連邦\u003C/anchor>を中心に旧ソ連諸国等でよく利用されるWeb\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>検索エンジン\u003C/anchor>サービス。\u003C/li>\u003C/ul>"
+            "text" : "ЯндексYandex ロシア連邦を中心とする旧ソ連諸国等でよく利用されるWeb検索エンジンサービス。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>\u003Cruby xml:lang=\u0022ru\u0022>Яндекс\u003Crt xml:lang=\u0022en\u0022>Yandex\u003C/rt>\u003C/ruby>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ロシア連邦\u003C/anchor>を中心とする旧ソ連諸国等でよく利用されるWeb\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>検索エンジン\u003C/anchor>サービス。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -25049,6 +25049,12 @@
             "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>"
          }
       ],
+      "注釈" : [
+         {
+            "text" : "[20] 当時のWebブラウザーの多くはアドレスバー横にロゴを表示し、 Webページ読込中にアニメーションさせていた。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002220\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[20]\u003C/anchor-end> \u000A当時の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>の多くは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アドレスバー\u003C/anchor>横に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ロゴ\u003C/anchor>を表示し、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webページ\u003C/anchor>読込中にアニメーションさせていた。\u003C/li>\u003C/ul>"
+         }
+      ],
       "要素名" : [
          {
             "text" : "animate",
@@ -25061,8 +25067,8 @@
       ],
       "説明" : [
          {
-            "text" : "IBM WebExplorer は1995時点で animate, frame を実装していた。 当時の GUI Webブラウザーで一般的だったアドレスバー右側のロゴ (読込中にアニメーションするもの) を独自のものとできた。 Netscape の frame とは異なる。",
-            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>IBM WebExplorer\u003C/cite>\u000Aは\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>animate\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frame\u003C/code>\u000Aを実装していた。\u000A当時の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>GUI\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>で一般的だった\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アドレスバー\u003C/anchor>右側のロゴ \u000A(読込中にアニメーションするもの) \u000Aを独自のものとできた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape\u003C/anchor>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frame\u003C/code>\u000Aとは異なる。"
+            "text" : "1995時点で IBM WebExplorer は、 animate, frame を実装していた。 アドレスバー横のロゴ>>20を独自のアニメーションに設定するものだった。 現行仕様とは異なる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>時点で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IBM WebExplorer\u003C/anchor>\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>animate\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frame\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アドレスバー\u003C/anchor>横の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ロゴ\u003C/anchor>\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002220\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;20\u003C/anchor-internal>\u003C/sw-see>を独自の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アニメーション\u003C/anchor>に設定するものだった。\u000A現行仕様とは異なる。"
          }
       ]
    },
@@ -25075,7 +25081,7 @@
       "出典" : [
          {
             "text" : "HotJava modifications, Steve Byrne, 9/13/19961996-09-13, 2024-08-19T06:50:12.400Z https://raw.githubusercontent.com/magicus/jdk/34bb3c164b3c10f1f258eedbf84ee9c36d7d8f7d/src/java.desktop/share/data/dtdbuilder/html32.dtd",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HotJava modifications\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Steve Byrne\u003C/anchor>\u003C/data>,\u000A\u003Ctime>9/13/1996\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1996-09-13\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-19T06:50:12.400Z\u003C/time>\u000A\u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://raw.githubusercontent.com/magicus/jdk/34bb3c164b3c10f1f258eedbf84ee9c36d7d8f7d/src/java.desktop/share/data/dtdbuilder/html32.dtd\u0022>https://raw.githubusercontent.com/magicus/jdk/34bb3c164b3c10f1f258eedbf84ee9c36d7d8f7d/src/java.desktop/share/data/dtdbuilder/html32.dtd\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>HotJava modifications\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Steve Byrne\u003C/anchor>\u003C/data>,\u000A\u003Ctime>9/13/1996\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1996-09-13\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-08-19T06:50:12.400Z\u003C/time>\u000A\u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://raw.githubusercontent.com/magicus/jdk/34bb3c164b3c10f1f258eedbf84ee9c36d7d8f7d/src/java.desktop/share/data/dtdbuilder/html32.dtd\u0022>https://raw.githubusercontent.com/magicus/jdk/34bb3c164b3c10f1f258eedbf84ee9c36d7d8f7d/src/java.desktop/share/data/dtdbuilder/html32.dtd\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -25092,8 +25098,8 @@
       ],
       "説明" : [
          {
-            "text" : "1996-09-13 付 HotJava 用 HTML の DTD に animate がある。 情報がほとんどなく用法は不明。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-09-13\u003C/time>\u000A付\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HotJava\u003C/cite>\u000A用\u000AHTML \u000Aの\u000ADTD\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>animate\u003C/code>\u000Aがある。\u000A情報がほとんどなく用法は不明。"
+            "text" : "1996-09-13付の HotJava 用 DTD に animate がある。 情報がほとんどなく用法は不明。 IBM のものとは無関係と思われる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-09-13\u003C/time>付の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HotJava\u003C/anchor> 用 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>animate\u003C/code>\u000Aがある。\u000A情報がほとんどなく用法は不明。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IBM\u003C/anchor>\u000Aのものとは無関係と思われる。"
          }
       ]
    },
