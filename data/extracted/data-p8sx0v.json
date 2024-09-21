@@ -3091,6 +3091,10 @@
          {
             "text" : "お",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>お\u003C/sw-ch>"
+         },
+         {
+            "text" : "寸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>寸\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -4706,6 +4710,29 @@
          {
             "text" : "、",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>、\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43012
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "不",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>不\u003C/sw-ch>"
+         },
+         {
+            "text" : "ホ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ホ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "木",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>木\u003C/sw-ch>"
          }
       ]
    },
@@ -8014,6 +8041,25 @@
          {
             "text" : "信者",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>信者\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46153
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "す⃝",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>す⃝\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "団",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>団\u003C/sw-ch>"
          }
       ]
    },
