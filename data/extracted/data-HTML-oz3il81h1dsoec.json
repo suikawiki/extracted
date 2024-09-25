@@ -23080,6 +23080,90 @@
    {
       "_" : [
          {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "[17] POSTHTML: GitHub - posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins, 2024-09-25T14:38:44.000Z https://github.com/posthtml/posthtml POSTHTML:CE: GitHub - posthtml/posthtml-custom-elements: Custom Elements Plugin, 2024-09-25T14:45:56.000Z https://github.com/posthtml/posthtml-custom-elements POSTHTML:WC: GitHub - posthtml/posthtml-web-component: Server Side Web Component Render., 2024-09-25T15:18:05.000Z https://github.com/posthtml/posthtml-web-component",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002217\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[17]\u003C/anchor-end> \u000A\u003Cdfn>POSTHTML\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-09-25T14:38:44.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml\u0022>https://github.com/posthtml/posthtml\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Cdfn>POSTHTML:CE\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-custom-elements: Custom Elements Plugin\u003C/cite>, \u003Ctime>2024-09-25T14:45:56.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-custom-elements\u0022>https://github.com/posthtml/posthtml-custom-elements\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Cdfn>POSTHTML:WC\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-web-component: Server Side Web Component Render.\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-25T15:18:05.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-web-component\u0022>https://github.com/posthtml/posthtml-web-component\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2015",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2015\u003C/time>"
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "PostHTML プラグインと称する JavaScript コードの組み合わせによって HTML を生成するソフトウェア。 本書では公式に提供されているプラグインも含めて指す。 平成時代末期頃に開発が始まり、令和時代に入った現在も開発が続いている。 入力にはプラグインの動作を指定する独自の要素や属性も含まれるが、 単に HTML と呼ばれている。 [19] Custom Elements や Web Components に対応すると称するプラグインでは任意の要素名や属性名が使える。 POSTHTML:CE POSTHTML:WC その他のプラグインも独自の要素名や属性名を使っている。 また、設定により要素名や属性名をカスタマイズできるとしている。 本書では公式に提供されているプラグインの要素名と別名としての利用例が明示されている要素名を採録対象とし、 それ以外は対象外とする。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>PostHTML\u003C/dfn>\u000Aプラグインと称する \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> コードの組み合わせによって \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aを生成するソフトウェア。\u000A本書では公式に提供されているプラグインも含めて指す。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>末期頃に開発が始まり、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>令和時代\u003C/anchor>に入った現在も開発が続いている。\u000A入力にはプラグインの動作を指定する独自の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>属性\u003C/anchor>も含まれるが、\u000A単に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> と呼ばれている。\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[19]\u003C/anchor-end> \u000ACustom Elements や Web Components に対応すると称するプラグインでは任意の要素名や属性名が使える。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:CE\u003C/src>\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:WC\u003C/src>\u000Aその他のプラグインも独自の要素名や属性名を使っている。\u000Aまた、設定により要素名や属性名をカスタマイズできるとしている。\u000A本書では公式に提供されているプラグインの要素名と別名としての利用例が明示されている要素名を採録対象とし、\u000Aそれ以外は対象外とする。\u003C/li>\u003C/ul>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>*\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものでは任意の要素名を著者が使えるようだ。>>19 POSTHTML",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものでは任意の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>著者\u003C/anchor>が使えるようだ。\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002219\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;19\u003C/anchor-internal>\u003C/sw-see>\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:COMPONENTS: GitHub - posthtml/posthtml-components: A PostHTML plugin for creating components with HTML-friendly syntax inspired by Laravel Blade. Slots, stack/push, props, custom tag and much more., 2024-09-25T14:57:01.000Z https://github.com/posthtml/posthtml-components",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:COMPONENTS\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-components: A PostHTML plugin for creating components with HTML-friendly syntax inspired by Laravel Blade. Slots, stack/push, props, custom tag and much more.\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-09-25T14:57:01.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-components\u0022>https://github.com/posthtml/posthtml-components\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "yield",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>yield\u003C/code>"
+         },
+         {
+            "text" : "push",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>push\u003C/code>"
+         },
+         {
+            "text" : "stack",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>stack\u003C/code>"
+         },
+         {
+            "text" : "fill:*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fill:*\u003C/code>"
+         },
+         {
+            "text" : "slot:*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>slot:*\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46018
          }
       ],
