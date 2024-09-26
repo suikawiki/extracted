@@ -9128,8 +9128,8 @@
       ],
       "説明" : [
          {
-            "text" : "xml の内容では任意の XML を記述できるとされていた。 タグは HTML要素を表すものではなく、 XML の要素と解釈された。 >>25",
-            "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xml\u003C/code>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>では任意の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor>\u000Aを記述できるとされていた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML要素\u003C/anchor>を表すものではなく、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>と解釈された。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;25\u003C/anchor-internal>\u003C/sw-see>"
+            "text" : "1997-03-09付で Microsoft が W3C に提出した仕様案や Internet Explorer 5 の実装では、 xml の内容に任意の XML が記述できるとされていた。 タグは HTML要素を表すものではなく、 XML の要素と解釈された。 >>25",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-03-09\u003C/time>付で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u000Aに提出した仕様案や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer 5\u003C/anchor>\u000Aの実装では、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>xml\u003C/code>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>に任意の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor>\u000Aが記述できるとされていた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML要素\u003C/anchor>を表すものではなく、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor>\u000Aの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>と解釈された。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;25\u003C/anchor-internal>\u003C/sw-see>"
          }
       ]
    },
@@ -23164,6 +23164,554 @@
    {
       "_" : [
          {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:INCLUDE1: Release v1.0.0, voischev, 2015-09-27 06:53:36 \u002B09:00, 2024-09-26T14:41:15.000Z https://github.com/posthtml/posthtml-include/commit/42ca3de0637c554ef1569b83d85edaec5d0b6ad2",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:INCLUDE1\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>Release v1.0.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>voischev\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>2015-09-27 06:53:36 \u002B09:00\u003C/time>, \u003Ctime>2024-09-26T14:41:15.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-include/commit/42ca3de0637c554ef1569b83d85edaec5d0b6ad2\u0022>https://github.com/posthtml/posthtml-include/commit/42ca3de0637c554ef1569b83d85edaec5d0b6ad2\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "include",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:EXTENDS: GitHub - posthtml/posthtml-extend: Template extending (Jade-like), 2024-09-26T13:02:40.000Z https://github.com/posthtml/posthtml-extend",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:EXTENDS\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-extend: Template extending (Jade-like)\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-09-26T13:02:40.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-extend\u0022>https://github.com/posthtml/posthtml-extend\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "extends",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>extends\u003C/code>"
+         },
+         {
+            "text" : "block",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>block\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:EXP: GitHub - posthtml/posthtml-expressions: Use variables, JS-like expressions, and even markup-powered logic in your HTML., 2024-09-26T14:36:43.000Z https://github.com/posthtml/posthtml-expressions",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:EXP\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-expressions: Use variables, JS-like expressions, and even markup-powered logic in your HTML.\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-26T14:36:43.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-expressions\u0022>https://github.com/posthtml/posthtml-expressions\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "if",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>if\u003C/code>"
+         },
+         {
+            "text" : "elseif",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>elseif\u003C/code>"
+         },
+         {
+            "text" : "else",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>else\u003C/code>"
+         },
+         {
+            "text" : "when",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>when\u003C/code>"
+         },
+         {
+            "text" : "elsewhen",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>elsewhen\u003C/code>"
+         },
+         {
+            "text" : "otherwise",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>otherwise\u003C/code>"
+         },
+         {
+            "text" : "switch",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>switch\u003C/code>"
+         },
+         {
+            "text" : "case",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>case\u003C/code>"
+         },
+         {
+            "text" : "default",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>default\u003C/code>"
+         },
+         {
+            "text" : "each",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>each\u003C/code>"
+         },
+         {
+            "text" : "scope",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>scope\u003C/code>"
+         },
+         {
+            "text" : "raw",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>raw\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "clause",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>clause\u003C/code>"
+         },
+         {
+            "text" : "fallback",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fallback\u003C/code>"
+         },
+         {
+            "text" : "for",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>for\u003C/code>"
+         },
+         {
+            "text" : "context",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>context\u003C/code>"
+         },
+         {
+            "text" : "verbatim",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>verbatim\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。 別名例。 POSTHTML:EXP",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。 別名例。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:EXP\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:SHIKI: GitHub - posthtml/posthtml-shiki: Highlight code blocks with PostHTML and Shiki, 2024-09-26T14:24:39.000Z https://github.com/posthtml/posthtml-shiki",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:SHIKI\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-shiki: Highlight code blocks with PostHTML and Shiki\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-26T14:24:39.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-shiki\u0022>https://github.com/posthtml/posthtml-shiki\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "shiki",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>shiki\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "highlight",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>highlight\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。 shiki の別名例。 POSTHTML:SHIKI",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>shiki\u003C/code> の別名例。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:SHIKI\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:MD: GitHub - posthtml/posthtml-md2html: Render markdown inside html elements., 2024-09-26T14:21:19.000Z https://github.com/posthtml/posthtml-md2html POSTHTML:MARKDOWNIT: GitHub - posthtml/posthtml-markdownit: A PostHTML plugin to transform Markdown using markdown-it, 2024-09-26T14:22:08.000Z https://github.com/posthtml/posthtml-markdownit POSTHTML:INCLUDEMD: GitHub - posthtml/posthtml-include-md: Include markdown plugin for PostHTML, 2024-09-26T14:26:48.000Z https://github.com/posthtml/posthtml-include-md",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:MD\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-md2html: Render markdown inside html elements.\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-26T14:21:19.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-md2html\u0022>https://github.com/posthtml/posthtml-md2html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Cdfn>POSTHTML:MARKDOWNIT\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-markdownit: A PostHTML plugin to transform Markdown using markdown-it\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-26T14:22:08.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-markdownit\u0022>https://github.com/posthtml/posthtml-markdownit\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Cdfn>POSTHTML:INCLUDEMD\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-include-md: Include markdown plugin for PostHTML\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-26T14:26:48.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-include-md\u0022>https://github.com/posthtml/posthtml-include-md\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "markdown",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>markdown\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "md",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>md\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。 POSTHTML:MD POSTHTML:MARKDOWNIT",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:MD\u003C/src>\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:MARKDOWNIT\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:SPACELESS: GitHub - posthtml/posthtml-spaceless: Spaceless tag to remove whitespace between HTML tags, 2024-09-26T14:17:27.000Z https://github.com/posthtml/posthtml-spaceless",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:SPACELESS\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-spaceless: Spaceless tag to remove whitespace between HTML tags\u003C/cite>, \u003Ctime>2024-09-26T14:17:27.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-spaceless\u0022>https://github.com/posthtml/posthtml-spaceless\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "[35] 借用元の雛形言語は HTML ではないし、 SGML 系の構文でもない。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002235\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[35]\u003C/anchor-end> \u000A借用元の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>雛形言語\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ではないし、 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> 系の構文でもない。\u003C/li>\u003C/ul>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "spaceless",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>spaceless\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。 既存の雛形言語複数からの借用である。>>35",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。\u000A既存の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>雛形言語\u003C/anchor>複数からの借用である。\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002235\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;35\u003C/anchor-internal>\u003C/sw-see>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:MIXIN: GitHub - posthtml/posthtml-mixins: 📮 Mixins allow you to create reusable blocks of code., 2024-09-26T14:16:32.000Z https://github.com/posthtml/posthtml-mixins",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:MIXIN\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-mixins: 📮 Mixins allow you to create reusable blocks of code.\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-26T14:16:32.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-mixins\u0022>https://github.com/posthtml/posthtml-mixins\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "mixin",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mixin\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:IMPORT: GitHub - posthtml/posthtml-import: Import HTML Plugin, 2024-09-26T14:15:45.000Z https://github.com/posthtml/posthtml-import",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:IMPORT\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-import: Import HTML Plugin\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-09-26T14:15:45.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-import\u0022>https://github.com/posthtml/posthtml-import\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "import",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>import\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:FETCH: GitHub - posthtml/posthtml-fetch: PostHTML plugin for fetching and displaying remote content., 2024-09-26T13:57:17.000Z https://github.com/posthtml/posthtml-fetch",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:FETCH\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-fetch: PostHTML plugin for fetching and displaying remote content.\u003C/cite>, \u003Ctime itemprop=\u0022seen\u0022>2024-09-26T13:57:17.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-fetch\u0022>https://github.com/posthtml/posthtml-fetch\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "fetch",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fetch\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "get",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>get\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。 fetch の別名例。 POSTHTML:MSO",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>fetch\u003C/code> の別名例。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:MSO\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:MSO: GitHub - posthtml/posthtml-mso: Makes writing Outlook conditionals in HTML emails easy., 2024-09-26T13:08:48.000Z https://github.com/posthtml/posthtml-mso",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:MSO\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-mso: Makes writing Outlook conditionals in HTML emails easy.\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-09-26T13:08:48.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-mso\u0022>https://github.com/posthtml/posthtml-mso\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "outlook",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>outlook\u003C/code>"
+         },
+         {
+            "text" : "not-outlook",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>not-outlook\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "mso",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mso\u003C/code>"
+         },
+         {
+            "text" : "not-mso",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>not-mso\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものに mso, not-mso がある。 outlook, not-outlook の別名例。 POSTHTML:MSO",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mso\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>not-mso\u003C/code> \u000Aがある。 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>outlook\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>not-outlook\u003C/code> の別名例。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>POSTHTML:MSO\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46171
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "POSTHTML:MODULES: GitHub - posthtml/posthtml-modules: Modules Plugin, 2024-09-26T13:06:07.000Z https://github.com/posthtml/posthtml-modules",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>POSTHTML:MODULES\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - posthtml/posthtml-modules: Modules Plugin\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-09-26T13:06:07.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/posthtml/posthtml-modules\u0022>https://github.com/posthtml/posthtml-modules\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2024",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2024\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "module",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>module\u003C/code>"
+         },
+         {
+            "text" : "content",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>content\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "PostHTML が HTML と称するものにある。 同名の他の提案とは異なる。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PostHTML\u003C/anchor>\u000Aが\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor>\u000Aと称するものにある。\u000A同名の他の提案とは異なる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46018
          }
       ],
@@ -28016,6 +28564,31 @@
          {
             "text" : "Internet Explorer が対応していない要素を使いたい著者らはこの挙動に悩まされてきた。 平成時代半ば頃、 構文解析前に createElement を呼び出すことでそのタグ名は内容を持つタグであると認識されることが判明し、 HTML5 の新要素の利用が進むことになった。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor> が対応していない\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>を使いたい\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>著者\u003C/anchor>らはこの挙動に悩まされてきた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>半ば頃、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>前に \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>createElement\u003C/code> \u000Aを呼び出すことでその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ名\u003C/anchor>は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>を持つ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>であると認識されることが判明し、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5\u003C/anchor> の新\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の利用が進むことになった。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 8930
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "1997",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>*\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "しばしば解説類は、 SGML や XML では HTML と違って著者が任意の要素名を使える、といったような説明をしていた。 HTML とは違って、と説明されることもあれば、 将来の HTML や Web はそう発展する、のような説明のこともあった。 そうした解説の筆者や読者が技術的詳細や業界動向をどこまで正確に把握していたのかは疑わしい。",
+            "xml" : "\u000Aしばしば解説類は、 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor> では \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> \u000Aと違って\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>著者\u003C/anchor>が任意の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>を使える、といったような説明をしていた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> とは違って、と説明されることもあれば、\u000A将来の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor> はそう発展する、のような説明のこともあった。\u000Aそうした解説の筆者や読者が技術的詳細や業界動向をどこまで正確に把握していたのかは疑わしい。"
          }
       ]
    },
