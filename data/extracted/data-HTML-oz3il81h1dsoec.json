@@ -4599,8 +4599,8 @@
       ],
       "出典" : [
          {
-            "text" : "Web Applications 1.0, WHATWG, Ian Hickson, Working Draft, 23 September 20042004-09-23, 2024-09-01T06:53:36.000Z, 2004-10-09T15:04:52.113Z https://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor>\u003C/data>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Working Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>23 September 2004\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2004-09-23\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-01T06:53:36.000Z\u003C/time>, \u003Ctime>2004-10-09T15:04:52.113Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/\u0022>https://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "WA1-20040923: Web Applications 1.0, WHATWG, Ian Hickson, Working Draft, 23 September 20042004-09-23, 2024-09-01T06:53:36.000Z, 2004-10-09T15:04:52.113Z https://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>WA1-20040923\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor>\u003C/data>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Working Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>23 September 2004\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2004-09-23\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-01T06:53:36.000Z\u003C/time>, \u003Ctime>2004-10-09T15:04:52.113Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/\u0022>https://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -4625,8 +4625,8 @@
       ],
       "説明" : [
          {
-            "text" : "2004-09-23版時点の Web Applications 1.0 ソースコード注釈で entry, post, article の構想が示されていた。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-09-23\u003C/time>版時点の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>\u000Aソースコード注釈で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entry\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>post\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>article\u003C/code>\u000Aの構想が示されていた。"
+            "text" : "2004-09-23版 Web Applications 1.0 時点の文書ソース注釈に、 entry, post, article の構想が示されていた。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-09-23\u003C/time>版\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>\u000A時点の文書ソース注釈に、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>entry\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>post\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>article\u003C/code>\u000Aの構想が示されていた。"
          }
       ]
    },
@@ -4638,8 +4638,8 @@
       ],
       "出典" : [
          {
-            "text" : "Web Applications 1.0, WHATWG, Ian Hickson, Working Draft, 8 December 20042004-12-08, 2024-09-01T08:36:36.000Z, 2004-12-10T05:54:20.058Z https://web.archive.org/web/20041210054847/http://www.whatwg.org/specs/web-apps/current-work/",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor>\u003C/data>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Working Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>8 December 2004\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2004-12-08\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-01T08:36:36.000Z\u003C/time>, \u003Ctime>2004-12-10T05:54:20.058Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20041210054847/http://www.whatwg.org/specs/web-apps/current-work/\u0022>https://web.archive.org/web/20041210054847/http://www.whatwg.org/specs/web-apps/current-work/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "WA1-20041208: Web Applications 1.0, WHATWG, Ian Hickson, Working Draft, 8 December 20042004-12-08, 2024-09-01T08:36:36.000Z, 2004-12-10T05:54:20.058Z https://web.archive.org/web/20041210054847/http://www.whatwg.org/specs/web-apps/current-work/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>WA1-20041208\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor>\u003C/data>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Working Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>8 December 2004\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2004-12-08\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-01T08:36:36.000Z\u003C/time>, \u003Ctime>2004-12-10T05:54:20.058Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20041210054847/http://www.whatwg.org/specs/web-apps/current-work/\u0022>https://web.archive.org/web/20041210054847/http://www.whatwg.org/specs/web-apps/current-work/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -4656,8 +4656,43 @@
       ],
       "説明" : [
          {
-            "text" : "2004-09-23版時点の Web Applications 1.0 で article が定義されていた。 現行仕様である。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-09-23\u003C/time>版時点の\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>\u000Aで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>article\u003C/code>\u000Aが定義されていた。\u000A現行仕様である。"
+            "text" : "2004-09-23版 Web Applications 1.0 時点で article が定義されていた。 現行仕様である。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2004-09-23\u003C/time>版\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en-GB-hixie\u0022>Web Applications 1.0\u003C/cite>\u000A時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>article\u003C/code>\u000Aが定義されていた。\u000A現行仕様である。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1513
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "[24] Comment5:Richard: \u003Ccomment> element in HTML5 Spec?, Richard Summers, Mon Dec 13 10:49:01 PST 20102010-12-13T10:49:01-08:00, 2024-09-20T16:18:33.000Z, 2024-09-27T13:12:01.519Z https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2010-December/029459.html [25] Comment5:Hixie: \u003Ccomment> element in HTML5 Spec?, Ian Hickson, Tue Jul 19 17:34:42 PDT 20112011-07-19T17:34:42-07:00, 2024-09-20T16:18:33.000Z, 2024-09-27T13:26:57.951Z https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2011-July/032568.html [26] NEComments:Hixie: Requests for new elements for comments, Ian Hickson, Wed Jan 25 14:26:31 PST 20122012-01-25T14:26:31-08:00, 2024-09-20T16:18:34.000Z, 2024-09-27T13:26:05.320Z https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-January/034506.html [27] ElementsFeedback: Elements feedback, Ian Hickson, Thu Sep 27 11:27:30 PDT 20122012-09-27T11:27:30-07:00, 2024-09-20T16:18:34.000Z, 2024-09-27T13:25:03.216Z https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-September/037461.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002224\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[24]\u003C/anchor-end> \u000A\u003Cdfn>Comment5:Richard\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>&lt;comment&gt; element in HTML5 Spec?\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Richard Summers\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Mon Dec 13 10:49:01 PST 2010\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2010-12-13T10:49:01-08:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-20T16:18:33.000Z\u003C/time>, \u003Ctime>2024-09-27T13:12:01.519Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2010-December/029459.html\u0022>https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2010-December/029459.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[25]\u003C/anchor-end> \u000A\u003Cdfn>Comment5:Hixie\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>&lt;comment&gt; element in HTML5 Spec?\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Tue Jul 19 17:34:42 PDT 2011\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2011-07-19T17:34:42-07:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-20T16:18:33.000Z\u003C/time>, \u003Ctime>2024-09-27T13:26:57.951Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2011-July/032568.html\u0022>https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2011-July/032568.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002226\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[26]\u003C/anchor-end> \u000A\u003Cdfn>NEComments:Hixie\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>Requests for new elements for comments\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed Jan 25 14:26:31 PST 2012\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2012-01-25T14:26:31-08:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-20T16:18:34.000Z\u003C/time>, \u003Ctime>2024-09-27T13:26:05.320Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-January/034506.html\u0022>https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-January/034506.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002227\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[27]\u003C/anchor-end> \u000A\u003Cdfn>ElementsFeedback\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>Elements feedback\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Thu Sep 27 11:27:30 PDT 2012\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2012-09-27T11:27:30-07:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-20T16:18:34.000Z\u003C/time>, \u003Ctime>2024-09-27T13:25:03.216Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-September/037461.html\u0022>https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-September/037461.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "20010-12-13",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>20010-12-13\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "comment",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>comment\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2010から2012にたびたび WHATWG メーリングリストにブログ等のコメントのための comment が提案されたが、 article で表現可能として却下されている。 >>24, >>25, >>26",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2010\u003C/time>から\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012\u003C/time>にたびたび \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メーリングリスト\u003C/anchor>に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ブログ\u003C/anchor>等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>コメント\u003C/anchor>のための\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>comment\u003C/code>\u000Aが提案されたが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>article\u003C/code>\u000Aで表現可能として却下されている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002224\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;24\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;25\u003C/anchor-internal>, \u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002226\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;26\u003C/anchor-internal>\u003C/src>"
+         },
+         {
+            "text" : "2012に WHATWG メーリングリストで現行 small の代案として提案されたこともあるが、 small がより妥当として却下されている。 >>27",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012\u003C/time>に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メーリングリスト\u003C/anchor>で現行 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>small\u003C/code> \u000Aの代案として提案されたこともあるが、 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>small\u003C/code> \u000Aがより妥当として却下されている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002227\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;27\u003C/anchor-internal>\u003C/src>"
          }
       ]
    },
@@ -19041,6 +19076,37 @@
          {
             "text" : "2017-10、 W3C Internationalization Interest Group の Ethiopic Text Layout Task Force でエチオピアで使われる Zaima の記述のための要素群が提案された。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2017-10\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internationalization Interest Group\u003C/anchor>\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ethiopic Text Layout Task Force\u003C/anchor>\u000Aで\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>エチオピア\u003C/anchor>で使われる\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Zaima\u003C/anchor>\u000Aの記述のための\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>群が提案された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38985
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Cmodel/>: A 3D Equivalent to \u003Cimg/>, Brian Blakely, Fri Oct 30 18:09:30 PDT 20092009-10-30T18:09:30-07:00, 2024-09-20T16:18:33.000Z, 2024-09-27T12:53:53.091Z https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2009-October/066173.html \u003Cmodel/>: A 3D Equivalent to \u003Cimg/>, Ian Hickson, Wed Dec 9 09:25:23 PST 20092009-12-09T09:25:23-08:00, 2024-09-20T16:18:32.000Z, 2024-09-27T13:00:55.140Z https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2009-December/066672.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>&lt;model/&gt;: A 3D Equivalent to &lt;img/&gt;\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Brian Blakely\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Fri Oct 30 18:09:30 PDT 2009\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2009-10-30T18:09:30-07:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-20T16:18:33.000Z\u003C/time>, \u003Ctime>2024-09-27T12:53:53.091Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2009-October/066173.html\u0022>https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2009-October/066173.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>&lt;model/&gt;: A 3D Equivalent to &lt;img/&gt;\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Hickson\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>Wed Dec 9 09:25:23 PST 2009\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2009-12-09T09:25:23-08:00\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-09-20T16:18:32.000Z\u003C/time>, \u003Ctime>2024-09-27T13:00:55.140Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2009-December/066672.html\u0022>https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2009-December/066672.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2009-10-30",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009-10-30\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "model",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>model\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2009-10-30、 WHATWG のメーリングリストに model の提案があった。3次元表示のものという。しかし要求が不明瞭で却下された。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2009-10-30\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メーリングリスト\u003C/anchor>に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>model\u003C/code>\u000Aの提案があった。\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>3次元\u003C/anchor>表示のものという。しかし要求が不明瞭で却下された。"
          }
       ]
    },
