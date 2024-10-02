@@ -10444,8 +10444,8 @@
       ],
       "注釈" : [
          {
-            "text" : "HTML TADS ゲームエンジン TADS の API で指定できる HTML 風の文字列片。 標準の HTML を拡張したものと説明されている。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>HTML TADS\u003C/dfn>\u000Aゲームエンジン \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TADS\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>API\u003C/anchor> で指定できる \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字列\u003C/anchor>片。\u000A標準の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> を拡張したものと説明されている。\u003C/li>\u003C/ul>"
+            "text" : "HTML TADS TADS の API で指定できる HTML 風の文字列片。 標準の HTML を拡張したものと説明されている。 TADS Text Adventure Development System。平成時代前半頃開発、利用されていたゲームエンジン群。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>HTML TADS\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TADS\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>API\u003C/anchor> で指定できる \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字列\u003C/anchor>片。\u000A標準の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> を拡張したものと説明されている。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>TADS\u003C/dfn> \u000AText Adventure Development System。\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>前半頃開発、利用されていたゲームエンジン群。\u003C/li>\u003C/ul>"
          }
       ]
    },
