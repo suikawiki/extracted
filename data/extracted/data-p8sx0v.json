@@ -657,6 +657,12 @@
             "text" : "1",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>1\u003C/sw-ch>"
          }
+      ],
+      "関連" : [
+         {
+            "text" : "初",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>初\u003C/sw-ch>"
+         }
       ]
    },
    {
@@ -5261,6 +5267,10 @@
          {
             "text" : "畢",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>畢\u003C/sw-ch>"
+         },
+         {
+            "text" : "終焉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終焉\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -7943,6 +7953,25 @@
          {
             "text" : "于",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>于\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45871
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "初",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>初\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "ネ刀",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネ刀\u003C/anchor>"
          }
       ]
    },
