@@ -5359,7 +5359,7 @@
       "説明" : [
          {
             "text" : "2008-09-03、 HTML5 に input が追加された。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2008-09-03\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5\u003C/anchor>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aが追加された。"
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2008-09-03\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>input\u003C/code>\u000Aが追加された。"
          }
       ]
    },
