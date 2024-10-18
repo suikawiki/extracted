@@ -4091,6 +4091,19 @@
    {
       "_" : [
          {
+            "page_id" : 1275
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "LaTeX TeX を使った文書処理システムの1つ。 文書の構造とその表現方法をある程度分離して記述でき、その点は SGML の設計思想とも類似性がある。 理工系の論文記述などに広く用いられている。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>LaTeX\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TeX\u003C/anchor> を使った文書処理システムの1つ。\u000A文書の構造とその表現方法をある程度分離して記述でき、その点は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor>\u000Aの設計思想とも類似性がある。\u000A理工系の論文記述などに広く用いられている。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1352
          }
       ],
@@ -17812,6 +17825,19 @@
          {
             "text" : "2008-09-04、 HTML5 に option が追加された。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2008-09-04\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>option\u003C/code>\u000Aが追加された。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 3118
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "TeX 広く使われている組版システムの1つ。 また、その言語。 強力な記述能力と高品質な仕上がりには定評がある。 とりわけ数式表現に優れている。 現在では LaTeX を通して利用されることが多い。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TeX\u003C/dfn>\u000A広く使われている\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>組版\u003C/anchor>システムの1つ。\u000Aまた、その言語。\u000A強力な記述能力と高品質な仕上がりには定評がある。\u000Aとりわけ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>数式\u003C/anchor>表現に優れている。\u000A現在では \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>LaTeX\u003C/anchor> を通して利用されることが多い。\u003C/li>\u003C/ul>"
          }
       ]
    },
