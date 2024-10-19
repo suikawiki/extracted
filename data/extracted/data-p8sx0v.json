@@ -1134,25 +1134,6 @@
    {
       "_" : [
          {
-            "page_id" : 19431
-         }
-      ],
-      "文字" : [
-         {
-            "text" : "-",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>-\u003C/sw-ch>"
-         }
-      ],
-      "関連" : [
-         {
-            "text" : "㆐",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㆐\u003C/sw-ch>"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
             "page_id" : 19507
          }
       ],
@@ -3805,6 +3786,29 @@
          {
             "text" : "L",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>L\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34244
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "-",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>-\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "㆐",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㆐\u003C/sw-ch>"
+         },
+         {
+            "text" : "±",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>±\u003C/sw-ch>"
          }
       ]
    },
