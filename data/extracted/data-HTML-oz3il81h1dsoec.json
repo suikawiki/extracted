@@ -890,6 +890,12 @@
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Bookmark\u003C/anchor>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "netscape-bookmark-file-1",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>netscape-bookmark-file-1\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1994",
@@ -1282,10 +1288,16 @@
             "page_id" : 45
          }
       ],
+      "出典" : [
+         {
+            "text" : "[70] RDF: Resource Description Framework (RDF) Model and Syntax Specification, W3C, W3C Recommendation, 22 February 19991999-02-22, 2017-10-02T11:00:31.000Z, 2024-09-22T14:33:21.749Z https://www.w3.org/TR/1999/REC-rdf-syntax-19990222/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002270\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[70]\u003C/anchor-end>  \u000A\u003Cdfn>RDF\u003C/dfn>:\u000A\u003Ccite>Resource Description Framework (RDF) Model and Syntax Specification\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C Recommendation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>22 February 1999\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1999-02-22\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2017-10-02T11:00:31.000Z\u003C/time>, \u003Ctime>2024-09-22T14:33:21.749Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/1999/REC-rdf-syntax-19990222/\u0022>https://www.w3.org/TR/1999/REC-rdf-syntax-19990222/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
       "注釈" : [
          {
-            "text" : "[69] RDF Resource Description Framework。 Semantic Web の中核となるデータモデルと構文。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002269\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[69]\u003C/anchor-end> \u000A\u003Cdfn>RDF\u003C/dfn>\u000AResource Description Framework。 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Semantic Web\u003C/anchor> の中核となるデータモデルと構文。\u003C/li>\u003C/ul>"
+            "text" : "[69] RDF Resource Description Framework。 Semantic Web の中核となるデータモデルと構文。 >>70 HTML との統合を目指して GRDDL, RDFa など様々な提案があった。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002269\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[69]\u003C/anchor-end> \u000A\u003Cdfn>RDF\u003C/dfn>\u000AResource Description Framework。 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Semantic Web\u003C/anchor> の中核となるデータモデルと構文。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002270\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;70\u003C/anchor-internal>\u003C/src>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> との統合を目指して \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>GRDDL\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RDFa\u003C/anchor> など様々な提案があった。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -1653,8 +1665,8 @@
       ],
       "説明" : [
          {
-            "text" : "文字参照は、 低品質な解説類でしばしば要素やタグとして紹介された。 注釈宣言 (\u003C!---->) や文書型宣言 (\u003C!DOCTYPE>) をタグとみなすのはまだわからなくもないが、 \u003C, > で囲まれない文字参照をタグと強弁するのは無理がある。",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字参照\u003C/anchor>は、\u000A低品質な解説類でしばしば要素やタグとして紹介された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>注釈宣言\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;!----&gt;\u003C/code>) や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書型宣言\u003C/anchor> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;!DOCTYPE&gt;\u003C/code>)\u000Aを\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>とみなすのはまだわからなくもないが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&gt;\u003C/code>\u000Aで囲まれない\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字参照\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>と強弁するのは無理がある。"
+            "text" : "文字参照は、 低品質な解説類でしばしば要素やタグとして紹介された。 マーク付け宣言をタグとみなすのはまだ理解できるが、 \u003C, > で囲まれない文字参照をタグと強弁するのは無理があろうかと思われる。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字参照\u003C/anchor>は、\u000A低品質な解説類でしばしば要素やタグとして紹介された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マーク付け宣言\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>とみなすのはまだ理解できるが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&gt;\u003C/code>\u000Aで囲まれない\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字参照\u003C/anchor>を\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>と強弁するのは無理があろうかと思われる。"
          }
       ]
    },
@@ -3559,8 +3571,8 @@
       ],
       "出典" : [
          {
-            "text" : "[58] XH: XML in HTML Meeting Report, W3C, W3C Note, 11 May 19981998-05-11, 2017-10-02T11:00:11.000Z, 2024-09-22T14:37:35.187Z https://www.w3.org/TR/1998/NOTE-xh-19980511",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002258\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[58]\u003C/anchor-end> \u000A\u003Cdfn>XH\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>XML in HTML Meeting Report\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>, \u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C Note\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>11 May 1998\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1998-05-11\u003C/attrvalue>\u003C/time>, \u000A\u003Ctime>2017-10-02T11:00:11.000Z\u003C/time>, \u003Ctime>2024-09-22T14:37:35.187Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/1998/NOTE-xh-19980511\u0022>https://www.w3.org/TR/1998/NOTE-xh-19980511\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "[58] XML in HTML Meeting Report, W3C, W3C Note, 11 May 19981998-05-11, 2017-10-02T11:00:11.000Z, 2024-09-22T14:37:35.187Z https://www.w3.org/TR/1998/NOTE-xh-19980511",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002258\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[58]\u003C/anchor-end> \u000A\u003Ccite xml:lang=\u0022en\u0022>XML in HTML Meeting Report\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>, \u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C Note\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>11 May 1998\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1998-05-11\u003C/attrvalue>\u003C/time>, \u000A\u003Ctime>2017-10-02T11:00:11.000Z\u003C/time>, \u003Ctime>2024-09-22T14:37:35.187Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/1998/NOTE-xh-19980511\u0022>https://www.w3.org/TR/1998/NOTE-xh-19980511\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -3751,14 +3763,14 @@
       ],
       "出典" : [
          {
-            "text" : "DNML: 長岡志保愛好会〜DNML〜, 花梨, 2000-09-21T13:46:05.000Z, 2024-09-14T12:28:15.964Z http://hp.vector.co.jp/authors/VA015183/dnml/",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>DNML\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>長岡志保愛好会〜DNML〜\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>花梨\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-09-21T13:46:05.000Z\u003C/time>, \u003Ctime>2024-09-14T12:28:15.964Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://hp.vector.co.jp/authors/VA015183/dnml/\u0022>http://hp.vector.co.jp/authors/VA015183/dnml/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "[13] DNML: 長岡志保愛好会〜DNML〜, 花梨, 2000-09-21T13:46:05.000Z, 2024-09-14T12:28:15.964Z http://hp.vector.co.jp/authors/VA015183/dnml/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002213\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[13]\u003C/anchor-end> \u000A\u003Cdfn>DNML\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>長岡志保愛好会〜DNML〜\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>花梨\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-09-21T13:46:05.000Z\u003C/time>, \u003Ctime>2024-09-14T12:28:15.964Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://hp.vector.co.jp/authors/VA015183/dnml/\u0022>http://hp.vector.co.jp/authors/VA015183/dnml/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "注釈" : [
          {
-            "text" : "DNML Digital Novel Markup Language。 ノベルゲーム記述用の言語の1つ。 HTML 風の構文を持つ。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>DNML\u003C/dfn>\u000ADigital Novel Markup Language。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ノベルゲーム\u003C/anchor>記述用の言語の1つ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の構文を持つ。\u003C/li>\u003C/ul>"
+            "text" : "DNML Digital Novel Markup Language。 ノベルゲーム記述用の言語の1つ。 HTML 風の構文を持つ。 >>13",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>DNML\u003C/dfn>\u000ADigital Novel Markup Language。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ノベルゲーム\u003C/anchor>記述用の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>言語\u003C/anchor>の1つ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の構文を持つ。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002213\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;13\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -4328,6 +4340,16 @@
          {
             "text" : "Design Issues for HTML Forms, W3C, Working Draft, 08-Mar-961996-03-08, 1999-02-04T17:41:10.000Z, 2024-08-25T03:33:02.026Z https://www.w3.org/TR/WD-forms-960308.html",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Design Issues for HTML Forms\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Working Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>08-Mar-96\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1996-03-08\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>1999-02-04T17:41:10.000Z\u003C/time>, \u003Ctime>2024-08-25T03:33:02.026Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/TR/WD-forms-960308.html\u0022>https://www.w3.org/TR/WD-forms-960308.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "button",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>button\u003C/code>"
+         },
+         {
+            "text" : "doneinput",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>doneinput\u003C/code>"
          }
       ],
       "日付" : [
@@ -5325,8 +5347,8 @@
       ],
       "注釈" : [
          {
-            "text" : "SMIL 媒体の表示と時間変化を記述するXML応用の1つ。 >>88",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>SMIL\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>媒体\u003C/anchor>の表示と時間変化を記述する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML応用\u003C/anchor>の1つ。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002288\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;88\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
+            "text" : "SMIL Synchronized Multimedia Integration Language。 媒体の表示と時間変化を記述するXML応用の1つ。 >>88",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>SMIL\u003C/dfn>\u000ASynchronized Multimedia Integration Language。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>媒体\u003C/anchor>の表示と時間変化を記述する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML応用\u003C/anchor>の1つ。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002288\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;88\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -5399,6 +5421,19 @@
          {
             "text" : "WebTV 1.2 までは shadow を実装していた。 影を表示するものだった。 現在の CSS text-shadow に当たる。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor> 1.2 までは \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>shadow\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>影\u003C/anchor>を表示するものだった。\u000A現在の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CSS\u003C/anchor>\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022CSS\u0022>text-shadow\u003C/code>\u000Aに当たる。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1566
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "W3C HTML WG (1) W3C の下部組織の1つ。 HTML4, XHTML1, XHTML2, XML Events, HLink などを開発した。2007-03の改組で W3C XHTML2 WG に引き継がれた。 (2) W3C の下部組織の1つ。2007-03に発足した。 初期は WHATWG の仕様案を採択して HTML5 を共同開発したが、 後に独自路線へ進み HTML 5.0 などを開発した。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>W3C HTML WG\u003C/dfn>\u000A(1) \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> の下部組織の1つ。 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML4\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML1\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML2\u003C/anchor>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML Events\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HLink\u003C/anchor> などを開発した。\u003Ctime>2007-03\u003C/time>の改組で\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C XHTML2 WG\u003C/anchor> に引き継がれた。\u000A(2) \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> の下部組織の1つ。\u003Ctime>2007-03\u003C/time>に発足した。\u000A初期は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor> の仕様案を採択して \u003Ccite>HTML5\u003C/cite> を共同開発したが、\u000A後に独自路線へ進み \u003Ccite>HTML 5.0\u003C/cite> などを開発した。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -6259,6 +6294,19 @@
    {
       "_" : [
          {
+            "page_id" : 1896
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "DSSSL SGML 用スタイル言語の1つ。 ISO/IEC JTC 1/SC 18/WG 8 で開発されたISO/IEC国際標準 ISO/IEC 10179 で規定されている。 HTML3 の時代、 HTML での利用が試行錯誤されていた。 その後 XML 用に大規模改変されたのが XSL である。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>DSSSL\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> 用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スタイル言語\u003C/anchor>の1つ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC JTC 1/SC 18/WG 8\u003C/anchor>\u000Aで開発された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC国際標準\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10179\u003C/anchor>\u000Aで規定されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML3\u003C/anchor> の時代、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> での利用が試行錯誤されていた。\u000Aその後 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor> 用に大規模改変されたのが \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XSL\u003C/anchor> である。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1903
          }
       ],
@@ -6577,8 +6625,8 @@
       ],
       "出典" : [
          {
-            "text" : "HTML5 r417, Hixie, 2006-12-08 10:13:43 \u002B09:00, 2024-09-02T13:49:27.000Z https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML5 r417\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Hixie\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>2006-12-08 10:13:43 \u002B09:00\u003C/time>, \u003Ctime>2024-09-02T13:49:27.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2\u0022>https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "[49] HTML5 r417, Hixie, 2006-12-08 10:13:43 \u002B09:00, 2024-09-02T13:49:27.000Z https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002249\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[49]\u003C/anchor-end> \u000A\u003Ccite>HTML5 r417\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Hixie\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>2006-12-08 10:13:43 \u002B09:00\u003C/time>, \u003Ctime>2024-09-02T13:49:27.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2\u0022>https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -6595,8 +6643,8 @@
       ],
       "説明" : [
          {
-            "text" : "2006-12-08、 HTML5 に dialog が追加された。 対話を表す。 対話記述法を巡る長年の論争に終止符を打つかに思われたが、 かえって活発になった。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-12-08\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5\u003C/anchor>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dialog\u003C/code>\u000Aが追加された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>対話\u003C/anchor>を表す。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>対話\u003C/anchor>記述法を巡る長年の論争に終止符を打つかに思われたが、\u000Aかえって活発になった。"
+            "text" : "2006-12-08、 HTML5 に dialog が追加された。 対話を表す。 >>49 対話記述法を巡る長年の論争に終止符を打つかに思われたが、 かえって活発になった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-12-08\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5\u003C/anchor>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dialog\u003C/code>\u000Aが追加された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>対話\u003C/anchor>を表す。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002249\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;49\u003C/anchor-internal>\u003C/src>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>対話\u003C/anchor>記述法を巡る長年の論争に終止符を打つかに思われたが、\u000Aかえって活発になった。"
          }
       ]
    },
@@ -7257,6 +7305,12 @@
             "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-06-13\u003C/time>"
          }
       ],
+      "注釈" : [
+         {
+            "text" : "[5] ガラケー各社は独自の絵文字を実装していた。 シフトJISの空き領域に割り当てられており、 文字そのまま、または文字参照によって記述した。 他社絵文字と互換性がなく、パソコン等でも表示できなかった。 絵文字を使うときは端末ごとに異なるWebページを用意するか、 サーバーで相互変換したり、画像に置き換えたりしていた。 その後ほとんどの絵文字は Unicode に追加され、 現在ではパソコンとスマートフォンを含む世界中の端末でおおむね共通して表示できるようになっている。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[5]\u003C/anchor-end> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ガラケー\u003C/anchor>各社は独自の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>絵文字\u003C/anchor>を実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>シフトJIS\u003C/anchor>の空き領域に割り当てられており、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>そのまま、または\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字参照\u003C/anchor>によって記述した。\u000A他社\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>絵文字\u003C/anchor>と互換性がなく、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>パソコン\u003C/anchor>等でも表示できなかった。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>絵文字\u003C/anchor>を使うときは端末ごとに異なる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webページ\u003C/anchor>を用意するか、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>サーバー\u003C/anchor>で相互変換したり、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>画像\u003C/anchor>に置き換えたりしていた。\u000Aその後ほとんどの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>絵文字\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Unicode\u003C/anchor> に追加され、\u000A現在では\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>パソコン\u003C/anchor>と\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スマートフォン\u003C/anchor>を含む世界中の端末でおおむね共通して表示できるようになっている。\u003C/li>\u003C/ul>"
+         }
+      ],
       "要素名" : [
          {
             "text" : "emoji",
@@ -7265,8 +7319,8 @@
       ],
       "説明" : [
          {
-            "text" : "2007-06-13時点で emoji の利用例が確認されている。 携帯電話の絵文字の未対応環境用での表示のためのライブラリー関係と思われるが詳細不明。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-06-13\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>emoji\u003C/code>\u000Aの利用例が確認されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>携帯電話\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>絵文字\u003C/anchor>の未対応環境用での表示のためのライブラリー関係と思われるが詳細不明。"
+            "text" : "2007-06-13時点で emoji の利用例が確認されている。 ガラケー用絵文字>>5の未対応環境用表示のためのライブラリー関係と思われるが、 詳細不明。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>2007-06-13\u003C/time>時点で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>emoji\u003C/code>\u000Aの利用例が確認されている。\u000Aガラケー用絵文字\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u00225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;5\u003C/anchor-internal>\u003C/sw-see>の未対応環境用表示のためのライブラリー関係と思われるが、\u000A詳細不明。"
          }
       ]
    },
@@ -7883,6 +7937,19 @@
          {
             "text" : "tr",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>tr\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 13411
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "W3C SGML ERB SGML Editorial Review Board。 XML を開発した W3C の下部組織。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>W3C SGML ERB\u003C/dfn>\u000ASGML Editorial Review Board。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor>\u000Aを開発した \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> の下部組織。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -8670,8 +8737,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[57] これをきっかけに W3C HTML WG の議事は紛糾、 以後 WHATWG HTML Standard と W3C HTML 5.0 は完全に分裂した。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002257\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[57]\u003C/anchor-end> \u000Aこれをきっかけに\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML WG\u003C/anchor>\u000Aの議事は紛糾、\u000A以後 \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor> \u003Ccite>HTML Standard\u003C/cite> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u003Ccite>HTML 5.0\u003C/cite>\u000Aは完全に分裂した。\u003C/li>\u003C/ul>"
+            "text" : "[57] これをきっかけに W3C HTML WG の議事は紛糾、 以後 WHATWG HTML Standard と W3C HTML 5.0 は完全に分裂した。 SW:time",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002257\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[57]\u003C/anchor-end> \u000Aこれをきっかけに\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C HTML WG\u003C/anchor>\u000Aの議事は紛糾、\u000A以後 \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WHATWG\u003C/anchor> \u003Ccite>HTML Standard\u003C/cite> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u003Ccite>HTML 5.0\u003C/cite>\u000Aは完全に分裂した。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SW:time\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -9572,6 +9639,25 @@
    {
       "_" : [
          {
+            "page_id" : 15643
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "figcap",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figcap\u003C/code>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "figcaption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figcaption\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 15683
          }
       ],
@@ -9819,16 +9905,18 @@
          {
             "text" : "[56] 一太郎8補助: 1997/01/09 「一太郎8」「一太郎8バリューパック」に関するニュースリリース補助資料, JUSTSYSTEM Corporation, update 1997.7.281997-07-28, 2024-10-21T09:58:57.000Z, 2001-02-19T05:00:28.062Z https://web.archive.org/web/20010219050021/http://www.justsystem.co.jp/news/97f/news/j9701090.html",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002256\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[56]\u003C/anchor-end> \u000A\u003Cdfn>一太郎8補助\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>1997/01/09 「一太郎8」「一太郎8バリューパック」に関するニュースリリース補助資料\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JUSTSYSTEM Corporation\u003C/anchor>\u003C/data>,\u000Aupdate \u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1997.7.28\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1997-07-28\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2024-10-21T09:58:57.000Z\u003C/time>, \u003Ctime>2001-02-19T05:00:28.062Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20010219050021/http://www.justsystem.co.jp/news/97f/news/j9701090.html\u0022>https://web.archive.org/web/20010219050021/http://www.justsystem.co.jp/news/97f/news/j9701090.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
-         },
-         {
-            "text" : "[57] Webブラウザーで初めての縦書き表示への対応だった。 JustView ジャストシステム社の Webブラウザー。 一太郎などと共に配布された。 JustView 2.0 は1997-07-28発売の一太郎8に同梱されていた。 一太郎 ワープロソフトウェアの1つ。 20世紀の日本で非常によく使われていた。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002257\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[57]\u003C/anchor-end> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>で初めての\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>縦書き\u003C/anchor>表示への対応だった。\u003C/li>\u003Cli>\u000A\u003Cdfn>JustView\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ジャストシステム\u003C/anchor>社の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一太郎\u003C/anchor>などと共に配布された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JustView\u003C/anchor> 2.0 は\u003Ctime class=\u0022jp\u0022>1997-07-28\u003C/time>発売の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一太郎\u003C/anchor>8に同梱されていた。\u003C/li>\u003Cli>\u000A\u003Cdfn>一太郎\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ワープロ\u003C/anchor>ソフトウェアの1つ。\u000A20世紀の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本\u003C/anchor>で非常によく使われていた。\u003C/li>\u003C/ul>"
          }
       ],
       "日付" : [
          {
             "text" : "1997-01-09",
             "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1997-01-09\u003C/time>"
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "[57] Webブラウザーで初めての縦書き表示への対応だった。 JustView ジャストシステム社の Webブラウザー。 一太郎などと共に配布された。 JustView 2.0 は1997-07-28発売の一太郎8に同梱されていた。 一太郎 ワープロソフトウェアの1つ。 20世紀の日本で非常によく使われていた。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002257\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[57]\u003C/anchor-end> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>で初めての\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>縦書き\u003C/anchor>表示への対応だった。\u003C/li>\u003Cli>\u000A\u003Cdfn>JustView\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ジャストシステム\u003C/anchor>社の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一太郎\u003C/anchor>などと共に配布された。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JustView\u003C/anchor> 2.0 は\u003Ctime class=\u0022jp\u0022>1997-07-28\u003C/time>発売の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一太郎\u003C/anchor>8に同梱されていた。\u003C/li>\u003Cli>\u000A\u003Cdfn>一太郎\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ワープロ\u003C/anchor>ソフトウェアの1つ。\u000A20世紀の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本\u003C/anchor>で非常によく使われていた。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -10124,6 +10212,12 @@
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TowardClosure\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>Toward Closure on HTML\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Daniel W. Connolly\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1994/04/07 00:56:59\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1993-04-07T00:56:59Z\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>1994-04-07T00:56:59.000Z\u003C/time>, \u003Ctime>2024-09-07T12:05:53.936Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/People/Connolly/drafts/html-direction.html\u0022>https://www.w3.org/People/Connolly/drafts/html-direction.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>a\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1994-04-07",
@@ -10299,6 +10393,10 @@
          {
             "text" : "\u003C$>",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;$&gt;\u003C/anchor>"
+         },
+         {
+            "text" : "[9] Get;eft: Getleft download | SourceForge.net, 2024-10-22T04:05:41.000Z https://sourceforge.net/projects/getleftdown/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00229\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[9]\u003C/anchor-end> \u003Cdfn>Get;eft\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>Getleft download | SourceForge.net\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-10-22T04:05:41.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://sourceforge.net/projects/getleftdown/\u0022>https://sourceforge.net/projects/getleftdown/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -10315,8 +10413,8 @@
       ],
       "注釈" : [
          {
-            "text" : "Help System 平成時代後期頃にオープンソースソフトウェア Getleft で使われていたヘルプシステム。 ドキュメントは HTML で記載され、 Tcl で実装された独自の HTML構文解析器で使っている。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Help System\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>後期頃に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>オープンソースソフトウェア\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Getleft\u003C/anchor>\u000Aで使われていた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヘルプ\u003C/anchor>システム。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ドキュメント\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> で記載され、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tcl\u003C/anchor> で実装された独自の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML構文解析器\u003C/anchor>で使っている。\u003C/li>\u003C/ul>"
+            "text" : "Help System Getleft で使われていたヘルプシステム。 ドキュメントは HTML で記載され、 Tcl で実装された独自の HTML構文解析器で使っている。 Getleft 平成時代後期頃に使われたWebサイトの一括ダウンロード用ソフトウェアの1つ。 >>9",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Help System\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Getleft\u003C/anchor>\u000Aで使われていた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヘルプ\u003C/anchor>システム。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ドキュメント\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> で記載され、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tcl\u003C/anchor> で実装された独自の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML構文解析器\u003C/anchor>で使っている。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Getleft\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>後期頃に使われた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>の一括\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ダウンロード\u003C/anchor>用ソフトウェアの1つ。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00229\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;9\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -10571,8 +10669,8 @@
       ],
       "出典" : [
          {
-            "text" : "HTML Speech XG Speech API Proposal, W3C, Michael Bodell, Robert Brown, Shane Landry, Editor's Draft, 28 February 20112011-02-28, 2023-07-13T18:29:57.000Z, 2024-09-08T09:11:51.726Z https://lists.w3.org/Archives/Public/www-archive/2011Mar/att-0001/microsoft-api-draft-final.html HTML Speech Incubator Group Final Report, W3C, Incubator Group Report, 06 December 20112011-12-06, 2011-12-05T08:46:22.000Z, 2024-08-24T06:27:28.077Z https://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech-20111206/",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>HTML Speech XG Speech API Proposal\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Michael Bodell\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Robert Brown\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Shane Landry\u003C/anchor>, \u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Editor's Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>28 February 2011\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2011-02-28\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2023-07-13T18:29:57.000Z\u003C/time>, \u003Ctime>2024-09-08T09:11:51.726Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-archive/2011Mar/att-0001/microsoft-api-draft-final.html\u0022>https://lists.w3.org/Archives/Public/www-archive/2011Mar/att-0001/microsoft-api-draft-final.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>HTML Speech Incubator Group Final Report\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Incubator Group Report\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>06 December 2011\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2011-12-06\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2011-12-05T08:46:22.000Z\u003C/time>, \u003Ctime>2024-08-24T06:27:28.077Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech-20111206/\u0022>https://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech-20111206/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "SpeechAPI: HTML Speech XG Speech API Proposal, W3C, Michael Bodell, Robert Brown, Shane Landry, Editor's Draft, 28 February 20112011-02-28, 2023-07-13T18:29:57.000Z, 2024-09-08T09:11:51.726Z https://lists.w3.org/Archives/Public/www-archive/2011Mar/att-0001/microsoft-api-draft-final.html SpeechXGReport: HTML Speech Incubator Group Final Report, W3C, Incubator Group Report, 06 December 20112011-12-06, 2011-12-05T08:46:22.000Z, 2024-08-24T06:27:28.077Z https://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech-20111206/",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>SpeechAPI\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>HTML Speech XG Speech API Proposal\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Michael Bodell\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Robert Brown\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Shane Landry\u003C/anchor>, \u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Editor's Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>28 February 2011\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2011-02-28\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2023-07-13T18:29:57.000Z\u003C/time>, \u003Ctime>2024-09-08T09:11:51.726Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://lists.w3.org/Archives/Public/www-archive/2011Mar/att-0001/microsoft-api-draft-final.html\u0022>https://lists.w3.org/Archives/Public/www-archive/2011Mar/att-0001/microsoft-api-draft-final.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Cdfn>SpeechXGReport\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>HTML Speech Incubator Group Final Report\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Incubator Group Report\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>06 December 2011\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>2011-12-06\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>2011-12-05T08:46:22.000Z\u003C/time>, \u003Ctime>2024-08-24T06:27:28.077Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech-20111206/\u0022>https://www.w3.org/2005/Incubator/htmlspeech/XGR-htmlspeech-20111206/\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -12205,7 +12303,7 @@
       "説明" : [
          {
             "text" : "2006-09-28、 HTML5 に innerHTML 設定器の規定が追加されたが、 素片構文解析時の根要素として html を使うと規定された。 >>37",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-09-28\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022JS\u0022>innerHTML\u003C/code>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>設定器\u003C/anchor>の規定が追加されたが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>素片構文解析\u003C/anchor>時の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>根要素\u003C/anchor>として\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aを使うと規定された。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002237\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;37\u003C/anchor-internal>\u003C/sw-see>"
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006-09-28\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022js\u0022>innerHTML\u003C/code>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>設定器\u003C/anchor>の規定が追加されたが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>素片構文解析\u003C/anchor>時の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>根要素\u003C/anchor>として\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>\u000Aを使うと規定された。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002237\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;37\u003C/anchor-internal>\u003C/sw-see>"
          }
       ]
    },
@@ -14357,7 +14455,7 @@
       "説明" : [
          {
             "text" : "제로보드 (Zeroboard) は、 利用者インターフェイスの一部の非表示化のため \u003CZeroboard と出力して後続のタグを無効化していたという。",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>제로보드\u003C/anchor>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Zeroboard\u003C/anchor>)\u000Aは、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>利用者インターフェイス\u003C/anchor>の一部の非表示化のため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;Zeroboard\u003C/code>\u000Aと出力して後続の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>を無効化していたという。"
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>제로보드\u003C/anchor>\u000A(Zeroboard)\u000Aは、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>利用者インターフェイス\u003C/anchor>の一部の非表示化のため\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;Zeroboard\u003C/code>\u000Aと出力して後続の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タグ\u003C/anchor>を無効化していたという。"
          }
       ]
    },
@@ -15882,8 +15980,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[4] Mosaic Netscape 0.9 後の Netscape Navigator の最初の版。 Mosaic の開発メンバーが独立起業して開発したもので、 技術的には Mosaic と無関係。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00224\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[4]\u003C/anchor-end> \u000A\u003Cdfn>Mosaic Netscape 0.9\u003C/dfn>\u000A後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Navigator\u003C/anchor> の最初の版。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mosaic\u003C/anchor> の開発メンバーが独立起業して開発したもので、\u000A技術的には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mosaic\u003C/anchor> と無関係。\u003C/li>\u003C/ul>"
+            "text" : "[4] Mosaic Netscape 0.9 後の Netscape Navigator の最初の版。 NCSA Mosaic の開発メンバーが独立起業して開発したもので、 技術的には Mosaic と無関係。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00224\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[4]\u003C/anchor-end> \u000A\u003Cdfn>Mosaic Netscape 0.9\u003C/dfn>\u000A後の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Navigator\u003C/anchor> の最初の版。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NCSA Mosaic\u003C/anchor> の開発メンバーが独立起業して開発したもので、\u000A技術的には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mosaic\u003C/anchor> と無関係。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -16130,7 +16228,7 @@
       "説明" : [
          {
             "text" : "2013-01-07に W3C HTML WG に送付された HTML6 と称する文書にある。 >>2",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013-01-07\u003C/time>に \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML WG\u003C/anchor>\u000Aに送付された \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML6\u003C/cite>\u000Aと称する文書にある。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u00222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;2\u003C/anchor-internal>\u003C/sw-see>"
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2013-01-07\u003C/time>に \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C HTML WG\u003C/anchor>\u000Aに送付された \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML6\u003C/cite>\u000Aと称する文書にある。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u00222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;2\u003C/anchor-internal>\u003C/sw-see>"
          }
       ]
    },
@@ -16288,6 +16386,19 @@
          {
             "text" : "Roy T. Fielding HTTP 開発の中心人物の1人。 REST体系様式を提唱した。",
             "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>Roy T. Fielding\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTTP\u003C/anchor> 開発の中心人物の1人。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>REST体系様式\u003C/anchor>を提唱した。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 23170
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "ISO/IEC JTC 1/SC 18/WG 8 SGML および関連規格を管掌する ISO/IEC の委員会。 後に ISO/IEC JTC 1/SC 34 に発展した。 Jon Bosak Sun Microsystems 社員で、 W3C SGML ERB (議長)、 ISO/IEC JTC 1/SC 18/WG 8 などに参加した。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>ISO/IEC JTC 1/SC 18/WG 8\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor>\u000Aおよび関連規格を管掌する\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC\u003C/anchor>\u000Aの委員会。\u000A後に\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC JTC 1/SC 34\u003C/anchor> に発展した。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Jon Bosak\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Sun Microsystems\u003C/anchor> 社員で、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C SGML ERB\u003C/anchor> (議長)、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC JTC 1/SC 18/WG 8\u003C/anchor> \u000Aなどに参加した。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -16504,8 +16615,8 @@
       ],
       "注釈" : [
          {
-            "text" : "FrontPage Server Extension Microsoft FrontPage と併用するサーバー用ソフトウェア。 Apache や IIS で利用できた。 HTML だけで完結しない FrontPage の機能を実装していた。 Microsoft FrontPage Webページ編集ソフトウェアの1つ。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>FrontPage Server Extension\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft FrontPage\u003C/anchor>\u000Aと併用する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>サーバー\u003C/anchor>用ソフトウェア。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Apache\u003C/anchor> や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IIS\u003C/anchor> で利用できた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> だけで完結しない \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>FrontPage\u003C/anchor> の機能を実装していた。\u003C/li>\u003Cli>\u000A\u003Cdfn>Microsoft FrontPage\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webページ\u003C/anchor>編集ソフトウェアの1つ。\u003C/li>\u003C/ul>"
+            "text" : "FrontPage Server Extensions Microsoft FrontPage と併用するサーバー用ソフトウェア。 Apache や IIS で利用できた。 HTML だけで完結しない FrontPage の機能を実装していた。 Microsoft FrontPage 20世紀末頃に使われたWebページ編集ソフトウェアの1つ。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>FrontPage Server Extensions\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft FrontPage\u003C/anchor>\u000Aと併用する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>サーバー\u003C/anchor>用ソフトウェア。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Apache\u003C/anchor> や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IIS\u003C/anchor> で利用できた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> だけで完結しない \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>FrontPage\u003C/anchor> の機能を実装していた。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Microsoft FrontPage\u003C/dfn>\u000A20世紀末頃に使われた\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webページ\u003C/anchor>編集ソフトウェアの1つ。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -18030,7 +18141,7 @@
       "注釈" : [
          {
             "text" : "polyfill 未実装の新機能を JavaScript 等で再現したもの。",
-            "xml" : "\u000A\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>polyfill\u003C/dfn>\u000A未実装の新機能を \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> 等で再現したもの。"
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>polyfill\u003C/dfn>\u000A未実装の新機能を \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> 等で再現したもの。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -18082,6 +18193,12 @@
       "_" : [
          {
             "page_id" : 3148
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "s",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>s\u003C/code>"
          }
       ],
       "日付" : [
@@ -18602,8 +18719,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[153] XForms フォームの XML応用。 当初は HTML のフォームの改良版として W3C の HTML WG によって開発が開始されたが、最終的には考え方から構文に至るまでまったく異なるものとなった。 当初 Mozilla が実装していたが、あまり使われることなく削除された。 その後はサーバー側で細々と利用されている。 SW:XForms",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022153\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[153]\u003C/anchor-end> \u000A\u003Cdfn xml:lang=\u0022en\u0022>XForms\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フォーム\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML応用\u003C/anchor>。\u000A当初は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フォーム\u003C/anchor>の改良版として \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML WG\u003C/anchor>\u000Aによって開発が開始されたが、最終的には考え方から構文に至るまでまったく異なるものとなった。\u000A当初 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mozilla\u003C/anchor> が実装していたが、あまり使われることなく削除された。\u000Aその後はサーバー側で細々と利用されている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SW:XForms\u003C/src>\u003C/li>\u003C/ul>"
+            "text" : "[153] XForms フォームの XML応用。 当初は HTML のフォームの改良版として W3C HTML WG によって開発が開始されたが、最終的には考え方から構文に至るまでまったく異なるものとなった。 当初 Mozilla が実装していたが、あまり使われることなく削除された。 その後はサーバー側で細々と利用されている。 SW:XForms",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022153\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[153]\u003C/anchor-end> \u000A\u003Cdfn xml:lang=\u0022en\u0022>XForms\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フォーム\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML応用\u003C/anchor>。\u000A当初は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フォーム\u003C/anchor>の改良版として \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C HTML WG\u003C/anchor>\u000Aによって開発が開始されたが、最終的には考え方から構文に至るまでまったく異なるものとなった。\u000A当初 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mozilla\u003C/anchor> が実装していたが、あまり使われることなく削除された。\u000Aその後はサーバー側で細々と利用されている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SW:XForms\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -18795,7 +18912,7 @@
       "説明" : [
          {
             "text" : "開始タグと対応関係にない不正な終了タグは通常無視されるが、 \u003C/br> と \u003C/p> には特例があり、 開始タグと読み替えられることがある。 HTML5構文解析器で明文化されたが、 古くからWebブラウザーが実装していた挙動である。 HTML",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と対応関係にない不正な\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終了タグ\u003C/anchor>は通常無視されるが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;/br&gt;\u003C/code> と \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML\u0022>&lt;/p&gt;\u003C/code> には特例があり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と読み替えられることがある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5構文解析器\u003C/anchor>で明文化されたが、\u000A古くから\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>が実装していた挙動である。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML\u003C/src>"
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と対応関係にない不正な\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終了タグ\u003C/anchor>は通常無視されるが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML short\u0022>&lt;/br&gt;\u003C/code> と \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTML short\u0022>&lt;/p&gt;\u003C/code> には特例があり、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>開始タグ\u003C/anchor>と読み替えられることがある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5構文解析器\u003C/anchor>で明文化されたが、\u000A古くから\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>が実装していた挙動である。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML\u003C/src>"
          }
       ]
    },
@@ -19175,6 +19292,12 @@
          {
             "text" : "\u003Cserver>",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;server&gt;\u003C/anchor>"
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "script",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>"
          }
       ],
       "日付" : [
@@ -20929,8 +21052,8 @@
       ],
       "注釈" : [
          {
-            "text" : "HDML フィーチャーフォン用マーク付け言語。 HDML 後に WML1 に発展した。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>HDML\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フィーチャーフォン\u003C/anchor>用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マーク付け言語\u003C/anchor>。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HDML\u003C/src>\u000A後に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WML1\u003C/anchor> に発展した。\u003C/li>\u003C/ul>"
+            "text" : "HDML フィーチャーフォン用マーク付け言語の1つ。 HDML HTML 風の構文を持つ。 後に WML1 に発展した。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>HDML\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フィーチャーフォン\u003C/anchor>用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マーク付け言語\u003C/anchor>の1つ。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HDML\u003C/src>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の構文を持つ。\u000A後に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WML1\u003C/anchor> に発展した。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -23803,6 +23926,12 @@
             "page_id" : 4773
          }
       ],
+      "参照" : [
+         {
+            "text" : "alt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alt\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1993-07-13",
@@ -23818,7 +23947,7 @@
       "説明" : [
          {
             "text" : "1993-07-13頃の現存最古の HTML\u002B DTD に、 figd がある。 HTML\u002B19930713 現在の alt 属性に当たる。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML\u002B\u003C/cite> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000Aに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figd\u003C/code> \u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML\u002B19930713\u003C/src>\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alt\u003C/code> 属性に当たる。"
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1993-07-13\u003C/time>頃の現存最古の \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML\u002B\u003C/cite> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000Aに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figd\u003C/code> \u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML\u002B19930713\u003C/src>\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTMLa\u0022>alt\u003C/code> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>属性\u003C/anchor>に当たる。"
          }
       ]
    },
@@ -23842,8 +23971,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[143] 当時の HTML WG の議事は非公開で、仕様案も未公開だった。 この時期の仕様案は平成時代の後半に入った頃に公開されたが、現存しない。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022143\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[143]\u003C/anchor-end> \u000A当時の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML WG\u003C/anchor> の議事は非公開で、仕様案も未公開だった。\u000Aこの時期の仕様案は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>の後半に入った頃に公開されたが、現存しない。\u003C/li>\u003C/ul>"
+            "text" : "[143] 当時の W3C HTML WG の議事は非公開で、仕様案も未公開だった。 この時期の仕様案は平成時代の後半に入った頃に公開されたが、現存しない。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022143\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[143]\u003C/anchor-end> \u000A当時の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C HTML WG\u003C/anchor> の議事は非公開で、仕様案も未公開だった。\u000Aこの時期の仕様案は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>の後半に入った頃に公開されたが、現存しない。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -24018,7 +24147,28 @@
          {
             "text" : "1996頃の Netscape Navigator 3.0 は、 multicol を実装した。 >>37",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996\u003C/time>頃の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Navigator 3.0\u003C/anchor>\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>multicol\u003C/code>\u000Aを実装した。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002237\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;37\u003C/anchor-internal>\u003C/src>"
-         },
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 4869
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2000",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2000\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "multicol",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>multicol\u003C/code>"
+         }
+      ],
+      "説明" : [
          {
             "text" : "その後、他のいくつかのWebブラウザーも何らかの形で実装した。 いくつかのウェブサイトで使われたが、 Internet Explorer は実装しなかったので普及しなかった。 現在は CSS で記述できる。 SW:multicol",
             "xml" : "\u000Aその後、他のいくつかの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>も何らかの形で実装した。\u000Aいくつかのウェブサイトで使われたが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor>\u000Aは実装しなかったので普及しなかった。\u000A現在は CSS で記述できる。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SW:multicol\u003C/src>"
@@ -24673,6 +24823,12 @@
             "page_id" : 45896
          }
       ],
+      "参照" : [
+         {
+            "text" : "overlay",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>overlay\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1993-07-13",
@@ -24986,8 +25142,8 @@
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-12-01\u003C/time>版 \u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML3 Linking and Embedding Model\u003C/cite>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> に、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>insert\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alias\u003C/code>\u000Aがある。\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-12-20\u003C/time>版\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML3 Linking and Embedding Model\u003C/cite>\u000Aに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>insert\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alias\u003C/code>\u000Aがある。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>img\u003C/code>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022HTMLa\u0022>dynsrc\u003C/code> 属性,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape\u003C/anchor> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Sun Microsystems\u003C/anchor> の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>app\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>applet\u003C/code>\u000Aを統一、拡張するものと銘打っていた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002224\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;24\u003C/anchor-internal>\u003C/src>"
          },
          {
-            "text" : "1996-02-26版では insert は object に改称され、 alias は object, param に統合されたが、編集が不完全で alias も一部残っている。 >>25 >>27",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-02-26\u003C/time>版では\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>insert\u003C/code>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>\u000Aに改称され、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alias\u003C/code> \u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>\u000Aに統合されたが、編集が不完全で \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alias\u003C/code> も一部残っている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;25\u003C/anchor-internal>\u003C/src>\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002227\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;27\u003C/anchor-internal>\u003C/sw-see>"
+            "text" : "1996-02-26版>>27では insert は object に改称され、 alias は object, param に統合されたが、編集が不完全で alias も一部残っている。 >>25",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-02-26\u003C/time>版\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002227\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;27\u003C/anchor-internal>\u003C/sw-see>では\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>insert\u003C/code>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>\u000Aに改称され、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alias\u003C/code> \u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>param\u003C/code>\u000Aに統合されたが、編集が不完全で \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>alias\u003C/code> も一部残っている。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;25\u003C/anchor-internal>\u003C/src>"
          }
       ]
    },
@@ -26110,6 +26266,12 @@
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022fr\u0022>KolektiPub\u003C/dfn>:\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>waloo\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2008-07-17T22:22:26\u002B00:00\u003C/time>,\u000A\u003Ctime>2007-11-22T13:51:04.000Z\u003C/time>, \u003Ctime>2024-08-18T04:09:50.174Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://svn.kolekti.org/svn/kolekti/historic/kolekti-0.4/dtd/publication.dtd\u0022>https://svn.kolekti.org/svn/kolekti/historic/kolekti-0.4/dtd/publication.dtd\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "html",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "2008-07-17",
@@ -26118,8 +26280,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[8] Kolekti 技術文書出版システム。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00228\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[8]\u003C/anchor-end> \u000A\u003Cdfn>Kolekti\u003C/dfn>\u000A技術文書出版システム。\u003C/li>\u003C/ul>"
+            "text" : "[8] Kolekti 技術文書出版システムの1つ。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00228\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[8]\u003C/anchor-end> \u000A\u003Cdfn xml:lang=\u0022fr\u0022>Kolekti\u003C/dfn>\u000A技術文書出版システムの1つ。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -26484,7 +26646,7 @@
       "説明" : [
          {
             "text" : "2011頃、 W3C HTML WG が HTML.next と称して集めた雑多な提案の中にある。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2011\u003C/time>頃、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML WG\u003C/anchor> \u000Aが \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML.next\u003C/anchor> と称して集めた雑多な提案の中にある。"
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2011\u003C/time>頃、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C HTML WG\u003C/anchor> \u000Aが \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML.next\u003C/anchor> と称して集めた雑多な提案の中にある。"
          }
       ]
    },
@@ -27002,16 +27164,20 @@
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>BosakHTML\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>NOTES ON THE SAMPLE DSSSL HTML STYLESHEET\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Jon Bosak\u003C/anchor>\u003C/data>,\u000ALast updated \u003Ctime itemprop=\u0022published\u0022>1996.09.03\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1996-09-03\u003C/attrvalue>\u003C/time>,\u000A\u003Ctime>1996-09-03T17:27:49.000Z\u003C/time>, \u003Ctime>2024-09-22T01:46:06.013Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.ibiblio.org/pub/sun-info/standards/dsssl/stylesheets/html3_2.obsolete/NOTES\u0022>http://www.ibiblio.org/pub/sun-info/standards/dsssl/stylesheets/html3_2.obsolete/NOTES\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "aside",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>aside\u003C/code>"
+         },
+         {
+            "text" : "note",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>note\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1996-09-03",
             "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1996-09-03\u003C/time>"
-         }
-      ],
-      "注釈" : [
-         {
-            "text" : "DSSSL SGML 用スタイル言語の1つ。 ISO/IEC JTC1/SC18/WG8 で開発されたISO/IEC国際標準 ISO/IEC 10179 で規定されている。 HTML3 の時代、 HTML での利用が試行錯誤されていた。 その後 XML 用に大規模改変されたのが XSL である。 ISO/IEC JTC1/SC18/WG8 SGML および関連規格を管掌する ISO/IEC の委員会。 Jon Bosak Sun Microsystems 社員で、 W3C SGML ERB (議長)、 ISO/IEC JTC1/SC18/WG8 などに参加した。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>DSSSL\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor> 用\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スタイル言語\u003C/anchor>の1つ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC JTC1/SC18/WG8\u003C/anchor>\u000Aで開発された\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC国際標準\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC 10179\u003C/anchor>\u000Aで規定されている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML3\u003C/anchor> の時代、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> での利用が試行錯誤されていた。\u000Aその後 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor> 用に大規模改変されたのが \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XSL\u003C/anchor> である。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>ISO/IEC JTC1/SC18/WG8\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML\u003C/anchor>\u000Aおよび関連規格を管掌する\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC\u003C/anchor>\u000Aの委員会。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Jon Bosak\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Sun Microsystems\u003C/anchor> 社員で、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C SGML ERB\u003C/anchor> (議長)、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC JTC1/SC18/WG8\u003C/anchor> \u000Aなどに参加した。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -29522,8 +29688,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[26] 候補案から選んでいたのは ruby 属性をいくつかの要素に追加する案だった。 SW:ruby=\u0022\u0022 Martin J. Dürst HTML 2.x の著者の1人。 RFC2070 W3C職員として国際化部門を担当した。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002226\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[26]\u003C/anchor-end> \u000A候補案から選んでいたのは \u003Ccode class=\u0022HTMLa\u0022>ruby\u003C/code> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>属性\u003C/anchor>をいくつかの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>に追加する案だった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SW:ruby=&quot;&quot;\u003C/src>\u003C/li>\u003Cli>\u000A\u003Cdfn>Martin J. Dürst\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 2.x\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>著者\u003C/anchor>の1人。 \u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RFC2070\u003C/src>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C職員\u003C/anchor>として\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国際化\u003C/anchor>部門を担当した。\u003C/li>\u003C/ul>"
+            "text" : "[26] 候補案から選んでいたのは ruby 属性をいくつかの要素に追加する案だった。 SW:ruby=\u0022\u0022 Martin J. Dürst HTML 2.x の著者の1人。 W3C職員として国際化部門を担当した。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002226\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[26]\u003C/anchor-end> \u000A候補案から選んでいたのは \u003Ccode class=\u0022HTMLa\u0022>ruby\u003C/code> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>属性\u003C/anchor>をいくつかの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>に追加する案だった。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SW:ruby=&quot;&quot;\u003C/src>\u003C/li>\u003Cli>\u000A\u003Cdfn>Martin J. Dürst\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 2.x\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>著者\u003C/anchor>の1人。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C職員\u003C/anchor>として\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国際化\u003C/anchor>部門を担当した。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -29614,6 +29780,101 @@
          {
             "text" : "低品質の解説等で flameset, flame, noflame, noflames, iflame とするものや正しい綴りと混在するものが、 日本語圏に若干数ある。",
             "xml" : "\u000A低品質の解説等で\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>flameset\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>flame\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noflame\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noflames\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iflame\u003C/code>\u000Aとするものや正しい綴りと混在するものが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本語\u003C/anchor>圏に若干数ある。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46067
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "frameset",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frameset\u003C/code>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "flameset",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>flameset\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46067
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "frame",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>frame\u003C/code>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "flame",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>flame\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46067
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "noframe",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noframe\u003C/code>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "noflame",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noflame\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46067
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "noframe",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noframe\u003C/code>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "noflame",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noflame\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46067
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "iframe",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iframe\u003C/code>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "iflame",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iflame\u003C/code>"
          }
       ]
    },
@@ -30990,6 +31251,16 @@
       "_" : [
          {
             "page_id" : 5748
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "caption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>caption\u003C/code>"
+         },
+         {
+            "text" : "figcaption",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figcaption\u003C/code>"
          }
       ],
       "日付" : [
@@ -32397,6 +32668,19 @@
    {
       "_" : [
          {
+            "page_id" : 6818
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "Semantic Web 21世紀初頭に W3C が提唱、推進していた新世代の Web の技術群とその思想・体系。 RDF, OWL などで構成される。おぼろげな概念のみは一世を風靡したが、 従来の Web とかけ離れた技術と思想が理解され広まることはなかった。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Semantic Web\u003C/dfn>\u000A21世紀初頭に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> が提唱、推進していた新世代の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor> の技術群とその思想・体系。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RDF\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OWL\u003C/anchor> などで構成される。おぼろげな概念のみは一世を風靡したが、\u000A従来の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor> とかけ離れた技術と思想が理解され広まることはなかった。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 6820
          }
       ],
@@ -33143,6 +33427,12 @@
             "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-03-23\u003C/time>"
          }
       ],
+      "注釈" : [
+         {
+            "text" : "[110] HTML5 はこれ以前から Audio インターフェイスを規定しており、 Opera が実装していた。 追加された audio と統合された。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022110\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[110]\u003C/anchor-end> \u000A\u003Ccite>HTML5\u003C/cite> はこれ以前から \u003Ccode class=\u0022js\u0022>Audio\u003C/code> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>インターフェイス\u003C/anchor>を規定しており、 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Opera\u003C/anchor> が実装していた。\u000A追加された \u003Ccode>audio\u003C/code> と統合された。\u003C/li>\u003C/ul>"
+         }
+      ],
       "要素名" : [
          {
             "text" : "audio",
@@ -33155,8 +33445,8 @@
       ],
       "説明" : [
          {
-            "text" : "2007-03-23、 HTML5 は audio, source を追加した。 現行仕様である。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-03-23\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>audio\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>source\u003C/code>\u000Aを追加した。\u000A現行仕様である。"
+            "text" : "2007-03-23、 HTML5 は audio, source を追加した。 >>110 現行仕様である。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-03-23\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML5\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>audio\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>source\u003C/code>\u000Aを追加した。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u0022110\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;110\u003C/anchor-internal>\u003C/sw-see>\u000A現行仕様である。"
          }
       ]
    },
@@ -33252,8 +33542,8 @@
       ],
       "説明" : [
          {
-            "text" : "2012-02-21、 Scott Jehl は、 picture, source (picture 用) の JavaScript 実装 (polyfill) を公開した。 後に W3C HTML WG の仕様案として採択された。 類似の提案はこのしばらく前まで遡る。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012-02-21\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Scott Jehl\u003C/anchor>\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>picture\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>source\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>picture\u003C/code> 用)\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> 実装 (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>polyfill\u003C/anchor>)\u000Aを公開した。\u000A後に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML WG\u003C/anchor> の仕様案として採択された。\u000A類似の提案はこのしばらく前まで遡る。"
+            "text" : "2012-02-21、 Scott Jehl は、 picture, source (picture 用) の polyfill を公開した。 後に W3C HTML WG の仕様案として採択された。 類似の提案はこのしばらく前まで遡る。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2012-02-21\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Scott Jehl\u003C/anchor>\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>picture\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>source\u003C/code> (\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>picture\u003C/code> 用)\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>polyfill\u003C/anchor>\u000Aを公開した。\u000A後に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C HTML WG\u003C/anchor> の仕様案として採択された。\u000A類似の提案はこのしばらく前まで遡る。"
          }
       ]
    },
@@ -35108,6 +35398,12 @@
          {
             "text" : "2003",
             "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2003\u003C/time>"
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "XML宣言XML declaration XML文書の先頭に書ける構文。 \u003C?xml で始まり ?> で終わる。 文書途中に書ける処理指令の構文とほぼ同じだが、区別される。 XML の版などを記述できる。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>\u003Crubyb xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 xml:lang=\u0022ja\u0022>XML宣言\u003Crt xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en\u0022>XML declaration\u003C/rt>\u003C/rubyb>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML文書\u003C/anchor>の先頭に書ける構文。 \u003Ccode>&lt;?xml\u003C/code> で始まり \u003Ccode>?&gt;\u003C/code>\u000Aで終わる。\u000A文書途中に書ける\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>処理指令\u003C/anchor>の構文とほぼ同じだが、区別される。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML\u003C/anchor> の版などを記述できる。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
