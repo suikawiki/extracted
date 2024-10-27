@@ -3589,8 +3589,8 @@
       ],
       "説明" : [
          {
-            "text" : "1999にW3C勧告となった RDF は head 内に rdf:RDF を書く方法を提示していた。また、将来の HTML 仕様の拡張も予告していた。 RDF>>58 ところがそれは実現しなかった。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C勧告\u003C/anchor>となった\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>RDF\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>\u000A内に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022XMLe\u0022>rdf:RDF\u003C/code>\u000Aを書く方法を提示していた。また、将来の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 仕様の拡張も予告していた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RDF\u003C/src>\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002258\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;58\u003C/anchor-internal>\u003C/src>\u000Aところがそれは実現しなかった。"
+            "text" : "1999にW3C勧告となった RDF は、 head 内に rdf:RDF を書く方法を提示していた。また、将来の HTML 仕様の拡張も予告していた。 RDF>>58 ところがそれは実現しなかった。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1999\u003C/time>に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C勧告\u003C/anchor>となった\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>RDF\u003C/cite>\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>head\u003C/code>\u000A内に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022XMLe\u0022>rdf:RDF\u003C/code>\u000Aを書く方法を提示していた。また、将来の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 仕様の拡張も予告していた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>RDF\u003C/src>\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002258\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;58\u003C/anchor-internal>\u003C/src>\u000Aところがそれは実現しなかった。"
          }
       ]
    },
@@ -5798,6 +5798,12 @@
          {
             "text" : "SVG",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SVG\u003C/anchor>"
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "SVG Scalable Vector Graphics。ベクトル画像を記述できるXML応用。 現在ではWebブラウザーに標準搭載され HTML要素などと混在させられる。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>SVG\u003C/dfn>\u000AScalable Vector Graphics。\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ベクトル画像\u003C/anchor>を記述できる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XML応用\u003C/anchor>。\u000A現在では\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>に標準搭載され \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML要素\u003C/anchor>などと混在させられる。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -10202,8 +10208,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[220] 近い案はメーリングリストなどで表明されいてるが、 このファイルやそれに関係する案が当時公開されたかは不明。[223] 2023に Dan Connolly が公開した develop.tar.gz 内の web/drafts/MIME-sgml/dirk.sgml (1994-02-19)。 web/drafts/dirk.html (1995-02-18) で説明されている Project Dirk と関係するのだろう。 HTML2RCS",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022220\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[220]\u003C/anchor-end> \u000A近い案は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メーリングリスト\u003C/anchor>などで表明されいてるが、\u000Aこのファイルやそれに関係する案が当時公開されたかは不明。\u003C/li>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[223]\u003C/anchor-end> \u000A\u003Ctime>2023\u003C/time>に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor> が公開した \u003Ccode>develop.tar.gz\u003C/code> 内の\u000A\u003Ccode>web/drafts/MIME-sgml/dirk.sgml\u003C/code> (\u003Ctime>1994-02-19\u003C/time>)。\u000A\u003Ccode>web/drafts/dirk.html\u003C/code> (\u003Ctime>1995-02-18\u003C/time>) \u000Aで説明されている \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Project Dirk\u003C/anchor> と関係するのだろう。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML2RCS\u003C/src>\u003C/li>\u003C/ul>"
+            "text" : "[220] 近い案はメーリングリストなどで表明されいてるが、 このファイルやそれに関係する案が当時公開されたかは不明。[223] 2023に Dan Connolly が公開した develop.tar.gz 内の web/drafts/MIME-sgml/dirk.sgml (1994-02-19付)。 web/drafts/dirk.html (1995-02-18付) で説明されている Project Dirk と関係するのだろう。 HTML2RCS",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022220\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[220]\u003C/anchor-end> \u000A近い案は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>メーリングリスト\u003C/anchor>などで表明されいてるが、\u000Aこのファイルやそれに関係する案が当時公開されたかは不明。\u003C/li>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022223\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[223]\u003C/anchor-end> \u000A\u003Ctime>2023\u003C/time>に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor> が公開した \u003Ccode>develop.tar.gz\u003C/code> 内の\u000A\u003Ccode>web/drafts/MIME-sgml/dirk.sgml\u003C/code> (\u003Ctime>1994-02-19\u003C/time>付)。\u000A\u003Ccode>web/drafts/dirk.html\u003C/code> (\u003Ctime>1995-02-18\u003C/time>付) \u000Aで説明されている \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Project Dirk\u003C/anchor> と関係するのだろう。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML2RCS\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -10239,8 +10245,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[227] 2023に Dan Connolly が公開した develop.tar.gz 内の web/drafts/notes.txt (1994-04-26)。 HTML2RCS",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022227\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[227]\u003C/anchor-end> \u000A\u003Ctime>2023\u003C/time>に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor> が公開した \u003Ccode>develop.tar.gz\u003C/code> 内の\u000A\u003Ccode>web/drafts/notes.txt\u003C/code> (\u003Ctime>1994-04-26\u003C/time>)。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML2RCS\u003C/src>\u003C/li>\u003C/ul>"
+            "text" : "[227] 2023に Dan Connolly が公開した develop.tar.gz 内の web/drafts/notes.txt (1994-04-26付)。 HTML2RCS",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022227\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[227]\u003C/anchor-end> \u000A\u003Ctime>2023\u003C/time>に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor> が公開した \u003Ccode>develop.tar.gz\u003C/code> 内の\u000A\u003Ccode>web/drafts/notes.txt\u003C/code> (\u003Ctime>1994-04-26\u003C/time>付)。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML2RCS\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -10323,8 +10329,8 @@
       ],
       "注釈" : [
          {
-            "text" : "[226] 2023に Dan Connolly が公開した develop.tar.gz 内の web/drafts/reliable-links.sgml (1994-05-12)。 HTML2RCS",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022226\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[226]\u003C/anchor-end> \u000A\u003Ctime>2023\u003C/time>に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor> が公開した \u003Ccode>develop.tar.gz\u003C/code> 内の\u000A\u003Ccode>web/drafts/reliable-links.sgml\u003C/code> (\u003Ctime>1994-05-12\u003C/time>)。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML2RCS\u003C/src>\u003C/li>\u003C/ul>"
+            "text" : "[226] 2023に Dan Connolly が公開した develop.tar.gz 内の web/drafts/reliable-links.sgml (1994-05-12付)。 HTML2RCS",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022226\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[226]\u003C/anchor-end> \u000A\u003Ctime>2023\u003C/time>に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor> が公開した \u003Ccode>develop.tar.gz\u003C/code> 内の\u000A\u003Ccode>web/drafts/reliable-links.sgml\u003C/code> (\u003Ctime>1994-05-12\u003C/time>付)。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML2RCS\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -13800,8 +13806,8 @@
       ],
       "日付" : [
          {
-            "text" : "1995-03-01",
-            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-03-01\u003C/time>"
+            "text" : "1995-02-09",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-09\u003C/time>"
          }
       ],
       "要素名" : [
@@ -13820,8 +13826,8 @@
       ],
       "説明" : [
          {
-            "text" : "は1995-02-09、 HTML 3.0 DTD に term が追加された。 明記されていないが radix, radicand も追加されたと思われる。 HTML3.0-19950301",
-            "xml" : "\u000Aは\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-09\u003C/time>、 \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 3.0\u003C/cite> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>term\u003C/code>\u000Aが追加された。\u000A明記されていないが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radix\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radicand\u003C/code>\u000Aも追加されたと思われる。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950301\u003C/src>"
+            "text" : "1995-02-09、 HTML 3.0 DTD に term が追加された。 明記されていないが radix, radicand も追加されたと思われる。 HTML3.0-19950301",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-02-09\u003C/time>、 \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML 3.0\u003C/cite> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor> に\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>term\u003C/code>\u000Aが追加された。\u000A明記されていないが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radix\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>radicand\u003C/code>\u000Aも追加されたと思われる。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML3.0-19950301\u003C/src>"
          }
       ]
    },
@@ -14488,6 +14494,19 @@
          {
             "text" : "script",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 2093
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "Microsoft Internet Explorer Internet Explorer IE Microsoft 社の Webブラウザー。 長らく Windows の標準 Webブラウザーだった他、 Classic Mac OS 版などもあった。 実装は大きく異なるためそれぞれ WinIE, MacIE などと通称される。 WinIE Windows 版 Internet Explorer の通称。 初期版は Spyglass Mosaic からの派生。その後 MSHTML 等のソフトウェア部品として Windows に組み込まれ、レンダリングエンジンとしては Trident と呼ばれた。 第1次Webブラウザー戦争の覇者だったが、 その終戦後に多くの不具合と標準仕様への不適合を抱えたまま開発停止したため、 長年にわたってWeb開発者らを苦しめ続けた。 後に大規模改修により Edge となった。 IE:mac MacIE Classic Mac OS 版 Internet Explorer の通称。 レンダリングエンジンは Tasman と呼ばれた。 WinIE と異なり当時としては Web標準への適合性が高く、 Web開発者らには好まれた。 IE4 DOM Internet Explorer 4.0 で実装された DOM API。 初めて JavaScript から文書のすべての構成要素にアクセスできるようになった。 現在も各種要素オブジェクトや document.all など多くの機能が使われ続けている。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Microsoft Internet Explorer\u003C/dfn>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Internet Explorer\u003C/dfn>\u000A\u003Cdfn>IE\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor>\u000A社の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A長らく \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Windows\u003C/anchor> の標準 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>だった他、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Classic Mac OS\u003C/anchor> 版などもあった。\u000A実装は大きく異なるためそれぞれ \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WinIE\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MacIE\u003C/anchor> などと通称される。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>WinIE\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Windows\u003C/anchor> 版 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor> の通称。\u000A初期版は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Spyglass Mosaic\u003C/anchor> からの派生。その後 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MSHTML\u003C/anchor> 等のソフトウェア部品として\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Windows\u003C/anchor> に組み込まれ、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>としては \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Trident\u003C/anchor> と呼ばれた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>第1次Webブラウザー戦争\u003C/anchor>の覇者だったが、\u000Aその終戦後に多くの不具合と標準仕様への不適合を抱えたまま開発停止したため、\u000A長年にわたって\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web開発者\u003C/anchor>らを苦しめ続けた。\u000A後に大規模改修により \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Edge\u003C/anchor> となった。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>IE:mac\u003C/dfn> \u003Cdfn xml:lang=\u0022en\u0022>MacIE\u003C/dfn> \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Classic Mac OS\u003C/anchor> 版 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor> の通称。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tasman\u003C/anchor> と呼ばれた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WinIE\u003C/anchor> と異なり当時としては \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web標準\u003C/anchor>への適合性が高く、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web開発者\u003C/anchor>らには好まれた。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>IE4 DOM\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer 4.0\u003C/anchor> \u000Aで実装された\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DOM API\u003C/anchor>。\u000A初めて \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>のすべての構成要素にアクセスできるようになった。\u000A現在も各種\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>オブジェクトや \u003Ccode class=\u0022js\u0022>document.all\u003C/code>\u000Aなど多くの機能が使われ続けている。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -33911,6 +33930,19 @@
    {
       "_" : [
          {
+            "page_id" : 8783
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "Tantek Çelik MacIE の開発者として、後に Mozilla プロジェクトの幹部として、 Web標準化に寄与している。 CSS hack, microformats, IndieWeb などを提唱しコミュニティーを率いている。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>Tantek Çelik\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MacIE\u003C/anchor> の開発者として、後に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mozilla\u003C/anchor> プロジェクトの幹部として、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web標準化\u003C/anchor>に寄与している。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CSS hack\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>microformats\u003C/anchor>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IndieWeb\u003C/anchor> \u000Aなどを提唱しコミュニティーを率いている。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 8785
          }
       ],
@@ -34265,8 +34297,8 @@
       ],
       "注釈" : [
          {
-            "text" : "空要素empty element 内容が空の要素。 IE4 DOM Internet Explorer 4.0 で実装された DOM API。 初めて JavaScript から文書のすべての構成要素にアクセスできるようになった。 現在も各種要素オブジェクトや document.all など多くの機能が使われ続けている。 Internet Explorer Microsoft 社の Webブラウザー。 Mosaic から派生した初期の版、 Macintosh 向けの通称 MacIE (Tasman)、 Windows 標準搭載の通称 WinIE (Trident) などいくつかの系列がある。 第1次Webブラウザー戦争の覇者だったが、 その終戦後に多くの不具合と標準仕様への不適合を抱えたまま開発停止したため、 長年にわたってWeb開発者らを苦しめ続けた。 その後大規模改修により Edge となった。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>\u003Crubyb xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 xml:lang=\u0022ja\u0022>空要素\u003Crt xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en\u0022>empty element\u003C/rt>\u003C/rubyb>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>が空の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>IE4 DOM\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer 4.0\u003C/anchor> \u000Aで実装された\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DOM API\u003C/anchor>。\u000A初めて \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> から\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>のすべての構成要素にアクセスできるようになった。\u000A現在も各種\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>オブジェクトや \u003Ccode class=\u0022js\u0022>document.all\u003C/code>\u000Aなど多くの機能が使われ続けている。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Internet Explorer\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor>\u000A社の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mosaic\u003C/anchor>\u000Aから派生した初期の版、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Macintosh\u003C/anchor>\u000A向けの通称 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MacIE\u003C/anchor>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tasman\u003C/anchor>)、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Windows\u003C/anchor>\u000A標準搭載の通称 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WinIE\u003C/anchor>\u000A(\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Trident\u003C/anchor>)\u000Aなどいくつかの系列がある。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>第1次Webブラウザー戦争\u003C/anchor>の覇者だったが、\u000Aその終戦後に多くの不具合と標準仕様への不適合を抱えたまま開発停止したため、\u000A長年にわたって\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web開発者\u003C/anchor>らを苦しめ続けた。\u000Aその後大規模改修により \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Edge\u003C/anchor> となった。\u003C/li>\u003C/ul>"
+            "text" : "空要素empty element 内容が空の要素。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>\u003Crubyb xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 xml:lang=\u0022ja\u0022>空要素\u003Crt xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en\u0022>empty element\u003C/rt>\u003C/rubyb>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>が空の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [

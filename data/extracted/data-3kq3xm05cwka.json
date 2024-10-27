@@ -56,6 +56,18 @@
    {
       "_" : [
          {
+            "page_id" : 24520
+         }
+      ],
+      "items" : [
+         {
+            "xml" : "\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002295\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[95]\u003C/anchor-end> \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022label\u0022>南明綱目\u003C/cite>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002296\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[96]\u003C/anchor-end> \u003Cdata itemprop=\u0022label\u0022>自序\u003C/data>\u000A「\u003Cdata itemprop=\u0022text\u0022>\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>歲在柔兆敦牂之臨月旣\u003Casis>望\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>亡󠄁\u003C/title>\u003C/asis>\u003C/sw-v>\u003C/data>」\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002294\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;94\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 25100
          }
       ],
@@ -2444,18 +2456,6 @@
       "items" : [
          {
             "xml" : "\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022139\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[139]\u003C/anchor-end> \u000A\u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022label\u0022>樫崎・山田 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>板碑\u003C/anchor>\u003C/data>\u000A「\u003Cdata xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022text\u0022>\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文安五年\u003Cruby xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>土\u003Crt>(ママ)\u003C/rt>\u003C/ruby>\u003Cruby xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>辰 月\u003Crt> (ママ) \u003C/rt>\u003C/ruby>十六日\u003C/sw-v>\u003C/data>」\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022637\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;637\u003C/anchor-internal>\u003C/src>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022140\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[140]\u003C/anchor-end> \u000A\u003Ctime>日本文安5(1448)年戊辰\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1448\u003C/attrvalue>\u003C/time>, \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戊辰\u003C/anchor> = \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>つちのえたつ\u003C/anchor>\u003C/li>\u003C/ul>"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
-            "page_id" : 29376
-         }
-      ],
-      "items" : [
-         {
-            "xml" : "\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002295\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[95]\u003C/anchor-end> \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 itemprop=\u0022label\u0022>南明綱目\u003C/cite>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002296\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[96]\u003C/anchor-end> \u003Cdata itemprop=\u0022label\u0022>自序\u003C/data>\u000A「\u003Cdata itemprop=\u0022text\u0022>\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>歲在柔兆敦牂之臨月旣\u003Casis>望\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>亡󠄁\u003C/title>\u003C/asis>\u003C/sw-v>\u003C/data>」\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002294\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;94\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
          }
       ]
    },
