@@ -272,6 +272,31 @@
    {
       "_" : [
          {
+            "page_id" : 12419
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "兀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>兀\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "π",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>π\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "乳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>乳\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 12736
          }
       ],
@@ -8416,6 +8441,25 @@
          {
             "text" : "良",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>良\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46304
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "千七",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Csw-v>千七\u003C/sw-v>\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "毛",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>毛\u003C/sw-ch>"
          }
       ]
    },
