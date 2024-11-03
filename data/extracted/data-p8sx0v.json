@@ -272,6 +272,29 @@
    {
       "_" : [
          {
+            "page_id" : 11465
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "🇬🇧",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇬🇧\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "英",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>英\u003C/sw-ch>"
+         },
+         {
+            "text" : "𤠉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𤠉\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 12419
          }
       ],
@@ -1020,6 +1043,37 @@
          {
             "text" : "!!!!!",
             "xml" : "\u003Ci xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>!!!!!\u003C/i>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 19160
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "🇺🇸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇺🇸\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "米",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>米\u003C/sw-ch>"
+         },
+         {
+            "text" : "美",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>美\u003C/sw-ch>"
+         },
+         {
+            "text" : "𪻄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𪻄\u003C/sw-ch>"
+         },
+         {
+            "text" : "𤝸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𤝸\u003C/sw-ch>"
          }
       ]
    },
