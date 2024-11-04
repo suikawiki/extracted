@@ -9344,8 +9344,8 @@
       ],
       "説明" : [
          {
-            "text" : "2002-08-05、 XHTML 2.0 に nl, name が追加された。 XHTML2.0-20020805 2002-12-18、 XHTML 2.0 の name は label に改称された。 XHTML2.0-20021218 追加当初は XHTML 2.0 名前空間だったが、 紆余曲折を経て nl, label とも HTML名前空間となっていた。 しかし最終版に至る前に削除された。 nl は現在の menu に当たる。 name や label はそのラベルを表し、 現在の label とは異なる。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-08-05\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code>\u000Aが追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2.0-20020805\u003C/src>\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-12-18\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> は \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aに改称された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2.0-20021218\u003C/src>\u000A追加当初は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 2.0\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間\u003C/anchor>だったが、\u000A紆余曲折を経て\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aとも\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>となっていた。\u000Aしかし最終版に至る前に削除された。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>\u000Aは現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>menu\u003C/code> に当たる。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aはそのラベルを表し、\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code> とは異なる。"
+            "text" : "2002-08-05、 XHTML 2.0 に nl, name が追加された。 XHTML2-20020805 2002-12-18、 XHTML 2.0 の name は label に改称された。 XHTML2.0-20021218 追加当初は XHTML 2.0 名前空間だったが、 紆余曲折を経て nl, label とも HTML名前空間となっていた。 しかし最終版に至る前に削除された。 nl は現在の menu に当たる。 name や label はそのラベルを表し、 現在の label とは異なる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-08-05\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code>\u000Aが追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2-20020805\u003C/src>\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-12-18\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> は \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aに改称された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2.0-20021218\u003C/src>\u000A追加当初は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 2.0\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間\u003C/anchor>だったが、\u000A紆余曲折を経て\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aとも\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>となっていた。\u000Aしかし最終版に至る前に削除された。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>\u000Aは現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>menu\u003C/code> に当たる。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aはそのラベルを表し、\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code> とは異なる。"
          }
       ]
    },
@@ -17205,8 +17205,8 @@
       ],
       "注釈" : [
          {
-            "text" : "XHTML Events XHTML Events Module 後に XML Events となるが、 内容には違いが多い。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>\u003Ccite>XHTML Events\u003C/cite>\u003C/dfn>\u000A\u003Cdfn>\u003Ccite>XHTML Events Module\u003C/cite>\u003C/dfn>\u000A後に \u003Ccite>XML Events\u003C/cite> となるが、\u000A内容には違いが多い。\u003C/li>\u003C/ul>"
+            "text" : "XHTML Events XHTML Events Module 後に XML Events となる仕様書だが、 内容には違いが多い。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>\u003Ccite>XHTML Events\u003C/cite>\u003C/dfn>\u000A\u003Cdfn>\u003Ccite>XHTML Events Module\u003C/cite>\u003C/dfn>\u000A後に \u003Ccite>XML Events\u003C/cite> となる仕様書だが、\u000A内容には違いが多い。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -22327,8 +22327,8 @@
       ],
       "注釈" : [
          {
-            "text" : "CERN SGMLguid CERN でマニュアル等の記述に使われていた SGML応用。 HTML の直接の祖先に当たる。 CERN 欧州原子核研究機構。 スイスにある物理学研究所。 Tim Berners‑Lee が在籍しハイパーテキストシステムの研究開発に取り組んでいた。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>CERN SGMLguid\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CERN\u003C/anchor> で\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マニュアル\u003C/anchor>等の記述に使われていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML応用\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> の直接の祖先に当たる。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>CERN\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>欧州原子核研究機構\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スイス\u003C/anchor>にある物理学研究所。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners‑Lee\u003C/anchor>\u000Aが在籍し\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ハイパーテキスト\u003C/anchor>システムの研究開発に取り組んでいた。\u003C/li>\u003C/ul>"
+            "text" : "CERN SGMLguid CERN でマニュアル等の記述に使われていた SGML応用。 HTML の直接の祖先に当たる。 CERN 欧州原子核研究機構。 スイスにある物理学研究所。 1990年代初頭に Tim Berners‑Lee が在籍し、 ハイパーテキストシステムの研究開発に取り組んでいた。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>CERN SGMLguid\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CERN\u003C/anchor> で\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マニュアル\u003C/anchor>等の記述に使われていた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML応用\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> の直接の祖先に当たる。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>CERN\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>欧州原子核研究機構\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スイス\u003C/anchor>にある物理学研究所。\u000A1990年代初頭に\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners‑Lee\u003C/anchor>\u000Aが在籍し、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ハイパーテキスト\u003C/anchor>システムの研究開発に取り組んでいた。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -34266,6 +34266,16 @@
       "_" : [
          {
             "page_id" : 7723
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>*\u003C/code>"
+         },
+         {
+            "text" : "/*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>/*\u003C/code>"
          }
       ],
       "日付" : [
