@@ -1146,14 +1146,14 @@
       ],
       "出典" : [
          {
-            "text" : "[101] Information processing — Text and office systems — Standard Generalized Markup Language (SGML), ISO, 1986-10-23 [102] JISX4151: JIS X 4151-1992, SGMLindex.html, Latest updated 2015.07.16, 日本工業標準調査会, 日本ユニシス株式会社, 2015-07-19T09:04:36.000Z, 2024-11-02T03:11:17.263Z http://www1.u-netsurf.ne.jp/~7l1rll/SGMLindex.html",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022101\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[101]\u003C/anchor-end> \u000A\u003Ccite xml:lang=\u0022en\u0022>Information processing — Text and office systems — Standard Generalized Markup Language (SGML)\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1986-10-23\u003C/time>\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022102\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[102]\u003C/anchor-end> \u000A\u003Cdfn>JISX4151\u003C/dfn>:\u000A\u003Cdata itemprop=\u0022docid\u0022>JIS X 4151-1992\u003C/data>,\u000A\u003Ccite xml:lang=\u0022ja\u0022>SGMLindex.html, Latest updated 2015.07.16\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本工業標準調査会\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本ユニシス株式会社\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2015-07-19T09:04:36.000Z\u003C/time>, \u000A\u003Ctime>2024-11-02T03:11:17.263Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www1.u-netsurf.ne.jp/~7l1rll/SGMLindex.html\u0022>http://www1.u-netsurf.ne.jp/~7l1rll/SGMLindex.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "[102] JISX4151: JIS X 4151-1992, SGMLindex.html, Latest updated 2015.07.16, 日本工業標準調査会, 日本ユニシス株式会社, 2015-07-19T09:04:36.000Z, 2024-11-02T03:11:17.263Z http://www1.u-netsurf.ne.jp/~7l1rll/SGMLindex.html",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022102\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[102]\u003C/anchor-end> \u000A\u003Cdfn>JISX4151\u003C/dfn>:\u000A\u003Cdata itemprop=\u0022docid\u0022>JIS X 4151-1992\u003C/data>,\u000A\u003Ccite xml:lang=\u0022ja\u0022>SGMLindex.html, Latest updated 2015.07.16\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本工業標準調査会\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本ユニシス株式会社\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2015-07-19T09:04:36.000Z\u003C/time>, \u000A\u003Ctime>2024-11-02T03:11:17.263Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www1.u-netsurf.ne.jp/~7l1rll/SGMLindex.html\u0022>http://www1.u-netsurf.ne.jp/~7l1rll/SGMLindex.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "注釈" : [
          {
-            "text" : "SGML Standard Generalized Markup Language。 マーク付け言語の1つ。 >>101 これ自体はそのまま利用できる言語ではなく、適用対象ごとの文書型を作成し、 それに従い文書を作成する。 20世紀の後期に ISO/IEC国際標準となり、 電子文書の標準的で正統的な記述方法と認識されていた。 初期の HTML が SGML応用として仕様化されたのはそうした環境による。 他にも多くの SGML応用が作られた。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>SGML\u003C/dfn>\u000AStandard Generalized Markup Language。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マーク付け言語\u003C/anchor>の1つ。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022101\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;101\u003C/anchor-internal>\u003C/src>\u000Aこれ自体はそのまま利用できる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>言語\u003C/anchor>ではなく、適用対象ごとの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書型\u003C/anchor>を作成し、\u000Aそれに従い\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>を作成する。\u000A20世紀の後期に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC国際標準\u003C/anchor>となり、\u000A電子文書の標準的で正統的な記述方法と認識されていた。\u000A初期の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> が \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML応用\u003C/anchor>として仕様化されたのはそうした環境による。\u000A他にも多くの \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML応用\u003C/anchor>が作られた。\u003C/li>\u003C/ul>"
+            "text" : "SGML Standard Generalized Markup Language。 マーク付け言語の1つ。 ISO8879 これ自体はそのまま利用できる言語ではなく、適用対象ごとの文書型を作成し、 それに従い文書を作成する。 20世紀の後期に ISO/IEC国際標準となり、 電子文書の標準的で正統的な記述方法と認識されていた。 初期の HTML が SGML応用として仕様化されたのはそうした環境による。 他にも多くの SGML応用が作られた。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>SGML\u003C/dfn>\u000AStandard Generalized Markup Language。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>マーク付け言語\u003C/anchor>の1つ。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>ISO8879\u003C/src>\u000Aこれ自体はそのまま利用できる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>言語\u003C/anchor>ではなく、適用対象ごとの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書型\u003C/anchor>を作成し、\u000Aそれに従い\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文書\u003C/anchor>を作成する。\u000A20世紀の後期に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO/IEC国際標準\u003C/anchor>となり、\u000A電子文書の標準的で正統的な記述方法と認識されていた。\u000A初期の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> が \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML応用\u003C/anchor>として仕様化されたのはそうした環境による。\u000A他にも多くの \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SGML応用\u003C/anchor>が作られた。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -5557,6 +5557,19 @@
    {
       "_" : [
          {
+            "page_id" : 1540
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "株式会社ACCESS ACCESS Co., Ltd. NetFront Browser を開発していた企業。 NetFront Browser Webブラウザーの1つ。日本の多くのガラケーをはじめ、 組み込み機器の標準 Webブラウザーとしてよく採用されていた。 独自開発だっがが、後継の NetFront Browser NX 等の製品は WebKit を使っている。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022ja\u0022>株式会社ACCESS\u003C/dfn> \u003Cdfn xml:lang=\u0022en\u0022>ACCESS Co., Ltd.\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NetFront Browser\u003C/anchor>\u000Aを開発していた企業。\u003C/li>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>NetFront Browser\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>の1つ。\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日本\u003C/anchor>の多くの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ガラケー\u003C/anchor>をはじめ、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>組み込み\u003C/anchor>機器の標準 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>としてよく採用されていた。\u000A独自開発だっがが、後継の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NetFront Browser NX\u003C/anchor>\u000A等の製品は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebKit\u003C/anchor> を使っている。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1055
          }
       ],
@@ -6291,6 +6304,19 @@
          {
             "text" : "2007-12-21、 HtmLayout は plaintext を実装した。 textarea と同等だがブロック水準要素として機能する。",
             "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-21\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>plaintext\u003C/code>\u000Aを実装した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>\u000Aと同等だが\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ブロック水準要素\u003C/anchor>として機能する。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1772
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "Opera Opera Software の Webブラウザー。 Internet Explorer と Mozilla の勢力が圧倒的だった時代に、 第3の Webブラウザーとして存在感を示した。 レンダリングエンジンは Presto だったが、後に WebKit に移行した。 Opera と Presto はデスクトップブラウザーとして使われた他に組み込み分野で採用事例が多く、 ガラケーのフルブラウザや任天堂ゲーム機のWebブラウザーが有名だった。 Presto Opera のレンダリングエンジン。 Opera Software Opera を開発していた企業。 Web標準化に貢献した技術者らが多く在籍していた。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>Opera\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Opera Software\u003C/anchor> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mozilla\u003C/anchor> の勢力が圧倒的だった時代に、\u000A第3の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>として存在感を示した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Presto\u003C/anchor> だったが、後に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebKit\u003C/anchor> に移行した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Opera\u003C/anchor> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Presto\u003C/anchor>\u000Aは\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>デスクトップブラウザー\u003C/anchor>として使われた他に\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>組み込み\u003C/anchor>分野で採用事例が多く、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ガラケー\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フルブラウザ\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>任天堂\u003C/anchor>ゲーム機の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>が有名だった。\u003C/li>\u003Cli>\u000A\u003Cdfn>Presto\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Opera\u003C/anchor> の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レンダリングエンジン\u003C/anchor>。\u003C/li>\u003Cli>\u000A\u003Cdfn>Opera Software\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Opera\u003C/anchor> \u000Aを開発していた企業。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web標準化\u003C/anchor>に貢献した技術者らが多く在籍していた。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -13044,8 +13070,8 @@
       ],
       "説明" : [
          {
-            "text" : "1992-06-24>>43付の Dan Connolly の www-talk への投稿の DTD >>45 に、 image がある。 HTML19920624 現行仕様とは異なる。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>\u003C/sw-see>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>www-talk\u003C/anchor>\u000Aへの投稿の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002245\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;45\u003C/anchor-internal>\u003C/sw-see>\u000Aに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML19920624\u003C/src>\u000A現行仕様とは異なる。"
+            "text" : "1992-06-24>>43付の Dan Connolly の www-talk への投稿の DTD >>45 に、 image がある。 >>44 現行仕様とは異なる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1992-06-24\u003C/time>\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002243\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;43\u003C/anchor-internal>\u003C/sw-see>付の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dan Connolly\u003C/anchor>\u000Aの\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>www-talk\u003C/anchor>\u000Aへの投稿の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>DTD\u003C/anchor>\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002245\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;45\u003C/anchor-internal>\u003C/sw-see>\u000Aに、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>image\u003C/code>\u000Aがある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002244\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;44\u003C/anchor-internal>\u003C/src>\u000A現行仕様とは異なる。"
          }
       ]
    },
@@ -17700,6 +17726,19 @@
          {
             "text" : "第1次ブラウザー戦争 Netscape Navigator と Internet Explorer を中心とする Webブラウザー市場の競争。 自社独自の新技術を搭載した新バージョンが次々と投入され、 市場と著者らに大混乱を招きつつも Web技術は著しく発展した。 その結果、 一時は圧倒的な利用数を誇った Netscape Navigator は Windows と統合された Internet Explorer に完全敗北し、その他の事業者もほとんど撤退した。 Microsoft も IE6 をもって開発を事実上凍結し、停滞の時代が訪れた。",
             "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>第1次ブラウザー戦争\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Navigator\u003C/anchor> と \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor> を中心とする\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>市場の競争。\u000A自社独自の新技術を搭載した新バージョンが次々と投入され、\u000A市場と\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>著者\u003C/anchor>らに大混乱を招きつつも \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web技術\u003C/anchor>は著しく発展した。\u000Aその結果、\u000A一時は圧倒的な利用数を誇った \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Navigator\u003C/anchor>\u000Aは \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Windows\u003C/anchor> と統合された \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Explorer\u003C/anchor>\u000Aに完全敗北し、その他の事業者もほとんど撤退した。 \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Microsoft\u003C/anchor> も \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IE6\u003C/anchor>\u000Aをもって開発を事実上凍結し、停滞の時代が訪れた。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 25743
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "フルブラウザ ガラケー用の Webサイトに特化した標準の Webブラウザーに対し、一般的な Webサイトの閲覧に対応した Webブラウザー。 NTTドコモがフルブラウザ、 auがPCサイトビューアーなどと称していた。 デスクトップブラウザーdesktop browser フィーチャーフォンやスマートフォンの Webブラウザーとの対比で、 PC 用の伝統的なWebブラウザーのこと。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022ja\u0022>フルブラウザ\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ガラケー\u003C/anchor>用の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>に特化した標準の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>に対し、一般的な \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>の閲覧に対応した \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NTTドコモ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フルブラウザ\u003C/anchor>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>au\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PCサイトビューアー\u003C/anchor>などと称していた。\u003C/li>\u003Cli>\u000A\u003Cdfn>\u003Crubyb xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 xml:lang=\u0022ja\u0022>デスクトップブラウザー\u003Crt xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en\u0022>desktop browser\u003C/rt>\u003C/rubyb>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フィーチャーフォン\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スマートフォン\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>との対比で、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PC\u003C/anchor> 用の伝統的な\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>のこと。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -29316,6 +29355,40 @@
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>HTMLの拡張による電子文書の添削の試み\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>春木良且\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>安部清哉\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>1997-03\u003C/time>,\u000A\u003Ctime>2024-10-04T12:28:16.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://ferris.repo.nii.ac.jp/records/658\u0022>https://ferris.repo.nii.ac.jp/records/658\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "correct",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>correct\u003C/code>"
+         },
+         {
+            "text" : "@d",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>@d\u003C/code>"
+         },
+         {
+            "text" : "@a",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>@a\u003C/code>"
+         },
+         {
+            "text" : "@r",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>@r\u003C/code>"
+         },
+         {
+            "text" : "edit",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>edit\u003C/code>"
+         },
+         {
+            "text" : "s",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>s\u003C/code>"
+         },
+         {
+            "text" : "ins",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ins\u003C/code>"
+         },
+         {
+            "text" : "del",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>del\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1997-03",
@@ -35382,8 +35455,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -35464,8 +35537,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -35513,8 +35586,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -35558,8 +35631,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -35599,8 +35672,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -35652,8 +35725,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -35715,8 +35788,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -35800,8 +35873,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "参照" : [
@@ -35865,8 +35938,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -35896,8 +35969,8 @@
       ],
       "出典" : [
          {
-            "text" : "T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "TTX230: T-Time の解釈できるHTML \u003Cタグ> v2.3.0, Voyager Japan Inc., 2000-12",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>TTX230\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ja\u0022>T-Time の解釈できるHTML &lt;タグ&gt; v2.3.0\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Voyager Japan Inc.\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022 class=\u0022jp\u0022>2000-12\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
