@@ -3805,6 +3805,16 @@
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "include",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>include\u003C/code>"
+         },
+         {
+            "text" : "iframe",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>iframe\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1991-04-02",
@@ -9344,8 +9354,8 @@
       ],
       "説明" : [
          {
-            "text" : "2002-08-05、 XHTML 2.0 に nl, name が追加された。 XHTML2-20020805 2002-12-18、 XHTML 2.0 の name は label に改称された。 XHTML2.0-20021218 追加当初は XHTML 2.0 名前空間だったが、 紆余曲折を経て nl, label とも HTML名前空間となっていた。 しかし最終版に至る前に削除された。 nl は現在の menu に当たる。 name や label はそのラベルを表し、 現在の label とは異なる。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-08-05\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code>\u000Aが追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2-20020805\u003C/src>\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-12-18\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> は \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aに改称された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2.0-20021218\u003C/src>\u000A追加当初は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 2.0\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間\u003C/anchor>だったが、\u000A紆余曲折を経て\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aとも\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>となっていた。\u000Aしかし最終版に至る前に削除された。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>\u000Aは現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>menu\u003C/code> に当たる。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aはそのラベルを表し、\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code> とは異なる。"
+            "text" : "2002-08-05、 XHTML 2.0 に nl, name が追加された。 XHTML2-20020805 2002-12-18、 XHTML 2.0 の name は label に改称された。 XHTML2.0-20021218 追加当初は XHTML 2.0 名前空間だったが、 紆余曲折を経て nl, label とも HTML名前空間となっていた。 しかし最終版に至る前に削除された。 nl は現在の menu に当たる。 name や label はそのラベルで、 現在の label とは異なる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-08-05\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code>\u000Aが追加された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2-20020805\u003C/src>\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2002-12-18\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>XHTML 2.0\u003C/cite>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> は \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aに改称された。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>XHTML2.0-20021218\u003C/src>\u000A追加当初は \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>XHTML 2.0\u003C/anchor>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>名前空間\u003C/anchor>だったが、\u000A紆余曲折を経て\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aとも\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML名前空間\u003C/anchor>となっていた。\u000Aしかし最終版に至る前に削除された。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nl\u003C/code>\u000Aは現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>menu\u003C/code> に当たる。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>name\u003C/code> や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code>\u000Aはそのラベルで、\u000A現在の \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>label\u003C/code> とは異なる。"
          }
       ]
    },
@@ -12582,6 +12592,12 @@
       "_" : [
          {
             "page_id" : 2524
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "w3/w3-parse.el at master · emacsmirror/w3 · GitHub, 2024-08-16T13:28:05.000Z https://github.com/emacsmirror/w3/blob/master/w3-parse.el",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>w3/w3-parse.el at master · emacsmirror/w3 · GitHub\u003C/cite>, \u000A\u003Ctime>2024-08-16T13:28:05.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/emacsmirror/w3/blob/master/w3-parse.el\u0022>https://github.com/emacsmirror/w3/blob/master/w3-parse.el\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -24261,6 +24277,19 @@
    {
       "_" : [
          {
+            "page_id" : 4431
+         }
+      ],
+      "注釈" : [
+         {
+            "text" : "Hypertext Coordination Group HTML および関連規格の調整を担当していた W3C の下部組織。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>Hypertext Coordination Group\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> および関連規格の調整を担当していた \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W3C\u003C/anchor> の下部組織。\u003C/li>\u003C/ul>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 4440
          }
       ],
@@ -25523,8 +25552,8 @@
       ],
       "説明" : [
          {
-            "text" : "初期の Webブラウザーには ul と menu, dir で挙動が違うものがあったともいうが、 いつしか表示上の区別もなく、 用法も使い分けがいまいちはっきりしなくなっていた。",
-            "xml" : "\u000A初期の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>には\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>\u000Aと\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>menu\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dir\u003C/code>\u000Aで挙動が違うものがあったともいうが、\u000Aいつしか表示上の区別もなく、\u000A用法も使い分けがいまいちはっきりしなくなっていた。"
+            "text" : "初期の Webブラウザーには ul と menu, dir で挙動が違うものがあったともいうが、 いつしか表示上の区別もなくなり、 使い分けがいまいちはっきりしなくなっていた。",
+            "xml" : "\u000A初期の \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>には\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>\u000Aと\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>menu\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dir\u003C/code>\u000Aで挙動が違うものがあったともいうが、\u000Aいつしか表示上の区別もなくなり、\u000A使い分けがいまいちはっきりしなくなっていた。"
          }
       ]
    },
@@ -27493,7 +27522,7 @@
          },
          {
             "text" : "WZ EDITOR の最初の発売は1995で、 体裁モードが当初からのものかは不明だが、 madebywz が最新版として提供された期間は高々1年程度になる。 >>13",
-            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WZ EDITOR\u003C/cite>\u000Aの最初の発売は\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995\u003C/time>で、\u000A体裁モードが当初からのものかは不明だが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>madebywz\u003C/code>\u000Aが最新版として提供された期間は高々1年程度になる。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002213\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;13\u003C/anchor-internal>\u003C/sw-see>"
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>WZ EDITOR\u003C/cite>\u000Aの最初の発売は\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022jp\u0022>1995\u003C/time>で、\u000A体裁モードが当初からのものかは不明だが、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>madebywz\u003C/code>\u000Aが最新版として提供された期間は高々1年程度になる。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002213\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;13\u003C/anchor-internal>\u003C/sw-see>"
          },
          {
             "text" : "これらが含まれるHTML文書は、現在も稀に見られる。 \u003CMadeByWZ> の実利用例が未だに残っているのは、その現役期間の短さを鑑みれば驚くべきことである。 SW:MadeByWZ",
@@ -27564,8 +27593,8 @@
       ],
       "説明" : [
          {
-            "text" : "WebTV 1.2 は nosmartquotes を実装していた。 WebTV 2.1 は実装していなかった。 WebTV の文字列の表示では通常いわゆる smart quotes が有効になるが、 この要素の内容ではそれが抑制される。",
-            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor> 1.2\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nosmartquotes\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor> 2.1 は実装していなかった。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor>\u000Aの文字列の表示では通常いわゆる\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>smart quotes\u003C/anchor>\u000Aが有効になるが、\u000Aこの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>ではそれが抑制される。"
+            "text" : "WebTV は当初 nosmartquotes を実装していた。 WebTV 1.2 が実装していたが、 WebTV 2.1 は実装していなかった。 WebTV の文字列の表示では通常いわゆる smart quotes が有効になるが、 この要素の内容ではそれが抑制される。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor> \u000Aは当初\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>nosmartquotes\u003C/code>\u000Aを実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor> 1.2 が実装していたが、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor> 2.1 は実装していなかった。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>WebTV\u003C/anchor>\u000Aの文字列の表示では通常いわゆる\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>smart quotes\u003C/anchor>\u000Aが有効になるが、\u000Aこの\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>内容\u003C/anchor>ではそれが抑制される。"
          }
       ]
    },
@@ -30716,8 +30745,8 @@
       ],
       "説明" : [
          {
-            "text" : "2016-07-21、 MediaElement.js が mediaelementwrapper を使い始めた。 内部的に使われた。要素名は設定で変更できた。 >>12",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2016-07-21\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MediaElement.js\u003C/anchor>\u000Aが\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mediaelementwrapper\u003C/code>\u000Aを使い始めた。\u000A内部的に使われた。\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>は設定で変更できた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002212\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;12\u003C/anchor-internal>\u003C/src>"
+            "text" : "2016-07-21、 MediaElement.js は、 mediaelementwrapper を使い始めた。 内部的に使われた。要素名は設定で変更できた。 >>12",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2016-07-21\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MediaElement.js\u003C/anchor>\u000Aは、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>mediaelementwrapper\u003C/code>\u000Aを使い始めた。\u000A内部的に使われた。\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素名\u003C/anchor>は設定で変更できた。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002212\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;12\u003C/anchor-internal>\u003C/src>"
          },
          {
             "text" : "2020時点の調査によると、 0.49%の Webページが mediaelementwrapper を使っていた。 >>7",
