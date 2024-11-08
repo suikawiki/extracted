@@ -30729,8 +30729,8 @@
       ],
       "注釈" : [
          {
-            "text" : "HTML-as-programming-language HTML 風の独自構文のコンパイル型プログラミング言語。 HTML に似ている (looks like) と称しており、 将来完全に HTML に基づき (fully 100% HTML-based in the future) たいと説明がある。 >>5",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>\u003Ccode>HTML-as-programming-language\u003C/code>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の独自構文のコンパイル型\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プログラミング言語\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> に似ている (looks like) と称しており、\u000A将来完全に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> に基づき (fully 100% HTML-based in the future) たいと説明がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;5\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
+            "text" : "[15] HTML-as-programming-language HTML 風の独自構文のコンパイル型プログラミング言語。 Hyper Text MACHINE Language とも称する。 HTML に似ている (looks like) とされており、 将来完全に HTML に基づき (fully 100% HTML-based in the future) たいと説明がある。 >>5",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002215\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[15]\u003C/anchor-end> \u000A\u003Cdfn xml:lang=\u0022en\u0022>HTML-as-programming-language\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 風の独自構文のコンパイル型\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プログラミング言語\u003C/anchor>。\u000AHyper Text MACHINE Language とも称する。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> に似ている (looks like) とされており、\u000A将来完全に \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> に基づき (fully 100% HTML-based in the future) たいと説明がある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;5\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -30869,8 +30869,39 @@
       ],
       "説明" : [
          {
-            "text" : "2018の HTML-as-programming-language にある。 >>5",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2018\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML-as-programming-language\u003C/code>\u003C/anchor>\u000Aにある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;5\u003C/anchor-internal>\u003C/src>"
+            "text" : "2018の [HTML-as-programming-language にある。 >>5",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2018\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[HTML-as-programming-language\u003C/anchor>\u000Aにある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00225\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;5\u003C/anchor-internal>\u003C/src>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46337
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "HTMLasPL: GitHub - HTML-as-programming-language/HTML-as-programming-language: A programming language that looks like HTML, 2020-02-27, 2024-11-07T14:24:54.000Z https://github.com/HTML-as-programming-language/HTML-as-programming-language/tree/master",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>HTMLasPL\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>GitHub - HTML-as-programming-language/HTML-as-programming-language: A programming language that looks like HTML\u003C/cite>, \u000A\u003Ctime itemprop=\u0022published\u0022>2020-02-27\u003C/time>,\u000A\u003Ctime>2024-11-07T14:24:54.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/HTML-as-programming-language/HTML-as-programming-language/tree/master\u0022>https://github.com/HTML-as-programming-language/HTML-as-programming-language/tree/master\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2022-01-04",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2022-01-04\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "*",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>*\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "2018の HTML-as-programming-language では、 任意の関数名等を定義して、要素として使える。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2018\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HTML-as-programming-language\u003C/code>\u003C/anchor>\u000Aでは、\u000A任意の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>関数\u003C/anchor>名等を定義して、\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>要素\u003C/anchor>として使える。"
          }
       ]
    },
@@ -31027,7 +31058,7 @@
       "注釈" : [
          {
             "text" : "html-lang 「HTML はプログラミング言語だ」と謳った JavaScript ライブラリー。 >>2",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>\u003Ccode>html-lang\u003C/code>\u003C/dfn>\u000A「HTML はプログラミング言語だ」と謳った \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> ライブラリー。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;2\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>\u003Ccode class=\u0022other\u0022>html-lang\u003C/code>\u003C/dfn>\u000A「HTML はプログラミング言語だ」と謳った \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> ライブラリー。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;2\u003C/anchor-internal>\u003C/src>\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -31047,7 +31078,7 @@
       "説明" : [
          {
             "text" : "2021の html-lang にある。 >>2",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2021\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>html-lang\u003C/code>\u003C/anchor>\u000Aにある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;2\u003C/anchor-internal>\u003C/src>"
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2021\u003C/time>の\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022other\u0022>html-lang\u003C/code>\u003C/anchor>\u000Aにある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;2\u003C/anchor-internal>\u003C/src>"
          }
       ]
    },
