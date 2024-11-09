@@ -4316,6 +4316,25 @@
    {
       "_" : [
          {
+            "page_id" : 37670
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "12",
+            "xml" : "\u003Csw-l xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>12\u003C/sw-l>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "々",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>々\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 37687
          }
       ],
