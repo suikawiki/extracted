@@ -28277,8 +28277,8 @@
             "xml" : "\u000A本書の編集にあたり、 \u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>SuikaWiki\u003C/cite> の記事や \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>data-web-defs\u003C/code>\u000Aのデータファイルを活用した。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>SW\u003C/src>\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002221\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;21\u003C/anchor-internal>\u003C/src>\u000Aそれらすべての編集者や貢献者に感謝する。"
          },
          {
-            "text" : "なお、本書の電子版は公式サイト https://suikawiki.org/book1 で配布する予定である。",
-            "xml" : "\u000Aなお、本書の電子版は公式サイト \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022URL link\u0022>https://suikawiki.org/book1\u003C/code> \u000Aで配布する予定である。"
+            "text" : "なお、本書の電子版は公式サイト https://suikawiki.org/b1 で配布する予定である。",
+            "xml" : "\u000Aなお、本書の電子版は公式サイト \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 class=\u0022URL link\u0022>https://suikawiki.org/b1\u003C/code> \u000Aで配布する予定である。"
          }
       ],
       "出典" : [
@@ -31010,10 +31010,6 @@
          {
             "text" : "n",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>n\u003C/code>"
-         },
-         {
-            "text" : "v",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>v\u003C/code>"
          },
          {
             "text" : "eq",
