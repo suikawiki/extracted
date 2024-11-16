@@ -2096,6 +2096,49 @@
    {
       "_" : [
          {
+            "page_id" : 26310
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ξ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ξ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : ":gw-hiragana-koto",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:gw-hiragana-koto\u003C/code>"
+         }
+      ],
+      "統合可能" : [
+         {
+            "text" : ":gw-nihon-no-kanji-02806",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:gw-nihon-no-kanji-02806\u003C/code>"
+         },
+         {
+            "text" : ":gw-u30ff-var-001",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:gw-u30ff-var-001\u003C/code>"
+         },
+         {
+            "text" : ":gw-unstable-nishiki-f7cb0",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:gw-unstable-nishiki-f7cb0\u003C/code>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "ヿ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヿ\u003C/sw-ch>"
+         },
+         {
+            "text" : "こと",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>こと\u003C/sw-v>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 26397
          }
       ],
