@@ -3397,6 +3397,20 @@
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>JSGUIDE\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>JavaScript Guide\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Communications Corporation\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1996\u003C/time>,\u000A\u003Ctime>2024-08-16T09:39:22.000Z\u003C/time>, \u003Ctime>2001-02-08T10:43:18.327Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://web.archive.org/web/20010208103254/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/getstart.htm#996824\u0022>https://web.archive.org/web/20010208103254/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/getstart.htm#996824\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "script",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>script\u003C/code>"
+         },
+         {
+            "text" : "noembed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noembed\u003C/code>"
+         },
+         {
+            "text" : "noframes",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>noframes\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "1996",
@@ -3741,6 +3755,14 @@
          {
             "text" : "audio",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>audio\u003C/code>"
+         },
+         {
+            "text" : "embed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>"
+         },
+         {
+            "text" : "object",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>object\u003C/code>"
          }
       ],
       "日付" : [
@@ -3757,8 +3779,39 @@
       ],
       "説明" : [
          {
-            "text" : "1995-10頃 Mosaic が実装した。 Gecko もHTML5構文解析器となる以前は構文解析のみ対応していた。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-10\u003C/time>頃\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mosaic\u003C/anchor>\u000Aが実装した。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Gecko\u003C/anchor>\u000Aも\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5構文解析器\u003C/anchor>となる以前は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>のみ対応していた。"
+            "text" : "1995-10頃 Mosaic が実装した。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1995-10\u003C/time>頃\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Mosaic\u003C/anchor>\u000Aが実装した。"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1150
+         }
+      ],
+      "出典" : [
+         {
+            "text" : "\u003Csound>",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&lt;sound&gt;\u003C/anchor>"
+         }
+      ],
+      "日付" : [
+         {
+            "text" : "2006",
+            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2006\u003C/time>"
+         }
+      ],
+      "要素名" : [
+         {
+            "text" : "sound",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sound\u003C/code>"
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "Gecko は、 HTML5構文解析器となる以前は構文解析のみ対応していた。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Gecko\u003C/anchor>\u000Aは、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML5構文解析器\u003C/anchor>となる以前は\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>構文解析\u003C/anchor>のみ対応していた。"
          }
       ]
    },
@@ -6755,6 +6808,12 @@
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>HTML5 r77\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Hixie\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>2006-07-06 15:09:27 \u002B09:00\u003C/time>, \u003Ctime>2024-09-01T09:34:58.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/whatwg/html/commit/f98736ae6caf9250ffaed0df557e214f0bf5aebd\u0022>https://github.com/whatwg/html/commit/f98736ae6caf9250ffaed0df557e214f0bf5aebd\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
+      "参照" : [
+         {
+            "text" : "summary",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>summary\u003C/code>"
+         }
+      ],
       "日付" : [
          {
             "text" : "2006-07-06",
@@ -7035,6 +7094,16 @@
          {
             "text" : "[49] HTML5 r417, Hixie, 2006-12-08 10:13:43 \u002B09:00, 2024-09-02T13:49:27.000Z https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002249\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[49]\u003C/anchor-end> \u000A\u003Ccite>HTML5 r417\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Hixie\u003C/anchor>\u003C/data>, \u000A\u003Ctime itemprop=\u0022published\u0022>2006-12-08 10:13:43 \u002B09:00\u003C/time>, \u003Ctime>2024-09-02T13:49:27.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2\u0022>https://github.com/whatwg/html/commit/dc157f24a557979d457586a6e55ac14720d63bb2\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "dt",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
+         },
+         {
+            "text" : "dd",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
          }
       ],
       "日付" : [
@@ -8034,6 +8103,12 @@
          {
             "text" : "[9] DataparkSearch:Comments: Comments, DataparkSearch Engine 4.54: Reference manual, Maxim Zakharov, 2015-07-18T14:01:07.000Z, 2024-09-16T13:37:21.933Z http://www.dataparksearch.org/dpsearch-htmlparser-comments.en.html [8] Yandex:NOINDEX:EN: How do I prohibit indexing of the site or pages? - Webmaster. Help, ООО «Яндекс», 2024-09-16T13:34:57.000Z https://yandex.ru/support/webmaster/adding-site/indexing-prohibition.html?lang=en [10] Yandex:NOINDEX:RU: Как запретить индексирование сайта или страниц - Вебмастер. Справка, ООО «Яндекс», 2024-09-16T13:34:40.000Z https://yandex.ru/support/webmaster/adding-site/indexing-prohibition.html?lang=ru [12] ALMANAC2020:MARKUP: Markup | 2020 | The Web Almanac by HTTP Archive, Written by Jens Oliver Meiert, Catalin Rosu, and Ian Devlin, Date published: Nov 1, 20202020-11-01, Last updated: Dec 12, 2022, 2024-09-16T13:45:13.000Z https://almanac.httparchive.org/en/2020/markup",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00229\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[9]\u003C/anchor-end> \u000A\u003Cdfn>DataparkSearch:Comments\u003C/dfn>:\u000A\u003Ccsection xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022 xml:lang=\u0022en\u0022>Comments\u003C/csection>, \u000A\u003Ccite xml:lang=\u0022en\u0022>DataparkSearch Engine 4.54: Reference manual\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Maxim Zakharov\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2015-07-18T14:01:07.000Z\u003C/time>, \u003Ctime>2024-09-16T13:37:21.933Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022http://www.dataparksearch.org/dpsearch-htmlparser-comments.en.html\u0022>http://www.dataparksearch.org/dpsearch-htmlparser-comments.en.html\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00228\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[8]\u003C/anchor-end> \u000A\u003Cdfn>Yandex:NOINDEX:EN\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>How do I prohibit indexing of the site or pages? - Webmaster. Help\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022 xml:lang=\u0022ru\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ООО «Яндекс»\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2024-09-16T13:34:57.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://yandex.ru/support/webmaster/adding-site/indexing-prohibition.html?lang=en\u0022>https://yandex.ru/support/webmaster/adding-site/indexing-prohibition.html?lang=en\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002210\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[10]\u003C/anchor-end> \u000A\u003Cdfn>Yandex:NOINDEX:RU\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022ru\u0022>Как запретить индексирование сайта или страниц - Вебмастер. Справка\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022 xml:lang=\u0022ru\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ООО «Яндекс»\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>2024-09-16T13:34:40.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://yandex.ru/support/webmaster/adding-site/indexing-prohibition.html?lang=ru\u0022>https://yandex.ru/support/webmaster/adding-site/indexing-prohibition.html?lang=ru\u003C/anchor-external>\u003C/li>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002212\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[12]\u003C/anchor-end> \u000A\u003Cdfn>ALMANAC2020:MARKUP\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>Markup | 2020 | The Web Almanac by HTTP Archive\u003C/cite>, \u000AWritten by \u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Jens Oliver Meiert\u003C/anchor>\u003C/data>, \u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Catalin Rosu\u003C/anchor>\u003C/data>, and \u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Ian Devlin\u003C/anchor>\u003C/data>,\u000ADate published: \u003Cdata itemprop=\u0022published\u0022>Nov 1, 2020\u003Csw-value xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>2020-11-01\u003C/sw-value>\u003C/data>,\u000ALast updated: Dec 12, 2022,\u000A\u003Ctime>2024-09-16T13:45:13.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://almanac.httparchive.org/en/2020/markup\u0022>https://almanac.httparchive.org/en/2020/markup\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "meta",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>meta\u003C/code>"
          }
       ],
       "日付" : [
@@ -17998,8 +18073,8 @@
       ],
       "注釈" : [
          {
-            "text" : "フルブラウザ ガラケー用の Webサイトに特化した標準の Webブラウザーに対し、一般的な Webサイトの閲覧に対応した Webブラウザー。 NTTドコモがフルブラウザ、 auがPCサイトビューアーなどと称していた。 デスクトップブラウザーdesktop browser フィーチャーフォンやスマートフォンの Webブラウザーとの対比で、 PC 用の伝統的なWebブラウザーのこと。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022ja\u0022>フルブラウザ\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ガラケー\u003C/anchor>用の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>に特化した標準の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>に対し、一般的な \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>の閲覧に対応した \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NTTドコモ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フルブラウザ\u003C/anchor>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>au\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PCサイトビューアー\u003C/anchor>などと称していた。\u003C/li>\u003Cli>\u000A\u003Cdfn>\u003Crubyb xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 xml:lang=\u0022ja\u0022>デスクトップブラウザー\u003Crt xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en\u0022>desktop browser\u003C/rt>\u003C/rubyb>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フィーチャーフォン\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スマートフォン\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>との対比で、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PC\u003C/anchor> 用の伝統的な\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>のこと。\u003C/li>\u003C/ul>"
+            "text" : "フルブラウザ ガラケーのWebブラウザーの種別の1つ。 ガラケー用の Webサイトに特化した標準の Webブラウザーに対し、一般的な Webサイトの閲覧に対応した Webブラウザー。 NTTドコモがフルブラウザ、 auがPCサイトビューアーなどと称していた。 デスクトップブラウザーdesktop browser フィーチャーフォンやスマートフォンの Webブラウザーとの対比で、 PC 用の伝統的なWebブラウザーのこと。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022ja\u0022>フルブラウザ\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ガラケー\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>の種別の1つ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ガラケー\u003C/anchor>用の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>に特化した標準の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>に対し、一般的な \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webサイト\u003C/anchor>の閲覧に対応した \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NTTドコモ\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フルブラウザ\u003C/anchor>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>au\u003C/anchor>が\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PCサイトビューアー\u003C/anchor>などと称していた。\u003C/li>\u003Cli>\u000A\u003Cdfn>\u003Crubyb xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 xml:lang=\u0022ja\u0022>デスクトップブラウザー\u003Crt xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 xml:lang=\u0022en\u0022>desktop browser\u003C/rt>\u003C/rubyb>\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>フィーチャーフォン\u003C/anchor>や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>スマートフォン\u003C/anchor>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>との対比で、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>PC\u003C/anchor> 用の伝統的な\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>のこと。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -22252,8 +22327,8 @@
       ],
       "出典" : [
          {
-            "text" : "Information processing — Text and office systems — Standard Generalized Markup Language (SGML), ISO, 1986-10-23",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite xml:lang=\u0022en\u0022>Information processing — Text and office systems — Standard Generalized Markup Language (SGML)\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1986-10-23\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "ISO8879: Information processing — Text and office systems — Standard Generalized Markup Language (SGML), ISO, 1986-10-23",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>ISO8879\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>Information processing — Text and office systems — Standard Generalized Markup Language (SGML)\u003C/cite>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1986-10-23\u003C/time>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
