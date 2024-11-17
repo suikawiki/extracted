@@ -22306,8 +22306,8 @@
       ],
       "説明" : [
          {
-            "text" : "1986-10-23の ISO 8879:1986 E.1 にある。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1986-10-23\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO 8879:1986 E.1\u003C/anchor> にある。"
+            "text" : "1986-10-23の ISO 8879:1986 E.1 にある。 >>51",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1986-10-23\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO 8879:1986 E.1\u003C/anchor> にある。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>\u003Canchor-internal xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002251\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;51\u003C/anchor-internal>\u003C/src>"
          }
       ]
    },
