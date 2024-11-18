@@ -1667,6 +1667,39 @@
    {
       "_" : [
          {
+            "page_id" : 21862
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "瞬間",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>瞬間\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "時",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>時\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "H",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>H\u003C/sw-ch>"
+         },
+         {
+            "text" : "h",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>h\u003C/sw-ch>"
+         },
+         {
+            "text" : "字",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 21912
          }
       ],
