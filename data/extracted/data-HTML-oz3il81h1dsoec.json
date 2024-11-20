@@ -5844,8 +5844,8 @@
       ],
       "注釈" : [
          {
-            "text" : "NPAPI Webブラウザーのプラグイン用の API。 Netscape Navigator などが実装していた。 RealAudio, Shockwave Director, Flash など多数のプラグインが embed と NPAPI を介して Webブラウザー内で利用できた。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>NPAPI\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラグイン\u003C/anchor>用の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>API\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Navigator\u003C/anchor> などが実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RealAudio\u003C/anchor>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Shockwave Director\u003C/anchor>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Flash\u003C/anchor>\u000Aなど多数の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラグイン\u003C/anchor>が\u000A\u003Ccode>embed\u003C/code>\u000Aと \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NPAPI\u003C/anchor>\u000Aを介して \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>内で利用できた。\u003C/li>\u003C/ul>"
+            "text" : "[217] NPAPI Webブラウザーのプラグイン用の API。 Netscape Navigator などが実装していた。 RealAudio, Shockwave Director, Flash など多数のプラグインが embed と NPAPI を介して Webブラウザー内に表示されて動作した。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u0022217\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[217]\u003C/anchor-end> \u000A\u003Cdfn xml:lang=\u0022en\u0022>NPAPI\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラグイン\u003C/anchor>用の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>API\u003C/anchor>。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Netscape Navigator\u003C/anchor> などが実装していた。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>RealAudio\u003C/anchor>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Shockwave Director\u003C/anchor>,\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Flash\u003C/anchor>\u000Aなど多数の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>プラグイン\u003C/anchor>が\u000A\u003Ccode>embed\u003C/code>\u000Aと\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>NPAPI\u003C/anchor>\u000Aを介して \u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Webブラウザー\u003C/anchor>内に表示されて動作した。\u003C/li>\u003C/ul>"
          }
       ],
       "要素名" : [
@@ -6258,6 +6258,12 @@
             "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-02-11\u003C/time>"
          }
       ],
+      "注釈" : [
+         {
+            "text" : "[22] 当時の HTTP (現在でいう HTTP/0.9) には MIME型の指定がなかった。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u002222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[22]\u003C/anchor-end> \u000A当時の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTTP\u003C/anchor> (現在でいう \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTTP/0.9\u003C/anchor>) には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MIME型\u003C/anchor>の指定がなかった。\u003C/li>\u003C/ul>"
+         }
+      ],
       "要素名" : [
          {
             "text" : "plaintext",
@@ -6266,8 +6272,8 @@
       ],
       "説明" : [
          {
-            "text" : "1991-02-11、 Line Mode Browser は plaintext を実装した。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-02-11\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Line Mode Browser\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>plaintext\u003C/code>\u000Aを実装した。"
+            "text" : "1991-02-11、 Line Mode Browser は plaintext を実装した。 >>22",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-02-11\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Line Mode Browser\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>plaintext\u003C/code>\u000Aを実装した。\u000A\u003Csw-see xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Canchor-internal sw:anchor=\u002222\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>&gt;&gt;22\u003C/anchor-internal>\u003C/sw-see>"
          }
       ]
    },
@@ -24467,8 +24473,8 @@
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>前半頃、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>center\u003C/code>\u000Aから類推される\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>left\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>right\u003C/code>\u000Aはない、と解説されることがたまにあった。"
          },
          {
-            "text" : "実際に right が使われた事例もいくつか知られているが、 表示上の効果はなかったはずで、 何を考えて使われたものか謎である。",
-            "xml" : "\u000A実際に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>right\u003C/code>\u000Aが使われた事例もいくつか知られているが、\u000A表示上の効果はなかったはずで、\u000A何を考えて使われたものか謎である。"
+            "text" : "実際に right が使われた事例もいくつか知られているが、 表示上の効果はなかったはずで、 何を考えて使われたものか謎󠄀である。",
+            "xml" : "\u000A実際に \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>right\u003C/code>\u000Aが使われた事例もいくつか知られているが、\u000A表示上の効果はなかったはずで、\u000A何を考えて使われたものか謎󠄀である。"
          }
       ]
    },
@@ -26883,7 +26889,7 @@
       "説明" : [
          {
             "text" : "2007-12-15、 HtmLayout は richtext を実装した。 textarea, htmlarea に代わるものだという。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-15\u003C/time>、\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>HtmLayout\u003C/cite>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>richtext\u003C/code>\u000Aを実装した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>\u000Aに代わるものだという。"
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>2007-12-15\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HtmLayout\u003C/anchor>\u000Aは\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>richtext\u003C/code>\u000Aを実装した。\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>textarea\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>htmlarea\u003C/code>\u000Aに代わるものだという。"
          }
       ]
    },
@@ -34914,6 +34920,16 @@
          {
             "text" : "[8] Compound Documents in HTML, Paul Burchard, Dave Raggett, Internet Draft, 1995-11-22, 2024-08-16T03:11:27.000Z https://datatracker.ietf.org/doc/html/draft-ietf-html-cda-00",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Canchor-end xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:anchor=\u00228\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>[8]\u003C/anchor-end> \u000A\u003Ccite xml:lang=\u0022en\u0022>Compound Documents in HTML\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Paul Burchard\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Dave Raggett\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022status\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Internet Draft\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1995-11-22\u003C/time>,\u000A\u003Ctime>2024-08-16T03:11:27.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://datatracker.ietf.org/doc/html/draft-ietf-html-cda-00\u0022>https://datatracker.ietf.org/doc/html/draft-ietf-html-cda-00\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+         }
+      ],
+      "参照" : [
+         {
+            "text" : "figtext",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>figtext\u003C/code>"
+         },
+         {
+            "text" : "embed",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>embed\u003C/code>"
          }
       ],
       "日付" : [
