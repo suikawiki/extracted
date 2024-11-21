@@ -3060,6 +3060,12 @@
             "text" : "T",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>T\u003C/sw-ch>"
          }
+      ],
+      "関連" : [
+         {
+            "text" : "真",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>真\u003C/sw-ch>"
+         }
       ]
    },
    {
@@ -6818,6 +6824,10 @@
          {
             "text" : "階",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>階\u003C/sw-ch>"
+         },
+         {
+            "text" : "偽",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>偽\u003C/sw-ch>"
          }
       ]
    },
