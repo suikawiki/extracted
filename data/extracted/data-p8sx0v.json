@@ -5044,6 +5044,35 @@
    {
       "_" : [
          {
+            "page_id" : 39148
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "成",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>成\u003C/sw-ch>"
+         },
+         {
+            "text" : "戌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戌\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "戊",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戊\u003C/sw-ch>"
+         }
+      ],
+      "避諱" : [
+         {
+            "text" : "武",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>武\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 39196
          }
       ],
@@ -7038,6 +7067,25 @@
    {
       "_" : [
          {
+            "page_id" : 45341
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "丙",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>丙\u003C/sw-ch>"
+         }
+      ],
+      "避諱" : [
+         {
+            "text" : "景",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>景\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45343
          }
       ],
@@ -7959,6 +8007,12 @@
          {
             "text" : "武",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>武\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "戊",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戊\u003C/sw-ch>"
          }
       ]
    },
