@@ -3045,6 +3045,12 @@
             "page_id" : 3513
          }
       ],
+      "半回転類似" : [
+         {
+            "text" : "ꓕ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ꓕ\u003C/sw-ch>"
+         }
+      ],
       "字形類似" : [
          {
             "text" : "丁",
@@ -3053,6 +3059,10 @@
          {
             "text" : "Τ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Τ\u003C/sw-ch>"
+         },
+         {
+            "text" : "ꓔ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ꓔ\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -3361,6 +3371,31 @@
          {
             "text" : "ず",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ず\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 31162
+         }
+      ],
+      "半回転類似" : [
+         {
+            "text" : "T",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>T\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ꓕ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ꓕ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "丄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>丄\u003C/sw-ch>"
          }
       ]
    },
