@@ -4974,6 +4974,25 @@
             "page_id" : 38644
          }
       ],
+      "文字" : [
+         {
+            "text" : "IV",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IV\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "IIII",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>IIII\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38644
+         }
+      ],
       "字形類似" : [
          {
             "text" : "9",
@@ -4984,6 +5003,25 @@
          {
             "text" : "4",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>4\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38644
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "四",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>四\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "死",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>死\u003C/sw-ch>"
          }
       ]
    },
