@@ -2545,8 +2545,8 @@
       ],
       "説明" : [
          {
-            "text" : "1990-12-04付ファイルに ol, li があるのが現存最古の用例である。 また、 1991-01-08付ファイルに ul があるのが現存最古の用例で、 以後 ol は使われなくなる。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-04\u003C/time>付ファイルに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>\u000Aがあるのが現存最古の用例である。\u000Aまた、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1991-01-08\u003C/time>付ファイルに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>\u000Aがあるのが現存最古の用例で、\u000A以後\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>\u000Aは使われなくなる。"
+            "text" : "1990-12-04付ファイルに ol, li があるのが現存最古の用例である。 また、 1990-12-07付ファイルに ul があるのが現存最古の用例で、 ol と混在しているが、翌年以後 ol は使われなくなる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-04\u003C/time>付ファイルに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>\u000Aがあるのが現存最古の用例である。\u000Aまた、\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付ファイルに\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>\u000Aがあるのが現存最古の用例で、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code> と混在しているが、翌年以後\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>\u000Aは使われなくなる。"
          }
       ]
    },
@@ -6040,8 +6040,8 @@
       ],
       "注釈" : [
          {
-            "text" : "W3C World Wide Web Consortium Web 技術の標準化団体の1つ。 Web やインターネットに関係する企業が会員として参画する企業コンソーシアムで、 1994に設立後、 MIT や慶応大学湘南藤沢キャンパス (SFC) などを拠点としていた。 2023から米国法人となっている。 平成時代初期には HTML 仕様の開発者らの活動母体として、 平成時代中期には HTML を初めとする Web 関連技術の標準化団体として機能した。 現在も CSS や JavaScript 用の Web API などの標準仕様を多く開発している。",
-            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>W3C\u003C/dfn> \u003Cdfn xml:lang=\u0022en\u0022>World Wide Web Consortium\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor> 技術の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>標準化団体\u003C/anchor>の1つ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor> や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>インターネット\u003C/anchor>に関係する企業が会員として参画する企業コンソーシアムで、\u000A\u003Ctime>1994\u003C/time>に設立後、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MIT\u003C/anchor> や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>慶応大学湘南藤沢キャンパス\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SFC\u003C/anchor>)\u000Aなどを拠点としていた。\u000A\u003Ctime>2023\u003C/time>から米国法人となっている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>初期には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 仕様の開発者らの活動母体として、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>中期には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> を初めとする \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor>\u000A関連技術の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>標準化団体\u003C/anchor>として機能した。\u000A現在も \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CSS\u003C/anchor> や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> 用の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web API\u003C/anchor> などの標準仕様を多く開発している。\u003C/li>\u003C/ul>"
+            "text" : "W3C World Wide Web Consortium Web 技術の標準化団体の1つ。 Web やインターネットに関係する企業が会員として参画する企業コンソーシアムで、 1994に設立後、 MIT や慶応大学湘南藤沢キャンパス (SFC) などを拠点としていた。 2023から米国法人となっている。 平成時代初期には HTML 仕様の開発者らの活動母体として、 平成時代中期には HTML をはじめとする Web 関連技術の標準化団体として機能した。 現在も CSS や JavaScript 用の Web API などの標準仕様を多く開発している。",
+            "xml" : "\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn xml:lang=\u0022en\u0022>W3C\u003C/dfn> \u003Cdfn xml:lang=\u0022en\u0022>World Wide Web Consortium\u003C/dfn>\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor> 技術の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>標準化団体\u003C/anchor>の1つ。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor> や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>インターネット\u003C/anchor>に関係する企業が会員として参画する企業コンソーシアムで、\u000A\u003Ctime>1994\u003C/time>に設立後、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>MIT\u003C/anchor> や\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>慶応大学湘南藤沢キャンパス\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>SFC\u003C/anchor>)\u000Aなどを拠点としていた。\u000A\u003Ctime>2023\u003C/time>から米国法人となっている。\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>初期には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> 仕様の開発者らの活動母体として、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>平成時代\u003C/anchor>中期には \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> をはじめとする \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web\u003C/anchor>\u000A関連技術の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>標準化団体\u003C/anchor>として機能した。\u000A現在も \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>CSS\u003C/anchor> や \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JavaScript\u003C/anchor> 用の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Web API\u003C/anchor> などの標準仕様を多く開発している。\u003C/li>\u003C/ul>"
          }
       ]
    },
@@ -25742,57 +25742,6 @@
       ],
       "出典" : [
          {
-            "text" : "HTML 1991",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML 1991\u003C/anchor>"
-         }
-      ],
-      "日付" : [
-         {
-            "text" : "1990-12-07",
-            "xml" : "\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>"
-         }
-      ],
-      "要素名" : [
-         {
-            "text" : "ul",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>"
-         },
-         {
-            "text" : "ol",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>"
-         },
-         {
-            "text" : "dl",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>"
-         },
-         {
-            "text" : "li",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>"
-         },
-         {
-            "text" : "dt",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>"
-         },
-         {
-            "text" : "dd",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>"
-         }
-      ],
-      "説明" : [
-         {
-            "text" : "1990-12-07付の HTML ファイルで ul, ol, li, dl, dt, dd が使われている。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1990-12-07\u003C/time>付の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML\u003C/anchor> ファイルで\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ul\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>ol\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>li\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dl\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dt\u003C/code>,\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>dd\u003C/code>\u000Aが使われている。"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
-            "page_id" : 4913
-         }
-      ],
-      "出典" : [
-         {
             "text" : "Change History of Line Mode Browser, Tim Berners-Lee, Henrik Frystyk, 1998/04/23 00:30:091998-04-23T00:30:09.000Z, 2024-08-14T02:41:03.708Z https://www.w3.org/LineMode/User/Features.html",
             "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Ccite>Change History of Line Mode Browser\u003C/cite>, \u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Tim Berners-Lee\u003C/anchor>\u003C/data>,\u000A\u003Cdata itemprop=\u0022author\u0022>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Henrik Frystyk\u003C/anchor>\u003C/data>,\u000A\u003Ctime itemprop=\u0022published\u0022>1998/04/23 00:30:09\u003Cattrvalue xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>1998-04-23T00:30:09.000Z\u003C/attrvalue>\u003C/time>, \u000A\u003Ctime>2024-08-14T02:41:03.708Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://www.w3.org/LineMode/User/Features.html\u0022>https://www.w3.org/LineMode/User/Features.html\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
@@ -29681,8 +29630,8 @@
       ],
       "出典" : [
          {
-            "text" : "OpenUI:SelectNaming: select: Naming of \u003Cselectedoption> · Issue #1112 · openui/open-ui · GitHub, 2024-11-27T10:04:53.000Z https://github.com/openui/open-ui/issues/1112",
-            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>OpenUI:SelectNaming\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>select: Naming of &lt;selectedoption&gt; · Issue #1112 · openui/open-ui · GitHub\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-11-27T10:04:53.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/openui/open-ui/issues/1112\u0022>https://github.com/openui/open-ui/issues/1112\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
+            "text" : "OUI:SelectNaming: select: Naming of \u003Cselectedoption> · Issue #1112 · openui/open-ui · GitHub, 2024-11-27T10:04:53.000Z https://github.com/openui/open-ui/issues/1112",
+            "xml" : "\u003Crefs xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u000A\u003Cdfn>OUI:SelectNaming\u003C/dfn>:\u000A\u003Ccite xml:lang=\u0022en\u0022>select: Naming of &lt;selectedoption&gt; · Issue #1112 · openui/open-ui · GitHub\u003C/cite>, \u000A\u003Ctime itemprop=\u0022seen\u0022>2024-11-27T10:04:53.000Z\u003C/time> \u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/openui/open-ui/issues/1112\u0022>https://github.com/openui/open-ui/issues/1112\u003C/anchor-external>\u003C/li>\u003C/ul>\u003C/refs>"
          }
       ],
       "日付" : [
@@ -32837,8 +32786,8 @@
       ],
       "説明" : [
          {
-            "text" : "1994-05-17の HTML DTD は、 key は広く対応されていないとの理由で、 任意選択の機能に格下げした。 HTML19940517 その後削除された。 現在の kbd の入れ子に当たる。",
-            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML DTD\u003C/anchor> は、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>key\u003C/code>\u000Aは広く対応されていないとの理由で、\u000A任意選択の機能に格下げした。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML19940517\u003C/src>\u000Aその後削除された。\u000A現在の \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kbd\u003C/code>\u000Aの入れ子に当たる。"
+            "text" : "1994-05-17、 HTML DTD は、 key は広く対応されていないとして任意選択に格下げした。 HTML19940517 その後削除された。 現在の kbd の入れ子に当たる。",
+            "xml" : "\u000A\u003Ctime xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>1994-05-17\u003C/time>、\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>HTML DTD\u003C/anchor> は、\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>key\u003C/code>\u000Aは広く対応されていないとして任意選択に格下げした。\u000A\u003Csrc xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>HTML19940517\u003C/src>\u000Aその後削除された。\u000A現在の \u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kbd\u003C/code>\u000Aの入れ子に当たる。"
          }
       ]
    },
