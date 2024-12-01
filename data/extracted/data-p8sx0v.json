@@ -4139,6 +4139,33 @@
    {
       "_" : [
          {
+            "page_id" : 34557
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "㍍",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㍍\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "米",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>米\u003C/sw-ch>"
+         },
+         {
+            "text" : "m",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>m\u003C/sw-ch>"
+         },
+         {
+            "text" : "M",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>M\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 34781
          }
       ],
