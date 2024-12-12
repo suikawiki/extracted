@@ -3388,6 +3388,16 @@
          {
             "text" : "⺊",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⺊\u003C/sw-ch>"
+         },
+         {
+            "text" : "ㅏ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ㅏ\u003C/sw-ch>"
+         }
+      ],
+      "左右反転類似" : [
+         {
+            "text" : "ㅓ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ㅓ\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -5443,6 +5453,10 @@
          {
             "text" : "㆐",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㆐\u003C/sw-ch>"
+         },
+         {
+            "text" : "ㅣ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ㅣ\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -5744,6 +5758,25 @@
    {
       "_" : [
          {
+            "page_id" : 44504
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "垳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>垳\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "桁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>桁\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 44527
          }
       ],
@@ -5997,6 +6030,10 @@
          {
             "text" : "ス",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ス\u003C/sw-ch>"
+         },
+         {
+            "text" : "ㄱ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ㄱ\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -9135,6 +9172,120 @@
          {
             "text" : "I",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>I\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46403
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "家",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>家\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "屋",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>屋\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46405
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ㅗ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ㅗ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "亠",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亠\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "音",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>音\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46406
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ㅐ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ㅐ\u003C/sw-ch>"
+         },
+         {
+            "text" : "ㅣㅓ",
+            "xml" : "ㅣㅓ"
+         },
+         {
+            "text" : "ㅏㅣ",
+            "xml" : "ㅏㅣ"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "H",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>H\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "㍻",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㍻\u003C/sw-ch>"
+         },
+         {
+            "text" : "氫",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>氫\u003C/sw-ch>"
+         },
+         {
+            "text" : "時",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>時\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46406
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "n",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>n\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "h",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>h\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "時",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>時\u003C/sw-ch>"
+         },
+         {
+            "text" : "㍻",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㍻\u003C/sw-ch>"
          }
       ]
    },
