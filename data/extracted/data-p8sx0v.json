@@ -5534,6 +5534,33 @@
             "page_id" : 43012
          }
       ],
+      "同訓異字" : [
+         {
+            "text" : "杜",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>杜\u003C/sw-ch>"
+         },
+         {
+            "text" : "社",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>社\u003C/sw-ch>"
+         },
+         {
+            "text" : "神社",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>神社\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "森",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>森\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 43012
+         }
+      ],
       "字形類似" : [
          {
             "text" : "不",
@@ -5965,6 +5992,12 @@
          {
             "text" : "本",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>本\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "夲",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夲\u003C/sw-ch>"
          }
       ],
       "関連" : [
