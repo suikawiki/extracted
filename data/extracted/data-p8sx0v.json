@@ -4849,6 +4849,25 @@
    {
       "_" : [
          {
+            "page_id" : 38024
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "卅",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>卅\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "州",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>州\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 38252
          }
       ],
@@ -6621,6 +6640,25 @@
          {
             "text" : "士",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>士\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 44891
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "世",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>世\u003C/sw-ch>"
+         }
+      ],
+      "避諱" : [
+         {
+            "text" : "代",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>代\u003C/sw-ch>"
          }
       ]
    },
