@@ -2,6 +2,25 @@
    {
       "_" : [
          {
+            "page_id" : 26928
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "霸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>霸\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "魄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>魄\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45199
          }
       ],
