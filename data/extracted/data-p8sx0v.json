@@ -3247,6 +3247,12 @@
             "text" : "人",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>人\u003C/sw-ch>"
          }
+      ],
+      "異体字" : [
+         {
+            "text" : ":touki01002280",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:touki01002280\u003C/code>"
+         }
       ]
    },
    {
