@@ -3554,6 +3554,25 @@
    {
       "_" : [
          {
+            "page_id" : 31180
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "昔",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>昔\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "音",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>音\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 31394
          }
       ],
