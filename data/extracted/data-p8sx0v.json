@@ -414,6 +414,25 @@
    {
       "_" : [
          {
+            "page_id" : 13187
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "渉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>渉\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "渋",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>渋\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 13452
          }
       ],
@@ -3438,6 +3457,33 @@
          {
             "text" : "歩",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>歩\u003C/sw-ch>"
+         },
+         {
+            "text" : "金",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>金\u003C/sw-ch>"
+         },
+         {
+            "text" : "今",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>今\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 30675
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "今",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>今\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "金",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>金\u003C/sw-ch>"
          }
       ]
    },
