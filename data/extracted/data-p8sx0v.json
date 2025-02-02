@@ -9773,6 +9773,29 @@
    {
       "_" : [
          {
+            "page_id" : 46541
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "真剣",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>真剣\u003C/anchor>"
+         },
+         {
+            "text" : "真実",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>真実\u003C/anchor>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "本気",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>本気\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46063
          }
       ],
