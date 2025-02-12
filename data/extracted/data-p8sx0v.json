@@ -9815,6 +9815,25 @@
    {
       "_" : [
          {
+            "page_id" : 46562
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "盛",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>盛\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "栄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>栄\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46063
          }
       ],
