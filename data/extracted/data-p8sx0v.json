@@ -5421,6 +5421,10 @@
          {
             "text" : "9",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>9\u003C/sw-ch>"
+         },
+         {
+            "text" : "A",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>A\u003C/sw-ch>"
          }
       ],
       "文字" : [
