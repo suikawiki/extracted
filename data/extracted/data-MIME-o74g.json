@@ -103,25 +103,6 @@
    {
       "MIME型" : [
          {
-            "text" : "application/x-btron-bpack",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/x-btron-bpack\u003C/code>"
-         }
-      ],
-      "_" : [
-         {
-            "page_id" : 24257
-         }
-      ],
-      "説明" : [
-         {
-            "text" : "TAD書庫",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TAD\u003C/anchor>書庫"
-         }
-      ]
-   },
-   {
-      "MIME型" : [
-         {
             "text" : "application/x-btron-pacf",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/x-btron-pacf\u003C/code>"
          }
@@ -323,6 +304,25 @@
          {
             "text" : "JWK",
             "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JWK\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "MIME型" : [
+         {
+            "text" : "application/x-btron-bpack",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>application/x-btron-bpack\u003C/code>"
+         }
+      ],
+      "_" : [
+         {
+            "page_id" : 46633
+         }
+      ],
+      "説明" : [
+         {
+            "text" : "TAD書庫",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TAD\u003C/anchor>書庫"
          }
       ]
    }
