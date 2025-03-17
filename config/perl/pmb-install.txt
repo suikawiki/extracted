@@ -1,12 +1,12 @@
 Algorithm::Diff~1.201
-AnyEvent~7.17
+AnyEvent::Util
 Capture::Tiny~0.50
 Carp~1.50
 MRO::Compat~0.15
 Module::Build~0.4234
 Module::Runtime~0.016
 Path::Class~0.37
-Path::Tiny~0.146
+Path::Tiny~0.148
 Scalar::Util~1.68
 Socket~2.038
 Term::Table~0.024
