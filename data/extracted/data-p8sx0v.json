@@ -6564,6 +6564,29 @@
    {
       "_" : [
          {
+            "page_id" : 44612
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "る",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>る\u003C/sw-ch>"
+         },
+         {
+            "text" : "ぬ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ぬ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ゐ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ゐ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 44627
          }
       ],
