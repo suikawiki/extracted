@@ -9975,6 +9975,25 @@
    {
       "_" : [
          {
+            "page_id" : 46761
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "史",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>史\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "誌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>誌\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46087
          }
       ],
