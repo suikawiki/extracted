@@ -6027,6 +6027,12 @@
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>神社\u003C/sw-ch>"
          }
       ],
+      "字形類似" : [
+         {
+            "text" : "木林",
+            "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>木林\u003C/sw-v>"
+         }
+      ],
       "文字" : [
          {
             "text" : "森",
@@ -6048,6 +6054,10 @@
          {
             "text" : "ホ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ホ\u003C/sw-ch>"
+         },
+         {
+            "text" : "水",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>水\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -6060,6 +6070,18 @@
          {
             "text" : "議",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>議\u003C/sw-ch>"
+         },
+         {
+            "text" : "🌲",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🌲\u003C/sw-ch>"
+         },
+         {
+            "text" : "🌳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🌳\u003C/sw-ch>"
+         },
+         {
+            "text" : "🌴",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🌴\u003C/sw-ch>"
          }
       ]
    },
