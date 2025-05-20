@@ -9258,6 +9258,25 @@
    {
       "_" : [
          {
+            "page_id" : 45784
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "🇹🇩",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇹🇩\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "🇷🇴",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇷🇴\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45795
          }
       ],
