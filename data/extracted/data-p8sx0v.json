@@ -10128,6 +10128,25 @@
    {
       "_" : [
          {
+            "page_id" : 46837
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "噺",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>噺\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "話",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>話\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 46087
          }
       ],
@@ -10141,6 +10160,12 @@
          {
             "text" : "罒",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>罒\u003C/sw-ch>"
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "日",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>日\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -10169,6 +10194,25 @@
          {
             "text" : "の",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>の\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 46087
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "眠",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>眠\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "眼",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>眼\u003C/sw-ch>"
          }
       ]
    },
