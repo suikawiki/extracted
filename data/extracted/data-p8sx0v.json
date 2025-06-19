@@ -10242,6 +10242,25 @@
    {
       "_" : [
          {
+            "page_id" : 46896
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "枚",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>枚\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "故",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>故\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
