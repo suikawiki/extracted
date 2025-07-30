@@ -6,7 +6,7 @@ MRO::Compat~0.15
 Module::Runtime~0.018
 Path::Class~0.37
 Path::Tiny~0.150
-Scalar::Util~1.69
+Scalar::Util~1.70
 Socket~2.040
 Term::Table~0.024
 Test::Class~0.52
