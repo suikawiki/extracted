@@ -44,29 +44,6 @@
    {
       "_" : [
          {
-            "page_id" : 580
-         }
-      ],
-      "同訓異字" : [
-         {
-            "text" : "邦",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>邦\u003C/sw-ch>"
-         },
-         {
-            "text" : "クニ",
-            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>クニ\u003C/anchor>"
-         }
-      ],
-      "文字" : [
-         {
-            "text" : "国",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国\u003C/sw-ch>"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
             "page_id" : 745
          }
       ],
@@ -10263,6 +10240,45 @@
          {
             "text" : "故",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>故\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 47114
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "邦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>邦\u003C/sw-ch>"
+         },
+         {
+            "text" : "クニ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>クニ\u003C/anchor>"
+         },
+         {
+            "text" : "故郷",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>故郷\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "国",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>国\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "囗",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>囗\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "州",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>州\u003C/sw-ch>"
          }
       ]
    },
