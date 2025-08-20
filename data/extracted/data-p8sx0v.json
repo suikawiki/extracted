@@ -10279,6 +10279,10 @@
          {
             "text" : "州",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>州\u003C/sw-ch>"
+         },
+         {
+            "text" : "𡆮",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𡆮\u003C/sw-ch>"
          }
       ]
    },
