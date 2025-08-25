@@ -9480,6 +9480,12 @@
             "text" : "申",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>申\u003C/sw-ch>"
          }
+      ],
+      "関連" : [
+         {
+            "text" : "言",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>言\u003C/sw-ch>"
+         }
       ]
    },
    {
