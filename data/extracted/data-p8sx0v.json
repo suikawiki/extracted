@@ -3139,6 +3139,37 @@
    {
       "_" : [
          {
+            "page_id" : 29097
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "共",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>共\u003C/sw-ch>"
+         },
+         {
+            "text" : "伴",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>伴\u003C/sw-ch>"
+         },
+         {
+            "text" : "供",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>供\u003C/sw-ch>"
+         },
+         {
+            "text" : "強敵",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>強敵\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "友",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>友\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 3198
          }
       ],
