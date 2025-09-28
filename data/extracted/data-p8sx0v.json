@@ -204,6 +204,25 @@
    {
       "_" : [
          {
+            "page_id" : 1338
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "鼎",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>鼎\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "県",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>県\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 1487
          }
       ],
