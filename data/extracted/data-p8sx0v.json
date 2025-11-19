@@ -10646,6 +10646,44 @@
    {
       "_" : [
          {
+            "page_id" : 47417
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "朋",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>朋\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "用",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>用\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 47418
+         }
+      ],
+      "同訓異字" : [
+         {
+            "text" : "鑑",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>鑑\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "鏡",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>鏡\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
