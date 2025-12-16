@@ -7931,6 +7931,31 @@
             "text" : "損",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>損\u003C/sw-ch>"
          }
+      ],
+      "異体字" : [
+         {
+            "text" : "扌",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>扌\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 45292
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "町",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>町\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "丁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>丁\u003C/sw-ch>"
+         }
       ]
    },
    {
@@ -10684,6 +10709,25 @@
          {
             "text" : "鏡",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>鏡\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 47470
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "町",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>町\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "丁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>丁\u003C/sw-ch>"
          }
       ]
    },
