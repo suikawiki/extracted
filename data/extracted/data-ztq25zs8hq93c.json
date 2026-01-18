@@ -1291,6 +1291,500 @@
    {
       "_" : [
          {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "誤りを修正。",
+            "xml" : "\u000A誤りを修正。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "tron:fixed",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>tron:fixed\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "重複として削除されたものから残されたものへ。",
+            "xml" : "\u000A重複として削除されたものから残されたものへ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "tron:removed",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>tron:removed\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "TRONコードが定義として参照する文字へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TRONコード\u003C/anchor>が定義として参照する\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文字\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "tron:definition",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>tron:definition\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "SS フォント群で字形を共有。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>SS\u003C/cite> フォント群で\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>を共有。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "ss:glyph-shared",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ss:glyph-shared\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "超漢字版GT書体で字形を共有。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>超漢字\u003C/cite>版\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GT書体\u003C/cite>で\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>を共有。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "gt:glyph-shared",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>gt:glyph-shared\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "超漢字版Tフォントで字形を共有。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>超漢字\u003C/cite>版\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Tフォント\u003C/cite>で\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>を共有。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "t:glyph-shared",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>t:glyph-shared\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「JIS3・4→各国」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「JIS3・4→各国」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:JIS3・4→各国",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:JIS3・4→各国\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「台湾→各国」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「台湾→各国」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:台湾→各国",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:台湾→各国\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「CJK互換→日本基本・補助」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「CJK互換→日本基本・補助」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:CJK互換→日本基本・補助",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:CJK互換→日本基本・補助\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「各国→JIS3・4」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「各国→JIS3・4」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:各国→JIS3・4",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:各国→JIS3・4\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「IBM2TRON」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「IBM2TRON」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:IBM2TRON",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:IBM2TRON\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「Uni2Tron」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「Uni2Tron」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:Uni2Tron",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:Uni2Tron\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「UniGokan」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「UniGokan」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:UniGokan",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:UniGokan\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「日本基本補助→中国基本」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「日本基本補助→中国基本」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:日本基本補助→中国基本",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:日本基本補助→中国基本\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「各国漢字→旧字体」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「各国漢字→旧字体」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:各国漢字→旧字体",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:各国漢字→旧字体\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「日本基本補助→旧字体」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「日本基本補助→旧字体」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:日本基本補助→旧字体",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:日本基本補助→旧字体\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "wenjian より「旧字体文書→Uni」。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wenjian\u003C/cite> より「旧字体文書→Uni」。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "wenjian:旧字体文書→Uni",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>wenjian:旧字体文書→Uni\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の UTF-8。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UTF-8\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:utf-8",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:utf-8\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の GB2312。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>GB2312\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:gb2312",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:gb2312\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の EUC-JP。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>EUC-JP\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:euc-jp",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:euc-jp\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の EUC-KR。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>EUC-KR\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:euc-kr",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:euc-kr\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の Shift_JIS。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Shift_JIS\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:shift_jis",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:shift_jis\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の Shift_JIS (iモード絵文字有効)。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Shift_JIS\u003C/anchor> (\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>iモード絵文字\u003C/anchor>有効)。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:shift_jis-imode",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:shift_jis-imode\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の ISO-8859-1。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO-8859-1\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:iso-8859-1",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:iso-8859-1\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の ISO-2022-JP。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ISO-2022-JP\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:iso-2022-jp",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:iso-2022-jp\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "BBB の Big5。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Big5\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "btron:big5",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>btron:big5\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 10064
          }
       ],
