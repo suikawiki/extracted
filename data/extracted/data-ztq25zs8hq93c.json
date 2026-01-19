@@ -1619,6 +1619,82 @@
       ],
       "desc" : [
          {
+            "text" : "超漢字ホツマ文字図表の行へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>超漢字\u003C/cite>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ホツマ文字\u003C/anchor>図表の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>行\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "tron:ホツマ:行",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>tron:ホツマ:行\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "超漢字ホツマ文字図表の段へ。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>超漢字\u003C/cite>\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ホツマ文字\u003C/anchor>図表の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>段\u003C/anchor>へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "tron:ホツマ:段",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>tron:ホツマ:段\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "TRONコードのアーヴ文字からそのラテン文字「転写」へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TRONコード\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アーヴ文字\u003C/anchor>からその\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ラテン文字\u003C/anchor>「転写」へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "tron:転写",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>tron:転写\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "TRONコードのアーヴ文字からその「音価」へ。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>TRONコード\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>アーヴ文字\u003C/anchor>からその「音価」へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "tron:音価",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>tron:音価\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 1918
+         }
+      ],
+      "desc" : [
+         {
             "text" : "BBB の UTF-8。",
             "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>BBB\u003C/cite> の \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>UTF-8\u003C/anchor>。"
          }
