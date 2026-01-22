@@ -8128,6 +8128,25 @@
    {
       "_" : [
          {
+            "page_id" : 4733
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "通常字形から oblique 字形へ。",
+            "xml" : "\u000A通常字形から \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>oblique\u003C/anchor> 字形へ。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:oblique",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:oblique\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 42976
          }
       ],
