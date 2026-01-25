@@ -3363,6 +3363,25 @@
       ],
       "desc" : [
          {
+            "text" : "https://github.com/takp/kanji_chinese_converter の JaZhCn。",
+            "xml" : "\u000A\u003Canchor-external xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resScheme=\u0022URI\u0022 xmlns:sw=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022 sw:resParameter=\u0022https://github.com/takp/kanji_chinese_converter\u0022>https://github.com/takp/kanji_chinese_converter\u003C/anchor-external>\u000Aの\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>JaZhCn\u003C/code>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "KanjiChineseConverter:JaZhCn",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>KanjiChineseConverter:JaZhCn\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 24866
+         }
+      ],
+      "desc" : [
+         {
             "text" : "kVariants.txt (種別 wrong!)。",
             "xml" : "\u000A\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>kVariants.txt\u003C/code> (種別 \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>wrong!\u003C/code>)。"
          }
