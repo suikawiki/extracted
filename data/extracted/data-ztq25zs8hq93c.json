@@ -4059,8 +4059,8 @@
       ],
       "desc" : [
          {
-            "text" : "同じ書体かつ当該書体の構造上同等と考えられる字形。 図形として同一であるとは限らない。",
-            "xml" : "\u000A同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>かつ当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>の構造上同等と考えられる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。\u000A図形として同一であるとは限らない。"
+            "text" : "同じ書体かつ当該書体の構造上同等と考えられる字形。 図形として同一であるとは限らない。 図形以外の部分 (前進, cmap, GSUB など) は問題としない。",
+            "xml" : "\u000A同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>かつ当該\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>書体\u003C/anchor>の構造上同等と考えられる\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。\u000A図形として同一であるとは限らない。\u000A図形以外の部分 (\u003Cf xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>前進\u003C/f>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>cmap\u003C/code>, \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>GSUB\u003C/code> など) は問題としない。"
          }
       ],
       "key" : [
