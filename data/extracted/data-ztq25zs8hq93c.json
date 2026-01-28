@@ -7886,6 +7886,44 @@
       ],
       "desc" : [
          {
+            "text" : "JIS X 0208:1997 縦書きの例示字体と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0208:1997\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>縦書き\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:equivglyph:jisx0208:1997:vert",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:equivglyph:jisx0208:1997:vert\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37556
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "JIS X 0213:2000 縦書きの例示字体と同等の字形。",
+            "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>JIS X 0213:2000\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>縦書き\u003C/anchor>の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>例示字体\u003C/anchor>と同等の\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "manakai:equivglyph:jisx0213:2000:vert",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>manakai:equivglyph:jisx0213:2000:vert\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37556
+         }
+      ],
+      "desc" : [
+         {
             "text" : "OpenType 機能フォント機能 vert (または相当)。",
             "xml" : "\u000A\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>OpenType\u003C/anchor> \u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>機能\u003Ctitle xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>フォント機能\u003C/title>\u003C/anchor> \u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>vert\u003C/code> (または相当)。"
          }
