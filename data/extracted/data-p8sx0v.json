@@ -11166,6 +11166,60 @@
    {
       "_" : [
          {
+            "page_id" : 47583
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "匁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>匁\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "㦮",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㦮\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "文メ",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>文メ\u003C/anchor>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 47591
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "戔",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>戔\u003C/sw-ch>"
+         }
+      ],
+      "新字体" : [
+         {
+            "text" : "㦮",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㦮\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "銭",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>銭\u003C/sw-ch>"
+         },
+         {
+            "text" : "匁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>匁\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 5222
          }
       ],
