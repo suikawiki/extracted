@@ -26,6 +26,9 @@
             },
             {
                "run" : "git push origin \u002B`git rev-parse HEAD`:refs/heads/nightly"
+            },
+            {
+               "run" : "curl -sSf ${{ secrets.BWALLER_URL }} | BWALL_GROUP=merger.${GITHUB_REF/refs\u005C/heads\u005C//} BWALL_NAME=hook.${GITHUB_REPOSITORY} bash"
             }
          ]
       }
