@@ -24,6 +24,7 @@ my $FileList = {};
 }
 
 my $AllData = {};
+my $Stats = {};
 
 sub to_text ($) {
   my $el = shift;
@@ -146,6 +147,11 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
       push @{$AllData->{$type} ||= []}, $props;
     }
   }
+  
+  for my $rep_el (@{$doc->query_selector_all ('replace')}) {
+    my $by = $rep_el->get_attribute ('by');
+    $Stats->{swml_replace}->{$by}->{$page_id}++;
+  } # $rep_el
 }
 
 system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E"
@@ -158,6 +164,16 @@ for my $type (sort { $a cmp $b } keys %$AllData) {
   my $path = $OutPath->child ($name);
 
   $path->spew (perl2json_bytes_for_record $AllData->{$type});
+  system "cd \Q$RootPath\E && git add \Q@{[$path->relative ($RootPath)]}\E"
+      unless $NO_GIT;
+}
+for my $type (sort { $a cmp $b } keys %$Stats) {
+  my $name = encode_punycode $type;
+  $name =~ s/([^0-9A-Za-z-])/sprintf '_%02X', ord $1/ge;
+  $name = "stats-$name.json";
+  my $path = $OutPath->child ($name);
+
+  $path->spew (perl2json_bytes_for_record $Stats->{$type});
   system "cd \Q$RootPath\E && git add \Q@{[$path->relative ($RootPath)]}\E"
       unless $NO_GIT;
 }
