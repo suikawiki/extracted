@@ -1514,6 +1514,18 @@
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>111\u003C/code>"
          },
          {
+            "text" : "JII",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>JII\u003C/code>"
+         },
+         {
+            "text" : "III",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>III\u003C/code>"
+         },
+         {
+            "text" : "IIJ",
+            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>IIJ\u003C/code>"
+         },
+         {
             "text" : ":tron10-213c",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:tron10-213c\u003C/code>"
          }
@@ -4835,6 +4847,48 @@
          {
             "text" : "皇",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>皇\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34783
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "へ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>へ\u003C/sw-ch>"
+         },
+         {
+            "text" : "^",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>^\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Creplace by=\u0022swk:〱.HIRA1.o1\u0022>\u003C/replace>\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 34783
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "へ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>へ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>\u003Creplace by=\u0022swk:〱.HIRA1.o0\u0022>\u003C/replace>\u003C/sw-ch>"
          }
       ]
    },
