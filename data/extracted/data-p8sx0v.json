@@ -3225,6 +3225,25 @@
             "page_id" : 29769
          }
       ],
+      "文字" : [
+         {
+            "text" : "ゆ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ゆ\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "い",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>い\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 29769
+         }
+      ],
       "字形類似" : [
          {
             "text" : ":UTC-0337",
