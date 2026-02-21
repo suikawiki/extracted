@@ -59,8 +59,8 @@ local-swdata-grep:
 extract: extract-1 extract-2
 extract-1: bin/extract.pl local/files.txt
 	$(PERL) bin/extract.pl
-extract-2: bin/extract-swir.txt local/swir-files.txt
-	$(PERL) bin/extract-swir.txt
+extract-2: bin/extract-swir.pl local/swir-files.txt
+	$(PERL) bin/extract-swir.pl
 
 ## ------ Tests ------
 
