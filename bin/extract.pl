@@ -154,7 +154,7 @@ for my $file_name (sort { $a cmp $b } keys %$FileList) {
   } # $rep_el
 }
 
-system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E"
+system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E/data-* \Q@{[$OutPath->relative ($RootPath)]}\E/stats-*"
     unless $NO_GIT;
 $OutPath->mkpath;
 for my $type (sort { $a cmp $b } keys %$AllData) {

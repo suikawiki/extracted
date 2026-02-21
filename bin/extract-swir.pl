@@ -23,7 +23,7 @@ my $IDList = {};
   }
 }
 
-system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E"
+system "cd \Q$RootPath\E && git rm -r \Q@{[$OutPath->relative ($RootPath)]}\E/swir-*"
     unless $NO_GIT;
 $OutPath->mkpath;
 {
