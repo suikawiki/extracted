@@ -54,9 +54,13 @@ local-swdata-grep:
 	cd local/data && $(GIT) grep '^\[FIG' ids/ | grep 'data' > ../../local/files.txt
 	cd local/data && $(GIT) grep '^\[ITEMS' ids/ >> ../../local/files.txt
 	cd local/data && $(GIT) grep '^__&&' ids/ >> ../../local/files.txt
+	cd local/data && $(GIT) grep -l '$$content-type:application/swir+json' -- '*/*.props' > ../../local/swir-files.txt
 
-extract: bin/extract.pl local/files.txt
+extract: extract-1 extract-2
+extract-1: bin/extract.pl local/files.txt
 	$(PERL) bin/extract.pl
+extract-2: bin/extract-swir.txt local/swir-files.txt
+	$(PERL) bin/extract-swir.txt
 
 ## ------ Tests ------
 
