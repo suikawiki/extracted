@@ -2586,6 +2586,37 @@
    {
       "_" : [
          {
+            "page_id" : 27792
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "🇷🇺",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🇷🇺\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "露",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>露\u003C/sw-ch>"
+         },
+         {
+            "text" : "ロ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ロ\u003C/sw-ch>"
+         },
+         {
+            "text" : "魯",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>魯\u003C/sw-ch>"
+         },
+         {
+            "text" : "Z",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>Z\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 27866
          }
       ],
@@ -9673,6 +9704,10 @@
          {
             "text" : "遣",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>遣\u003C/sw-ch>"
+         },
+         {
+            "text" : "犯",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>犯\u003C/sw-ch>"
          }
       ],
       "文字" : [
