@@ -7394,6 +7394,10 @@
          {
             "text" : "ワ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ワ\u003C/sw-ch>"
+         },
+         {
+            "text" : "¬",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>¬\u003C/sw-ch>"
          }
       ],
       "文字" : [
