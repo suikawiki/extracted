@@ -11854,6 +11854,25 @@
    {
       "_" : [
          {
+            "page_id" : 48104
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "韯",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>韯\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "截",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>截\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
