@@ -11973,6 +11973,35 @@
    {
       "_" : [
          {
+            "page_id" : 48246
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "广",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>广\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "厂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>厂\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "歴",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>歴\u003C/sw-ch>"
+         },
+         {
+            "text" : "暦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>暦\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
