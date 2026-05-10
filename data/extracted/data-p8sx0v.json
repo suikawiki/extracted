@@ -12002,6 +12002,44 @@
    {
       "_" : [
          {
+            "page_id" : 48284
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "菩薩",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>菩薩\u003C/sw-ch>"
+         }
+      ],
+      "略字" : [
+         {
+            "text" : "𦬇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𦬇\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48284
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𦬇",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𦬇\u003C/sw-ch>"
+         }
+      ],
+      "略字" : [
+         {
+            "text" : "井",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>井\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
