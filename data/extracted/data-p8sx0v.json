@@ -27,17 +27,44 @@
       "字形類似" : [
          {
             "text" : "夕",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>夕\u003C/code>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夕\u003C/sw-ch>"
          },
          {
             "text" : "𫜵",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>𫜵\u003C/code>"
+            "xml" : "\u003CCG xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:10:\u0022>𫜵\u003C/CG>"
          }
       ],
       "文字" : [
          {
             "text" : "タ",
-            "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>タ\u003C/code>"
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>タ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 375
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "夕",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夕\u003C/sw-ch>"
+         }
+      ],
+      "類形異字" : [
+         {
+            "text" : "々",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>々\u003C/sw-ch>"
+         },
+         {
+            "text" : "夊",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夊\u003C/sw-ch>"
+         },
+         {
+            "text" : "夂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夂\u003C/sw-ch>"
          }
       ]
    },
@@ -12053,6 +12080,25 @@
          {
             "text" : "井",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>井\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48309
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "夂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夂\u003C/sw-ch>"
+         }
+      ],
+      "用法の異体字" : [
+         {
+            "text" : "終",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終\u003C/sw-ch>"
          }
       ]
    },
