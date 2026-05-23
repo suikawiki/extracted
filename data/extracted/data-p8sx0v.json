@@ -1050,6 +1050,10 @@
          {
             "text" : "○",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>○\u003C/sw-ch>"
+         },
+         {
+            "text" : "*",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>*\u003C/sw-ch>"
          }
       ],
       "文字" : [
@@ -5982,6 +5986,37 @@
          {
             "text" : "為",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>為\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 38103
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "β",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>β\u003C/sw-ch>"
+         },
+         {
+            "text" : "ſz",
+            "xml" : "\u003Csw-l xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ſz\u003C/sw-l>"
+         },
+         {
+            "text" : "sz",
+            "xml" : "\u003Csw-l xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>sz\u003C/sw-l>"
+         },
+         {
+            "text" : "ſʒ",
+            "xml" : "\u003Csw-l xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ſʒ\u003C/sw-l>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ß",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ß\u003C/sw-ch>"
          }
       ]
    },
@@ -12137,6 +12172,33 @@
          {
             "text" : "終",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>終\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48352
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ſ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ſ\u003C/sw-ch>"
+         },
+         {
+            "text" : "S",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>S\u003C/sw-ch>"
+         },
+         {
+            "text" : "f",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>f\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "∫",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>∫\u003C/sw-ch>"
          }
       ]
    },
