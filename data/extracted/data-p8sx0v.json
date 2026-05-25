@@ -5965,6 +5965,25 @@
    {
       "_" : [
          {
+            "page_id" : 37912
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "✓",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>✓\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "レ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>レ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 37967
          }
       ],
@@ -12205,6 +12224,25 @@
          {
             "text" : "∫",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>∫\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48355
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "助",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>助\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "肋",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>肋\u003C/sw-ch>"
          }
       ]
    },
