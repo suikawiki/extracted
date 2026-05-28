@@ -12314,6 +12314,25 @@
    {
       "_" : [
          {
+            "page_id" : 48376
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "泰",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>泰\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "太",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>太\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
