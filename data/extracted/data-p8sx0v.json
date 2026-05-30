@@ -5611,6 +5611,56 @@
    {
       "_" : [
          {
+            "page_id" : 37329
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "秦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>秦\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "泰",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>泰\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "太",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>太\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 37329
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "大",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>大\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "天",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>天\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "大",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>大\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 37510
          }
       ],
@@ -12327,25 +12377,6 @@
          {
             "text" : "肋",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>肋\u003C/sw-ch>"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
-            "page_id" : 48376
-         }
-      ],
-      "文字" : [
-         {
-            "text" : "泰",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>泰\u003C/sw-ch>"
-         }
-      ],
-      "関連" : [
-         {
-            "text" : "太",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>太\u003C/sw-ch>"
          }
       ]
    },
