@@ -6631,7 +6631,7 @@
          },
          {
             "text" : "年齢",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>年齢\u003C/sw-ch>"
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>年齢\u003C/anchor>"
          },
          {
             "text" : "齢",
@@ -6642,6 +6642,84 @@
          {
             "text" : "年",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>年\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "秊",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>秊\u003C/sw-ch>"
+         },
+         {
+            "text" : "䄵",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>䄵\u003C/sw-ch>"
+         },
+         {
+            "text" : "載",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>載\u003C/sw-ch>"
+         },
+         {
+            "text" : "歳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>歳\u003C/sw-ch>"
+         },
+         {
+            "text" : "𠡦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𠡦\u003C/sw-ch>"
+         },
+         {
+            "text" : "𠦚",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𠦚\u003C/sw-ch>"
+         },
+         {
+            "text" : "祀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>祀\u003C/sw-ch>"
+         },
+         {
+            "text" : "禩",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>禩\u003C/sw-ch>"
+         },
+         {
+            "text" : "穓",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>穓\u003C/sw-ch>"
+         },
+         {
+            "text" : "天",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>天\u003C/sw-ch>"
+         },
+         {
+            "text" : "𠀘",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𠀘\u003C/sw-ch>"
+         },
+         {
+            "text" : "暦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>暦\u003C/sw-ch>"
+         },
+         {
+            "text" : "歴",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>歴\u003C/sw-ch>"
+         },
+         {
+            "text" : "厂",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>厂\u003C/sw-ch>"
+         },
+         {
+            "text" : "稔",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>稔\u003C/sw-ch>"
+         },
+         {
+            "text" : "回紀",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>回紀\u003C/anchor>"
+         },
+         {
+            "text" : "天祀",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>天祀\u003C/anchor>"
+         },
+         {
+            "text" : "ねん",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ねん\u003C/anchor>"
+         },
+         {
+            "text" : "ネン",
+            "xml" : "\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ネン\u003C/anchor>"
          }
       ]
    },
@@ -12491,6 +12569,31 @@
          {
             "text" : "到",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>到\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48391
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "季",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>季\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "委",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>委\u003C/sw-ch>"
+         }
+      ],
+      "違う" : [
+         {
+            "text" : "𦈢",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𦈢\u003C/sw-ch>"
          }
       ]
    },
