@@ -2158,6 +2158,20 @@
             "text" : "え",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>え\u003C/sw-ch>"
          }
+      ],
+      "関連" : [
+         {
+            "text" : "江",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>江\u003C/sw-ch>"
+         },
+         {
+            "text" : "へ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>へ\u003C/sw-ch>"
+         },
+         {
+            "text" : "ゑ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ゑ\u003C/sw-ch>"
+         }
       ]
    },
    {
@@ -2188,6 +2202,12 @@
          {
             "text" : "エ",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>エ\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "ヱ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ヱ\u003C/sw-ch>"
          }
       ]
    },
