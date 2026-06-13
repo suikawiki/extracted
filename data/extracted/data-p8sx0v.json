@@ -5239,7 +5239,7 @@
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〱\u003C/sw-ch>"
          }
       ],
-      "関連" : [
+      "統合可能" : [
          {
             "text" : ":modmag-〱",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:modmag-〱\u003C/code>"
@@ -5268,7 +5268,7 @@
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>〲\u003C/sw-ch>"
          }
       ],
-      "関連" : [
+      "統合可能" : [
          {
             "text" : ":modmag-〲",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:modmag-〲\u003C/code>"
