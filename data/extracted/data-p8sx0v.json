@@ -2810,6 +2810,24 @@
             "text" : "死",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>死\u003C/sw-ch>"
          }
+      ],
+      "関連" : [
+         {
+            "text" : "亡",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亡\u003C/sw-ch>"
+         },
+         {
+            "text" : "崩",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>崩\u003C/sw-ch>"
+         },
+         {
+            "text" : "没",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>没\u003C/sw-ch>"
+         },
+         {
+            "text" : "逝",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>逝\u003C/sw-ch>"
+         }
       ]
    },
    {
@@ -12666,6 +12684,31 @@
          {
             "text" : "る",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>る\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48438
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "夸",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>夸\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "奈",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>奈\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "🍎",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🍎\u003C/sw-ch>"
          }
       ]
    },
