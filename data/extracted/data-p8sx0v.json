@@ -10257,6 +10257,12 @@
             "page_id" : 45617
          }
       ],
+      "代替表記" : [
+         {
+            "text" : "頃",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>頃\u003C/sw-ch>"
+         }
+      ],
       "同訓異字" : [
          {
             "text" : "演",
