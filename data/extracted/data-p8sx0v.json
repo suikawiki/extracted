@@ -12721,6 +12721,25 @@
    {
       "_" : [
          {
+            "page_id" : 48457
+         }
+      ],
+      "代用表記" : [
+         {
+            "text" : "壁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>壁\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "璧",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>璧\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
