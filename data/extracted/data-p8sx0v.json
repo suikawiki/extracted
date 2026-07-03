@@ -12759,6 +12759,29 @@
    {
       "_" : [
          {
+            "page_id" : 48495
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "𧮲",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𧮲\u003C/sw-ch>"
+         }
+      ],
+      "用法の異体字" : [
+         {
+            "text" : "睿",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>睿\u003C/sw-ch>"
+         },
+         {
+            "text" : "㕣",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>㕣\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
