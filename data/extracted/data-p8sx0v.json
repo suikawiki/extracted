@@ -5259,6 +5259,29 @@
             "page_id" : 33985
          }
       ],
+      "文字" : [
+         {
+            "text" : "み",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>み\u003C/sw-ch>"
+         }
+      ],
+      "違う" : [
+         {
+            "text" : "美",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>美\u003C/sw-ch>"
+         },
+         {
+            "text" : "𫟈",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𫟈\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 33985
+         }
+      ],
       "回転類似" : [
          {
             "text" : "三",
