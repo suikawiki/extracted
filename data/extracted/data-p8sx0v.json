@@ -5256,6 +5256,25 @@
    {
       "_" : [
          {
+            "page_id" : 33801
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "禄",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>禄\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "𥞾",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𥞾\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 33985
          }
       ],
