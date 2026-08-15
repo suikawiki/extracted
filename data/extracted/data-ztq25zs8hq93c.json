@@ -8166,6 +8166,25 @@
    {
       "_" : [
          {
+            "page_id" : 38992
+         }
+      ],
+      "desc" : [
+         {
+            "text" : "e漢字フォントでまったく同じ字形。",
+            "xml" : "\u000A\u003Ccite xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>e漢字\u003C/cite>フォントでまったく同じ\u003Canchor xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>字形\u003C/anchor>。"
+         }
+      ],
+      "key" : [
+         {
+            "text" : "ekanji:同字形",
+            "xml" : "\u003Cdfn xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Ccode>ekanji:同字形\u003C/code>\u003C/dfn>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 4317
          }
       ],
