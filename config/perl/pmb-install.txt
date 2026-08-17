@@ -7,7 +7,7 @@ Module::Runtime~0.018
 Path::Class~0.37
 Path::Tiny~0.150
 Scalar::Util~1.70
-Socket~2.041
+Socket~2.042
 Term::Table~0.028
 Test::Class~0.52
 Test::Differences~0.72
