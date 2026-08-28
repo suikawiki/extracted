@@ -13369,6 +13369,43 @@
    {
       "_" : [
          {
+            "page_id" : 48615
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "嘉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>嘉\u003C/sw-ch>"
+         }
+      ],
+      "通用" : [
+         {
+            "text" : "賀",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>賀\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "哿",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>哿\u003C/sw-ch>"
+         },
+         {
+            "text" : "加",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>加\u003C/sw-ch>"
+         },
+         {
+            "text" : "嘏",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>嘏\u003C/sw-ch>"
+         },
+         {
+            "text" : "假",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>假\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
