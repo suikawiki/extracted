@@ -12673,6 +12673,70 @@
             "text" : "享",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>享\u003C/sw-ch>"
          }
+      ],
+      "関連" : [
+         {
+            "text" : "亭",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亭\u003C/sw-ch>"
+         },
+         {
+            "text" : "京",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>京\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 47681
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "亨",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亨\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "享",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>享\u003C/sw-ch>"
+         },
+         {
+            "text" : "亭",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亭\u003C/sw-ch>"
+         },
+         {
+            "text" : "京",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>京\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 47681
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "亯",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亯\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "亨",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亨\u003C/sw-ch>"
+         },
+         {
+            "text" : "享",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>享\u003C/sw-ch>"
+         },
+         {
+            "text" : "烹",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>烹\u003C/sw-ch>"
+         }
       ]
    },
    {
