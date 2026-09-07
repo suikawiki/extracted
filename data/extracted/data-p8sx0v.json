@@ -9945,6 +9945,10 @@
          {
             "text" : "一白",
             "xml" : "\u003Csw-v xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>一白\u003C/sw-v>"
+         },
+         {
+            "text" : "面",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>面\u003C/sw-ch>"
          }
       ],
       "文字" : [
