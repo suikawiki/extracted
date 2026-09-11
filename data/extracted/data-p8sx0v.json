@@ -4592,6 +4592,31 @@
    {
       "_" : [
          {
+            "page_id" : 31612
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "德",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>德\u003C/sw-ch>"
+         }
+      ],
+      "異体字" : [
+         {
+            "text" : "悳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>悳\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "得",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>得\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 31644
          }
       ],
