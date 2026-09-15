@@ -12,5 +12,5 @@ Term::Table~0.028
 Test::Class~0.52
 Test::Differences~0.72
 Test::More~1.302225
-Text::Diff~1.45
+Text::Diff~1.46
 Try::Tiny~0.32
