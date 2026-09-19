@@ -11062,6 +11062,25 @@
    {
       "_" : [
          {
+            "page_id" : 45076
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "孝",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>孝\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "慶",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>慶\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45784
          }
       ],
