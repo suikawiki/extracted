@@ -13641,6 +13641,25 @@
    {
       "_" : [
          {
+            "page_id" : 48678
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "亙",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>亙\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "瓦",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>瓦\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 48083
          }
       ],
