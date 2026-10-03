@@ -1,5 +1,5 @@
 Algorithm::Diff~1.201
-AnyEvent~7.17
+AnyEvent::Util
 Capture::Tiny~0.50
 Carp~1.50
 MRO::Compat~0.15
@@ -10,7 +10,7 @@ Scalar::Util~1.70
 Socket~2.043
 Term::Table~0.028
 Test::Class~0.52
-Test::Differences~0.72
+Test::Differences~0.73
 Test::More~1.302225
 Text::Diff~1.46
 Try::Tiny~0.32

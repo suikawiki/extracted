@@ -6656,6 +6656,14 @@
          {
             "text" : "弟",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>弟\u003C/sw-ch>"
+         },
+         {
+            "text" : "予",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>予\u003C/sw-ch>"
+         },
+         {
+            "text" : "矛",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>矛\u003C/sw-ch>"
          }
       ],
       "文字" : [
