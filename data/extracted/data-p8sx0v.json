@@ -4776,6 +4776,44 @@
    {
       "_" : [
          {
+            "page_id" : 32642
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ⳝ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ⳝ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "σ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>σ\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 32642
+         }
+      ],
+      "反回転類似" : [
+         {
+            "text" : "ⳝ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ⳝ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "ς",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ς\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 32672
          }
       ],
@@ -5178,6 +5216,10 @@
          {
             "text" : "⨀",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>⨀\u003C/sw-ch>"
+         },
+         {
+            "text" : "☉",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>☉\u003C/sw-ch>"
          },
          {
             "text" : "⦿",
@@ -12496,6 +12538,25 @@
    {
       "_" : [
          {
+            "page_id" : 47481
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "ワ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ワ\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "門",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>門\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 47544
          }
       ],
@@ -13113,6 +13174,25 @@
          {
             "text" : ":cns13-79-74",
             "xml" : "\u003Ccode xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>:cns13-79-74\u003C/code>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48272
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "門",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>門\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "明",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>明\u003C/sw-ch>"
          }
       ]
    },
