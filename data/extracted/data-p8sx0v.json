@@ -335,6 +335,10 @@
          {
             "text" : "🌀",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>🌀\u003C/sw-ch>"
+         },
+         {
+            "text" : "©",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>©\u003C/sw-ch>"
          }
       ],
       "左右反転類似" : [
@@ -1778,25 +1782,6 @@
          {
             "text" : "?",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>?\u003C/sw-ch>"
-         }
-      ]
-   },
-   {
-      "_" : [
-         {
-            "page_id" : 2622
-         }
-      ],
-      "字形類似" : [
-         {
-            "text" : "𦂩",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𦂩\u003C/sw-ch>"
-         }
-      ],
-      "文字" : [
-         {
-            "text" : "縫",
-            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>縫\u003C/sw-ch>"
          }
       ]
    },
@@ -11448,6 +11433,25 @@
    {
       "_" : [
          {
+            "page_id" : 45954
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "冗",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>冗\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "贝",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>贝\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 45970
          }
       ],
@@ -13803,6 +13807,44 @@
          {
             "text" : "瓦",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>瓦\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48712
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "湿",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>湿\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "温",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>温\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48713
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "𦂩",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>𦂩\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "縫",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>縫\u003C/sw-ch>"
          }
       ]
    },
