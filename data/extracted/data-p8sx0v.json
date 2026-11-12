@@ -2956,6 +2956,41 @@
    {
       "_" : [
          {
+            "page_id" : 27995
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "草",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>草\u003C/sw-ch>"
+         }
+      ],
+      "関連" : [
+         {
+            "text" : "w",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>w\u003C/sw-ch>"
+         },
+         {
+            "text" : "W",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>W\u003C/sw-ch>"
+         },
+         {
+            "text" : "ʬ",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>ʬ\u003C/sw-ch>"
+         },
+         {
+            "text" : "笑",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>笑\u003C/sw-ch>"
+         },
+         {
+            "text" : "藁",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>藁\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
             "page_id" : 28122
          }
       ],
@@ -13962,6 +13997,25 @@
          {
             "text" : "運",
             "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>運\u003C/sw-ch>"
+         }
+      ]
+   },
+   {
+      "_" : [
+         {
+            "page_id" : 48773
+         }
+      ],
+      "字形類似" : [
+         {
+            "text" : "冰",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>冰\u003C/sw-ch>"
+         }
+      ],
+      "文字" : [
+         {
+            "text" : "泳",
+            "xml" : "\u003Csw-ch xmlns=\u0022urn:x-suika-fam-cx:markup:suikawiki:0:9:\u0022>泳\u003C/sw-ch>"
          }
       ]
    },
